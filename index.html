@@ -42,6 +42,13 @@
     .filter-label { font-size: 11px; color: var(--muted); font-weight: 500; min-width: 58px; }
     .filter-btn { border: 1px solid var(--border); background: white; padding: 4px 10px; border-radius: 12px; font-size: 12px; cursor: pointer; transition: all 0.15s; color: var(--text); }
     .filter-btn.active { background: var(--purple); color: white; border-color: var(--purple); }
+    .filter-btn[data-filter="recipient"][data-value="taylor"].active { background: #fde68a; color: #78350f; border-color: #78350f; }
+    .filter-btn[data-filter="recipient"][data-value="alexa"].active  { background: #bae6fd; color: #075985; border-color: #075985; }
+    .filter-btn[data-filter="recipient"][data-value="esther"].active { background: #fbcfe8; color: #9d174d; border-color: #9d174d; }
+    .filter-btn[data-filter="recipient"][data-value="other"].active  { background: #e5e7eb; color: #374151; border-color: #374151; }
+    .filter-btn[data-filter="vendor"][data-value="SW"].active  { background: #d1fae5; color: #065f46; border-color: #065f46; }
+    .filter-btn[data-filter="vendor"][data-value="DGJ"].active { background: #e0e7ff; color: #3730a3; border-color: #3730a3; }
+    .filter-btn[data-filter="vendor"][data-value="SS"].active  { background: #fce7f3; color: #831843; border-color: #831843; }
     .filter-btn:hover:not(.active) { border-color: var(--purple); color: var(--purple); }
     .summary-bar { padding: 8px 16px; font-size: 12px; color: var(--muted); background: var(--bg); }
     .pkg-list { padding: 0 12px 80px; }
