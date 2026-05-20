@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sample & Submit Tracker</title>
+  <style>
+    :root {
+      --bg: #f5f5f7;
+      --card: #ffffff;
+      --border: #e0e0e0;
+      --text: #1d1d1f;
+      --muted: #6e6e73;
+      --purple: #4d148c;
+      --purple-light: #f0e8ff;
+      --fedex-orange: #ff6200;
+      --status-onway: #e8f5e9;
+      --status-onway-text: #1b5e20;
+      --status-delivered: #e3f2fd;
+      --status-delivered-text: #0d47a1;
+      --status-label: #fff8e1;
+      --status-label-text: #f57f17;
+      --status-customs: #fce4ec;
+      --status-customs-text: #880e4f;
+      --tag-sample: #e8f5e9;
+      --tag-sample-text: #1b5e20;
+      --tag-submit: #e3f2fd;
+      --tag-submit-text: #0d47a1;
+      --tag-bulk: #fff8e1;
+      --tag-bulk-text: #f57f17;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: var(--bg); color: var(--text); font-size: 14px; }
+    .header { background: var(--purple); color: white; padding: 16px 20px; display: flex; align-items: center; justify-content: space-between; position: sticky; top: 0; z-index: 100; }
+    .header h1 { font-size: 17px; font-weight: 600; letter-spacing: -0.3px; }
+    .header-sub { font-size: 11px; opacity: 0.75; margin-top: 2px; }
+    .refresh-btn { background: rgba(255,255,255,0.15); border: 1px solid rgba(255,255,255,0.3); color: white; padding: 6px 12px; border-radius: 6px; cursor: pointer; font-size: 12px; }
+    .refresh-btn:hover { background: rgba(255,255,255,0.25); }
+    .filter-bar { background: var(--card); border-bottom: 1px solid var(--border); padding: 10px 16px; position: sticky; top: 57px; z-index: 99; }
+    .filter-section { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; margin-bottom: 6px; }
+    .filter-section:last-child { margin-bottom: 0; }
+    .filter-label { font-size: 11px; color: var(--muted); font-weight: 500; min-width: 58px; }
+    .filter-btn { border: 1px solid var(--border); background: white; padding: 4px 10px; border-radius: 12px; font-size: 12px; cursor: pointer; transition: all 0.15s; color: var(--text); }
+    .filter-btn.active { background: var(--purple); color: white; border-color: var(--purple); }
+    .filter-btn:hover:not(.active) { border-color: var(--purple); color: var(--purple); }
+    .summary-bar { padding: 8px 16px; font-size: 12px; color: var(--muted); background: var(--bg); }
+    .pkg-list { padding: 0 12px 80px; }
+    .group-divider { display: flex; align-items: center; gap: 10px; padding: 18px 4px 8px; font-size: 12px; font-weight: 600; color: var(--muted); text-transform: uppercase; letter-spacing: 0.5px; }
+    .group-divider .line { flex: 1; height: 1px; background: var(--border); }
+    .new-badge { background: var(--fedex-orange); color: white; font-size: 10px; font-weight: 700; padding: 1px 5px; border-radius: 3px; margin-left: 4px; }
+    .package { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 12px 14px; margin-bottom: 8px; }
+    .package.dup-companion { border-left: 3px solid var(--purple-light); }
+    .package.hidden { display: none; }
+    .pkg-row1 { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; margin-bottom: 5px; }
+    .carrier { font-size: 11px; font-weight: 700; color: var(--fedex-orange); background: #fff3e0; padding: 2px 6px; border-radius: 4px; }
+    .tracking a { font-family: monospace; font-size: 13px; font-weight: 600; color: var(--purple); text-decoration: none; }
+    .tracking a:hover { text-decoration: underline; }
+    .vendor-pill, .recipient-pill { font-size: 11px; padding: 2px 7px; border-radius: 10px; font-weight: 500; }
+    .vendor-pill { background: #f3e5f5; color: #6a1b9a; }
+    .recipient-pill { background: #e8eaf6; color: #283593; }
+    .status-pill { font-size: 11px; padding: 2px 8px; border-radius: 10px; font-weight: 600; margin-left: auto; }
+    .status-pill.onway { background: var(--status-onway); color: var(--status-onway-text); }
+    .status-pill.delivered { background: var(--status-delivered); color: var(--status-delivered-text); }
+    .status-pill.label { background: var(--status-label); color: var(--status-label-text); }
+    .status-pill.customs { background: var(--status-customs); color: var(--status-customs-text); }
+    .pkg-row2 { font-size: 12px; color: var(--muted); margin-bottom: 4px; line-height: 1.5; }
+    .sep { margin: 0 3px; }
+    .eta-line { font-size: 12px; color: var(--muted); margin-bottom: 6px; }
+    .eta-text { color: #1b5e20; font-weight: 600; }
+    .eta-tba { color: var(--muted); font-style: italic; }
+    .delivered-text { color: #0d47a1; font-weight: 600; }
+    .contents { margin-top: 6px; border-top: 1px solid var(--border); padding-top: 6px; }
+    .contents-label { font-size: 11px; font-weight: 600; color: var(--muted); margin-bottom: 4px; }
+    ul { padding-left: 18px; }
+    li { font-size: 12px; margin-bottom: 2px; line-height: 1.5; }
+    .item-tag { font-size: 10px; font-weight: 700; padding: 1px 5px; border-radius: 3px; margin-left: 4px; vertical-align: middle; }
+    .item-tag.sample { background: var(--tag-sample); color: var(--tag-sample-text); }
+    .item-tag.submit { background: var(--tag-submit); color: var(--tag-submit-text); }
+    .item-tag.bulk { background: var(--tag-bulk); color: var(--tag-bulk-text); }
+    .contents-note { margin-top: 6px; font-size: 12px; color: var(--muted); }
+    .archived-toggle { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 12px 16px; margin: 8px 0; cursor: pointer; display: flex; justify-content: space-between; align-items: center; font-size: 13px; font-weight: 600; color: var(--muted); }
+    .archived-toggle:hover { border-color: var(--purple); color: var(--purple); }
+    .archived-section { display: none; }
+    .archived-section.open { display: block; }
+    .footer { text-align: center; font-size: 11px; color: var(--muted); padding: 12px; }
+    .tip { color: var(--purple); font-weight: 600; }
+    .modal-overlay { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.5); z-index: 1000; align-items: center; justify-content: center; }
+    .modal-overlay.open { display: flex; }
+    .modal { background: white; border-radius: 12px; padding: 24px; max-width: 480px; width: 90%; }
+    .modal h3 { margin-bottom: 12px; }
+    .modal pre { background: var(--bg); padding: 12px; border-radius: 6px; font-size: 12px; white-space: pre-wrap; word-break: break-all; }
+    .modal-btns { display: flex; gap: 8px; margin-top: 16px; justify-content: flex-end; }
+    .btn { padding: 8px 16px; border-radius: 6px; border: none; cursor: pointer; font-size: 13px; font-weight: 600; }
+    .btn-primary { background: var(--purple); color: white; }
+    .btn-secondary { background: var(--bg); color: var(--text); border: 1px solid var(--border); }
+    #loadingMsg { text-align: center; padding: 40px; color: var(--muted); }
+  </style>
+</head>
+<body>
+
+<div class="header">
+  <div>
+    <div class="header h1" style="font-size:17px;font-weight:600;">📦 Sample &amp; Submit Tracker</div>
+    <div class="header-sub" id="lastUpdatedLabel">Loading...</div>
+  </div>
+  <button class="refresh-btn" id="refreshBtn">How to refresh ↗</button>
+</div>
+
+<div class="filter-bar">
+  <div class="filter-section" id="recipientFilters">
+    <span class="filter-label">Recipient</span>
+  </div>
+  <div class="filter-section" id="vendorFilters">
+    <span class="filter-label">Vendor</span>
+  </div>
+  <div class="filter-section" id="statusFilters">
+    <span class="filter-label">Status</span>
+  </div>
+</div>
+
+<div class="summary-bar" id="summary"></div>
+
+<div class="pkg-list" id="pkgList">
+  <div id="loadingMsg">Loading tracker data...</div>
+</div>
+
+<div class="footer" id="footer"></div>
+
+<div class="modal-overlay" id="refreshModal">
+  <div class="modal">
+    <h3>🔄 How this tracker refreshes</h3>
+    <p style="font-size:13px;color:#555;margin-bottom:12px;">This page updates automatically every day. To trigger a manual refresh, open Claude (Cowork) and paste this prompt:</p>
+    <pre id="refreshPrompt">Run the sample tracker refresh: check Slack for new packages and FedEx for status updates, then push the updated data.json to GitHub.</pre>
+    <div class="modal-btns">
+      <button class="btn btn-secondary" id="closeModalBtn">Close</button>
+      <button class="btn btn-primary" id="copyPromptBtn">Copy prompt</button>
+    </div>
+  </div>
+</div>
+
+<script>
+const FEDEX_BASE = 'https://www.fedex.com/fedextrack/?trknbr=';
+
+function statusClass(s) {
+  if (!s) return '';
+  if (s === 'onway') return 'onway';
+  if (s === 'delivered') return 'delivered';
+  if (s === 'label') return 'label';
+  if (s === 'customs') return 'customs';
+  return '';
+}
+
+function renderPackage(pkg) {
+  const dup = pkg.isDupCompanion ? ' dup-companion' : '';
+  let etaHtml = '';
+  if (pkg.etaType === 'delivered') {
+    etaHtml = `<div class="eta-line"><span class="delivered-text">${pkg.etaText}</span></div>`;
+  } else if (pkg.etaType === 'tba') {
+    etaHtml = `<div class="eta-line">ETA: <span class="eta-tba">${pkg.etaText}</span></div>`;
+  } else if (pkg.etaText) {
+    etaHtml = `<div class="eta-line">ETA: <span class="eta-text">${pkg.etaText}</span></div>`;
+  }
+
+  let itemsHtml = '';
+  if (pkg.items && pkg.items.length) {
+    const lis = pkg.items.map(item => {
+      const tags = (item.tags || []).map(t => `<span class="item-tag ${t.type}">${t.label}</span>`).join('');
+      return `<li>${escHtml(item.text)}${tags}</li>`;
+    }).join('');
+    itemsHtml = `<ul>${lis}</ul>`;
+  }
+
+  const noteHtml = pkg.note ? `<div class="contents-note">${escHtml(pkg.note)}</div>` : '';
+  const contentsHtml = (itemsHtml || noteHtml) ? `
+    <div class="contents">
+      <div class="contents-label">${escHtml(pkg.contentsLabel || 'Contents:')}</div>
+      ${itemsHtml}${noteHtml}
+    </div>` : '';
+
+  return `<div class="package${dup}" data-recipient="${pkg.recipient}" data-vendor="${pkg.vendor}" data-status="${pkg.status}">
+  <div class="pkg-row1">
+    <span class="carrier">${escHtml(pkg.carrier)}</span>
+    <span class="tracking"><a href="${FEDEX_BASE}${pkg.trackingNumber}" target="_blank">${escHtml(pkg.trackingNumber)}</a></span>
+    <span class="vendor-pill" data-vendor="${pkg.vendor}">${escHtml(pkg.vendorLabel)}</span>
+    <span class="recipient-pill" data-recipient="${pkg.recipient}">${escHtml(pkg.recipientLabel)}</span>
+    <span class="status-pill ${statusClass(pkg.status)}">${escHtml(pkg.statusLabel)}</span>
+  </div>
+  <div class="pkg-row2">${escHtml(pkg.routeText)}</div>
+  ${etaHtml}${contentsHtml}
+</div>`;
+}
+
+function escHtml(s) {
+  if (!s) return '';
+  return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+function renderGroup(g) {
+  const badge = g.isNew ? ' <span class="new-badge">NEW</span>' : '';
+  let html = `<div class="group-divider"><div class="line"></div><span>${escHtml(g.title)}${badge}</span><div class="line"></div></div>`;
+  html += g.packages.map(renderPackage).join('');
+  return html;
+}
+
+function buildFilters(groups) {
+  const recipients = new Set(), vendors = new Set(), statuses = new Set();
+  groups.forEach(g => g.packages.forEach(p => {
+    if (p.recipient) recipients.add(p.recipient);
+    if (p.vendor) vendors.add(p.vendor);
+    if (p.status) statuses.add(p.status);
+  }));
+
+  function makeButtons(containerId, type, values) {
+    const container = document.getElementById(containerId);
+    const allBtn = document.createElement('button');
+    allBtn.className = 'filter-btn active';
+    allBtn.dataset.filter = type;
+    allBtn.dataset.value = 'all';
+    allBtn.textContent = 'All';
+    container.appendChild(allBtn);
+    values.forEach(v => {
+      const btn = document.createElement('button');
+      btn.className = 'filter-btn active';
+      btn.dataset.filter = type;
+      btn.dataset.value = v;
+      // friendly labels
+      const labels = {esther:'Esther',alexa:'Alexa',taylor:'Taylor',grace:'Grace',other:'Other/Vendor'};
+      const statusLabels = {onway:'In Transit',delivered:'Delivered',label:'Label Created',customs:'Customs'};
+      btn.textContent = labels[v] || statusLabels[v] || v.toUpperCase();
+      container.appendChild(btn);
+    });
+  }
+
+  makeButtons('recipientFilters', 'recipient', [...recipients]);
+  makeButtons('vendorFilters', 'vendor', [...vendors]);
+  makeButtons('statusFilters', 'status', [...statuses]);
+
+  document.querySelectorAll('.filter-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const type = btn.dataset.filter;
+      const value = btn.dataset.value;
+      if (value === 'all') {
+        const all = [...document.querySelectorAll(`.filter-btn[data-filter="${type}"]`)];
+        const indiv = all.filter(b => b.dataset.value !== 'all');
+        const allActive = indiv.every(b => b.classList.contains('active'));
+        indiv.forEach(b => b.classList.toggle('active', !allActive));
+      } else {
+        btn.classList.toggle('active');
+      }
+      syncAllBtns(type);
+      applyFilters();
+    });
+  });
+}
+
+function syncAllBtns(type) {
+  const allBtn = document.querySelector(`.filter-btn[data-filter="${type}"][data-value="all"]`);
+  if (!allBtn) return;
+  const indiv = [...document.querySelectorAll(`.filter-btn[data-filter="${type}"]`)].filter(b => b.dataset.value !== 'all');
+  allBtn.classList.toggle('active', indiv.every(b => b.classList.contains('active')));
+}
+
+function applyFilters() {
+  const active = {};
+  ['recipient','vendor','status'].forEach(t => {
+    active[t] = new Set([...document.querySelectorAll(`.filter-btn[data-filter="${t}"].active`)].map(b => b.dataset.value).filter(v => v !== 'all'));
+  });
+  let shown = 0;
+  const pkgs = document.querySelectorAll('#pkgList .package');
+  pkgs.forEach(p => {
+    const match = ['recipient','vendor','status'].every(t => active[t].has(p.dataset[t]));
+    p.classList.toggle('hidden', !match);
+    if (match) shown++;
+  });
+  document.querySelectorAll('.group-divider').forEach(div => {
+    let next = div.nextElementSibling;
+    let hasVisible = false;
+    while (next && !next.classList.contains('group-divider')) {
+      if (next.classList.contains('package') && !next.classList.contains('hidden')) { hasVisible = true; break; }
+      next = next.nextElementSibling;
+    }
+    div.style.display = hasVisible ? '' : 'none';
+  });
+  const tip = shown === pkgs.length ? ' · <span class="tip">Tip: click multiple to combine</span>' : '';
+  document.getElementById('summary').innerHTML = `${shown} of ${pkgs.length} active packages shown${tip}`;
+}
+
+async function loadData() {
+  try {
+    const r = await fetch('data.json?t=' + Date.now());
+    const data = await r.json();
+
+    document.getElementById('lastUpdatedLabel').textContent = data.lastUpdated || '';
+    document.getElementById('footer').textContent = data.lastUpdated || '';
+
+    const list = document.getElementById('pkgList');
+    list.innerHTML = data.groups.map(renderGroup).join('');
+
+    // Archived
+    if (data.archivedGroups && data.archivedGroups.length) {
+      const count = data.archivedGroups.reduce((n, g) => n + g.packages.length, 0);
+      const toggle = document.createElement('div');
+      toggle.className = 'archived-toggle';
+      toggle.innerHTML = `<span>📁 Archived (${count} packages)</span><span>▸</span>`;
+      const section = document.createElement('div');
+      section.className = 'archived-section';
+      section.innerHTML = data.archivedGroups.map(renderGroup).join('');
+      toggle.addEventListener('click', () => {
+        section.classList.toggle('open');
+        toggle.querySelector('span:last-child').textContent = section.classList.contains('open') ? '▾' : '▸';
+      });
+      list.appendChild(toggle);
+      list.appendChild(section);
+    }
+
+    buildFilters(data.groups);
+    applyFilters();
+  } catch(e) {
+    document.getElementById('pkgList').innerHTML = `<div style="padding:20px;color:red;">Failed to load tracker data: ${e.message}</div>`;
+  }
+}
+
+document.getElementById('refreshBtn').addEventListener('click', () => {
+  document.getElementById('refreshModal').classList.add('open');
+});
+document.getElementById('closeModalBtn').addEventListener('click', () => {
+  document.getElementById('refreshModal').classList.remove('open');
+});
+document.getElementById('refreshModal').addEventListener('click', e => {
+  if (e.target === document.getElementById('refreshModal')) document.getElementById('refreshModal').classList.remove('open');
+});
+document.getElementById('copyPromptBtn').addEventListener('click', () => {
+  navigator.clipboard.writeText(document.getElementById('refreshPrompt').textContent.trim()).then(() => {
+    const btn = document.getElementById('copyPromptBtn');
+    btn.textContent = 'Copied ✓';
+    setTimeout(() => btn.textContent = 'Copy prompt', 1500);
+  });
+});
+
+loadData();
+</script>
+</body>
+</html>
