@@ -48,8 +48,11 @@
     .group-divider { display: flex; align-items: center; gap: 10px; padding: 18px 4px 8px; font-size: 12px; font-weight: 600; color: var(--muted); text-transform: uppercase; letter-spacing: 0.5px; }
     .group-divider .line { flex: 1; height: 1px; background: var(--border); }
     .new-badge { background: var(--fedex-orange); color: white; font-size: 10px; font-weight: 700; padding: 1px 5px; border-radius: 3px; margin-left: 4px; }
-    .package { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 12px 14px; margin-bottom: 8px; }
-    .package.dup-companion { border-left: 3px solid var(--purple-light); }
+    .package { background: var(--card); border: 1px solid var(--border); border-left: 6px solid #e5e7eb; border-radius: 10px; padding: 12px 14px; margin-bottom: 8px; }
+    .package[data-recipient="taylor"] { border-left-color: #f59e0b; background: linear-gradient(to right, #fef9c3 0%, var(--card) 8%); }
+    .package[data-recipient="alexa"]  { border-left-color: #0ea5e9; background: linear-gradient(to right, #e0f2fe 0%, var(--card) 8%); }
+    .package[data-recipient="esther"] { border-left-color: #ec4899; background: linear-gradient(to right, #fce7f3 0%, var(--card) 8%); }
+    .package.dup-companion { opacity: 0.85; }
     .package.hidden { display: none; }
     .pkg-row1 { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; margin-bottom: 5px; }
     .carrier { font-size: 11px; font-weight: 700; color: var(--fedex-orange); background: #fff3e0; padding: 2px 6px; border-radius: 4px; }
@@ -57,7 +60,13 @@
     .tracking a:hover { text-decoration: underline; }
     .vendor-pill, .recipient-pill { font-size: 11px; padding: 2px 7px; border-radius: 10px; font-weight: 500; }
     .vendor-pill { background: #f3e5f5; color: #6a1b9a; }
-    .recipient-pill { background: #e8eaf6; color: #283593; }
+    .vendor-pill[data-vendor="SW"]  { background: #d1fae5; color: #065f46; }
+    .vendor-pill[data-vendor="DGJ"] { background: #e0e7ff; color: #3730a3; }
+    .vendor-pill[data-vendor="SS"]  { background: #fce7f3; color: #831843; }
+    .recipient-pill { background: #e5e7eb; color: #374151; }
+    .recipient-pill[data-recipient="taylor"] { background: #fde68a; color: #78350f; }
+    .recipient-pill[data-recipient="alexa"]  { background: #bae6fd; color: #075985; }
+    .recipient-pill[data-recipient="esther"] { background: #fbcfe8; color: #9d174d; }
     .status-pill { font-size: 11px; padding: 2px 8px; border-radius: 10px; font-weight: 600; margin-left: auto; }
     .status-pill.onway { background: var(--status-onway); color: var(--status-onway-text); }
     .status-pill.delivered { background: var(--status-delivered); color: var(--status-delivered-text); }
