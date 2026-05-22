@@ -1,27 +1,28 @@
 {
-  "lastUpdated": "Last updated: May 21, 2026 at 10:16 AM PDT",
+  "lastUpdated": "Updated Fri, May 22 · 11:30 AM · 3 new SS packages, 5 archived",
   "groups": [
     {
-      "title": "Sunwin SW0070 Marshmallow — 2-way ship (May 20)",
+      "title": "SS-0003 Sportlite Reorder — marketing samples (May 21)",
       "isNew": true,
       "packages": [
         {
-          "recipient": "alexa",
-          "vendor": "SW",
+          "recipient": "other",
+          "vendor": "SS",
           "status": "onway",
           "isDupCompanion": false,
+          "isNew": true,
           "carrier": "FedEx",
-          "trackingNumber": "872019128509",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Alexa",
+          "trackingNumber": "872112497446",
+          "vendorLabel": "SS",
+          "recipientLabel": "Julia",
           "statusLabel": "On the way",
-          "routeText": "Shanghai → Denver, CO · Shipped 5/20/26 · \"Here for your tracking\" from Nicole, #sw-0070-marshmallow-on-the-go",
+          "routeText": "Dongguan → Costa Mesa, CA · Shipped 5/23/26 · From freya, #ss-0003-sportlite-reorder",
           "etaType": "tba",
           "etaText": "Will be updated soon",
-          "contentsLabel": "Contents (channel: SW0070 Marshmallow On The Go — full item list in 20260520.jpg attachment):",
+          "contentsLabel": "Contents:",
           "items": [
             {
-              "text": "SW0070 Marshmallow samples",
+              "text": "SS-0003 Sportlite Reorder, marketing samples",
               "tags": [
                 {
                   "type": "sample",
@@ -33,22 +34,23 @@
           "note": ""
         },
         {
-          "recipient": "esther",
-          "vendor": "SW",
+          "recipient": "other",
+          "vendor": "SS",
           "status": "onway",
           "isDupCompanion": true,
+          "isNew": true,
           "carrier": "FedEx",
-          "trackingNumber": "872018836646",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Esther",
+          "trackingNumber": "872112715992",
+          "vendorLabel": "SS",
+          "recipientLabel": "Alexandra",
           "statusLabel": "On the way",
-          "routeText": "Shanghai → El Cerrito, CA · Shipped 5/20/26 · \"Here for your tracking\" from Nicole, #sw-0070-marshmallow-on-the-go",
-          "etaType": "tba",
-          "etaText": "Will be updated soon",
-          "contentsLabel": "Contents (channel: SW0070 Marshmallow On The Go — full item list in 20260520.jpg attachment):",
+          "routeText": "Dongguan → Toronto, ON · Shipped 5/23/26 · From freya, #ss-0003-sportlite-reorder",
+          "etaType": "eta",
+          "etaText": "Wed, May 27, 5:00 PM",
+          "contentsLabel": "Contents:",
           "items": [
             {
-              "text": "SW0070 Marshmallow samples",
+              "text": "SS-0003 Sportlite Reorder, marketing samples",
               "tags": [
                 {
                   "type": "sample",
@@ -62,8 +64,104 @@
       ]
     },
     {
-      "title": "Sunwin \"Parcels on 20260519\" — 3-way ship (May 19) · Now delivered",
+      "title": "SS-0003 Sportlite Reorder — TOP sample Wine/Cherry/Iron (May 21)",
       "isNew": true,
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "SS",
+          "status": "onway",
+          "isDupCompanion": false,
+          "isNew": true,
+          "carrier": "FedEx",
+          "trackingNumber": "872112856517",
+          "vendorLabel": "SS",
+          "recipientLabel": "Alexa",
+          "statusLabel": "On the way",
+          "routeText": "Dongguan → Denver, CO · Shipped 5/23/26 · TOP sample in Wine/Cherry/Iron from freya, #ss-0003-sportlite-reorder",
+          "etaType": "tba",
+          "etaText": "Will be updated soon",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SS-0003 Sportlite Reorder, TOP sample in Wine/Cherry/Iron",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ]
+    },
+    {
+      "title": "Sunwin SW0070 Marshmallow — 2-way ship (May 20) · Now delivered",
+      "isNew": false,
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "872019128509",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → Denver, CO · Shipped 5/20/26 · \"Here for your tracking\" from Nicole, #sw-0070-marshmallow-on-the-go",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu, May 21, 9:53 AM",
+          "contentsLabel": "Contents (channel: SW0070 Marshmallow On The Go — full item list in 20260520.jpg attachment):",
+          "items": [
+            {
+              "text": "SW0070 Marshmallow samples",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "SAMPLE"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false
+        },
+        {
+          "recipient": "esther",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": true,
+          "carrier": "FedEx",
+          "trackingNumber": "872018836646",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Esther",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 5/20/26 · \"Here for your tracking\" from Nicole, #sw-0070-marshmallow-on-the-go",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu, May 21, 10:40 AM",
+          "contentsLabel": "Contents (channel: SW0070 Marshmallow On The Go — full item list in 20260520.jpg attachment):",
+          "items": [
+            {
+              "text": "SW0070 Marshmallow samples",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "SAMPLE"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false
+        }
+      ]
+    },
+    {
+      "title": "Sunwin \"Parcels on 20260519\" — 3-way ship (May 19) · Now delivered",
+      "isNew": false,
       "packages": [
         {
           "recipient": "alexa",
@@ -126,7 +224,8 @@
               ]
             }
           ],
-          "note": ""
+          "note": "",
+          "isNew": false
         },
         {
           "recipient": "taylor",
@@ -189,7 +288,8 @@
               ]
             }
           ],
-          "note": ""
+          "note": "",
+          "isNew": false
         },
         {
           "recipient": "other",
@@ -252,27 +352,28 @@
               ]
             }
           ],
-          "note": ""
+          "note": "",
+          "isNew": false
         }
       ]
     },
     {
       "title": "Sunwin SW0071 Pulse Sculpt Pant 2nd PP — Wendy logistics (May 19)",
-      "isNew": true,
+      "isNew": false,
       "packages": [
         {
           "recipient": "esther",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "871966511986",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Esther",
-          "statusLabel": "Out for delivery",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → El Cerrito, CA · Shipped 5/19/26 · From Wendy Wang, #sunwin-general thread",
-          "etaType": "text",
-          "etaText": "Today, May 20, 8:00 PM",
+          "etaType": "delivered",
+          "etaText": "Delivered Wed, May 20, 1:58 PM",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -285,27 +386,28 @@
               ]
             }
           ],
-          "note": "Wendy also flagged SW0081 FLOW CREW LONG SLEEVE P3 size S going to Alexa, Taylor, and Grace — but no FedEx tracking numbers were posted for those three (only Esther's package has an awb)."
+          "note": "Wendy also flagged SW0081 FLOW CREW LONG SLEEVE P3 size S going to Alexa, Taylor, and Grace — but no FedEx tracking numbers were posted for those three (only Esther's package has an awb).",
+          "isNew": false
         }
       ]
     },
     {
       "title": "Outbound to Sunwin — Cloud II Olive dip cutting (May 18)",
-      "isNew": true,
+      "isNew": false,
       "packages": [
         {
           "recipient": "other",
           "vendor": "SW",
-          "status": "label",
+          "status": "onway",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "871949555239",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Nicole (Shanghai)",
-          "statusLabel": "Label created",
+          "statusLabel": "International shipment release",
           "routeText": "Denver, CO → Shanghai · Label created 5/18/26 · Alexa → Nicole, #sunwin-general thread",
-          "etaType": "tba",
-          "etaText": "Will be updated soon",
+          "etaType": "eta",
+          "etaText": "Mon, May 25, 6:00 PM",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -318,27 +420,28 @@
               ]
             }
           ],
-          "note": ""
+          "note": "",
+          "isNew": false
         }
       ]
     },
     {
       "title": "Outbound — SS Cozy Winter to Xinhui (May 18)",
-      "isNew": true,
+      "isNew": false,
       "packages": [
         {
           "recipient": "other",
           "vendor": "SS",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "871935247052",
           "vendorLabel": "SS",
           "recipientLabel": "SS vendor (Xinhui)",
-          "statusLabel": "On the way · Intl release",
+          "statusLabel": "Delivered",
           "routeText": "Denver, CO → Xinhui, China · Shipped 5/18/26 · Alexa posted awb#, #ss-0004-cozy-winter",
-          "etaType": "text",
-          "etaText": "Thursday, May 21, 6:00 PM",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu, May 21, 11:40 AM",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -346,7 +449,8 @@
               "tags": []
             }
           ],
-          "note": ""
+          "note": "",
+          "isNew": false
         }
       ]
     },
@@ -415,7 +519,8 @@
               ]
             }
           ],
-          "note": ""
+          "note": "",
+          "isNew": false
         },
         {
           "recipient": "esther",
@@ -478,7 +583,8 @@
               ]
             }
           ],
-          "note": ""
+          "note": "",
+          "isNew": false
         }
       ]
     },
@@ -520,7 +626,8 @@
               ]
             }
           ],
-          "note": ""
+          "note": "",
+          "isNew": false
         },
         {
           "recipient": "taylor",
@@ -556,7 +663,8 @@
               ]
             }
           ],
-          "note": ""
+          "note": "",
+          "isNew": false
         },
         {
           "recipient": "other",
@@ -592,7 +700,8 @@
               ]
             }
           ],
-          "note": ""
+          "note": "",
+          "isNew": false
         }
       ]
     },
@@ -674,7 +783,8 @@
               ]
             }
           ],
-          "note": ""
+          "note": "",
+          "isNew": false
         },
         {
           "recipient": "esther",
@@ -750,7 +860,8 @@
               ]
             }
           ],
-          "note": ""
+          "note": "",
+          "isNew": false
         },
         {
           "recipient": "taylor",
@@ -826,103 +937,8 @@
               ]
             }
           ],
-          "note": ""
-        }
-      ]
-    },
-    {
-      "title": "Sunwin \"Parcels on 20260512\" — 3-way ship (May 12) · Now delivered",
-      "isNew": false,
-      "packages": [
-        {
-          "recipient": "alexa",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "871687664331",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Alexa",
-          "statusLabel": "Delivered",
-          "routeText": "Shanghai → Denver, CO · Shipped 5/12/26 · \"Parcels on 20260512\" from Cindy, #sunwin-general",
-          "etaType": "delivered",
-          "etaText": "Delivered Wed, May 13, 9:52 AM",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "SW0075 HOMEBODY drawcord — for color & quality approval",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            },
-            {
-              "text": "SW0064 BASIS U TANK PP samples, size S, two colors — Note: logo added at front under neck on color SNOW by mistake; bulk will follow NOCTURNE position. Confirm pilling on SNOW after wash.",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            }
-          ],
-          "note": ""
-        },
-        {
-          "recipient": "esther",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": true,
-          "carrier": "FedEx",
-          "trackingNumber": "871687688534",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Esther",
-          "statusLabel": "Delivered",
-          "routeText": "Shanghai → El Cerrito, CA · Shipped 5/12/26 · \"Parcels on 20260512\" from Cindy, #sunwin-general",
-          "etaType": "delivered",
-          "etaText": "Delivered Wed, May 13, 10:52 AM",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "SW0075 HOMEBODY drawcord — for color & quality approval",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            }
-          ],
-          "note": ""
-        },
-        {
-          "recipient": "other",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": true,
-          "carrier": "FedEx",
-          "trackingNumber": "871688850679",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Grace (San Francisco)",
-          "statusLabel": "Delivered",
-          "routeText": "Shanghai → San Francisco, CA · Shipped 5/12/26 · \"Parcels on 20260512\" from Cindy, #sunwin-general",
-          "etaType": "delivered",
-          "etaText": "Delivered Wed, May 13, 9:09 AM",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "SW0064 BASIS U TANK PP samples, size S, color NOCTURNE",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            }
-          ],
-          "note": ""
+          "note": "",
+          "isNew": false
         }
       ]
     },
@@ -939,7 +955,7 @@
           "trackingNumber": "871737695578",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Alexandra (Costa Mesa)",
-          "statusLabel": "Delivered · Multi-piece",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → Costa Mesa, CA · Shipped 5/13/26 · From Cindy, #sw-marketing-samples · cc Alexa",
           "etaType": "delivered",
           "etaText": "Delivered Mon, May 18, 10:14 AM",
@@ -982,7 +998,8 @@
               ]
             }
           ],
-          "note": ""
+          "note": "",
+          "isNew": false
         },
         {
           "recipient": "other",
@@ -1036,7 +1053,8 @@
               ]
             }
           ],
-          "note": ""
+          "note": "",
+          "isNew": false
         }
       ]
     },
@@ -1069,7 +1087,8 @@
               ]
             }
           ],
-          "note": "Attached in Slack: Commercial Invoice, FINAL PL SW0069, DN SW0069 PL3, payment list"
+          "note": "Attached in Slack: Commercial Invoice, FINAL PL SW0069, DN SW0069 PL3, payment list",
+          "isNew": false
         }
       ]
     },
@@ -1089,7 +1108,7 @@
           "statusLabel": "Delivered",
           "routeText": "Denver, CO → Shanghai · Shipped 5/14/26 · From Alexa, #sunwin-general thread",
           "etaType": "delivered",
-          "etaText": "Delivered Mon, May 18, 5:29 PM (Shanghai local time)",
+          "etaText": "Delivered Mon, May 18, 5:29 PM",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -1102,14 +1121,109 @@
               ]
             }
           ],
-          "note": ""
+          "note": "",
+          "isNew": false
         }
       ]
-    },
+    }
+  ],
+  "archivedGroups": [
     {
-      "title": "Earlier deliveries (within last 7 days)",
-      "isNew": false,
+      "title": "Archived — rolled 5/22/26",
       "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "871687664331",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → Denver, CO · Shipped 5/12/26 · \"Parcels on 20260512\" from Cindy, #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Wed, May 13, 9:52 AM",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0075 HOMEBODY drawcord — for color & quality approval",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "SW0064 BASIS U TANK PP samples, size S, two colors — Note: logo added at front under neck on color SNOW by mistake; bulk will follow NOCTURNE position. Confirm pilling on SNOW after wash.",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false
+        },
+        {
+          "recipient": "esther",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": true,
+          "carrier": "FedEx",
+          "trackingNumber": "871687688534",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Esther",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 5/12/26 · \"Parcels on 20260512\" from Cindy, #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Wed, May 13, 10:52 AM",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0075 HOMEBODY drawcord — for color & quality approval",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false
+        },
+        {
+          "recipient": "other",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": true,
+          "carrier": "FedEx",
+          "trackingNumber": "871688850679",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Grace (San Francisco)",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → San Francisco, CA · Shipped 5/12/26 · \"Parcels on 20260512\" from Cindy, #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Wed, May 13, 9:09 AM",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0064 BASIS U TANK PP samples, size S, color NOCTURNE",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false
+        },
         {
           "recipient": "taylor",
           "vendor": "SW",
@@ -1135,7 +1249,8 @@
               ]
             }
           ],
-          "note": ""
+          "note": "",
+          "isNew": false
         },
         {
           "recipient": "taylor",
@@ -1157,10 +1272,10 @@
               "tags": []
             }
           ],
-          "note": ""
+          "note": "",
+          "isNew": false
         }
       ]
     }
-  ],
-  "archivedGroups": []
+  ]
 }
