@@ -1,24 +1,394 @@
 {
-  "lastUpdated": "Updated Fri, May 22 · 11:30 AM · 3 new SS packages, 5 archived",
+  "lastUpdated": "Updated Tue, May 26 · VP Slack scan failed (page error) · 7 new SW packages, 5 groups archived",
   "groups": [
     {
-      "title": "SS-0003 Sportlite Reorder — marketing samples (May 21)",
+      "title": "Sunwin \"Parcels on 20260526\" — 4-way ship (May 26)",
       "isNew": true,
       "packages": [
         {
-          "recipient": "other",
-          "vendor": "SS",
+          "recipient": "alexa",
+          "vendor": "SW",
           "status": "onway",
           "isDupCompanion": false,
           "isNew": true,
           "carrier": "FedEx",
+          "trackingNumber": "872215370004",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "In Transit",
+          "etaType": "tba",
+          "etaText": "Will be updated soon",
+          "routeText": "Shanghai → Denver, CO · Shipped 5/26/26 · #sunwin-general",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "items": [
+            {
+              "text": "SW0084 PULSE HUE PANT & PULSE KEYHOLE TANK, proto samples, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "SW0080 & SW0077 bulk elastic tape quality & color approval",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "SW0075 HOMEBODY WOMEN'S TROUSER-SHORT & REGULAR, PP samples, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0059 CLOUD II OUTLINE PANT & VOLLEY SHORT, TOP samples, size S, two colors",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "SW0077 FLOAT BAND BRALETTE, proto sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "SW0073 BASIS CREW LONG SLEEVE, PP samples, sizes S/M",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0068 CLOUD II re-submitted washing panels (heavier wash effect)",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": true,
+          "isNew": true,
+          "carrier": "FedEx",
+          "trackingNumber": "872215821282",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Taylor",
+          "statusLabel": "In Transit",
+          "etaType": "tba",
+          "etaText": "Will be updated soon",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 5/26/26 · #sunwin-general",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "items": [
+            {
+              "text": "SW0084 PULSE HUE PANT & PULSE KEYHOLE TANK, proto samples, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "SW0075 HOMEBODY WOMEN'S TROUSER-SHORT & REGULAR, PP samples, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0077 FLOAT BAND BRALETTE, proto sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "SW0073 BASIS CREW LONG SLEEVE, PP samples, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "other",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": true,
+          "isNew": true,
+          "carrier": "FedEx",
+          "trackingNumber": "872215928945",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Grace",
+          "statusLabel": "In Transit",
+          "etaType": "tba",
+          "etaText": "Will be updated soon",
+          "routeText": "Shanghai → San Francisco, CA · Shipped 5/26/26 · #sunwin-general",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "items": [
+            {
+              "text": "SW0084 PULSE HUE PANT & PULSE KEYHOLE TANK, proto samples, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "SW0075 HOMEBODY WOMEN'S TROUSER-SHORT & REGULAR, PP samples, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0077 FLOAT BAND BRALETTE, proto sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "SW0073 BASIS CREW LONG SLEEVE, PP samples, sizes S/M",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "esther",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": true,
+          "isNew": true,
+          "carrier": "FedEx",
+          "trackingNumber": "872209892198",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Esther",
+          "statusLabel": "In Transit",
+          "etaType": "tba",
+          "etaText": "Will be updated soon",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 5/26/26 · #sunwin-general",
+          "contentsLabel": "Contents:",
+          "note": "Alexa requested re-route to Taylor (wash panels)",
+          "items": [
+            {
+              "text": "SW0080 & SW0077 bulk elastic tape quality & color approval",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "SW0068 CLOUD II re-submitted washing panels (heavier wash effect)",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sunwin \"Parcels on 20260522\" — 3-way ship (May 22) · Delivered today",
+      "isNew": true,
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "isNew": true,
+          "carrier": "FedEx",
+          "trackingNumber": "872117371272",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "Delivered",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon, May 26 · 12:43 PM",
+          "routeText": "Shanghai → Denver, CO · Shipped 5/22/26 · #sunwin-general",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "items": [
+            {
+              "text": "SW0065 DAYDREAM PANT, TOP samples, size S, 3 colors",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "SW0065 DAYDREAM GATHER LONGLINE, TOP samples, size S, 2 colors",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "SW0085 FLOW OPEN LONG SLEEVE, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0075 HOMEBODY WOMEN'S HOODIE, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": true,
+          "isNew": true,
+          "carrier": "FedEx",
+          "trackingNumber": "872117440574",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Taylor",
+          "statusLabel": "Delivered",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon, May 26 · 10:46 AM",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 5/22/26 · #sunwin-general",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "items": [
+            {
+              "text": "SW0085 FLOW OPEN LONG SLEEVE, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0075 HOMEBODY WOMEN'S HOODIE, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "other",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": true,
+          "isNew": true,
+          "carrier": "FedEx",
+          "trackingNumber": "872117487480",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Grace",
+          "statusLabel": "Delivered",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon, May 26 · 9:12 AM",
+          "routeText": "Shanghai → San Francisco, CA · Shipped 5/22/26 · #sunwin-general",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "items": [
+            {
+              "text": "SW0085 FLOW OPEN LONG SLEEVE, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0075 HOMEBODY WOMEN'S HOODIE, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "SS-0003 Sportlite Reorder — marketing samples (May 21)",
+      "isNew": false,
+      "packages": [
+        {
+          "recipient": "other",
+          "vendor": "SS",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "isNew": false,
+          "carrier": "FedEx",
           "trackingNumber": "872112497446",
           "vendorLabel": "SS",
           "recipientLabel": "Julia",
-          "statusLabel": "On the way",
+          "statusLabel": "Delivered",
           "routeText": "Dongguan → Costa Mesa, CA · Shipped 5/23/26 · From freya, #ss-0003-sportlite-reorder",
-          "etaType": "tba",
-          "etaText": "Will be updated soon",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon, May 26 · 9:48 AM",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -38,15 +408,15 @@
           "vendor": "SS",
           "status": "onway",
           "isDupCompanion": true,
-          "isNew": true,
+          "isNew": false,
           "carrier": "FedEx",
           "trackingNumber": "872112715992",
           "vendorLabel": "SS",
           "recipientLabel": "Alexandra",
-          "statusLabel": "On the way",
+          "statusLabel": "In Transit",
           "routeText": "Dongguan → Toronto, ON · Shipped 5/23/26 · From freya, #ss-0003-sportlite-reorder",
           "etaType": "eta",
-          "etaText": "Wed, May 27, 5:00 PM",
+          "etaText": "Wed, May 27",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -65,22 +435,22 @@
     },
     {
       "title": "SS-0003 Sportlite Reorder — TOP sample Wine/Cherry/Iron (May 21)",
-      "isNew": true,
+      "isNew": false,
       "packages": [
         {
           "recipient": "alexa",
           "vendor": "SS",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
-          "isNew": true,
+          "isNew": false,
           "carrier": "FedEx",
           "trackingNumber": "872112856517",
           "vendorLabel": "SS",
           "recipientLabel": "Alexa",
-          "statusLabel": "On the way",
+          "statusLabel": "Delivered",
           "routeText": "Dongguan → Denver, CO · Shipped 5/23/26 · TOP sample in Wine/Cherry/Iron from freya, #ss-0003-sportlite-reorder",
-          "etaType": "tba",
-          "etaText": "Will be updated soon",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon, May 26 · 12:43 PM",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -113,7 +483,7 @@
           "statusLabel": "Delivered",
           "routeText": "Shanghai → Denver, CO · Shipped 5/20/26 · \"Here for your tracking\" from Nicole, #sw-0070-marshmallow-on-the-go",
           "etaType": "delivered",
-          "etaText": "Delivered Thu, May 21, 9:53 AM",
+          "etaText": "Delivered Thu, May 21 · 9:53 AM",
           "contentsLabel": "Contents (channel: SW0070 Marshmallow On The Go — full item list in 20260520.jpg attachment):",
           "items": [
             {
@@ -141,7 +511,7 @@
           "statusLabel": "Delivered",
           "routeText": "Shanghai → El Cerrito, CA · Shipped 5/20/26 · \"Here for your tracking\" from Nicole, #sw-0070-marshmallow-on-the-go",
           "etaType": "delivered",
-          "etaText": "Delivered Thu, May 21, 10:40 AM",
+          "etaText": "Delivered Thu, May 21 · 10:40 AM",
           "contentsLabel": "Contents (channel: SW0070 Marshmallow On The Go — full item list in 20260520.jpg attachment):",
           "items": [
             {
@@ -175,7 +545,7 @@
           "statusLabel": "Delivered",
           "routeText": "Shanghai → Denver, CO · Shipped 5/19/26 · \"Parcels on 20260519\" from Cindy, #sunwin-general",
           "etaType": "delivered",
-          "etaText": "Delivered Wed, May 20, 11:06 AM",
+          "etaText": "Delivered Wed, May 20 · 11:06 AM",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -239,7 +609,7 @@
           "statusLabel": "Delivered",
           "routeText": "Shanghai → Castle Rock, CO · Shipped 5/19/26 · \"Parcels on 20260519\" from Cindy, #sunwin-general",
           "etaType": "delivered",
-          "etaText": "Delivered Wed, May 20, 11:15 AM",
+          "etaText": "Delivered Wed, May 20 · 11:15 AM",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -303,7 +673,7 @@
           "statusLabel": "Delivered",
           "routeText": "Shanghai → San Francisco, CA · Shipped 5/19/26 · \"Parcels on 20260519\" from Cindy, #sunwin-general",
           "etaType": "delivered",
-          "etaText": "Delivered Wed, May 20, 9:39 AM",
+          "etaText": "Delivered Wed, May 20 · 9:39 AM",
           "contentsLabel": "Contents (same as Taylor's):",
           "items": [
             {
@@ -373,7 +743,7 @@
           "statusLabel": "Delivered",
           "routeText": "Shanghai → El Cerrito, CA · Shipped 5/19/26 · From Wendy Wang, #sunwin-general thread",
           "etaType": "delivered",
-          "etaText": "Delivered Wed, May 20, 1:58 PM",
+          "etaText": "Delivered Wed, May 20 · 1:58 PM",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -398,16 +768,16 @@
         {
           "recipient": "other",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "871949555239",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Nicole (Shanghai)",
-          "statusLabel": "International shipment release",
+          "statusLabel": "Delivered",
           "routeText": "Denver, CO → Shanghai · Label created 5/18/26 · Alexa → Nicole, #sunwin-general thread",
-          "etaType": "eta",
-          "etaText": "Mon, May 25, 6:00 PM",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon, May 25 · 11:09 AM",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -441,7 +811,7 @@
           "statusLabel": "Delivered",
           "routeText": "Denver, CO → Xinhui, China · Shipped 5/18/26 · Alexa posted awb#, #ss-0004-cozy-winter",
           "etaType": "delivered",
-          "etaText": "Delivered Thu, May 21, 11:40 AM",
+          "etaText": "Delivered Thu, May 21 · 11:40 AM",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -470,7 +840,7 @@
           "statusLabel": "Delivered",
           "routeText": "Shanghai → Denver, CO · Shipped 5/18/26 · \"Parcels on 20260518\" from Nicole, #sunwin-general",
           "etaType": "delivered",
-          "etaText": "Delivered Tue, May 19, 9:22 AM",
+          "etaText": "Delivered Tue, May 19 · 9:22 AM",
           "contentsLabel": "Contents (both packages share this list — Nicole's note lists items once):",
           "items": [
             {
@@ -534,7 +904,7 @@
           "statusLabel": "Delivered",
           "routeText": "Shanghai → El Cerrito, CA · Shipped 5/18/26 · \"Parcels on 20260518\" from Nicole, #sunwin-general",
           "etaType": "delivered",
-          "etaText": "Delivered Tue, May 19, 10:53 AM",
+          "etaText": "Delivered Tue, May 19 · 10:53 AM",
           "contentsLabel": "Contents (companion to Alexa's package — same items list):",
           "items": [
             {
@@ -587,10 +957,11 @@
           "isNew": false
         }
       ]
-    },
+    }
+  ],
+  "archivedGroups": [
     {
-      "title": "Sunwin \"Parcels on 20260514\" — 3-way ship (May 14) · Now delivered",
-      "isNew": false,
+      "title": "Archived — rolled 5/26/26",
       "packages": [
         {
           "recipient": "alexa",
@@ -702,13 +1073,7 @@
           ],
           "note": "",
           "isNew": false
-        }
-      ]
-    },
-    {
-      "title": "DGJ Cherry Print PP — 3-way ship (May 12) · Now delivered",
-      "isNew": false,
-      "packages": [
+        },
         {
           "recipient": "alexa",
           "vendor": "DGJ",
@@ -939,13 +1304,7 @@
           ],
           "note": "",
           "isNew": false
-        }
-      ]
-    },
-    {
-      "title": "Sunwin SW0069/63/59/74 Marketing Bulks — 2 pieces (May 13) · Now delivered",
-      "isNew": false,
-      "packages": [
+        },
         {
           "recipient": "other",
           "vendor": "SW",
@@ -1055,13 +1414,7 @@
           ],
           "note": "",
           "isNew": false
-        }
-      ]
-    },
-    {
-      "title": "Sunwin SW0069 Headband bulk — warehouse (May 13) · Now delivered",
-      "isNew": false,
-      "packages": [
+        },
         {
           "recipient": "other",
           "vendor": "SW",
@@ -1089,13 +1442,7 @@
           ],
           "note": "Attached in Slack: Commercial Invoice, FINAL PL SW0069, DN SW0069 PL3, payment list",
           "isNew": false
-        }
-      ]
-    },
-    {
-      "title": "Outbound to Sunwin (May 14) · Now delivered",
-      "isNew": false,
-      "packages": [
+        },
         {
           "recipient": "other",
           "vendor": "SW",
@@ -1125,9 +1472,7 @@
           "isNew": false
         }
       ]
-    }
-  ],
-  "archivedGroups": [
+    },
     {
       "title": "Archived — rolled 5/22/26",
       "packages": [
