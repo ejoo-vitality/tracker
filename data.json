@@ -1,6 +1,68 @@
 {
-  "lastUpdated": "Updated Wed, May 27 · 9:26 AM · 5 new packages (3 DGJ, 1 SS bulk, 1 DGJ bulk SO), 2 archived",
+  "lastUpdated": "Updated Wed, May 27 · 9:54 AM · Added 2 trims/materials packages from email (Sunwin + Hangzhou Realever)",
   "groups": [
+    {
+      "title": "Trims & Materials — Esther, El Cerrito (May 22)",
+      "isNew": true,
+      "packages": [
+        {
+          "recipient": "esther",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "isNew": true,
+          "carrier": "FedEx",
+          "trackingNumber": "872113306011",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Esther",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 5/22/26 · FedEx notification email (Shanghai Alltex Technology)",
+          "etaType": "delivered",
+          "etaText": "Delivered Sat, May 23 · 10:04 AM",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "items": [
+            {
+              "text": "Trims / materials from Sunwin (Shanghai Alltex Technology Co.) — contents TBD",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "esther",
+          "vendor": "RLVR",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "isNew": true,
+          "carrier": "FedEx",
+          "trackingNumber": "872109554597",
+          "vendorLabel": "Hangzhou Realever",
+          "recipientLabel": "Esther",
+          "statusLabel": "Delivered",
+          "routeText": "Hangzhou → El Cerrito, CA · Shipped 5/22/26 · FedEx notification email (Hangzhou Realever Textiles)",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon, May 26 · 9:57 AM",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "items": [
+            {
+              "text": "Trims / materials from Hangzhou Realever Textiles — contents TBD",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "title": "SS-0003 Sportlite Reorder — bulk part 2 (May 24)",
       "isNew": true,
