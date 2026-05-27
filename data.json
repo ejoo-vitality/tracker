@@ -1,42 +1,8 @@
 {
-  "lastUpdated": "Updated Wed, May 27 · 2 new packages · 1 group archived (2 pkgs)",
+  "lastUpdated": "Updated Wed, May 27 · 9:26 AM · 5 new packages (3 DGJ, 1 SS bulk, 1 DGJ bulk SO), 2 archived",
   "groups": [
     {
-      "title": "Sunwin submissions — Nicole (May 22)",
-      "isNew": true,
-      "packages": [
-        {
-          "recipient": "alexa",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "isNew": true,
-          "carrier": "FedEx",
-          "trackingNumber": "872113306011",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Alexa",
-          "statusLabel": "Delivered",
-          "etaType": "delivered",
-          "etaText": "Sat, May 23 · 10:04 AM",
-          "routeText": "Shanghai → El Cerrito, CA · Shipped 5/22/26 · #sunwin-general",
-          "contentsLabel": "Contents:",
-          "note": "",
-          "items": [
-            {
-              "text": "Lab dip / trim submissions (see packing slip 20260522.jpg)",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "SS-0003 Sportlite Reorder — bulk PL 3 (May 24)",
+      "title": "SS-0003 Sportlite Reorder — bulk part 2 (May 24)",
       "isNew": true,
       "packages": [
         {
@@ -48,16 +14,16 @@
           "carrier": "FedEx",
           "trackingNumber": "872155851919",
           "vendorLabel": "SS",
-          "recipientLabel": "Other",
+          "recipientLabel": "Audra",
           "statusLabel": "Label Created",
+          "routeText": "City of Industry, CA → American Fork, UT · SS-0003 bulk part 2 · #ss-0003-sportlite-reorder",
           "etaType": "tba",
           "etaText": "Will be updated soon",
-          "routeText": "City of Industry, CA → American Fork, UT · #ss-0003-sportlite-reorder",
           "contentsLabel": "Contents:",
-          "note": "Multi-piece master",
+          "note": "",
           "items": [
             {
-              "text": "SS0003 SPORTLITE REORDER — Bulk PL 3",
+              "text": "SS-0003 SPORTLITE REORDER bulk shipment (part 2)",
               "tags": [
                 {
                   "type": "bulk",
@@ -70,8 +36,276 @@
       ]
     },
     {
-      "title": "Sunwin \"Parcels on 20260526\" — 4-way ship (May 26)",
+      "title": "DGJ0105 Fall Romance Cloud Sweaters — PP sample + bulk SO (May 25)",
       "isNew": true,
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "DGJ",
+          "status": "onway",
+          "isDupCompanion": false,
+          "isNew": true,
+          "carrier": "FedEx",
+          "trackingNumber": "872151651528",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Alexa",
+          "statusLabel": "Out for Delivery",
+          "routeText": "Dongguan → Denver, CO · Shipped 5/25/26 · #dgj-0105-fall-romance-cloud-sweaters",
+          "etaType": "eta",
+          "etaText": "Today, May 27",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "items": [
+            {
+              "text": "DGJ0105 OVERCAST bulk SO (color approval)",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0100 ROSE QUARTZ PP samples",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "DGJ0118 Cloud Spring — 3-way ship (May 27)",
+      "isNew": true,
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "DGJ",
+          "status": "onway",
+          "isDupCompanion": false,
+          "isNew": true,
+          "carrier": "FedEx",
+          "trackingNumber": "872211642544",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Alexa",
+          "statusLabel": "In Transit",
+          "routeText": "Dongguan → Denver, CO · Shipped 5/27/26 · #dgj-0118-cloud-spring",
+          "etaType": "eta",
+          "etaText": "Fri, May 29",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "items": [
+            {
+              "text": "DGJ0118 VETIVER CLOUD II V BRA, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0118 VETIVER CLOUD II V TANK, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0118 CLOUD II V PLUNGE BRA, P1 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0118 CLOUD II CONTOUR BRA, P1 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0118 CLOUD II SPLIT BRA, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0118 CLOUD II SINGLE TANK, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "other",
+          "vendor": "DGJ",
+          "status": "onway",
+          "isDupCompanion": true,
+          "isNew": true,
+          "carrier": "FedEx",
+          "trackingNumber": "872211788045",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Grace",
+          "statusLabel": "In Transit",
+          "routeText": "Dongguan → San Francisco, CA · Shipped 5/27/26 · #dgj-0118-cloud-spring",
+          "etaType": "tba",
+          "etaText": "Will be updated soon",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "items": [
+            {
+              "text": "DGJ0118 VETIVER CLOUD II V BRA, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0118 VETIVER CLOUD II V TANK, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0118 CLOUD II V PLUNGE BRA, P1 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0118 CLOUD II CONTOUR BRA, P1 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0118 CLOUD II SPLIT BRA, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0118 CLOUD II SINGLE TANK, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "DGJ",
+          "status": "onway",
+          "isDupCompanion": true,
+          "isNew": true,
+          "carrier": "FedEx",
+          "trackingNumber": "872211942690",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Taylor",
+          "statusLabel": "In Transit",
+          "routeText": "Dongguan → Castle Rock, CO · Shipped 5/27/26 · #dgj-0118-cloud-spring",
+          "etaType": "tba",
+          "etaText": "Will be updated soon",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "items": [
+            {
+              "text": "DGJ0118 VETIVER CLOUD II V BRA, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0118 VETIVER CLOUD II V TANK, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0118 CLOUD II V PLUNGE BRA, P1 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0118 CLOUD II CONTOUR BRA, P1 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0118 CLOUD II SPLIT BRA, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0118 CLOUD II SINGLE TANK, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sunwin \"Parcels on 20260526\" — 4-way ship (May 26)",
+      "isNew": false,
       "packages": [
         {
           "recipient": "alexa",
@@ -275,9 +509,9 @@
           "trackingNumber": "872209892198",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Esther",
-          "statusLabel": "In Transit",
+          "statusLabel": "Out for Delivery",
           "etaType": "eta",
-          "etaText": "Today by 8:00 PM",
+          "etaText": "Today, May 27",
           "routeText": "Shanghai → El Cerrito, CA · Shipped 5/26/26 · #sunwin-general",
           "contentsLabel": "Contents:",
           "note": "Alexa requested re-route to Taylor (wash panels)",
@@ -305,8 +539,8 @@
       ]
     },
     {
-      "title": "Sunwin \"Parcels on 20260522\" — 3-way ship (May 22) · Delivered today",
-      "isNew": true,
+      "title": "Sunwin \"Parcels on 20260522\" — 3-way ship (May 22) · Delivered Mon, May 26",
+      "isNew": false,
       "packages": [
         {
           "recipient": "alexa",
@@ -320,7 +554,7 @@
           "recipientLabel": "Alexa",
           "statusLabel": "Delivered",
           "etaType": "delivered",
-          "etaText": "Mon, May 26 · 12:43 PM",
+          "etaText": "Delivered Mon, May 26 · 12:43 PM",
           "routeText": "Shanghai → Denver, CO · Shipped 5/22/26 · #sunwin-general",
           "contentsLabel": "Contents:",
           "note": "",
@@ -375,7 +609,7 @@
           "recipientLabel": "Taylor",
           "statusLabel": "Delivered",
           "etaType": "delivered",
-          "etaText": "Mon, May 26 · 10:46 AM",
+          "etaText": "Delivered Mon, May 26 · 10:46 AM",
           "routeText": "Shanghai → Castle Rock, CO · Shipped 5/22/26 · #sunwin-general",
           "contentsLabel": "Contents:",
           "note": "",
@@ -412,7 +646,7 @@
           "recipientLabel": "Grace",
           "statusLabel": "Delivered",
           "etaType": "delivered",
-          "etaText": "Mon, May 26 · 9:12 AM",
+          "etaText": "Delivered Mon, May 26 · 9:12 AM",
           "routeText": "Shanghai → San Francisco, CA · Shipped 5/22/26 · #sunwin-general",
           "contentsLabel": "Contents:",
           "note": "",
@@ -456,7 +690,7 @@
           "statusLabel": "Delivered",
           "routeText": "Dongguan → Costa Mesa, CA · Shipped 5/23/26 · From freya, #ss-0003-sportlite-reorder",
           "etaType": "delivered",
-          "etaText": "Mon, May 26 · 9:48 AM",
+          "etaText": "Delivered Mon, May 26 · 9:48 AM",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -481,10 +715,10 @@
           "trackingNumber": "872112715992",
           "vendorLabel": "SS",
           "recipientLabel": "Alexandra",
-          "statusLabel": "In Transit",
-          "routeText": "Dongguan → Toronto, ON · Shipped 5/23/26 · #ss-0003-sportlite-reorder",
+          "statusLabel": "Out for Delivery",
+          "routeText": "Dongguan → Toronto, ON · Shipped 5/23/26 · From freya, #ss-0003-sportlite-reorder",
           "etaType": "eta",
-          "etaText": "Today by 5:00 PM",
+          "etaText": "Today, May 27",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -518,7 +752,7 @@
           "statusLabel": "Delivered",
           "routeText": "Dongguan → Denver, CO · Shipped 5/23/26 · TOP sample in Wine/Cherry/Iron from freya, #ss-0003-sportlite-reorder",
           "etaType": "delivered",
-          "etaText": "Mon, May 26 · 12:43 PM",
+          "etaText": "Delivered Mon, May 26 · 12:43 PM",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -551,7 +785,7 @@
           "statusLabel": "Delivered",
           "routeText": "Shanghai → Denver, CO · Shipped 5/20/26 · \"Here for your tracking\" from Nicole, #sw-0070-marshmallow-on-the-go",
           "etaType": "delivered",
-          "etaText": "Thu, May 21 · 9:53 AM",
+          "etaText": "Delivered Thu, May 21 · 9:53 AM",
           "contentsLabel": "Contents (channel: SW0070 Marshmallow On The Go — full item list in 20260520.jpg attachment):",
           "items": [
             {
@@ -579,7 +813,7 @@
           "statusLabel": "Delivered",
           "routeText": "Shanghai → El Cerrito, CA · Shipped 5/20/26 · \"Here for your tracking\" from Nicole, #sw-0070-marshmallow-on-the-go",
           "etaType": "delivered",
-          "etaText": "Thu, May 21 · 10:40 AM",
+          "etaText": "Delivered Thu, May 21 · 10:40 AM",
           "contentsLabel": "Contents (channel: SW0070 Marshmallow On The Go — full item list in 20260520.jpg attachment):",
           "items": [
             {
@@ -613,7 +847,7 @@
           "statusLabel": "Delivered",
           "routeText": "Shanghai → Denver, CO · Shipped 5/19/26 · \"Parcels on 20260519\" from Cindy, #sunwin-general",
           "etaType": "delivered",
-          "etaText": "Wed, May 20 · 11:06 AM",
+          "etaText": "Delivered Wed, May 20 · 11:06 AM",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -677,7 +911,7 @@
           "statusLabel": "Delivered",
           "routeText": "Shanghai → Castle Rock, CO · Shipped 5/19/26 · \"Parcels on 20260519\" from Cindy, #sunwin-general",
           "etaType": "delivered",
-          "etaText": "Wed, May 20 · 11:15 AM",
+          "etaText": "Delivered Wed, May 20 · 11:15 AM",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -741,7 +975,7 @@
           "statusLabel": "Delivered",
           "routeText": "Shanghai → San Francisco, CA · Shipped 5/19/26 · \"Parcels on 20260519\" from Cindy, #sunwin-general",
           "etaType": "delivered",
-          "etaText": "Wed, May 20 · 9:39 AM",
+          "etaText": "Delivered Wed, May 20 · 9:39 AM",
           "contentsLabel": "Contents (same as Taylor's):",
           "items": [
             {
@@ -811,7 +1045,7 @@
           "statusLabel": "Delivered",
           "routeText": "Shanghai → El Cerrito, CA · Shipped 5/19/26 · From Wendy Wang, #sunwin-general thread",
           "etaType": "delivered",
-          "etaText": "Wed, May 20 · 1:58 PM",
+          "etaText": "Delivered Wed, May 20 · 1:58 PM",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -845,7 +1079,7 @@
           "statusLabel": "Delivered",
           "routeText": "Denver, CO → Shanghai · Label created 5/18/26 · Alexa → Nicole, #sunwin-general thread",
           "etaType": "delivered",
-          "etaText": "Mon, May 25 · 11:09 AM",
+          "etaText": "Delivered Mon, May 25 · 11:09 AM",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -879,7 +1113,7 @@
           "statusLabel": "Delivered",
           "routeText": "Denver, CO → Xinhui, China · Shipped 5/18/26 · Alexa posted awb#, #ss-0004-cozy-winter",
           "etaType": "delivered",
-          "etaText": "Thu, May 21 · 11:40 AM",
+          "etaText": "Delivered Thu, May 21 · 11:40 AM",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -1571,7 +1805,7 @@
           "statusLabel": "Delivered",
           "routeText": "Shanghai → Denver, CO · Shipped 5/18/26 · \"Parcels on 20260518\" from Nicole, #sunwin-general",
           "etaType": "delivered",
-          "etaText": "Mon, May 19 · 9:22 AM",
+          "etaText": "Delivered Tue, May 19 · 9:22 AM",
           "contentsLabel": "Contents (both packages share this list — Nicole's note lists items once):",
           "items": [
             {
@@ -1635,7 +1869,7 @@
           "statusLabel": "Delivered",
           "routeText": "Shanghai → El Cerrito, CA · Shipped 5/18/26 · \"Parcels on 20260518\" from Nicole, #sunwin-general",
           "etaType": "delivered",
-          "etaText": "Mon, May 19 · 10:53 AM",
+          "etaText": "Delivered Tue, May 19 · 10:53 AM",
           "contentsLabel": "Contents (companion to Alexa's package — same items list):",
           "items": [
             {
