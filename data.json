@@ -533,6 +533,33 @@
                   "label": "SUBMIT"
                 }
               ]
+            },
+            {
+              "text": "SW0086 ZEPHYR lab dip",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "LD"
+                }
+              ]
+            },
+            {
+              "text": "SW0086 WINETASTING FLOW lab dip",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "LD"
+                }
+              ]
+            },
+            {
+              "text": "SW0085 COCOA FLOW lab dip",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "LD"
+                }
+              ]
             }
           ]
         }
