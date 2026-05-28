@@ -1,9 +1,313 @@
 {
-  "lastUpdated": "Updated Wed, May 27 · 10:15 AM · 0 new packages · 1 status update (872151651528 delivered) · 0 archived",
+  "lastUpdated": "Updated Thu, May 28 · 11:14 AM · 7 new packages · 6 status updates · 2 groups archived (4 pkgs)",
   "groups": [
     {
-      "title": "Trims & Materials — Esther, El Cerrito (May 22)",
+      "title": "Sunwin \"Parcels on 20260527\" — 3-way ship (May 27)",
       "isNew": true,
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "872272993590",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → Denver, CO · Shipped 5/27/26 · #sunwin-general",
+          "etaType": "eta",
+          "etaText": "Today, May 28",
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "items": [
+            {
+              "text": "SW0068 CLOUD II DRAWSTRING TANK, TOP sample, size S, 2 colors",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "SW0065 DAYDREAM TWISTED BRA, TOP sample, size S, 3 colors",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "SW0074 FLOAT RIB V BRALETTE, TOP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "SW0075 BASIS SCOOP LONG SLEEVE, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0076 DAYDREAM OVERLAP TANK, P2 samples, size S (2 options)",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "872273524687",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Taylor",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 5/27/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu, May 28 · 12:09 PM",
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "items": [
+            {
+              "text": "SW0075 BASIS SCOOP LONG SLEEVE, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0076 DAYDREAM OVERLAP TANK, P2 samples, size S (option 1)",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0068 CLOUD II wash panels re-submit (heavier effect)",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "recipient": "other",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "872273606500",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Grace",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → San Francisco, CA · Shipped 5/27/26 · #sunwin-general",
+          "etaType": "eta",
+          "etaText": "Today, May 28",
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "items": [
+            {
+              "text": "SW0075 BASIS SCOOP LONG SLEEVE, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0076 DAYDREAM OVERLAP TANK, P2 samples, size S (2 options)",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ]
+    },
+    {
+      "title": "Sunwin RIB OPEN LONG SLEEVE Proto — Esther (May 27)",
+      "isNew": true,
+      "packages": [
+        {
+          "recipient": "esther",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "872271943121",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Esther",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 5/27/26 · #sunwin-general",
+          "etaType": "eta",
+          "etaText": "Today, May 28",
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "items": [
+            {
+              "text": "RIB OPEN LONG SLEEVE, Proto sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ]
+    },
+    {
+      "title": "DGJ0105 Cloud II Layered Bra + Tank PP — 3-way ship (May 28)",
+      "isNew": true,
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "DGJ",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "872326868225",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Alexa",
+          "statusLabel": "In Transit",
+          "routeText": "Dongguan → Denver, CO · Shipped 5/29/26 · #dgj-0105-fall-romance-cloud-sweaters",
+          "etaType": "tba",
+          "etaText": "Will be updated soon",
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "items": [
+            {
+              "text": "DGJ0105 CLOUD II LAYERED BRA, PP sample, Scarlet + Milk Chocolate",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0105 CLOUD II LAYERED TANK, PP sample, Scarlet + Milk Chocolate",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ],
+          "note": "ETA June 1st"
+        },
+        {
+          "recipient": "other",
+          "vendor": "DGJ",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "872327071215",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Grace",
+          "statusLabel": "In Transit",
+          "routeText": "Dongguan → San Francisco, CA · Shipped 5/29/26 · #dgj-0105-fall-romance-cloud-sweaters",
+          "etaType": "tba",
+          "etaText": "Will be updated soon",
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "items": [
+            {
+              "text": "DGJ0105 CLOUD II LAYERED BRA, PP sample, Scarlet + Milk Chocolate",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0105 CLOUD II LAYERED TANK, PP sample, Scarlet + Milk Chocolate",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ],
+          "note": "ETA June 1st"
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "DGJ",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "872327185718",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Taylor",
+          "statusLabel": "In Transit",
+          "routeText": "Dongguan → Castle Rock, CO · Shipped 5/29/26 · #dgj-0105-fall-romance-cloud-sweaters",
+          "etaType": "tba",
+          "etaText": "Will be updated soon",
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "items": [
+            {
+              "text": "DGJ0105 CLOUD II LAYERED BRA, PP sample, Scarlet + Milk Chocolate",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0105 CLOUD II LAYERED TANK, PP sample, Scarlet + Milk Chocolate",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ],
+          "note": "ETA June 1st"
+        }
+      ]
+    },
+    {
+      "title": "Trims & Materials — Esther, El Cerrito (May 22)",
+      "isNew": false,
       "packages": [
         {
           "recipient": "esther",
@@ -65,7 +369,7 @@
     },
     {
       "title": "SS-0003 Sportlite Reorder — bulk part 2 (May 24)",
-      "isNew": true,
+      "isNew": false,
       "packages": [
         {
           "recipient": "other",
@@ -99,7 +403,7 @@
     },
     {
       "title": "DGJ0105 Fall Romance Cloud Sweaters — PP sample + bulk SO (May 25)",
-      "isNew": true,
+      "isNew": false,
       "packages": [
         {
           "recipient": "alexa",
@@ -142,7 +446,7 @@
     },
     {
       "title": "DGJ0118 Cloud Spring — 3-way ship (May 27)",
-      "isNew": true,
+      "isNew": false,
       "packages": [
         {
           "recipient": "alexa",
@@ -229,8 +533,8 @@
           "recipientLabel": "Grace",
           "statusLabel": "In Transit",
           "routeText": "Dongguan → San Francisco, CA · Shipped 5/27/26 · #dgj-0118-cloud-spring",
-          "etaType": "tba",
-          "etaText": "Will be updated soon",
+          "etaType": "eta",
+          "etaText": "Fri, May 29",
           "contentsLabel": "Contents:",
           "note": "",
           "items": [
@@ -380,8 +684,8 @@
           "vendorLabel": "Sunwin",
           "recipientLabel": "Alexa",
           "statusLabel": "In Transit",
-          "etaType": "tba",
-          "etaText": "Will be updated soon",
+          "etaType": "eta",
+          "etaText": "Today, May 28",
           "routeText": "Shanghai → Denver, CO · Shipped 5/26/26 · #sunwin-general",
           "contentsLabel": "Contents:",
           "note": "",
@@ -454,16 +758,16 @@
         {
           "recipient": "taylor",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": true,
           "isNew": false,
           "carrier": "FedEx",
           "trackingNumber": "872215821282",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Taylor",
-          "statusLabel": "In Transit",
-          "etaType": "tba",
-          "etaText": "Will be updated soon",
+          "statusLabel": "Delivered",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu, May 28 · 12:09 PM",
           "routeText": "Shanghai → Castle Rock, CO · Shipped 5/26/26 · #sunwin-general",
           "contentsLabel": "Contents:",
           "note": "",
@@ -517,8 +821,8 @@
           "vendorLabel": "Sunwin",
           "recipientLabel": "Grace",
           "statusLabel": "In Transit",
-          "etaType": "tba",
-          "etaText": "Will be updated soon",
+          "etaType": "eta",
+          "etaText": "Today, May 28",
           "routeText": "Shanghai → San Francisco, CA · Shipped 5/26/26 · #sunwin-general",
           "contentsLabel": "Contents:",
           "note": "",
@@ -564,16 +868,16 @@
         {
           "recipient": "esther",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": true,
           "isNew": false,
           "carrier": "FedEx",
           "trackingNumber": "872209892198",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Esther",
-          "statusLabel": "Out for Delivery",
-          "etaType": "eta",
-          "etaText": "Today, May 27",
+          "statusLabel": "Delivered",
+          "etaType": "delivered",
+          "etaText": "Delivered Wed, May 27 · 2:21 PM",
           "routeText": "Shanghai → El Cerrito, CA · Shipped 5/26/26 · #sunwin-general",
           "contentsLabel": "Contents:",
           "note": "Alexa requested re-route to Taylor (wash panels)",
@@ -797,17 +1101,17 @@
         {
           "recipient": "other",
           "vendor": "SS",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": true,
           "isNew": false,
           "carrier": "FedEx",
           "trackingNumber": "872112715992",
           "vendorLabel": "SS",
           "recipientLabel": "Alexandra",
-          "statusLabel": "Out for Delivery",
-          "routeText": "Dongguan → Toronto, ON · Shipped 5/23/26 · From freya, #ss-0003-sportlite-reorder",
-          "etaType": "eta",
-          "etaText": "Today, May 27",
+          "statusLabel": "Delivered",
+          "routeText": "Dongguan → Toronto, ON · Shipped 5/23/26 · #ss-0003-sportlite-reorder",
+          "etaType": "delivered",
+          "etaText": "Delivered Wed, May 27 · 2:02 PM",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -916,238 +1220,6 @@
             }
           ],
           "note": "",
-          "isNew": false
-        }
-      ]
-    },
-    {
-      "title": "Sunwin \"Parcels on 20260519\" — 3-way ship (May 19) · Now delivered",
-      "isNew": false,
-      "packages": [
-        {
-          "recipient": "alexa",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "871966858364",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Alexa",
-          "statusLabel": "Delivered",
-          "routeText": "Shanghai → Denver, CO · Shipped 5/19/26 · \"Parcels on 20260519\" from Cindy, #sunwin-general",
-          "etaType": "delivered",
-          "etaText": "Delivered Wed, May 20 · 11:06 AM",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "SW0084 Pulse Hue Volley Short, Proto sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PROTO"
-                }
-              ]
-            },
-            {
-              "text": "SW0065 DAYDREAM VOLLEY SHORT, TOP samples, size S, 3 colors",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "TOP"
-                }
-              ]
-            },
-            {
-              "text": "SW0083 FLOAT RIB ROBE, Proto samples, size S — option 1: 7\" shorter; option 2: 20\" shorter than original",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PROTO"
-                }
-              ]
-            },
-            {
-              "text": "SW0085 DAYDREAM LOOP BRA, Proto sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PROTO"
-                }
-              ]
-            },
-            {
-              "text": "FLOW SLOUCH LONG SLEEVE, P3 sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P3"
-                }
-              ]
-            }
-          ],
-          "note": "",
-          "isNew": false
-        },
-        {
-          "recipient": "taylor",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": true,
-          "carrier": "FedEx",
-          "trackingNumber": "871967019214",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Taylor",
-          "statusLabel": "Delivered",
-          "routeText": "Shanghai → Castle Rock, CO · Shipped 5/19/26 · \"Parcels on 20260519\" from Cindy, #sunwin-general",
-          "etaType": "delivered",
-          "etaText": "Delivered Wed, May 20 · 11:15 AM",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "SW0084 Pulse Hue Volley Short, Proto sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PROTO"
-                }
-              ]
-            },
-            {
-              "text": "SW0068 CLOUD II SQUARE BRA & TANK, P4 samples, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P4"
-                }
-              ]
-            },
-            {
-              "text": "SW0083 FLOAT RIB ROBE, Proto samples, size S — option 1: 7\" shorter; option 2: 20\" shorter than original",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PROTO"
-                }
-              ]
-            },
-            {
-              "text": "SW0085 DAYDREAM LOOP BRA, Proto sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PROTO"
-                }
-              ]
-            },
-            {
-              "text": "FLOW SLOUCH LONG SLEEVE, P3 sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P3"
-                }
-              ]
-            }
-          ],
-          "note": "",
-          "isNew": false
-        },
-        {
-          "recipient": "other",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": true,
-          "carrier": "FedEx",
-          "trackingNumber": "871967165650",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Grace (San Francisco)",
-          "statusLabel": "Delivered",
-          "routeText": "Shanghai → San Francisco, CA · Shipped 5/19/26 · \"Parcels on 20260519\" from Cindy, #sunwin-general",
-          "etaType": "delivered",
-          "etaText": "Delivered Wed, May 20 · 9:39 AM",
-          "contentsLabel": "Contents (same as Taylor's):",
-          "items": [
-            {
-              "text": "SW0084 Pulse Hue Volley Short, Proto sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PROTO"
-                }
-              ]
-            },
-            {
-              "text": "SW0068 CLOUD II SQUARE BRA & TANK, P4 samples, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P4"
-                }
-              ]
-            },
-            {
-              "text": "SW0083 FLOAT RIB ROBE, Proto samples, size S — option 1: 7\" shorter; option 2: 20\" shorter than original",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PROTO"
-                }
-              ]
-            },
-            {
-              "text": "SW0085 DAYDREAM LOOP BRA, Proto sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PROTO"
-                }
-              ]
-            },
-            {
-              "text": "FLOW SLOUCH LONG SLEEVE, P3 sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P3"
-                }
-              ]
-            }
-          ],
-          "note": "",
-          "isNew": false
-        }
-      ]
-    },
-    {
-      "title": "Sunwin SW0071 Pulse Sculpt Pant 2nd PP — Wendy logistics (May 19)",
-      "isNew": false,
-      "packages": [
-        {
-          "recipient": "esther",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "871966511986",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Esther",
-          "statusLabel": "Delivered",
-          "routeText": "Shanghai → El Cerrito, CA · Shipped 5/19/26 · From Wendy Wang, #sunwin-general thread",
-          "etaType": "delivered",
-          "etaText": "Delivered Wed, May 20 · 1:58 PM",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "SW0071 PULSE SCULPT PANT, 2nd PP, sizes S & M (one piece each)",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            }
-          ],
-          "note": "Wendy also flagged SW0081 FLOW CREW LONG SLEEVE P3 size S going to Alexa, Taylor, and Grace — but no FedEx tracking numbers were posted for those three (only Esther's package has an awb).",
           "isNew": false
         }
       ]
@@ -2008,6 +2080,231 @@
             }
           ],
           "note": "",
+          "isNew": false
+        }
+      ]
+    },
+    {
+      "title": "Archived — rolled 5/28/26",
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "871966858364",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → Denver, CO · Shipped 5/19/26 · \"Parcels on 20260519\" from Cindy, #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Wed, May 20 · 11:06 AM",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0084 Pulse Hue Volley Short, Proto sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PROTO"
+                }
+              ]
+            },
+            {
+              "text": "SW0065 DAYDREAM VOLLEY SHORT, TOP samples, size S, 3 colors",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "SW0083 FLOAT RIB ROBE, Proto samples, size S — option 1: 7\" shorter; option 2: 20\" shorter than original",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PROTO"
+                }
+              ]
+            },
+            {
+              "text": "SW0085 DAYDREAM LOOP BRA, Proto sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PROTO"
+                }
+              ]
+            },
+            {
+              "text": "FLOW SLOUCH LONG SLEEVE, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": true,
+          "carrier": "FedEx",
+          "trackingNumber": "871967019214",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Taylor",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 5/19/26 · \"Parcels on 20260519\" from Cindy, #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Wed, May 20 · 11:15 AM",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0084 Pulse Hue Volley Short, Proto sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PROTO"
+                }
+              ]
+            },
+            {
+              "text": "SW0068 CLOUD II SQUARE BRA & TANK, P4 samples, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P4"
+                }
+              ]
+            },
+            {
+              "text": "SW0083 FLOAT RIB ROBE, Proto samples, size S — option 1: 7\" shorter; option 2: 20\" shorter than original",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PROTO"
+                }
+              ]
+            },
+            {
+              "text": "SW0085 DAYDREAM LOOP BRA, Proto sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PROTO"
+                }
+              ]
+            },
+            {
+              "text": "FLOW SLOUCH LONG SLEEVE, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false
+        },
+        {
+          "recipient": "other",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": true,
+          "carrier": "FedEx",
+          "trackingNumber": "871967165650",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Grace (San Francisco)",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → San Francisco, CA · Shipped 5/19/26 · \"Parcels on 20260519\" from Cindy, #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Wed, May 20 · 9:39 AM",
+          "contentsLabel": "Contents (same as Taylor's):",
+          "items": [
+            {
+              "text": "SW0084 Pulse Hue Volley Short, Proto sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PROTO"
+                }
+              ]
+            },
+            {
+              "text": "SW0068 CLOUD II SQUARE BRA & TANK, P4 samples, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P4"
+                }
+              ]
+            },
+            {
+              "text": "SW0083 FLOAT RIB ROBE, Proto samples, size S — option 1: 7\" shorter; option 2: 20\" shorter than original",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PROTO"
+                }
+              ]
+            },
+            {
+              "text": "SW0085 DAYDREAM LOOP BRA, Proto sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PROTO"
+                }
+              ]
+            },
+            {
+              "text": "FLOW SLOUCH LONG SLEEVE, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false
+        },
+        {
+          "recipient": "esther",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "871966511986",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Esther",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 5/19/26 · From Wendy Wang, #sunwin-general thread",
+          "etaType": "delivered",
+          "etaText": "Delivered Wed, May 20 · 1:58 PM",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0071 PULSE SCULPT PANT, 2nd PP, sizes S & M (one piece each)",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ],
+          "note": "Wendy also flagged SW0081 FLOW CREW LONG SLEEVE P3 size S going to Alexa, Taylor, and Grace — but no FedEx tracking numbers were posted for those three (only Esther's package has an awb).",
           "isNew": false
         }
       ]
