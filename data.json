@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "Updated Thu, May 28 · 11:14 AM · 7 new packages · 6 status updates · 2 groups archived (4 pkgs)",
+  "lastUpdated": "Updated Fri, May 29 · 11:35 AM · 0 new packages · 14 status updates · 3 pkgs archived · 0 new VP packages",
   "groups": [
     {
       "title": "Sunwin \"Parcels on 20260527\" — 3-way ship (May 27)",
@@ -8,18 +8,18 @@
         {
           "recipient": "alexa",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "872272993590",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Alexa",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → Denver, CO · Shipped 5/27/26 · #sunwin-general",
-          "etaType": "eta",
-          "etaText": "Today, May 28",
+          "etaType": "delivered",
+          "etaText": "Delivered Wed, May 28 · 1:17 PM",
           "contentsLabel": "Contents:",
-          "isNew": true,
+          "isNew": false,
           "items": [
             {
               "text": "SW0068 CLOUD II DRAWSTRING TANK, TOP sample, size S, 2 colors",
@@ -81,9 +81,9 @@
           "statusLabel": "Delivered",
           "routeText": "Shanghai → Castle Rock, CO · Shipped 5/27/26 · #sunwin-general",
           "etaType": "delivered",
-          "etaText": "Delivered Thu, May 28 · 12:09 PM",
+          "etaText": "Delivered Wed, May 28 · 12:09 PM",
           "contentsLabel": "Contents:",
-          "isNew": true,
+          "isNew": false,
           "items": [
             {
               "text": "SW0075 BASIS SCOOP LONG SLEEVE, PP sample, size S",
@@ -127,9 +127,9 @@
           "statusLabel": "In Transit",
           "routeText": "Shanghai → San Francisco, CA · Shipped 5/27/26 · #sunwin-general",
           "etaType": "eta",
-          "etaText": "Today, May 28",
+          "etaText": "Today, May 29",
           "contentsLabel": "Contents:",
-          "isNew": true,
+          "isNew": false,
           "items": [
             {
               "text": "SW0075 BASIS SCOOP LONG SLEEVE, PP sample, size S",
@@ -161,18 +161,18 @@
         {
           "recipient": "esther",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "872271943121",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Esther",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → El Cerrito, CA · Shipped 5/27/26 · #sunwin-general",
-          "etaType": "eta",
-          "etaText": "Today, May 28",
+          "etaType": "delivered",
+          "etaText": "Delivered Wed, May 28 · 2:00 PM",
           "contentsLabel": "Contents:",
-          "isNew": true,
+          "isNew": false,
           "items": [
             {
               "text": "RIB OPEN LONG SLEEVE, Proto sample, size S",
@@ -203,10 +203,10 @@
           "recipientLabel": "Alexa",
           "statusLabel": "In Transit",
           "routeText": "Dongguan → Denver, CO · Shipped 5/29/26 · #dgj-0105-fall-romance-cloud-sweaters",
-          "etaType": "tba",
-          "etaText": "Will be updated soon",
+          "etaType": "eta",
+          "etaText": "Mon, Jun 1",
           "contentsLabel": "Contents:",
-          "isNew": true,
+          "isNew": false,
           "items": [
             {
               "text": "DGJ0105 CLOUD II LAYERED BRA, PP sample, Scarlet + Milk Chocolate",
@@ -240,10 +240,10 @@
           "recipientLabel": "Grace",
           "statusLabel": "In Transit",
           "routeText": "Dongguan → San Francisco, CA · Shipped 5/29/26 · #dgj-0105-fall-romance-cloud-sweaters",
-          "etaType": "tba",
-          "etaText": "Will be updated soon",
+          "etaType": "eta",
+          "etaText": "Mon, Jun 1",
           "contentsLabel": "Contents:",
-          "isNew": true,
+          "isNew": false,
           "items": [
             {
               "text": "DGJ0105 CLOUD II LAYERED BRA, PP sample, Scarlet + Milk Chocolate",
@@ -277,10 +277,10 @@
           "recipientLabel": "Taylor",
           "statusLabel": "In Transit",
           "routeText": "Dongguan → Castle Rock, CO · Shipped 5/29/26 · #dgj-0105-fall-romance-cloud-sweaters",
-          "etaType": "tba",
-          "etaText": "Will be updated soon",
+          "etaType": "eta",
+          "etaText": "Mon, Jun 1",
           "contentsLabel": "Contents:",
-          "isNew": true,
+          "isNew": false,
           "items": [
             {
               "text": "DGJ0105 CLOUD II LAYERED BRA, PP sample, Scarlet + Milk Chocolate",
@@ -384,7 +384,7 @@
           "statusLabel": "Label Created",
           "routeText": "City of Industry, CA → American Fork, UT · SS-0003 bulk part 2 · #ss-0003-sportlite-reorder",
           "etaType": "tba",
-          "etaText": "Will be updated soon",
+          "etaText": "TBA",
           "contentsLabel": "Contents:",
           "note": "",
           "items": [
@@ -451,17 +451,17 @@
         {
           "recipient": "alexa",
           "vendor": "DGJ",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "isNew": false,
           "carrier": "FedEx",
           "trackingNumber": "872211642544",
           "vendorLabel": "DGJ",
           "recipientLabel": "Alexa",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Dongguan → Denver, CO · Shipped 5/27/26 · #dgj-0118-cloud-spring",
-          "etaType": "eta",
-          "etaText": "Fri, May 29",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri, May 29 · 9:40 AM",
           "contentsLabel": "Contents:",
           "note": "",
           "items": [
@@ -524,17 +524,17 @@
         {
           "recipient": "other",
           "vendor": "DGJ",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": true,
           "isNew": false,
           "carrier": "FedEx",
           "trackingNumber": "872211788045",
           "vendorLabel": "DGJ",
           "recipientLabel": "Grace",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Dongguan → San Francisco, CA · Shipped 5/27/26 · #dgj-0118-cloud-spring",
-          "etaType": "eta",
-          "etaText": "Fri, May 29",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri, May 29 · 9:38 AM",
           "contentsLabel": "Contents:",
           "note": "",
           "items": [
@@ -606,8 +606,8 @@
           "recipientLabel": "Taylor",
           "statusLabel": "In Transit",
           "routeText": "Dongguan → Castle Rock, CO · Shipped 5/27/26 · #dgj-0118-cloud-spring",
-          "etaType": "tba",
-          "etaText": "Will be updated soon",
+          "etaType": "eta",
+          "etaText": "Today, May 29",
           "contentsLabel": "Contents:",
           "note": "",
           "items": [
@@ -676,16 +676,16 @@
         {
           "recipient": "alexa",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "isNew": false,
           "carrier": "FedEx",
           "trackingNumber": "872215370004",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Alexa",
-          "statusLabel": "In Transit",
-          "etaType": "eta",
-          "etaText": "Today, May 28",
+          "statusLabel": "Delivered",
+          "etaType": "delivered",
+          "etaText": "Delivered Wed, May 28 · 1:17 PM",
           "routeText": "Shanghai → Denver, CO · Shipped 5/26/26 · #sunwin-general",
           "contentsLabel": "Contents:",
           "note": "",
@@ -767,7 +767,7 @@
           "recipientLabel": "Taylor",
           "statusLabel": "Delivered",
           "etaType": "delivered",
-          "etaText": "Delivered Thu, May 28 · 12:09 PM",
+          "etaText": "Delivered Wed, May 28 · 12:09 PM",
           "routeText": "Shanghai → Castle Rock, CO · Shipped 5/26/26 · #sunwin-general",
           "contentsLabel": "Contents:",
           "note": "",
@@ -822,7 +822,7 @@
           "recipientLabel": "Grace",
           "statusLabel": "In Transit",
           "etaType": "eta",
-          "etaText": "Today, May 28",
+          "etaText": "Mon, Jun 1",
           "routeText": "Shanghai → San Francisco, CA · Shipped 5/26/26 · #sunwin-general",
           "contentsLabel": "Contents:",
           "note": "",
@@ -1163,8 +1163,43 @@
       ]
     },
     {
-      "title": "Sunwin SW0070 Marshmallow — 2-way ship (May 20) · Now delivered",
+      "title": "Outbound to Sunwin — Cloud II Olive dip cutting (May 18)",
       "isNew": false,
+      "packages": [
+        {
+          "recipient": "other",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "871949555239",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Nicole (Shanghai)",
+          "statusLabel": "Delivered",
+          "routeText": "Denver, CO → Shanghai · Label created 5/18/26 · Alexa → Nicole, #sunwin-general thread",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon, May 25 · 11:09 AM",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "Cloud II Olive dip cutting",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false
+        }
+      ]
+    }
+  ],
+  "archivedGroups": [
+    {
+      "title": "Archived — rolled 5/29/26",
       "packages": [
         {
           "recipient": "alexa",
@@ -1221,47 +1256,7 @@
           ],
           "note": "",
           "isNew": false
-        }
-      ]
-    },
-    {
-      "title": "Outbound to Sunwin — Cloud II Olive dip cutting (May 18)",
-      "isNew": false,
-      "packages": [
-        {
-          "recipient": "other",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "871949555239",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Nicole (Shanghai)",
-          "statusLabel": "Delivered",
-          "routeText": "Denver, CO → Shanghai · Label created 5/18/26 · Alexa → Nicole, #sunwin-general thread",
-          "etaType": "delivered",
-          "etaText": "Delivered Mon, May 25 · 11:09 AM",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "Cloud II Olive dip cutting",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            }
-          ],
-          "note": "",
-          "isNew": false
-        }
-      ]
-    },
-    {
-      "title": "Outbound — SS Cozy Winter to Xinhui (May 18)",
-      "isNew": false,
-      "packages": [
+        },
         {
           "recipient": "other",
           "vendor": "SS",
@@ -1286,9 +1281,7 @@
           "isNew": false
         }
       ]
-    }
-  ],
-  "archivedGroups": [
+    },
     {
       "title": "Archived — rolled 5/26/26",
       "packages": [
