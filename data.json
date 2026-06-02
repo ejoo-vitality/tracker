@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "Updated Mon, Jun 1 · 10:13 AM · 0 new packages · 6 status updates · 0 pkgs archived · 0 new VP packages",
+  "lastUpdated": "Updated Tue, Jun 2 · 10:13 AM · 0 new packages · 0 status updates · 2 pkgs archived · 0 new VP packages",
   "groups": [
     {
       "title": "Sunwin \"Parcels on 20260527\" — 3-way ship (May 27)",
@@ -202,7 +202,7 @@
           "vendorLabel": "DGJ",
           "recipientLabel": "Alexa",
           "statusLabel": "Delivered",
-          "routeText": "Dongguan → Denver, CO · Shipped 5/29/26 · #dgj-0105-fall-romance-cloud-sweaters",
+          "routeText": "Dongguan City → Denver, CO · Shipped 5/29/26 · #dgj-0105-fall-romance-cloud-sweaters",
           "etaType": "delivered",
           "etaText": "Delivered 6/1",
           "contentsLabel": "Contents:",
@@ -239,7 +239,7 @@
           "vendorLabel": "DGJ",
           "recipientLabel": "Grace",
           "statusLabel": "Delivered",
-          "routeText": "Dongguan → San Francisco, CA · Shipped 5/29/26 · #dgj-0105-fall-romance-cloud-sweaters",
+          "routeText": "Dongguan City → San Francisco, CA · Shipped 5/29/26 · #dgj-0105-fall-romance-cloud-sweaters",
           "etaType": "delivered",
           "etaText": "Delivered 6/1",
           "contentsLabel": "Contents:",
@@ -276,7 +276,7 @@
           "vendorLabel": "DGJ",
           "recipientLabel": "Taylor",
           "statusLabel": "Delivered",
-          "routeText": "Dongguan → Castle Rock, CO · Shipped 5/29/26 · #dgj-0105-fall-romance-cloud-sweaters",
+          "routeText": "Dongguan City → Castle Rock, CO · Shipped 5/29/26 · #dgj-0105-fall-romance-cloud-sweaters",
           "etaType": "delivered",
           "etaText": "Delivered 6/1",
           "contentsLabel": "Contents:",
@@ -311,34 +311,6 @@
       "packages": [
         {
           "recipient": "esther",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "isNew": false,
-          "carrier": "FedEx",
-          "trackingNumber": "872113306011",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Esther",
-          "statusLabel": "Delivered",
-          "routeText": "Shanghai → El Cerrito, CA · Shipped 5/22/26 · FedEx notification email (Shanghai Alltex Technology)",
-          "etaType": "delivered",
-          "etaText": "Delivered 5/23",
-          "contentsLabel": "Contents:",
-          "note": "",
-          "items": [
-            {
-              "text": "Trims / materials from Sunwin (Shanghai Alltex Technology Co.) — contents TBD",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "recipient": "esther",
           "vendor": "RLVR",
           "status": "delivered",
           "isDupCompanion": false,
@@ -348,7 +320,7 @@
           "vendorLabel": "Hangzhou Realever",
           "recipientLabel": "Esther",
           "statusLabel": "Delivered",
-          "routeText": "Hangzhou → El Cerrito, CA · Shipped 5/22/26 · FedEx notification email (Hangzhou Realever Textiles)",
+          "routeText": "Hangzhou → El Cerrito, CA · Shipped 5/22/26",
           "etaType": "delivered",
           "etaText": "Delivered 5/26",
           "contentsLabel": "Contents:",
@@ -384,7 +356,7 @@
           "statusLabel": "Label Created",
           "routeText": "City of Industry, CA → American Fork, UT · SS-0003 bulk part 2 · #ss-0003-sportlite-reorder",
           "etaType": "tba",
-          "etaText": "TBD",
+          "etaText": "TBA",
           "contentsLabel": "Contents:",
           "note": "",
           "items": [
@@ -416,7 +388,7 @@
           "vendorLabel": "DGJ",
           "recipientLabel": "Alexa",
           "statusLabel": "Delivered",
-          "routeText": "Dongguan → Denver, CO · Shipped 5/25/26 · #dgj-0105-fall-romance-cloud-sweaters",
+          "routeText": "Dongguan City → Denver, CO · Shipped 5/25/26 · #dgj-0105-fall-romance-cloud-sweaters",
           "etaType": "delivered",
           "etaText": "Delivered 5/27",
           "contentsLabel": "Contents:",
@@ -459,7 +431,7 @@
           "vendorLabel": "DGJ",
           "recipientLabel": "Alexa",
           "statusLabel": "Delivered",
-          "routeText": "Dongguan → Denver, CO · Shipped 5/27/26 · #dgj-0118-cloud-spring",
+          "routeText": "Dongguan City → Denver, CO · Shipped 5/27/26 · #dgj-0118-cloud-spring",
           "etaType": "delivered",
           "etaText": "Delivered 5/29",
           "contentsLabel": "Contents:",
@@ -532,7 +504,7 @@
           "vendorLabel": "DGJ",
           "recipientLabel": "Grace",
           "statusLabel": "Delivered",
-          "routeText": "Dongguan → San Francisco, CA · Shipped 5/27/26 · #dgj-0118-cloud-spring",
+          "routeText": "Dongguan City → San Francisco, CA · Shipped 5/27/26 · #dgj-0118-cloud-spring",
           "etaType": "delivered",
           "etaText": "Delivered 5/29",
           "contentsLabel": "Contents:",
@@ -605,7 +577,7 @@
           "vendorLabel": "DGJ",
           "recipientLabel": "Taylor",
           "statusLabel": "Delivered",
-          "routeText": "Dongguan → Castle Rock, CO · Shipped 5/27/26 · #dgj-0118-cloud-spring",
+          "routeText": "Dongguan City → Castle Rock, CO · Shipped 5/27/26 · #dgj-0118-cloud-spring",
           "etaType": "delivered",
           "etaText": "Delivered 5/29",
           "contentsLabel": "Contents:",
@@ -1081,7 +1053,7 @@
           "vendorLabel": "SS",
           "recipientLabel": "Julia",
           "statusLabel": "Delivered",
-          "routeText": "Dongguan → Costa Mesa, CA · Shipped 5/23/26 · From freya, #ss-0003-sportlite-reorder",
+          "routeText": "Dongguan → Costa Mesa, CA · Shipped 5/23/26 · #ss-0003-sportlite-reorder",
           "etaType": "delivered",
           "etaText": "Delivered 5/26",
           "contentsLabel": "Contents:",
@@ -1143,7 +1115,7 @@
           "vendorLabel": "SS",
           "recipientLabel": "Alexa",
           "statusLabel": "Delivered",
-          "routeText": "Dongguan → Denver, CO · Shipped 5/23/26 · TOP sample in Wine/Cherry/Iron from freya, #ss-0003-sportlite-reorder",
+          "routeText": "Dongguan → Denver, CO · Shipped 5/23/26 · #ss-0003-sportlite-reorder",
           "etaType": "delivered",
           "etaText": "Delivered 5/26",
           "contentsLabel": "Contents:",
@@ -1159,40 +1131,6 @@
             }
           ],
           "note": ""
-        }
-      ]
-    },
-    {
-      "title": "Outbound to Sunwin — Cloud II Olive dip cutting (May 18)",
-      "isNew": false,
-      "packages": [
-        {
-          "recipient": "other",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "871949555239",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Nicole (Shanghai)",
-          "statusLabel": "Delivered",
-          "routeText": "Denver, CO → Shanghai · Label created 5/18/26 · Alexa → Nicole, #sunwin-general thread",
-          "etaType": "delivered",
-          "etaText": "Delivered 5/25",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "Cloud II Olive dip cutting",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            }
-          ],
-          "note": "",
-          "isNew": false
         }
       ]
     }
@@ -2298,6 +2236,67 @@
             }
           ],
           "note": "Wendy also flagged SW0081 FLOW CREW LONG SLEEVE P3 size S going to Alexa, Taylor, and Grace — but no FedEx tracking numbers were posted for those three (only Esther's package has an awb).",
+          "isNew": false
+        }
+      ]
+    },
+    {
+      "title": "Archived — rolled 6/2/26",
+      "packages": [
+        {
+          "recipient": "esther",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "isNew": false,
+          "carrier": "FedEx",
+          "trackingNumber": "872113306011",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Esther",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 5/22/26",
+          "etaType": "delivered",
+          "etaText": "Delivered 5/23",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "items": [
+            {
+              "text": "Trims / materials from Sunwin (Shanghai Alltex Technology Co.) — contents TBD",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "other",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "871949555239",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Nicole (Shanghai)",
+          "statusLabel": "Delivered",
+          "routeText": "Denver, CO → Shanghai · Shipped 5/20/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered 5/25",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "Cloud II Olive dip cutting",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
           "isNew": false
         }
       ]
