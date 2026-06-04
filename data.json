@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "Updated Wed, Jun 3 · 0 new packages · 0 status updates · 6 pkgs archived · 0 new VP packages",
+  "lastUpdated": "Updated Thu, Jun 4 · 10:12 AM · 0 new packages · 3 pkgs archived · 0 new VP packages",
   "groups": [
     {
       "title": "Sunwin \"Parcels on 20260527\" — 3-way ship (May 27)",
@@ -15,9 +15,9 @@
           "vendorLabel": "Sunwin",
           "recipientLabel": "Alexa",
           "statusLabel": "Delivered",
-          "routeText": "Shanghai → Denver, CO · Delivered 5/28/26 1:17 PM · #sunwin-general",
+          "routeText": "Shanghai → Denver, CO · Shipped 5/27/26 · #sunwin-general",
           "etaType": "delivered",
-          "etaText": "Wed, May 28",
+          "etaText": "5/28/26 1:17 PM",
           "contentsLabel": "Contents:",
           "isNew": false,
           "items": [
@@ -79,9 +79,9 @@
           "vendorLabel": "Sunwin",
           "recipientLabel": "Taylor",
           "statusLabel": "Delivered",
-          "routeText": "Shanghai → Castle Rock, CO · Delivered 5/28/26 12:09 PM · #sunwin-general",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 5/27/26 · #sunwin-general",
           "etaType": "delivered",
-          "etaText": "Wed, May 28",
+          "etaText": "5/28/26 12:09 PM",
           "contentsLabel": "Contents:",
           "isNew": false,
           "items": [
@@ -125,9 +125,9 @@
           "vendorLabel": "Sunwin",
           "recipientLabel": "Grace",
           "statusLabel": "Delivered",
-          "routeText": "Shanghai → San Francisco, CA · Delivered 6/1/26 9:25 AM · #sunwin-general",
+          "routeText": "Shanghai → San Francisco, CA · Shipped 5/27/26 · #sunwin-general",
           "etaType": "delivered",
-          "etaText": "Mon, Jun 1",
+          "etaText": "6/1/26 9:25 AM",
           "contentsLabel": "Contents:",
           "isNew": false,
           "items": [
@@ -168,9 +168,9 @@
           "vendorLabel": "Sunwin",
           "recipientLabel": "Esther",
           "statusLabel": "Delivered",
-          "routeText": "Shanghai → El Cerrito, CA · Delivered 5/28/26 2:00 PM · #sunwin-general",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 5/27/26 · #sunwin-general",
           "etaType": "delivered",
-          "etaText": "Wed, May 28",
+          "etaText": "5/28/26 2:00 PM",
           "contentsLabel": "Contents:",
           "isNew": false,
           "items": [
@@ -202,9 +202,9 @@
           "vendorLabel": "DGJ",
           "recipientLabel": "Alexa",
           "statusLabel": "Delivered",
-          "routeText": "Dongguan City → Denver, CO · Delivered 6/1/26 9:26 AM · #dgj-0105-fall-romance-cloud-sweaters",
+          "routeText": "Dongguan City → Denver, CO · Shipped 5/29/26 · #dgj-0105-fall-romance-cloud-sweaters",
           "etaType": "delivered",
-          "etaText": "Mon, Jun 1",
+          "etaText": "6/1/26 9:26 AM",
           "contentsLabel": "Contents:",
           "isNew": false,
           "items": [
@@ -239,9 +239,9 @@
           "vendorLabel": "DGJ",
           "recipientLabel": "Grace",
           "statusLabel": "Delivered",
-          "routeText": "Dongguan City → San Francisco, CA · Delivered 6/1/26 9:25 AM · #dgj-0105-fall-romance-cloud-sweaters",
+          "routeText": "Dongguan City → San Francisco, CA · Shipped 5/29/26 · #dgj-0105-fall-romance-cloud-sweaters",
           "etaType": "delivered",
-          "etaText": "Mon, Jun 1",
+          "etaText": "6/1/26 9:25 AM",
           "contentsLabel": "Contents:",
           "isNew": false,
           "items": [
@@ -276,9 +276,9 @@
           "vendorLabel": "DGJ",
           "recipientLabel": "Taylor",
           "statusLabel": "Delivered",
-          "routeText": "Dongguan City → Castle Rock, CO · Delivered 6/1/26 11:09 AM · #dgj-0105-fall-romance-cloud-sweaters",
+          "routeText": "Dongguan City → Castle Rock, CO · Shipped 5/29/26 · #dgj-0105-fall-romance-cloud-sweaters",
           "etaType": "delivered",
-          "etaText": "Mon, Jun 1",
+          "etaText": "6/1/26 11:09 AM",
           "contentsLabel": "Contents:",
           "isNew": false,
           "items": [
@@ -322,7 +322,7 @@
           "statusLabel": "Label Created",
           "routeText": "City of Industry, CA → American Fork, UT · Label Created · #ss-0003-sportlite-reorder",
           "etaType": "tba",
-          "etaText": "",
+          "etaText": "TBD",
           "contentsLabel": "Contents:",
           "note": "",
           "items": [
@@ -332,49 +332,6 @@
                 {
                   "type": "bulk",
                   "label": "BULK"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "DGJ0105 Fall Romance Cloud Sweaters — PP sample + bulk SO (May 25)",
-      "isNew": false,
-      "packages": [
-        {
-          "recipient": "alexa",
-          "vendor": "DGJ",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "isNew": false,
-          "carrier": "FedEx",
-          "trackingNumber": "872151651528",
-          "vendorLabel": "DGJ",
-          "recipientLabel": "Alexa",
-          "statusLabel": "Delivered",
-          "routeText": "Dongguan City → Denver, CO · Delivered 5/27/26 10:37 AM · #dgj-0105-fall-romance-cloud-sweaters",
-          "etaType": "delivered",
-          "etaText": "Tue, May 27",
-          "contentsLabel": "Contents:",
-          "note": "",
-          "items": [
-            {
-              "text": "DGJ0105 OVERCAST bulk SO (color approval)",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            },
-            {
-              "text": "DGJ0100 ROSE QUARTZ PP samples",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
                 }
               ]
             }
@@ -397,9 +354,9 @@
           "vendorLabel": "DGJ",
           "recipientLabel": "Alexa",
           "statusLabel": "Delivered",
-          "routeText": "Dongguan City → Denver, CO · Delivered 5/29/26 9:40 AM · #dgj-0118-cloud-spring",
+          "routeText": "Dongguan City → Denver, CO · Shipped 5/27/26 · #dgj-0118-cloud-spring",
           "etaType": "delivered",
-          "etaText": "Fri, May 29",
+          "etaText": "5/29/26 9:40 AM",
           "contentsLabel": "Contents:",
           "note": "",
           "items": [
@@ -470,9 +427,9 @@
           "vendorLabel": "DGJ",
           "recipientLabel": "Grace",
           "statusLabel": "Delivered",
-          "routeText": "Dongguan City → San Francisco, CA · Delivered 5/29/26 9:38 AM · #dgj-0118-cloud-spring",
+          "routeText": "Dongguan City → San Francisco, CA · Shipped 5/27/26 · #dgj-0118-cloud-spring",
           "etaType": "delivered",
-          "etaText": "Fri, May 29",
+          "etaText": "5/29/26 9:38 AM",
           "contentsLabel": "Contents:",
           "note": "",
           "items": [
@@ -543,9 +500,9 @@
           "vendorLabel": "DGJ",
           "recipientLabel": "Taylor",
           "statusLabel": "Delivered",
-          "routeText": "Dongguan City → Castle Rock, CO · Delivered 5/29/26 5:15 PM · #dgj-0118-cloud-spring",
+          "routeText": "Dongguan City → Castle Rock, CO · Shipped 5/27/26 · #dgj-0118-cloud-spring",
           "etaType": "delivered",
-          "etaText": "Fri, May 29",
+          "etaText": "5/29/26 5:15 PM",
           "contentsLabel": "Contents:",
           "note": "",
           "items": [
@@ -623,8 +580,8 @@
           "recipientLabel": "Alexa",
           "statusLabel": "Delivered",
           "etaType": "delivered",
-          "etaText": "Wed, May 28",
-          "routeText": "Shanghai → Denver, CO · Delivered 5/28/26 1:17 PM · #sunwin-general",
+          "etaText": "5/28/26 1:17 PM",
+          "routeText": "Shanghai → Denver, CO · Shipped 5/26/26 · #sunwin-general",
           "contentsLabel": "Contents:",
           "note": "",
           "items": [
@@ -705,8 +662,8 @@
           "recipientLabel": "Taylor",
           "statusLabel": "Delivered",
           "etaType": "delivered",
-          "etaText": "Wed, May 28",
-          "routeText": "Shanghai → Castle Rock, CO · Delivered 5/28/26 12:09 PM · #sunwin-general",
+          "etaText": "5/28/26 12:09 PM",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 5/26/26 · #sunwin-general",
           "contentsLabel": "Contents:",
           "note": "",
           "items": [
@@ -760,8 +717,8 @@
           "recipientLabel": "Grace",
           "statusLabel": "Delivered",
           "etaType": "delivered",
-          "etaText": "Sat, May 30",
-          "routeText": "Shanghai → San Francisco, CA · Delivered 5/30/26 12:19 PM · #sunwin-general",
+          "etaText": "5/30/26 12:19 PM",
+          "routeText": "Shanghai → San Francisco, CA · Shipped 5/26/26 · #sunwin-general",
           "contentsLabel": "Contents:",
           "note": "",
           "items": [
@@ -802,104 +759,6 @@
               ]
             }
           ]
-        },
-        {
-          "recipient": "esther",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": true,
-          "isNew": false,
-          "carrier": "FedEx",
-          "trackingNumber": "872209892198",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Esther",
-          "statusLabel": "Delivered",
-          "etaType": "delivered",
-          "etaText": "Wed, May 27",
-          "routeText": "Shanghai → El Cerrito, CA · Delivered 5/27/26 2:21 PM · #sunwin-general",
-          "contentsLabel": "Contents:",
-          "note": "Alexa requested re-route to Taylor (wash panels)",
-          "items": [
-            {
-              "text": "SW0080 & SW0077 bulk elastic tape quality & color approval",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            },
-            {
-              "text": "SW0068 CLOUD II re-submitted washing panels (heavier wash effect)",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            },
-            {
-              "text": "SW0086 ZEPHYR lab dip",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "LD"
-                }
-              ]
-            },
-            {
-              "text": "SW0086 WINETASTING FLOW lab dip",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "LD"
-                }
-              ]
-            },
-            {
-              "text": "SW0085 COCOA FLOW lab dip",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "LD"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "SS-0003 Sportlite Reorder — marketing samples (May 21)",
-      "isNew": false,
-      "packages": [
-        {
-          "recipient": "other",
-          "vendor": "SS",
-          "status": "delivered",
-          "isDupCompanion": true,
-          "isNew": false,
-          "carrier": "FedEx",
-          "trackingNumber": "872112715992",
-          "vendorLabel": "SS",
-          "recipientLabel": "Alexandra",
-          "statusLabel": "Delivered",
-          "routeText": "Dongguan → Toronto, ON · Delivered 5/27/26 2:02 PM · #ss-0003-sportlite-reorder",
-          "etaType": "delivered",
-          "etaText": "Tue, May 27",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "SS-0003 Sportlite Reorder, marketing samples",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "SAMPLE"
-                }
-              ]
-            }
-          ],
-          "note": ""
         }
       ]
     }
@@ -2285,6 +2144,140 @@
           ],
           "note": "",
           "isNew": false
+        }
+      ]
+    },
+    {
+      "title": "Archived — rolled 6/4/26",
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "DGJ",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "isNew": false,
+          "carrier": "FedEx",
+          "trackingNumber": "872151651528",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Alexa",
+          "statusLabel": "Delivered",
+          "routeText": "Dongguan City → Denver, CO · Delivered 5/27/26 10:37 AM · #dgj-0105-fall-romance-cloud-sweaters",
+          "etaType": "delivered",
+          "etaText": "Tue, May 27",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "items": [
+            {
+              "text": "DGJ0105 OVERCAST bulk SO (color approval)",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0100 ROSE QUARTZ PP samples",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "esther",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": true,
+          "isNew": false,
+          "carrier": "FedEx",
+          "trackingNumber": "872209892198",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Esther",
+          "statusLabel": "Delivered",
+          "etaType": "delivered",
+          "etaText": "Wed, May 27",
+          "routeText": "Shanghai → El Cerrito, CA · Delivered 5/27/26 2:21 PM · #sunwin-general",
+          "contentsLabel": "Contents:",
+          "note": "Alexa requested re-route to Taylor (wash panels)",
+          "items": [
+            {
+              "text": "SW0080 & SW0077 bulk elastic tape quality & color approval",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "SW0068 CLOUD II re-submitted washing panels (heavier wash effect)",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "SW0086 ZEPHYR lab dip",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "LD"
+                }
+              ]
+            },
+            {
+              "text": "SW0086 WINETASTING FLOW lab dip",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "LD"
+                }
+              ]
+            },
+            {
+              "text": "SW0085 COCOA FLOW lab dip",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "LD"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "other",
+          "vendor": "SS",
+          "status": "delivered",
+          "isDupCompanion": true,
+          "isNew": false,
+          "carrier": "FedEx",
+          "trackingNumber": "872112715992",
+          "vendorLabel": "SS",
+          "recipientLabel": "Alexandra",
+          "statusLabel": "Delivered",
+          "routeText": "Dongguan → Toronto, ON · Delivered 5/27/26 2:02 PM · #ss-0003-sportlite-reorder",
+          "etaType": "delivered",
+          "etaText": "Tue, May 27",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SS-0003 Sportlite Reorder, marketing samples",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "SAMPLE"
+                }
+              ]
+            }
+          ],
+          "note": ""
         }
       ]
     }
