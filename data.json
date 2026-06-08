@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "Updated Mon, Jun 8 · 4 new packages · 9 pkgs archived · 0 new VP packages",
+  "lastUpdated": "Updated Mon, Jun 8 · 10:12 AM · 0 new packages · 0 new VP packages",
   "groups": [
     {
       "title": "Sunwin \"Parcels on 20260603\" — 4-way ship (Jun 3)",
@@ -18,7 +18,7 @@
           "etaType": "delivered",
           "etaText": "6/5/26 11:18 AM",
           "contentsLabel": "Contents:",
-          "isNew": true,
+          "isNew": false,
           "note": "",
           "items": [
             {
@@ -91,7 +91,7 @@
           "etaType": "delivered",
           "etaText": "6/5/26 11:48 AM",
           "contentsLabel": "Contents:",
-          "isNew": true,
+          "isNew": false,
           "note": "",
           "items": [
             {
@@ -164,7 +164,7 @@
           "etaType": "delivered",
           "etaText": "6/4/26 10:24 AM",
           "contentsLabel": "Contents:",
-          "isNew": true,
+          "isNew": false,
           "note": "",
           "items": [
             {
@@ -192,7 +192,7 @@
           "etaType": "delivered",
           "etaText": "6/5/26 9:11 AM",
           "contentsLabel": "Contents:",
-          "isNew": true,
+          "isNew": false,
           "note": "",
           "items": [
             {
@@ -428,7 +428,7 @@
           "vendorLabel": "SS",
           "recipientLabel": "Audra",
           "statusLabel": "Label Created",
-          "routeText": "City of Industry, CA → American Fork, UT · Label Created · #ss-0003-sportlite-reorder",
+          "routeText": "City of Industry, CA → American Fork, UT · Label created · #ss-general",
           "etaType": "tba",
           "etaText": "TBD",
           "contentsLabel": "Contents:",
