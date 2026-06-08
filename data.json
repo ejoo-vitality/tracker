@@ -1,9 +1,8 @@
 {
-  "lastUpdated": "Updated Thu, Jun 4 · 10:12 AM · 0 new packages · 3 pkgs archived · 0 new VP packages",
+  "lastUpdated": "Updated Mon, Jun 8 · 4 new packages · 9 pkgs archived · 0 new VP packages",
   "groups": [
     {
-      "title": "Sunwin \"Parcels on 20260527\" — 3-way ship (May 27)",
-      "isNew": true,
+      "title": "Sunwin \"Parcels on 20260603\" — 4-way ship (Jun 3)",
       "packages": [
         {
           "recipient": "alexa",
@@ -11,45 +10,19 @@
           "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
-          "trackingNumber": "872272993590",
+          "trackingNumber": "872580146463",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Alexa",
           "statusLabel": "Delivered",
-          "routeText": "Shanghai → Denver, CO · Shipped 5/27/26 · #sunwin-general",
+          "routeText": "Shanghai → Denver, CO · Shipped 6/3/26 · #sunwin-general",
           "etaType": "delivered",
-          "etaText": "5/28/26 1:17 PM",
+          "etaText": "6/5/26 11:18 AM",
           "contentsLabel": "Contents:",
-          "isNew": false,
+          "isNew": true,
+          "note": "",
           "items": [
             {
-              "text": "SW0068 CLOUD II DRAWSTRING TANK, TOP sample, size S, 2 colors",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "TOP"
-                }
-              ]
-            },
-            {
-              "text": "SW0065 DAYDREAM TWISTED BRA, TOP sample, size S, 3 colors",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "TOP"
-                }
-              ]
-            },
-            {
-              "text": "SW0074 FLOAT RIB V BRALETTE, TOP sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "TOP"
-                }
-              ]
-            },
-            {
-              "text": "SW0075 BASIS SCOOP LONG SLEEVE, PP sample, size S",
+              "text": "SW0064 ESSENCE WIDE LEG PANT, PP sample, size S",
               "tags": [
                 {
                   "type": "sample",
@@ -58,16 +31,51 @@
               ]
             },
             {
-              "text": "SW0076 DAYDREAM OVERLAP TANK, P2 samples, size S (2 options)",
+              "text": "SW0083 FLOAT RIB SCOOP LONG SLEEVE TOP & FLOAT RIB OVERSIZED TEE, proto samples, size S",
               "tags": [
                 {
                   "type": "sample",
-                  "label": "P2"
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "SW0068 bulk elastic tape and adjuster quality & color approval",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "SW0084 DAYDREAM BLOCK VOLLEY SHORT & PANT, PP samples, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "DAYDREAM RELAXED TROUSER SWVT26Q4-PT0003, 1st Fit sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE SWOOP BRA SWVT26Q4-BR0002, 1st Fit sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
                 }
               ]
             }
-          ],
-          "note": ""
+          ]
         },
         {
           "recipient": "taylor",
@@ -75,18 +83,19 @@
           "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
-          "trackingNumber": "872273524687",
+          "trackingNumber": "872580713939",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Taylor",
           "statusLabel": "Delivered",
-          "routeText": "Shanghai → Castle Rock, CO · Shipped 5/27/26 · #sunwin-general",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 6/3/26 · #sunwin-general",
           "etaType": "delivered",
-          "etaText": "5/28/26 12:09 PM",
+          "etaText": "6/5/26 11:48 AM",
           "contentsLabel": "Contents:",
-          "isNew": false,
+          "isNew": true,
+          "note": "",
           "items": [
             {
-              "text": "SW0075 BASIS SCOOP LONG SLEEVE, PP sample, size S",
+              "text": "SW0064 ESSENCE WIDE LEG PANT, PP sample, size S",
               "tags": [
                 {
                   "type": "sample",
@@ -95,7 +104,16 @@
               ]
             },
             {
-              "text": "SW0076 DAYDREAM OVERLAP TANK, P2 samples, size S (option 1)",
+              "text": "SW0083 FLOAT RIB SCOOP LONG SLEEVE TOP & FLOAT RIB OVERSIZED TEE, proto samples, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "SW0085 DAYDREAM DOUBLE CONTRAST VOLLEY SHORT & PANT, P2 sample, size S",
               "tags": [
                 {
                   "type": "sample",
@@ -104,7 +122,53 @@
               ]
             },
             {
-              "text": "SW0068 CLOUD II wash panels re-submit (heavier effect)",
+              "text": "SW0084 DAYDREAM BLOCK VOLLEY SHORT & PANT, PP samples, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "DAYDREAM RELAXED TROUSER SWVT26Q4-PT0003, 1st Fit sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE SWOOP BRA SWVT26Q4-BR0002, 1st Fit sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "esther",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "872579826857",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Esther",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 6/3/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "6/4/26 10:24 AM",
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "note": "",
+          "items": [
+            {
+              "text": "SW0068 bulk elastic tape and adjuster quality & color approval",
               "tags": [
                 {
                   "type": "submit",
@@ -112,9 +176,87 @@
                 }
               ]
             }
-          ],
-          "note": ""
+          ]
         },
+        {
+          "recipient": "other",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "872580405634",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Grace",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → San Francisco, CA · Shipped 6/3/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "6/5/26 9:11 AM",
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "note": "",
+          "items": [
+            {
+              "text": "SW0064 ESSENCE WIDE LEG PANT, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0083 FLOAT RIB SCOOP LONG SLEEVE TOP & FLOAT RIB OVERSIZED TEE, proto samples, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "SW0085 DAYDREAM DOUBLE CONTRAST VOLLEY SHORT & PANT, P2 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0084 DAYDREAM BLOCK VOLLEY SHORT & PANT, PP samples, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "DAYDREAM RELAXED TROUSER SWVT26Q4-PT0003, 1st Fit sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE SWOOP BRA SWVT26Q4-BR0002, 1st Fit sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sunwin \"Parcels on 20260527\" — 3-way ship (May 27)",
+      "isNew": true,
+      "packages": [
         {
           "recipient": "other",
           "vendor": "SW",
@@ -146,40 +288,6 @@
                 {
                   "type": "sample",
                   "label": "P2"
-                }
-              ]
-            }
-          ],
-          "note": ""
-        }
-      ]
-    },
-    {
-      "title": "Sunwin RIB OPEN LONG SLEEVE Proto — Esther (May 27)",
-      "isNew": true,
-      "packages": [
-        {
-          "recipient": "esther",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "872271943121",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Esther",
-          "statusLabel": "Delivered",
-          "routeText": "Shanghai → El Cerrito, CA · Shipped 5/27/26 · #sunwin-general",
-          "etaType": "delivered",
-          "etaText": "5/28/26 2:00 PM",
-          "contentsLabel": "Contents:",
-          "isNew": false,
-          "items": [
-            {
-              "text": "RIB OPEN LONG SLEEVE, Proto sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P1"
                 }
               ]
             }
@@ -338,11 +446,150 @@
           ]
         }
       ]
-    },
+    }
+  ],
+  "archivedGroups": [
     {
-      "title": "DGJ0118 Cloud Spring — 3-way ship (May 27)",
-      "isNew": false,
+      "title": "Archived — rolled 6/8/26",
       "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "872272993590",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → Denver, CO · Shipped 5/27/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "5/28/26 1:17 PM",
+          "contentsLabel": "Contents:",
+          "isNew": false,
+          "items": [
+            {
+              "text": "SW0068 CLOUD II DRAWSTRING TANK, TOP sample, size S, 2 colors",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "SW0065 DAYDREAM TWISTED BRA, TOP sample, size S, 3 colors",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "SW0074 FLOAT RIB V BRALETTE, TOP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "SW0075 BASIS SCOOP LONG SLEEVE, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0076 DAYDREAM OVERLAP TANK, P2 samples, size S (2 options)",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "872273524687",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Taylor",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 5/27/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "5/28/26 12:09 PM",
+          "contentsLabel": "Contents:",
+          "isNew": false,
+          "items": [
+            {
+              "text": "SW0075 BASIS SCOOP LONG SLEEVE, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0076 DAYDREAM OVERLAP TANK, P2 samples, size S (option 1)",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0068 CLOUD II wash panels re-submit (heavier effect)",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "recipient": "esther",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "872271943121",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Esther",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 5/27/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "5/28/26 2:00 PM",
+          "contentsLabel": "Contents:",
+          "isNew": false,
+          "items": [
+            {
+              "text": "RIB OPEN LONG SLEEVE, Proto sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
         {
           "recipient": "alexa",
           "vendor": "DGJ",
@@ -561,13 +808,7 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "title": "Sunwin \"Parcels on 20260526\" — 4-way ship (May 26)",
-      "isNew": false,
-      "packages": [
+        },
         {
           "recipient": "alexa",
           "vendor": "SW",
@@ -761,9 +1002,7 @@
           ]
         }
       ]
-    }
-  ],
-  "archivedGroups": [
+    },
     {
       "title": "Archived — rolled 6/3/26",
       "packages": [
