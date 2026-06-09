@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "Updated Mon, Jun 8 · 10:12 AM · 0 new packages · 0 new VP packages",
+  "lastUpdated": "Updated Tue, Jun 9 · 0 new packages · 0 new VP packages · 2 groups archived",
   "groups": [
     {
       "title": "Sunwin \"Parcels on 20260603\" — 4-way ship (Jun 3)",
@@ -251,11 +251,47 @@
             }
           ]
         }
-      ]
+      ],
+      "isNew": false
     },
     {
-      "title": "Sunwin \"Parcels on 20260527\" — 3-way ship (May 27)",
-      "isNew": true,
+      "title": "SS-0003 Sportlite Reorder — bulk part 2 (May 24)",
+      "isNew": false,
+      "packages": [
+        {
+          "recipient": "other",
+          "vendor": "SS",
+          "status": "label",
+          "isDupCompanion": false,
+          "isNew": false,
+          "carrier": "FedEx",
+          "trackingNumber": "872155851919",
+          "vendorLabel": "SS",
+          "recipientLabel": "Audra",
+          "statusLabel": "Label Created",
+          "routeText": "City of Industry, CA → American Fork, UT · Label created · #ss-general",
+          "etaType": "tba",
+          "etaText": "TBD",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "items": [
+            {
+              "text": "SS-0003 SPORTLITE REORDER bulk shipment (part 2)",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "archivedGroups": [
+    {
+      "title": "Archived — rolled 6/9/26",
       "packages": [
         {
           "recipient": "other",
@@ -293,13 +329,7 @@
             }
           ],
           "note": ""
-        }
-      ]
-    },
-    {
-      "title": "DGJ0105 Cloud II Layered Bra + Tank PP — 3-way ship (May 28)",
-      "isNew": true,
-      "packages": [
+        },
         {
           "recipient": "alexa",
           "vendor": "DGJ",
@@ -413,42 +443,6 @@
         }
       ]
     },
-    {
-      "title": "SS-0003 Sportlite Reorder — bulk part 2 (May 24)",
-      "isNew": false,
-      "packages": [
-        {
-          "recipient": "other",
-          "vendor": "SS",
-          "status": "label",
-          "isDupCompanion": false,
-          "isNew": false,
-          "carrier": "FedEx",
-          "trackingNumber": "872155851919",
-          "vendorLabel": "SS",
-          "recipientLabel": "Audra",
-          "statusLabel": "Label Created",
-          "routeText": "City of Industry, CA → American Fork, UT · Label created · #ss-general",
-          "etaType": "tba",
-          "etaText": "TBD",
-          "contentsLabel": "Contents:",
-          "note": "",
-          "items": [
-            {
-              "text": "SS-0003 SPORTLITE REORDER bulk shipment (part 2)",
-              "tags": [
-                {
-                  "type": "bulk",
-                  "label": "BULK"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    }
-  ],
-  "archivedGroups": [
     {
       "title": "Archived — rolled 6/8/26",
       "packages": [
