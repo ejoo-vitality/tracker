@@ -1,9 +1,294 @@
 {
-  "lastUpdated": "Updated Tue, Jun 9 · 2 new packages (via email) · 0 new VP packages · 2 groups archived",
+  "lastUpdated": "Updated Wed, Jun 10 · 12:40 PM · 6 new packages · 0 new VP packages (scan skipped) · 0 archived",
   "groups": [
     {
-      "title": "Product City — G4519 stopper submit (Jun 5)",
+      "title": "Sunwin \"Parcels on 20260608\" — LD & bulk submits (Jun 8)",
       "isNew": true,
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "872761793833",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → Denver, CO · Shipped 6/8/26 · #sunwin-general",
+          "etaType": "tba",
+          "etaText": "TBD",
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "note": "",
+          "items": [
+            {
+              "text": "Bulks of SW0086 Daydream/Academy Daydream",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            },
+            {
+              "text": "LDs of Academy Daydream lining fabric",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "LDs of Academy Accelerate lining fabric",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "LDs of SW0087 Marshmallow",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "Fabric quality and LDs of Academy Polar Fleece pocket fabric",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "esther",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "872761932080",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Esther",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 6/8/26 · #sunwin-general",
+          "etaType": "tba",
+          "etaText": "TBD",
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "note": "",
+          "items": [
+            {
+              "text": "LDs of Academy Daydream lining fabric",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "LDs of Academy Accelerate lining fabric",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "LDs of SW0087 Marshmallow",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "Fabric quality and LDs of Academy Polar Fleece pocket fabric",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sunwin \"Parcels on 20260605\" — proto/PP/TOP samples (Jun 5)",
+      "isNew": true,
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "872682946493",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → Denver, CO · Shipped 6/5/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "6/8/26 9:14 AM",
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "note": "",
+          "items": [
+            {
+              "text": "SW0083 FLOAT RIB COMFORT PANT, proto sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "SW0084 DAYDREAM X BRA & TANK, PP samples, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0065 DAYDREAM BABYDOLL TANK & DAYDREAM FLOW SKORT, TOP samples, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "872683263313",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Taylor",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 6/5/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "6/8/26 11:25 AM",
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "note": "",
+          "items": [
+            {
+              "text": "SW0083 FLOAT RIB COMFORT PANT, proto sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "SW0084 DAYDREAM X BRA & TANK, PP samples, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "other",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "872683143010",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Grace",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → San Francisco, CA · Shipped 6/5/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "6/8/26 11:47 AM",
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "note": "",
+          "items": [
+            {
+              "text": "SW0083 FLOAT RIB COMFORT PANT, proto sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "SW0084 DAYDREAM X BRA & TANK, PP samples, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sunwin bulk freight → American Fork, UT (Jun 2)",
+      "isNew": true,
+      "packages": [
+        {
+          "recipient": "other",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "872463689795",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Warehouse",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → American Fork, UT · Shipped 6/2/26 · #logistics",
+          "etaType": "eta",
+          "etaText": "Thu, Jun 11",
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "note": "Audra flagged urgent in #logistics 6/5: shipper info missing (MID codes) — Cindy to resolve",
+          "items": [
+            {
+              "text": "Multi-piece bulk shipment (master tracking)",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Product City — G4519 stopper submit (Jun 5)",
+      "isNew": false,
       "packages": [
         {
           "recipient": "alexa",
@@ -19,7 +304,7 @@
           "etaType": "delivered",
           "etaText": "6/8/26 10:05 AM",
           "contentsLabel": "Contents:",
-          "isNew": true,
+          "isNew": false,
           "note": "",
           "items": [
             {
@@ -37,7 +322,7 @@
     },
     {
       "title": "Sunwin — Jun 5 ship (Shanghai Alltex)",
-      "isNew": true,
+      "isNew": false,
       "packages": [
         {
           "recipient": "esther",
@@ -53,7 +338,7 @@
           "etaType": "delivered",
           "etaText": "6/8/26 9:32 AM",
           "contentsLabel": "Contents:",
-          "isNew": true,
+          "isNew": false,
           "note": "Contents unknown — not found in Slack",
           "items": []
         }
