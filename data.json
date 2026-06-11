@@ -1,6 +1,236 @@
 {
-  "lastUpdated": "Updated Wed, Jun 10 · 12:40 PM · 6 new packages · 0 new VP packages (scan skipped) · 0 archived",
+  "lastUpdated": "Updated Thu, Jun 11 · 10:13 AM · 4 new packages · 0 new VP packages (scan skipped) · 0 archived",
   "groups": [
+    {
+      "title": "Sunwin “Academy samples 20260610” — fit samples (Jun 10)",
+      "packages": [
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendor": "SW",
+          "vendorLabel": "Sunwin",
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "note": "",
+          "recipient": "alexa",
+          "recipientLabel": "Alexa",
+          "status": "delivered",
+          "statusLabel": "Delivered",
+          "trackingNumber": "872883264337",
+          "routeText": "Shanghai → Denver, CO · Shipped 6/10/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "6/11/26 9:21 AM",
+          "items": [
+            {
+              "text": "DAYDREAM RELAXED TROUSER, 2nd Fit sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE CLASSIC BRA, 1st Fit sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE PANEL LONGLINE BRA, 1st Fit sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE TOGETHER TANK, 1st Fit sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE TROUSER, 1st Fit sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendor": "SW",
+          "vendorLabel": "Sunwin",
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "note": "",
+          "recipient": "taylor",
+          "recipientLabel": "Taylor",
+          "status": "delivered",
+          "statusLabel": "Delivered",
+          "trackingNumber": "872883996559",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 6/10/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "6/11/26 9:59 AM",
+          "items": [
+            {
+              "text": "DAYDREAM RELAXED TROUSER, 2nd Fit sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE CLASSIC BRA, 1st Fit sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE PANEL LONGLINE BRA, 1st Fit sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE TOGETHER TANK, 1st Fit sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE TROUSER, 1st Fit sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendor": "SW",
+          "vendorLabel": "Sunwin",
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "note": "FedEx attempted delivery 6/11 — redelivery expected by Fri, Jun 12",
+          "recipient": "other",
+          "recipientLabel": "Grace",
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "trackingNumber": "872883592725",
+          "routeText": "Shanghai → San Francisco, CA · Shipped 6/10/26 · #sunwin-general",
+          "etaType": "eta",
+          "etaText": "Fri, Jun 12",
+          "items": [
+            {
+              "text": "DAYDREAM RELAXED TROUSER, 2nd Fit sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE CLASSIC BRA, 1st Fit sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE PANEL LONGLINE BRA, 1st Fit sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE TOGETHER TANK, 1st Fit sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE TROUSER, 1st Fit sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sunwin SW0084 DAYDREAM elastic tape — submit (Jun 10)",
+      "packages": [
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendor": "SW",
+          "vendorLabel": "Sunwin",
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "note": "Out for delivery 6/11 · copy also added to Alexa’s parcel",
+          "recipient": "esther",
+          "recipientLabel": "Esther",
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "trackingNumber": "872882407400",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 6/10/26 · #sunwin-general",
+          "etaType": "eta",
+          "etaText": "Thu, Jun 11",
+          "items": [
+            {
+              "text": "SW0084 DAYDREAM elastic tape, quality & color approval",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "title": "Sunwin \"Parcels on 20260608\" — LD & bulk submits (Jun 8)",
       "isNew": true,
@@ -8,18 +238,18 @@
         {
           "recipient": "alexa",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "872761793833",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Alexa",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → Denver, CO · Shipped 6/8/26 · #sunwin-general",
-          "etaType": "tba",
-          "etaText": "TBD",
+          "etaType": "delivered",
+          "etaText": "6/11/26 9:21 AM",
           "contentsLabel": "Contents:",
-          "isNew": true,
+          "isNew": false,
           "note": "",
           "items": [
             {
@@ -80,10 +310,10 @@
           "recipientLabel": "Esther",
           "statusLabel": "In Transit",
           "routeText": "Shanghai → El Cerrito, CA · Shipped 6/8/26 · #sunwin-general",
-          "etaType": "tba",
-          "etaText": "TBD",
+          "etaType": "eta",
+          "etaText": "Thu, Jun 11",
           "contentsLabel": "Contents:",
-          "isNew": true,
+          "isNew": false,
           "note": "",
           "items": [
             {
@@ -144,7 +374,7 @@
           "etaType": "delivered",
           "etaText": "6/8/26 9:14 AM",
           "contentsLabel": "Contents:",
-          "isNew": true,
+          "isNew": false,
           "note": "",
           "items": [
             {
@@ -190,7 +420,7 @@
           "etaType": "delivered",
           "etaText": "6/8/26 11:25 AM",
           "contentsLabel": "Contents:",
-          "isNew": true,
+          "isNew": false,
           "note": "",
           "items": [
             {
@@ -227,7 +457,7 @@
           "etaType": "delivered",
           "etaText": "6/8/26 11:47 AM",
           "contentsLabel": "Contents:",
-          "isNew": true,
+          "isNew": false,
           "note": "",
           "items": [
             {
@@ -259,18 +489,18 @@
         {
           "recipient": "other",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "872463689795",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Warehouse",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → American Fork, UT · Shipped 6/2/26 · #logistics",
-          "etaType": "eta",
-          "etaText": "Thu, Jun 11",
+          "etaType": "delivered",
+          "etaText": "6/11/26 9:32 AM",
           "contentsLabel": "Contents:",
-          "isNew": true,
+          "isNew": false,
           "note": "Audra flagged urgent in #logistics 6/5: shipper info missing (MID codes) — Cindy to resolve",
           "items": [
             {
