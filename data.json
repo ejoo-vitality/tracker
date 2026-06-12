@@ -1,6 +1,48 @@
 {
-  "lastUpdated": "Updated Thu, Jun 11 · 10:13 AM · 4 new packages · 0 new VP packages (scan skipped) · 0 archived",
+  "lastUpdated": "Updated Fri, Jun 12 · 10:15 AM · 1 new package · 0 new VP packages (scan skipped) · 1 archived",
   "groups": [
+    {
+      "title": "Sunwin \"Parcels on 20260612\" — bulks (Jun 12)",
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "872879113710",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → Denver, CO · Shipped 6/12/26 · #sunwin-general",
+          "etaType": "eta",
+          "etaText": "Mon, Jun 15",
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "items": [
+            {
+              "text": "SW0068 WHISPER, bulks",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            },
+            {
+              "text": "SW0086 FLOW/FLOAT, bulks",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ]
+    },
     {
       "title": "Sunwin “Academy samples 20260610” — fit samples (Jun 10)",
       "packages": [
@@ -10,7 +52,7 @@
           "vendor": "SW",
           "vendorLabel": "Sunwin",
           "contentsLabel": "Contents:",
-          "isNew": true,
+          "isNew": false,
           "note": "",
           "recipient": "alexa",
           "recipientLabel": "Alexa",
@@ -74,7 +116,7 @@
           "vendor": "SW",
           "vendorLabel": "Sunwin",
           "contentsLabel": "Contents:",
-          "isNew": true,
+          "isNew": false,
           "note": "",
           "recipient": "taylor",
           "recipientLabel": "Taylor",
@@ -138,16 +180,16 @@
           "vendor": "SW",
           "vendorLabel": "Sunwin",
           "contentsLabel": "Contents:",
-          "isNew": true,
+          "isNew": false,
           "note": "FedEx attempted delivery 6/11 — redelivery expected by Fri, Jun 12",
           "recipient": "other",
           "recipientLabel": "Grace",
-          "status": "onway",
-          "statusLabel": "In Transit",
+          "status": "delivered",
+          "statusLabel": "Delivered",
           "trackingNumber": "872883592725",
           "routeText": "Shanghai → San Francisco, CA · Shipped 6/10/26 · #sunwin-general",
-          "etaType": "eta",
-          "etaText": "Fri, Jun 12",
+          "etaType": "delivered",
+          "etaText": "6/12/26 9:58 AM",
           "items": [
             {
               "text": "DAYDREAM RELAXED TROUSER, 2nd Fit sample, size S",
@@ -207,16 +249,16 @@
           "vendor": "SW",
           "vendorLabel": "Sunwin",
           "contentsLabel": "Contents:",
-          "isNew": true,
+          "isNew": false,
           "note": "Out for delivery 6/11 · copy also added to Alexa’s parcel",
           "recipient": "esther",
           "recipientLabel": "Esther",
-          "status": "onway",
-          "statusLabel": "In Transit",
+          "status": "delivered",
+          "statusLabel": "Delivered",
           "trackingNumber": "872882407400",
           "routeText": "Shanghai → El Cerrito, CA · Shipped 6/10/26 · #sunwin-general",
-          "etaType": "eta",
-          "etaText": "Thu, Jun 11",
+          "etaType": "delivered",
+          "etaText": "6/11/26 11:11 AM",
           "items": [
             {
               "text": "SW0084 DAYDREAM elastic tape, quality & color approval",
@@ -302,16 +344,16 @@
         {
           "recipient": "esther",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "872761932080",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Esther",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → El Cerrito, CA · Shipped 6/8/26 · #sunwin-general",
-          "etaType": "eta",
-          "etaText": "Thu, Jun 11",
+          "etaType": "delivered",
+          "etaText": "6/11/26 11:11 AM",
           "contentsLabel": "Contents:",
           "isNew": false,
           "note": "",
@@ -724,34 +766,6 @@
           ]
         },
         {
-          "recipient": "esther",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "872579826857",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Esther",
-          "statusLabel": "Delivered",
-          "routeText": "Shanghai → El Cerrito, CA · Shipped 6/3/26 · #sunwin-general",
-          "etaType": "delivered",
-          "etaText": "6/4/26 10:24 AM",
-          "contentsLabel": "Contents:",
-          "isNew": false,
-          "note": "",
-          "items": [
-            {
-              "text": "SW0068 bulk elastic tape and adjuster quality & color approval",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            }
-          ]
-        },
-        {
           "recipient": "other",
           "vendor": "SW",
           "status": "delivered",
@@ -834,17 +848,17 @@
         {
           "recipient": "other",
           "vendor": "SS",
-          "status": "label",
+          "status": "onway",
           "isDupCompanion": false,
           "isNew": false,
           "carrier": "FedEx",
           "trackingNumber": "872155851919",
           "vendorLabel": "SS",
           "recipientLabel": "Audra",
-          "statusLabel": "Label Created",
-          "routeText": "City of Industry, CA → American Fork, UT · Label created · #ss-general",
-          "etaType": "tba",
-          "etaText": "TBD",
+          "statusLabel": "In Transit",
+          "routeText": "City of Industry, CA → American Fork, UT · Shipped 6/11/26 · #ss-general",
+          "etaType": "eta",
+          "etaText": "Mon, Jun 15",
           "contentsLabel": "Contents:",
           "note": "",
           "items": [
@@ -863,6 +877,39 @@
     }
   ],
   "archivedGroups": [
+    {
+      "title": "Archived — rolled 6/12/26",
+      "packages": [
+        {
+          "recipient": "esther",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "872579826857",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Esther",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 6/3/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "6/4/26 10:24 AM",
+          "contentsLabel": "Contents:",
+          "isNew": false,
+          "note": "",
+          "items": [
+            {
+              "text": "SW0068 bulk elastic tape and adjuster quality & color approval",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "title": "Archived — rolled 6/9/26",
       "packages": [
