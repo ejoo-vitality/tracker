@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "Updated Fri, Jun 12 · 10:15 AM · 1 new package · 0 new VP packages (scan skipped) · 1 archived",
+  "lastUpdated": "Updated Tue, Jun 16 · 10:13 AM · 6 new packages · 8 archived · 0 new VP packages (scan skipped)",
   "groups": [
     {
-      "title": "Sunwin \"Parcels on 20260612\" — bulks (Jun 12)",
+      "title": "Sunwin \"Parcels on 20260616\" — PP/TOP samples (Jun 16)",
       "packages": [
         {
           "recipient": "alexa",
@@ -10,15 +10,261 @@
           "status": "onway",
           "isDupCompanion": false,
           "carrier": "FedEx",
-          "trackingNumber": "872879113710",
+          "trackingNumber": "873132004788",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Alexa",
           "statusLabel": "In Transit",
-          "routeText": "Shanghai → Denver, CO · Shipped 6/12/26 · #sunwin-general",
-          "etaType": "eta",
-          "etaText": "Mon, Jun 15",
-          "contentsLabel": "Contents:",
           "isNew": true,
+          "routeText": "Shanghai → Denver, CO · Shipped 6/16/26 · #sunwin-general",
+          "etaType": "eta",
+          "etaText": "Thu, Jun 18",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0070 MARSHMALLOW ZIP UP JACKET, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0070 MENS MARSHMALLOW CREWNECK, PP sample, size XL",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0068 WHISPER RAGLAN TEE, TOP sample, size S, SNOW & MANGO",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "873130463925",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Taylor",
+          "statusLabel": "In Transit",
+          "isNew": true,
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 6/16/26 · #sunwin-general",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0070 MARSHMALLOW ZIP UP JACKET, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0070 MENS MARSHMALLOW CREWNECK, PP sample, size XL",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "recipient": "other",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "873130746770",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Grace",
+          "statusLabel": "In Transit",
+          "isNew": true,
+          "routeText": "Shanghai → San Francisco, CA · Shipped 6/16/26 · #sunwin-general",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0070 MARSHMALLOW ZIP UP JACKET, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0070 MENS MARSHMALLOW CREWNECK, PP sample, size XL",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ]
+    },
+    {
+      "title": "Sunwin \"Parcels on 20260615\" — bulks (Jun 15)",
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "873064823550",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "Out for Delivery",
+          "isNew": true,
+          "routeText": "Shanghai → Denver, CO · Shipped 6/15/26 · #sunwin-general",
+          "etaType": "eta",
+          "etaText": "Today, Jun 16",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0086 Zephyr, bulk",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            },
+            {
+              "text": "SW0086 Daydream trim, bulk",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            },
+            {
+              "text": "SW0076 Daydream trim, bulk",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            },
+            {
+              "text": "Academy Accelerate, bulk",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ]
+    },
+    {
+      "title": "Sunwin marketing samples batch 1 (Jun 16)",
+      "packages": [
+        {
+          "recipient": "other",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "873132244320",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Julia Abner",
+          "statusLabel": "In Transit",
+          "isNew": true,
+          "routeText": "Shanghai → Costa Mesa, CA · Shipped 6/16/26 · #sw-marketing-samples",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "Marketing samples (see attachment)",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "recipient": "other",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "873132359727",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexandra West",
+          "statusLabel": "In Transit",
+          "isNew": true,
+          "routeText": "Shanghai → Toronto, ON · Shipped 6/16/26 · #sw-marketing-samples",
+          "etaType": "eta",
+          "etaText": "Thu, Jun 18",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "Marketing samples (see attachment)",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ]
+    },
+    {
+      "title": "Sunwin \"Parcels on 20260612\" — bulks (Jun 12)",
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "872879113710",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → Denver, CO · Shipped 6/12/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Mon, Jun 15 · 10:26 AM",
+          "contentsLabel": "Contents:",
+          "isNew": false,
           "items": [
             {
               "text": "SW0068 WHISPER, bulks",
@@ -61,7 +307,7 @@
           "trackingNumber": "872883264337",
           "routeText": "Shanghai → Denver, CO · Shipped 6/10/26 · #sunwin-general",
           "etaType": "delivered",
-          "etaText": "6/11/26 9:21 AM",
+          "etaText": "Thu, Jun 11 · 9:21 AM",
           "items": [
             {
               "text": "DAYDREAM RELAXED TROUSER, 2nd Fit sample, size S",
@@ -125,7 +371,7 @@
           "trackingNumber": "872883996559",
           "routeText": "Shanghai → Castle Rock, CO · Shipped 6/10/26 · #sunwin-general",
           "etaType": "delivered",
-          "etaText": "6/11/26 9:59 AM",
+          "etaText": "Thu, Jun 11 · 9:59 AM",
           "items": [
             {
               "text": "DAYDREAM RELAXED TROUSER, 2nd Fit sample, size S",
@@ -189,7 +435,7 @@
           "trackingNumber": "872883592725",
           "routeText": "Shanghai → San Francisco, CA · Shipped 6/10/26 · #sunwin-general",
           "etaType": "delivered",
-          "etaText": "6/12/26 9:58 AM",
+          "etaText": "Fri, Jun 12 · 9:58 AM",
           "items": [
             {
               "text": "DAYDREAM RELAXED TROUSER, 2nd Fit sample, size S",
@@ -258,7 +504,7 @@
           "trackingNumber": "872882407400",
           "routeText": "Shanghai → El Cerrito, CA · Shipped 6/10/26 · #sunwin-general",
           "etaType": "delivered",
-          "etaText": "6/11/26 11:11 AM",
+          "etaText": "Thu, Jun 11 · 11:11 AM",
           "items": [
             {
               "text": "SW0084 DAYDREAM elastic tape, quality & color approval",
@@ -289,7 +535,7 @@
           "statusLabel": "Delivered",
           "routeText": "Shanghai → Denver, CO · Shipped 6/8/26 · #sunwin-general",
           "etaType": "delivered",
-          "etaText": "6/11/26 9:21 AM",
+          "etaText": "Thu, Jun 11 · 9:21 AM",
           "contentsLabel": "Contents:",
           "isNew": false,
           "note": "",
@@ -353,7 +599,7 @@
           "statusLabel": "Delivered",
           "routeText": "Shanghai → El Cerrito, CA · Shipped 6/8/26 · #sunwin-general",
           "etaType": "delivered",
-          "etaText": "6/11/26 11:11 AM",
+          "etaText": "Thu, Jun 11 · 11:11 AM",
           "contentsLabel": "Contents:",
           "isNew": false,
           "note": "",
@@ -399,8 +645,77 @@
       ]
     },
     {
-      "title": "Sunwin \"Parcels on 20260605\" — proto/PP/TOP samples (Jun 5)",
+      "title": "Sunwin bulk freight → American Fork, UT (Jun 2)",
       "isNew": true,
+      "packages": [
+        {
+          "recipient": "other",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "872463689795",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Warehouse",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → American Fork, UT · Shipped 6/2/26 · #logistics",
+          "etaType": "delivered",
+          "etaText": "Thu, Jun 11 · 9:32 AM",
+          "contentsLabel": "Contents:",
+          "isNew": false,
+          "note": "Audra flagged urgent in #logistics 6/5: shipper info missing (MID codes) — Cindy to resolve",
+          "items": [
+            {
+              "text": "Multi-piece bulk shipment (master tracking)",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "SS-0003 Sportlite Reorder — bulk part 2 (May 24)",
+      "isNew": false,
+      "packages": [
+        {
+          "recipient": "other",
+          "vendor": "SS",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "isNew": false,
+          "carrier": "FedEx",
+          "trackingNumber": "872155851919",
+          "vendorLabel": "SS",
+          "recipientLabel": "Audra",
+          "statusLabel": "Delivered",
+          "routeText": "City of Industry, CA → American Fork, UT · Shipped 6/11/26 · #ss-general",
+          "etaType": "delivered",
+          "etaText": "Mon, Jun 15 · 11:30 AM",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "items": [
+            {
+              "text": "SS-0003 SPORTLITE REORDER bulk shipment (part 2)",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "archivedGroups": [
+    {
+      "title": "Archived — rolled Jun 16",
       "packages": [
         {
           "recipient": "alexa",
@@ -521,47 +836,7 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "title": "Sunwin bulk freight → American Fork, UT (Jun 2)",
-      "isNew": true,
-      "packages": [
-        {
-          "recipient": "other",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "872463689795",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Warehouse",
-          "statusLabel": "Delivered",
-          "routeText": "Shanghai → American Fork, UT · Shipped 6/2/26 · #logistics",
-          "etaType": "delivered",
-          "etaText": "6/11/26 9:32 AM",
-          "contentsLabel": "Contents:",
-          "isNew": false,
-          "note": "Audra flagged urgent in #logistics 6/5: shipper info missing (MID codes) — Cindy to resolve",
-          "items": [
-            {
-              "text": "Multi-piece bulk shipment (master tracking)",
-              "tags": [
-                {
-                  "type": "bulk",
-                  "label": "BULK"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Product City — G4519 stopper submit (Jun 5)",
-      "isNew": false,
-      "packages": [
+        },
         {
           "recipient": "alexa",
           "vendor": "PC",
@@ -589,13 +864,7 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "title": "Sunwin — Jun 5 ship (Shanghai Alltex)",
-      "isNew": false,
-      "packages": [
+        },
         {
           "recipient": "esther",
           "vendor": "SW",
@@ -613,12 +882,7 @@
           "isNew": false,
           "note": "Contents unknown — not found in Slack",
           "items": []
-        }
-      ]
-    },
-    {
-      "title": "Sunwin \"Parcels on 20260603\" — 4-way ship (Jun 3)",
-      "packages": [
+        },
         {
           "recipient": "alexa",
           "vendor": "SW",
@@ -838,45 +1102,8 @@
             }
           ]
         }
-      ],
-      "isNew": false
-    },
-    {
-      "title": "SS-0003 Sportlite Reorder — bulk part 2 (May 24)",
-      "isNew": false,
-      "packages": [
-        {
-          "recipient": "other",
-          "vendor": "SS",
-          "status": "onway",
-          "isDupCompanion": false,
-          "isNew": false,
-          "carrier": "FedEx",
-          "trackingNumber": "872155851919",
-          "vendorLabel": "SS",
-          "recipientLabel": "Audra",
-          "statusLabel": "In Transit",
-          "routeText": "City of Industry, CA → American Fork, UT · Shipped 6/11/26 · #ss-general",
-          "etaType": "eta",
-          "etaText": "Mon, Jun 15",
-          "contentsLabel": "Contents:",
-          "note": "",
-          "items": [
-            {
-              "text": "SS-0003 SPORTLITE REORDER bulk shipment (part 2)",
-              "tags": [
-                {
-                  "type": "bulk",
-                  "label": "BULK"
-                }
-              ]
-            }
-          ]
-        }
       ]
-    }
-  ],
-  "archivedGroups": [
+    },
     {
       "title": "Archived — rolled 6/12/26",
       "packages": [
