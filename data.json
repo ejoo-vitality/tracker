@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "Updated Tue, Jun 23 · 10:13 AM · 0 new packages · 2 archived · 2 status updates · 0 new VP packages (scan skipped)",
+  "lastUpdated": "Updated Wed, Jun 24 · 10:13 AM · 0 new packages · 1 archived · 0 status updates · 0 new VP packages (scan skipped)",
   "groups": [
     {
       "title": "Sunwin SW0064 & SW0068 marketing samples — Julia & Alexandra (Jun 22)",
@@ -60,7 +60,8 @@
           ],
           "note": ""
         }
-      ]
+      ],
+      "isNew": false
     },
     {
       "title": "Sunwin SW0074 PL2 bulk — Audra (Jun 22)",
@@ -93,7 +94,8 @@
           ],
           "note": ""
         }
-      ]
+      ],
+      "isNew": false
     },
     {
       "title": "Sunwin \"Parcels on 20260622\" — submits (Jun 22)",
@@ -126,7 +128,8 @@
           ],
           "note": ""
         }
-      ]
+      ],
+      "isNew": false
     },
     {
       "title": "Sunwin \"Parcels on 20260618\" — Proto samples (Jun 18)",
@@ -292,7 +295,8 @@
           "note": "",
           "deliveredDate": "2026-06-22"
         }
-      ]
+      ],
+      "isNew": false
     },
     {
       "title": "Sunwin marketing samples batch 3 — Julia (Jun 18)",
@@ -326,7 +330,8 @@
           "note": "",
           "deliveredDate": "2026-06-22"
         }
-      ]
+      ],
+      "isNew": false
     },
     {
       "title": "Sunwin marketing samples batch 2 — Julia (Jun 17)",
@@ -360,7 +365,8 @@
           "note": "",
           "deliveredDate": "2026-06-18"
         }
-      ]
+      ],
+      "isNew": false
     },
     {
       "title": "Sunwin marketing samples — Julia, customs delay (Jun 2)",
@@ -393,7 +399,8 @@
           ],
           "note": "Customs delay reported 6/8; customs released per Cindy 6/16, FedEx updating"
         }
-      ]
+      ],
+      "isNew": false
     },
     {
       "title": "Sunwin \"Parcels on 20260616\" — PP/TOP samples (Jun 16)",
@@ -521,68 +528,8 @@
           "note": "",
           "deliveredDate": "2026-06-18"
         }
-      ]
-    },
-    {
-      "title": "Sunwin \"Parcels on 20260615\" — bulks (Jun 15)",
-      "packages": [
-        {
-          "recipient": "alexa",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "873064823550",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Alexa",
-          "statusLabel": "Delivered",
-          "isNew": false,
-          "routeText": "Shanghai → Denver, CO · Shipped 6/15/26 · #sunwin-general",
-          "etaType": "delivered",
-          "etaText": "Tue, Jun 16",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "SW0086 Zephyr, bulk",
-              "tags": [
-                {
-                  "type": "bulk",
-                  "label": "BULK"
-                }
-              ]
-            },
-            {
-              "text": "SW0086 Daydream trim, bulk",
-              "tags": [
-                {
-                  "type": "bulk",
-                  "label": "BULK"
-                }
-              ]
-            },
-            {
-              "text": "SW0076 Daydream trim, bulk",
-              "tags": [
-                {
-                  "type": "bulk",
-                  "label": "BULK"
-                }
-              ]
-            },
-            {
-              "text": "Academy Accelerate, bulk",
-              "tags": [
-                {
-                  "type": "bulk",
-                  "label": "BULK"
-                }
-              ]
-            }
-          ],
-          "note": "",
-          "deliveredDate": "2026-06-16"
-        }
-      ]
+      ],
+      "isNew": false
     },
     {
       "title": "Sunwin marketing samples batch 1 (Jun 16)",
@@ -645,7 +592,8 @@
           "note": "",
           "deliveredDate": "2026-06-18"
         }
-      ]
+      ],
+      "isNew": false
     }
   ],
   "archivedGroups": [
@@ -3744,6 +3692,67 @@
             }
           ],
           "note": ""
+        }
+      ]
+    },
+    {
+      "title": "Archived — rolled 6/24/26",
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "873064823550",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "Delivered",
+          "isNew": false,
+          "routeText": "Shanghai → Denver, CO · Shipped 6/15/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Tue, Jun 16",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0086 Zephyr, bulk",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            },
+            {
+              "text": "SW0086 Daydream trim, bulk",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            },
+            {
+              "text": "SW0076 Daydream trim, bulk",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            },
+            {
+              "text": "Academy Accelerate, bulk",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "deliveredDate": "2026-06-16"
         }
       ]
     }
