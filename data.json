@@ -1,6 +1,127 @@
 {
-  "lastUpdated": "Updated Thu, Jun 25 · 12:08 PM · 3 new packages · 0 archived · 1 status updates · VP scan skipped (0 new last run)",
+  "lastUpdated": "Updated Mon, Jun 29 · 10:09 AM · 3 new packages · 3 groups archived · VP scan skipped (0 new last run)",
   "groups": [
+    {
+      "title": "Sunwin SW0073 + Academy Accelerate bulks — Alexa (Jun 26)",
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "873591640705",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "Out for Delivery",
+          "routeText": "Shanghai → Denver, CO · Shipped 6/26/26 · #sunwin-general",
+          "etaType": "eta",
+          "etaText": "Mon, Jun 29",
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "items": [
+            {
+              "text": "SW0073 New basis, BULK",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "Academy Accelerate, BULK",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ]
+    },
+    {
+      "title": "Sunwin Academy DAYDREAM PP samples — Alexa & Grace (Jun 27-29)",
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "873646353718",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "Out for Delivery",
+          "routeText": "Shanghai → Denver, CO · Shipped 6/27/26 · #sw-academy-sports",
+          "etaType": "eta",
+          "etaText": "Mon, Jun 29",
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "items": [
+            {
+              "text": "DAYDREAM GATHER LONGLINE BRA, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "DAYDREAM RELAXED TROUSER, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "recipient": "other",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "873646964207",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Grace",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → San Francisco, CA · Shipped 6/29/26 · #sw-academy-sports",
+          "etaType": "tba",
+          "etaText": "TBD",
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "items": [
+            {
+              "text": "DAYDREAM GATHER LONGLINE BRA, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "DAYDREAM RELAXED TROUSER, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ]
+    },
     {
       "title": "Sunwin SW0068/SW0070/RIB BUTTERFLY — Alexa, Taylor, Grace (Jun 24)",
       "isNew": true,
@@ -14,12 +135,12 @@
           "trackingNumber": "873483092201",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Alexa",
-          "statusLabel": "In Transit",
+          "statusLabel": "Out for Delivery",
           "routeText": "Shanghai → Denver, CO · Shipped 6/24/26 · #sunwin-general",
-          "etaType": "tba",
-          "etaText": "TBD",
+          "etaType": "eta",
+          "etaText": "Mon, Jun 29",
           "contentsLabel": "Contents:",
-          "isNew": true,
+          "isNew": false,
           "items": [
             {
               "text": "SW0068 WHISPER RAGLAN TEE, TOP sample, size S, PASSIONFRUIT",
@@ -63,18 +184,18 @@
         {
           "recipient": "taylor",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "873483654700",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Taylor",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → Castle Rock, CO · Shipped 6/24/26 · #sunwin-general",
-          "etaType": "tba",
-          "etaText": "TBD",
+          "etaType": "delivered",
+          "etaText": "Jun 26",
           "contentsLabel": "Contents:",
-          "isNew": true,
+          "isNew": false,
           "items": [
             {
               "text": "SW0070 MARSHMALLOW GO JOGGER PANT, P4 sample, size S",
@@ -109,18 +230,18 @@
         {
           "recipient": "other",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "873483314341",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Grace",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → San Francisco, CA · Shipped 6/24/26 · #sunwin-general",
-          "etaType": "eta",
-          "etaText": "Tue, Jun 30",
+          "etaType": "delivered",
+          "etaText": "Jun 26",
           "contentsLabel": "Contents:",
-          "isNew": true,
+          "isNew": false,
           "items": [
             {
               "text": "SW0070 MARSHMALLOW GO JOGGER PANT, P4 sample, size S",
@@ -160,17 +281,17 @@
         {
           "recipient": "other",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "873362819346",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Julia",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "isNew": false,
           "routeText": "Shanghai → Costa Mesa, CA · Shipped 6/22/26 · #sw-marketing-samples",
-          "etaType": "eta",
-          "etaText": "Tue, Jun 30",
+          "etaType": "delivered",
+          "etaText": "Jun 26",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -194,11 +315,11 @@
           "trackingNumber": "873362711916",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Alexandra",
-          "statusLabel": "In Transit",
+          "statusLabel": "Out for Delivery",
           "isNew": false,
           "routeText": "Shanghai → Toronto, ON · Shipped 6/22/26 · #sw-marketing-samples",
           "etaType": "eta",
-          "etaText": "Fri, Jun 26",
+          "etaText": "Mon, Jun 29",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -228,11 +349,11 @@
           "trackingNumber": "873361650719",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Audra",
-          "statusLabel": "In Transit",
+          "statusLabel": "Out for Delivery",
           "isNew": false,
           "routeText": "Shanghai → American Fork, UT · Shipped 6/22/26 · #logistics",
-          "etaType": "tba",
-          "etaText": "TBD",
+          "etaType": "eta",
+          "etaText": "Mon, Jun 29",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -266,7 +387,7 @@
           "isNew": false,
           "routeText": "Shanghai → Denver, CO · Shipped 6/22/26 · #sunwin-general",
           "etaType": "delivered",
-          "etaText": "Delivered Jun 23",
+          "etaText": "Jun 23",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -300,7 +421,7 @@
           "isNew": false,
           "routeText": "Shanghai → El Cerrito, CA · Shipped 6/18/26 · #sunwin-general",
           "etaType": "delivered",
-          "etaText": "Delivered Jun 22",
+          "etaText": "Jun 22",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -338,7 +459,7 @@
           "isNew": false,
           "routeText": "Shanghai → Denver, CO · Shipped 6/18/26 · #sunwin-general",
           "etaType": "delivered",
-          "etaText": "Delivered Jun 22",
+          "etaText": "Jun 22",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -367,7 +488,7 @@
           "isNew": false,
           "routeText": "Shanghai → Castle Rock, CO · Shipped 6/18/26 · #sunwin-general",
           "etaType": "delivered",
-          "etaText": "Delivered Jun 22",
+          "etaText": "Jun 22",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -396,7 +517,7 @@
           "isNew": false,
           "routeText": "Shanghai → San Francisco, CA · Shipped 6/18/26 · #sunwin-general",
           "etaType": "delivered",
-          "etaText": "Delivered Jun 22",
+          "etaText": "Jun 22",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -467,7 +588,7 @@
           "isNew": false,
           "routeText": "Shanghai → Costa Mesa, CA · Shipped 6/18/26 · #sw-marketing-samples",
           "etaType": "delivered",
-          "etaText": "Delivered Jun 22",
+          "etaText": "Jun 22",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -482,41 +603,6 @@
           ],
           "note": "",
           "deliveredDate": "2026-06-22"
-        }
-      ],
-      "isNew": false
-    },
-    {
-      "title": "Sunwin marketing samples batch 2 — Julia (Jun 17)",
-      "packages": [
-        {
-          "recipient": "other",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "873183540482",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Other",
-          "statusLabel": "Delivered",
-          "isNew": false,
-          "routeText": "Shanghai → Costa Mesa, CA · Shipped 6/17/26 · #sw-marketing-samples",
-          "etaType": "delivered",
-          "etaText": "Delivered Jun 18",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "Marketing samples — Julia Abner",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "SAMPLE"
-                }
-              ]
-            }
-          ],
-          "note": "",
-          "deliveredDate": "2026-06-18"
         }
       ],
       "isNew": false
@@ -554,10 +640,41 @@
         }
       ],
       "isNew": false
-    },
+    }
+  ],
+  "archivedGroups": [
     {
-      "title": "Sunwin \"Parcels on 20260616\" — PP/TOP samples (Jun 16)",
+      "title": "Archived — rolled 6/29/26",
       "packages": [
+        {
+          "recipient": "other",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "873183540482",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Other",
+          "statusLabel": "Delivered",
+          "isNew": false,
+          "routeText": "Shanghai → Costa Mesa, CA · Shipped 6/17/26 · #sw-marketing-samples",
+          "etaType": "delivered",
+          "etaText": "Jun 18",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "Marketing samples — Julia Abner",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "SAMPLE"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "deliveredDate": "2026-06-18"
+        },
         {
           "recipient": "alexa",
           "vendor": "SW",
@@ -571,7 +688,7 @@
           "isNew": false,
           "routeText": "Shanghai → Denver, CO · Shipped 6/16/26 · #sunwin-general",
           "etaType": "delivered",
-          "etaText": "Delivered Jun 18",
+          "etaText": "Jun 18",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -618,7 +735,7 @@
           "isNew": false,
           "routeText": "Shanghai → Castle Rock, CO · Shipped 6/16/26 · #sunwin-general",
           "etaType": "delivered",
-          "etaText": "Delivered Jun 18",
+          "etaText": "Jun 18",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -656,7 +773,7 @@
           "isNew": false,
           "routeText": "Shanghai → San Francisco, CA · Shipped 6/16/26 · #sunwin-general",
           "etaType": "delivered",
-          "etaText": "Delivered Jun 18",
+          "etaText": "Jun 18",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -680,13 +797,7 @@
           ],
           "note": "",
           "deliveredDate": "2026-06-18"
-        }
-      ],
-      "isNew": false
-    },
-    {
-      "title": "Sunwin marketing samples batch 1 (Jun 16)",
-      "packages": [
+        },
         {
           "recipient": "other",
           "vendor": "SW",
@@ -700,7 +811,7 @@
           "isNew": false,
           "routeText": "Shanghai → Costa Mesa, CA · Shipped 6/16/26 · #sw-marketing-samples",
           "etaType": "delivered",
-          "etaText": "Delivered Jun 18",
+          "etaText": "Jun 18",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -729,7 +840,7 @@
           "isNew": false,
           "routeText": "Shanghai → Toronto, ON · Shipped 6/16/26 · #sw-marketing-samples",
           "etaType": "delivered",
-          "etaText": "Delivered Jun 18",
+          "etaText": "Jun 18",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -745,11 +856,8 @@
           "note": "",
           "deliveredDate": "2026-06-18"
         }
-      ],
-      "isNew": false
-    }
-  ],
-  "archivedGroups": [
+      ]
+    },
     {
       "title": "Archived — rolled Jun 23, 2026",
       "packages": [
