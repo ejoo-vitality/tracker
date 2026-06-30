@@ -1,8 +1,9 @@
 {
-  "lastUpdated": "Updated Mon, Jun 29 · 10:09 AM · 3 new packages · 3 groups archived · VP scan skipped (0 new last run)",
+  "lastUpdated": "Updated Tue, Jun 30 · 10:13 AM · 3 new packages · 5 archived · VP scan skipped (0 new last run)",
   "groups": [
     {
-      "title": "Sunwin SW0073 + Academy Accelerate bulks — Alexa (Jun 26)",
+      "title": "Sunwin SW0080/SW0068/SW0075/SW0084 TOP+P2 samples — Alexa, Taylor, Esther (Jun 30)",
+      "isNew": true,
       "packages": [
         {
           "recipient": "alexa",
@@ -10,15 +11,139 @@
           "status": "onway",
           "isDupCompanion": false,
           "carrier": "FedEx",
+          "trackingNumber": "873754295285",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → Denver, CO · Shipped 6/30/26 · #sunwin-general",
+          "etaType": "eta",
+          "etaText": "Thu, Jul 2",
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "items": [
+            {
+              "text": "SW0080 DAYDREAM BLOCK PANT, TOP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "SW0068 CLOUD II SQUARE TANK & BRA, TOP samples, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "SW0075 BASIS SCOOP LONG SLEEVE, TOP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "SW0084 PULSE HUE PANT & VOLLEY SHORT, P2 samples, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "Fabric dev SW260610-14 81%NYLON 19%SPANDEX 230GSM legging sample, size S",
+              "tags": []
+            }
+          ],
+          "note": ""
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "873754404573",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Taylor",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 6/30/26 · #sunwin-general",
+          "etaType": "tba",
+          "etaText": "TBD",
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "items": [
+            {
+              "text": "SW0084 PULSE HUE PANT & VOLLEY SHORT, P2 samples, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "Fabric dev SW260610-14 81%NYLON 19%SPANDEX 230GSM legging sample, size S",
+              "tags": []
+            }
+          ],
+          "note": ""
+        },
+        {
+          "recipient": "esther",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "873754005476",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Esther",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 6/30/26 · #sunwin-general",
+          "etaType": "tba",
+          "etaText": "TBD",
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "items": [
+            {
+              "text": "SW0084 PULSE HUE PANT & VOLLEY SHORT, P2 samples, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ]
+    },
+    {
+      "title": "Sunwin SW0073 + Academy Accelerate bulks — Alexa (Jun 26)",
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
           "trackingNumber": "873591640705",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Alexa",
-          "statusLabel": "Out for Delivery",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → Denver, CO · Shipped 6/26/26 · #sunwin-general",
-          "etaType": "eta",
-          "etaText": "Mon, Jun 29",
+          "etaType": "delivered",
+          "etaText": "Jun 29",
           "contentsLabel": "Contents:",
-          "isNew": true,
+          "isNew": false,
           "items": [
             {
               "text": "SW0073 New basis, BULK",
@@ -41,7 +166,8 @@
           ],
           "note": ""
         }
-      ]
+      ],
+      "isNew": false
     },
     {
       "title": "Sunwin Academy DAYDREAM PP samples — Alexa & Grace (Jun 27-29)",
@@ -49,18 +175,18 @@
         {
           "recipient": "alexa",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "873646353718",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Alexa",
-          "statusLabel": "Out for Delivery",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → Denver, CO · Shipped 6/27/26 · #sw-academy-sports",
-          "etaType": "eta",
-          "etaText": "Mon, Jun 29",
+          "etaType": "delivered",
+          "etaText": "Jun 29",
           "contentsLabel": "Contents:",
-          "isNew": true,
+          "isNew": false,
           "items": [
             {
               "text": "DAYDREAM GATHER LONGLINE BRA, PP sample, size S",
@@ -97,7 +223,7 @@
           "etaType": "tba",
           "etaText": "TBD",
           "contentsLabel": "Contents:",
-          "isNew": true,
+          "isNew": false,
           "items": [
             {
               "text": "DAYDREAM GATHER LONGLINE BRA, PP sample, size S",
@@ -120,25 +246,26 @@
           ],
           "note": ""
         }
-      ]
+      ],
+      "isNew": false
     },
     {
       "title": "Sunwin SW0068/SW0070/RIB BUTTERFLY — Alexa, Taylor, Grace (Jun 24)",
-      "isNew": true,
+      "isNew": false,
       "packages": [
         {
           "recipient": "alexa",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "873483092201",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Alexa",
-          "statusLabel": "Out for Delivery",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → Denver, CO · Shipped 6/24/26 · #sunwin-general",
-          "etaType": "eta",
-          "etaText": "Mon, Jun 29",
+          "etaType": "delivered",
+          "etaText": "Jun 29",
           "contentsLabel": "Contents:",
           "isNew": false,
           "items": [
@@ -309,17 +436,17 @@
         {
           "recipient": "other",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "873362711916",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Alexandra",
-          "statusLabel": "Out for Delivery",
+          "statusLabel": "Delivered",
           "isNew": false,
           "routeText": "Shanghai → Toronto, ON · Shipped 6/22/26 · #sw-marketing-samples",
-          "etaType": "eta",
-          "etaText": "Mon, Jun 29",
+          "etaType": "delivered",
+          "etaText": "Jun 29",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -343,17 +470,17 @@
         {
           "recipient": "other",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "873361650719",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Audra",
-          "statusLabel": "Out for Delivery",
+          "statusLabel": "Delivered",
           "isNew": false,
           "routeText": "Shanghai → American Fork, UT · Shipped 6/22/26 · #logistics",
-          "etaType": "eta",
-          "etaText": "Mon, Jun 29",
+          "etaType": "delivered",
+          "etaText": "Jun 29",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -406,7 +533,43 @@
       "isNew": false
     },
     {
-      "title": "Sunwin \"Parcels on 20260618\" — Proto samples (Jun 18)",
+      "title": "Sunwin marketing samples — Julia, customs delay (Jun 2)",
+      "packages": [
+        {
+          "recipient": "other",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "872522566810",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Other",
+          "statusLabel": "In Transit",
+          "isNew": false,
+          "routeText": "Shanghai → Costa Mesa, CA · Shipped 6/2/26 · #sw-marketing-samples",
+          "etaType": "tba",
+          "etaText": "TBD",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "Babydoll Tank, Flow Skirt — Julia Abner photoshoot",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "SAMPLE"
+                }
+              ]
+            }
+          ],
+          "note": "Customs delay reported 6/8; customs released per Cindy 6/16, FedEx updating"
+        }
+      ],
+      "isNew": false
+    }
+  ],
+  "archivedGroups": [
+    {
+      "title": "Archived — rolled 6/30/26",
       "packages": [
         {
           "recipient": "esther",
@@ -568,13 +731,7 @@
           ],
           "note": "",
           "deliveredDate": "2026-06-22"
-        }
-      ],
-      "isNew": false
-    },
-    {
-      "title": "Sunwin marketing samples batch 3 — Julia (Jun 18)",
-      "packages": [
+        },
         {
           "recipient": "other",
           "vendor": "SW",
@@ -604,45 +761,8 @@
           "note": "",
           "deliveredDate": "2026-06-22"
         }
-      ],
-      "isNew": false
+      ]
     },
-    {
-      "title": "Sunwin marketing samples — Julia, customs delay (Jun 2)",
-      "packages": [
-        {
-          "recipient": "other",
-          "vendor": "SW",
-          "status": "onway",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "872522566810",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Other",
-          "statusLabel": "In Transit",
-          "isNew": false,
-          "routeText": "Shanghai → Costa Mesa, CA · Shipped 6/2/26 · #sw-marketing-samples",
-          "etaType": "tba",
-          "etaText": "TBD",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "Babydoll Tank, Flow Skirt — Julia Abner photoshoot",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "SAMPLE"
-                }
-              ]
-            }
-          ],
-          "note": "Customs delay reported 6/8; customs released per Cindy 6/16, FedEx updating"
-        }
-      ],
-      "isNew": false
-    }
-  ],
-  "archivedGroups": [
     {
       "title": "Archived — rolled 6/29/26",
       "packages": [
