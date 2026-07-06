@@ -1,23 +1,237 @@
 {
-  "lastUpdated": "Updated Wed, Jul 1 · 10:12 AM · 0 new packages · 1 archived · VP scan skipped (0 new last run)",
+  "lastUpdated": "Updated Mon, Jul 6 · 10:15 AM · 5 new packages · 3 archived · VP scan skipped (0 new last run)",
   "groups": [
     {
-      "title": "Sunwin SW0080/SW0068/SW0075/SW0084 TOP+P2 samples — Alexa, Taylor, Esther (Jun 30)",
+      "title": "Sunwin SW0082/SW0072 P2+TOP + Accelerate PP samples — Alexa, Taylor, Esther (Jul 3)",
       "isNew": true,
       "packages": [
         {
           "recipient": "alexa",
           "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "Sunwin",
+          "statusLabel": "Delivered",
+          "contentsLabel": "Contents:",
+          "etaType": "delivered",
+          "isNew": true,
+          "note": "Sunwin suggests changing SW0082 top vertical buttonhole to horizontal to prevent collar topstitch breaking",
+          "recipientLabel": "Alexa",
+          "trackingNumber": "873916797481",
+          "etaText": "Delivered Mon, Jul 6",
+          "routeText": "Shanghai → Denver, CO · Shipped 7/3/26 · #sunwin-general",
+          "items": [
+            {
+              "text": "SW0072 PUFFER VEST, TOP samples, size S, two pieces",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "SW0082 BASIS OPEN CARDIGAN, P2 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0084&0086 FLOAT RIB HENLEY TEE, snaps quality & color approval",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE PANEL LONGLINE BRA, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE PANT, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Vitality hangtags, quality & color approval",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "Sunwin",
+          "statusLabel": "Delivered",
+          "contentsLabel": "Contents:",
+          "etaType": "delivered",
+          "isNew": true,
+          "note": "",
+          "recipientLabel": "Taylor",
+          "trackingNumber": "873916948592",
+          "etaText": "Delivered Mon, Jul 6",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 7/3/26 · #sunwin-general",
+          "items": [
+            {
+              "text": "SW0082 BASIS OPEN CARDIGAN, P2 sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "esther",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "Sunwin",
+          "statusLabel": "Delivered",
+          "contentsLabel": "Contents:",
+          "etaType": "delivered",
+          "isNew": true,
+          "note": "",
+          "recipientLabel": "Esther",
+          "trackingNumber": "873916880055",
+          "etaText": "Delivered Mon, Jul 6",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 7/3/26 · #sunwin-general",
+          "items": [
+            {
+              "text": "SW0082 BASIS OPEN CARDIGAN, P2 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0084&0086 FLOAT RIB HENLEY TEE, snaps quality & color approval",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE PANEL LONGLINE BRA, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE PANT, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sunwin marketing samples — Julia & Alexandra (Jul 4)",
+      "isNew": true,
+      "packages": [
+        {
+          "recipient": "other",
+          "vendor": "SW",
           "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "Sunwin",
+          "statusLabel": "In Transit",
+          "contentsLabel": "Contents:",
+          "etaType": "eta",
+          "isNew": true,
+          "note": "",
+          "recipientLabel": "Julia",
+          "trackingNumber": "873938115652",
+          "etaText": "Mon, Jul 13",
+          "routeText": "Shanghai → Costa Mesa, CA · Shipped 7/4/26 · #sw-marketing-samples",
+          "items": [
+            {
+              "text": "Marketing samples, two cartons",
+              "tags": []
+            }
+          ]
+        },
+        {
+          "recipient": "other",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "Sunwin",
+          "statusLabel": "In Transit",
+          "contentsLabel": "Contents:",
+          "etaType": "eta",
+          "isNew": true,
+          "note": "One size L of SW0064 ESSENCE WIDE LEG PANT color SNOW missing — Sunwin will include it in the next parcel",
+          "recipientLabel": "Alexandra",
+          "trackingNumber": "873938240120",
+          "etaText": "Mon, Jul 13",
+          "routeText": "Shanghai → Toronto, ON · Shipped 7/4/26 · #sw-marketing-samples",
+          "items": [
+            {
+              "text": "Marketing samples, two cartons",
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sunwin SW0080/SW0068/SW0075/SW0084 TOP+P2 samples — Alexa, Taylor, Esther (Jun 30)",
+      "isNew": false,
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "873754295285",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Alexa",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → Denver, CO · Shipped 6/30/26 · #sunwin-general",
-          "etaType": "eta",
-          "etaText": "Wed, Jul 1",
+          "etaType": "delivered",
+          "etaText": "Delivered Wed, Jul 1",
           "contentsLabel": "Contents:",
           "isNew": false,
           "items": [
@@ -75,8 +289,8 @@
           "recipientLabel": "Taylor",
           "statusLabel": "In Transit",
           "routeText": "Shanghai → Castle Rock, CO · Shipped 6/30/26 · #sunwin-general",
-          "etaType": "eta",
-          "etaText": "Thu, Jul 2",
+          "etaType": "tba",
+          "etaText": "TBA",
           "contentsLabel": "Contents:",
           "isNew": false,
           "items": [
@@ -99,16 +313,16 @@
         {
           "recipient": "esther",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "873754005476",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Esther",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → El Cerrito, CA · Shipped 6/30/26 · #sunwin-general",
-          "etaType": "eta",
-          "etaText": "Wed, Jul 1",
+          "etaType": "delivered",
+          "etaText": "Delivered Wed, Jul 1",
           "contentsLabel": "Contents:",
           "isNew": false,
           "items": [
@@ -307,132 +521,12 @@
             }
           ],
           "note": ""
-        },
-        {
-          "recipient": "taylor",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "873483654700",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Taylor",
-          "statusLabel": "Delivered",
-          "routeText": "Shanghai → Castle Rock, CO · Shipped 6/24/26 · #sunwin-general",
-          "etaType": "delivered",
-          "etaText": "Delivered Fri, Jun 26",
-          "contentsLabel": "Contents:",
-          "isNew": false,
-          "items": [
-            {
-              "text": "SW0070 MARSHMALLOW GO JOGGER PANT, P4 sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P4"
-                }
-              ]
-            },
-            {
-              "text": "SW0070 MENS MARSHMALLOW GO JOGGER PANT, PP sample, size L",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "RIB BUTTERFLY TANK, Proto sample, size XS",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "Proto"
-                }
-              ]
-            }
-          ],
-          "note": ""
-        },
-        {
-          "recipient": "other",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "873483314341",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Grace",
-          "statusLabel": "Delivered",
-          "routeText": "Shanghai → San Francisco, CA · Shipped 6/24/26 · #sunwin-general",
-          "etaType": "delivered",
-          "etaText": "Delivered Fri, Jun 26",
-          "contentsLabel": "Contents:",
-          "isNew": false,
-          "items": [
-            {
-              "text": "SW0070 MARSHMALLOW GO JOGGER PANT, P4 sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P4"
-                }
-              ]
-            },
-            {
-              "text": "SW0070 MENS MARSHMALLOW GO JOGGER PANT, PP sample, size L",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "RIB BUTTERFLY TANK, Proto sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "Proto"
-                }
-              ]
-            }
-          ],
-          "note": ""
         }
       ]
     },
     {
       "title": "Sunwin SW0064 & SW0068 marketing samples — Julia & Alexandra (Jun 22)",
       "packages": [
-        {
-          "recipient": "other",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "873362819346",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Julia",
-          "statusLabel": "Delivered",
-          "isNew": false,
-          "routeText": "Shanghai → Costa Mesa, CA · Shipped 6/22/26 · #sw-marketing-samples",
-          "etaType": "delivered",
-          "etaText": "Delivered Fri, Jun 26",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "SW0064 & SW0068 marketing samples",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            }
-          ],
-          "note": ""
-        },
         {
           "recipient": "other",
           "vendor": "SW",
@@ -534,6 +628,131 @@
     }
   ],
   "archivedGroups": [
+    {
+      "title": "Archived — rolled 7/6/26",
+      "packages": [
+        {
+          "recipient": "taylor",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "873483654700",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Taylor",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 6/24/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri, Jun 26",
+          "contentsLabel": "Contents:",
+          "isNew": false,
+          "items": [
+            {
+              "text": "SW0070 MARSHMALLOW GO JOGGER PANT, P4 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P4"
+                }
+              ]
+            },
+            {
+              "text": "SW0070 MENS MARSHMALLOW GO JOGGER PANT, PP sample, size L",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "RIB BUTTERFLY TANK, Proto sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "Proto"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "recipient": "other",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "873483314341",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Grace",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → San Francisco, CA · Shipped 6/24/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri, Jun 26",
+          "contentsLabel": "Contents:",
+          "isNew": false,
+          "items": [
+            {
+              "text": "SW0070 MARSHMALLOW GO JOGGER PANT, P4 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P4"
+                }
+              ]
+            },
+            {
+              "text": "SW0070 MENS MARSHMALLOW GO JOGGER PANT, PP sample, size L",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "RIB BUTTERFLY TANK, Proto sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "Proto"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "recipient": "other",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "873362819346",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Julia",
+          "statusLabel": "Delivered",
+          "isNew": false,
+          "routeText": "Shanghai → Costa Mesa, CA · Shipped 6/22/26 · #sw-marketing-samples",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri, Jun 26",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0064 & SW0068 marketing samples",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ]
+    },
     {
       "title": "Sunwin \"Parcels on 20260622\" — submits (Jun 22) [Archived — rolled 7/1/26]",
       "packages": [
