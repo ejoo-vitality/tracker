@@ -1,6 +1,496 @@
 {
-  "lastUpdated": "Updated Mon, Jul 6 · 10:15 AM · 5 new packages · 3 archived · VP scan skipped (0 new last run)",
+  "lastUpdated": "Updated Tue, Jul 7 · 10:07 AM · 8 new packages · 5 archived",
   "groups": [
+    {
+      "title": "DGJ0108 Bluebird Cloud II PP + fit samples — Alexa, Esther, Taylor (Jul 7)",
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "DGJ",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "874033333234",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Alexa",
+          "statusLabel": "In Transit",
+          "routeText": "Dongguan → Denver, CO · Shipped 7/7/26 · #dgj-0108-laura-bfcm-collab",
+          "etaType": "eta",
+          "etaText": "Thu, Jul 9",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "BLUEBIRD CLOUD II POCKET PANT, PP sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "BLUEBIRD CLOUD II POCKET VOLLEY SHORT, PP sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "BLUEBIRD CLOUD II V BRA, PP sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "BLUEBIRD CLOUD II V TANK, PP sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "CLOUD II CONTRAST POCKET VOLLEY SHORT, P2 sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "CLOUD II CONTRAST POCKET PANT, P1 sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "CLOUD II CRUSH BLOCK TANK, P2 sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "Invisible zipper in Cove color",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true
+        },
+        {
+          "recipient": "esther",
+          "vendor": "DGJ",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "874033487373",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Esther",
+          "statusLabel": "In Transit",
+          "routeText": "Dongguan → El Cerrito, CA · Shipped 7/7/26 · #dgj-0108-laura-bfcm-collab",
+          "etaType": "eta",
+          "etaText": "Thu, Jul 9",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "BLUEBIRD CLOUD II POCKET PANT, PP sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "BLUEBIRD CLOUD II POCKET VOLLEY SHORT, PP sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "BLUEBIRD CLOUD II V BRA, PP sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "BLUEBIRD CLOUD II V TANK, PP sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "CLOUD II CONTRAST POCKET VOLLEY SHORT, P2 sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "CLOUD II CONTRAST POCKET PANT, P1 sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "CLOUD II CRUSH BLOCK TANK, P2 sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "Invisible zipper in Cove color",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "DGJ",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "874033619490",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Taylor",
+          "statusLabel": "In Transit",
+          "routeText": "Dongguan → Castle Rock, CO · Shipped 7/7/26 · #dgj-0108-laura-bfcm-collab",
+          "etaType": "eta",
+          "etaText": "Thu, Jul 9",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "BLUEBIRD CLOUD II POCKET PANT, PP sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "BLUEBIRD CLOUD II POCKET VOLLEY SHORT, PP sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "BLUEBIRD CLOUD II V BRA, PP sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "BLUEBIRD CLOUD II V TANK, PP sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "CLOUD II CONTRAST POCKET VOLLEY SHORT, P2 sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "CLOUD II CONTRAST POCKET PANT, P1 sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "CLOUD II CRUSH BLOCK TANK, P2 sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "Invisible zipper in Cove color",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true
+        }
+      ]
+    },
+    {
+      "title": "Sunwin Academy PP samples — Alexa, Esther, Taylor (Jul 7)",
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "874036668626",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → Denver, CO · Shipped 7/7/26 · #sunwin-general",
+          "etaType": "eta",
+          "etaText": "Thu, Jul 9",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "ACCELERATE CLASSIC BRA, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE SWOOP BRA, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "POLAR FLEECE FULL ZIP HOODIE, pocketing bulk lots for quality & color approval",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            }
+          ],
+          "note": "Becky asks for comments ASAP",
+          "isNew": true
+        },
+        {
+          "recipient": "esther",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "874036749391",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Esther",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 7/7/26 · #sunwin-general",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "ACCELERATE CLASSIC BRA, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE SWOOP BRA, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "POLAR FLEECE FULL ZIP HOODIE, pocketing bulk lots for quality & color approval",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            }
+          ],
+          "note": "Becky asks for comments ASAP",
+          "isNew": true
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "874036460961",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Taylor",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 7/7/26 · #sunwin-general",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "ACCELERATE SWOOP BRA, PP sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE PANEL LONGLINE BRA, PP sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE PANT, PP sample, size S*1, XS*1",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "DAYDREAM GATHER LONGLINE BRA, PP sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "DAYDREAM RELAXED TROUSER, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ],
+          "note": "Becky asks for comments ASAP",
+          "isNew": true
+        }
+      ]
+    },
+    {
+      "title": "Sunwin SW0071 marketing samples — Julia & Alexandra (Jul 6)",
+      "packages": [
+        {
+          "recipient": "other",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "873965814111",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Julia",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → Costa Mesa, CA · Shipped 7/6/26 · #sw-marketing-samples",
+          "etaType": "eta",
+          "etaText": "Wed, Jul 8",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0071 marketing samples",
+              "tags": []
+            }
+          ],
+          "note": "",
+          "isNew": true
+        },
+        {
+          "recipient": "other",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "873965706441",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexandra",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → Toronto, ON · Shipped 7/6/26 · #sw-marketing-samples",
+          "etaType": "eta",
+          "etaText": "Tue, Jul 7 (out for delivery)",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0071 marketing samples",
+              "tags": []
+            }
+          ],
+          "note": "",
+          "isNew": true
+        }
+      ]
+    },
     {
       "title": "Sunwin SW0082/SW0072 P2+TOP + Accelerate PP samples — Alexa, Taylor, Esther (Jul 3)",
       "isNew": true,
@@ -15,7 +505,7 @@
           "statusLabel": "Delivered",
           "contentsLabel": "Contents:",
           "etaType": "delivered",
-          "isNew": true,
+          "isNew": false,
           "note": "Sunwin suggests changing SW0082 top vertical buttonhole to horizontal to prevent collar topstitch breaking",
           "recipientLabel": "Alexa",
           "trackingNumber": "873916797481",
@@ -88,7 +578,7 @@
           "statusLabel": "Delivered",
           "contentsLabel": "Contents:",
           "etaType": "delivered",
-          "isNew": true,
+          "isNew": false,
           "note": "",
           "recipientLabel": "Taylor",
           "trackingNumber": "873916948592",
@@ -116,7 +606,7 @@
           "statusLabel": "Delivered",
           "contentsLabel": "Contents:",
           "etaType": "delivered",
-          "isNew": true,
+          "isNew": false,
           "note": "",
           "recipientLabel": "Esther",
           "trackingNumber": "873916880055",
@@ -177,11 +667,11 @@
           "statusLabel": "In Transit",
           "contentsLabel": "Contents:",
           "etaType": "eta",
-          "isNew": true,
+          "isNew": false,
           "note": "",
           "recipientLabel": "Julia",
           "trackingNumber": "873938115652",
-          "etaText": "Mon, Jul 13",
+          "etaText": "Wed, Jul 8",
           "routeText": "Shanghai → Costa Mesa, CA · Shipped 7/4/26 · #sw-marketing-samples",
           "items": [
             {
@@ -200,7 +690,7 @@
           "statusLabel": "In Transit",
           "contentsLabel": "Contents:",
           "etaType": "eta",
-          "isNew": true,
+          "isNew": false,
           "note": "One size L of SW0064 ESSENCE WIDE LEG PANT color SNOW missing — Sunwin will include it in the next parcel",
           "recipientLabel": "Alexandra",
           "trackingNumber": "873938240120",
@@ -341,88 +831,8 @@
       ]
     },
     {
-      "title": "Sunwin SW0073 + Academy Accelerate bulks — Alexa (Jun 26)",
-      "packages": [
-        {
-          "recipient": "alexa",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "873591640705",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Alexa",
-          "statusLabel": "Delivered",
-          "routeText": "Shanghai → Denver, CO · Shipped 6/26/26 · #sunwin-general",
-          "etaType": "delivered",
-          "etaText": "Delivered Mon, Jun 29",
-          "contentsLabel": "Contents:",
-          "isNew": false,
-          "items": [
-            {
-              "text": "SW0073 New basis, BULK",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            },
-            {
-              "text": "Academy Accelerate, BULK",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            }
-          ],
-          "note": ""
-        }
-      ],
-      "isNew": false
-    },
-    {
       "title": "Sunwin Academy DAYDREAM PP samples — Alexa & Grace (Jun 27-29)",
       "packages": [
-        {
-          "recipient": "alexa",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "873646353718",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Alexa",
-          "statusLabel": "Delivered",
-          "routeText": "Shanghai → Denver, CO · Shipped 6/27/26 · #sw-academy-sports",
-          "etaType": "delivered",
-          "etaText": "Delivered Mon, Jun 29",
-          "contentsLabel": "Contents:",
-          "isNew": false,
-          "items": [
-            {
-              "text": "DAYDREAM GATHER LONGLINE BRA, PP sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "DAYDREAM RELAXED TROUSER, PP sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            }
-          ],
-          "note": ""
-        },
         {
           "recipient": "other",
           "vendor": "SW",
@@ -464,9 +874,118 @@
       "isNew": false
     },
     {
-      "title": "Sunwin SW0068/SW0070/RIB BUTTERFLY — Alexa, Taylor, Grace (Jun 24)",
-      "isNew": false,
+      "title": "Sunwin marketing samples — Julia, customs delay (Jun 2)",
       "packages": [
+        {
+          "recipient": "other",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "872522566810",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Other",
+          "statusLabel": "In Transit",
+          "isNew": false,
+          "routeText": "Shanghai → Costa Mesa, CA · Shipped 6/2/26 · #sw-marketing-samples",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "Babydoll Tank, Flow Skirt — Julia Abner photoshoot",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "SAMPLE"
+                }
+              ]
+            }
+          ],
+          "note": "Customs delay reported 6/8; customs released per Cindy 6/16, FedEx updating"
+        }
+      ],
+      "isNew": false
+    }
+  ],
+  "archivedGroups": [
+    {
+      "title": "Archived — rolled 7/7/26",
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "873591640705",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → Denver, CO · Shipped 6/26/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon, Jun 29",
+          "contentsLabel": "Contents:",
+          "isNew": false,
+          "items": [
+            {
+              "text": "SW0073 New basis, BULK",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "Academy Accelerate, BULK",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "873646353718",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → Denver, CO · Shipped 6/27/26 · #sw-academy-sports",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon, Jun 29",
+          "contentsLabel": "Contents:",
+          "isNew": false,
+          "items": [
+            {
+              "text": "DAYDREAM GATHER LONGLINE BRA, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "DAYDREAM RELAXED TROUSER, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
         {
           "recipient": "alexa",
           "vendor": "SW",
@@ -521,12 +1040,7 @@
             }
           ],
           "note": ""
-        }
-      ]
-    },
-    {
-      "title": "Sunwin SW0064 & SW0068 marketing samples — Julia & Alexandra (Jun 22)",
-      "packages": [
+        },
         {
           "recipient": "other",
           "vendor": "SW",
@@ -554,13 +1068,7 @@
             }
           ],
           "note": ""
-        }
-      ],
-      "isNew": false
-    },
-    {
-      "title": "Sunwin SW0074 PL2 bulk — Audra (Jun 22)",
-      "packages": [
+        },
         {
           "recipient": "other",
           "vendor": "SW",
@@ -589,45 +1097,8 @@
           ],
           "note": ""
         }
-      ],
-      "isNew": false
+      ]
     },
-    {
-      "title": "Sunwin marketing samples — Julia, customs delay (Jun 2)",
-      "packages": [
-        {
-          "recipient": "other",
-          "vendor": "SW",
-          "status": "onway",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "872522566810",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Other",
-          "statusLabel": "In Transit",
-          "isNew": false,
-          "routeText": "Shanghai → Costa Mesa, CA · Shipped 6/2/26 · #sw-marketing-samples",
-          "etaType": "tba",
-          "etaText": "TBA",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "Babydoll Tank, Flow Skirt — Julia Abner photoshoot",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "SAMPLE"
-                }
-              ]
-            }
-          ],
-          "note": "Customs delay reported 6/8; customs released per Cindy 6/16, FedEx updating"
-        }
-      ],
-      "isNew": false
-    }
-  ],
-  "archivedGroups": [
     {
       "title": "Archived — rolled 7/6/26",
       "packages": [
