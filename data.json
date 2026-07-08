@@ -1,6 +1,314 @@
 {
-  "lastUpdated": "Updated Tue, Jul 7 · 10:07 AM · 8 new packages · 5 archived",
+  "lastUpdated": "Updated Wed, Jul 8 · 10:14 AM · 4 new packages · 0 archived · 0 new VP packages",
   "groups": [
+    {
+      "title": "SW0068 Balanced affiliate samples — warehouse (Jul 8)",
+      "isNew": true,
+      "packages": [
+        {
+          "recipient": "other",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "874092563264",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Audra (warehouse)",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → American Fork, UT · Shipped 7/8/26 · #sw-affiliate-samples",
+          "etaType": "eta",
+          "etaText": "Fri, Jul 10",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0068 BALANCED AFFILIATE SAMPLES — full packing list in #sw-affiliate-samples",
+              "tags": []
+            }
+          ],
+          "note": "",
+          "isNew": true
+        }
+      ]
+    },
+    {
+      "title": "Sunwin SW0071 TOPs + SW0086/SW0088 samples — Alexa, Taylor, Esther (Jul 8)",
+      "isNew": true,
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "874094888270",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → Denver, CO · Shipped 7/8/26 · #sunwin-general",
+          "etaType": "eta",
+          "etaText": "Fri, Jul 10",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0071 LINEAR TRACK JACKET, TOP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "SW0071 LINEAR TRACK PANT, TOP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "SW0071 FLOW CROSSOVER TANK, TOP sample, size S, Nocturne & Raisin",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "SW0071 PULSE X RACER TANK, TOP sample, size S, Nocturne & Raisin",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "SW0071 PULSE SCULPT VOLLEY SHORT, TOP sample, size S, Cool & Warm Lightspeed",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "SW0071 PULSE SCULPT PANT, TOP sample, size S, Nocturne & Raisin",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 ZEPHYR TANK, proto sample, size XL",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "Proto"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 FLOW TIE TANK, proto sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "Proto"
+                }
+              ]
+            },
+            {
+              "text": "SW0086 FLOW WRAP TOP, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0086 MEN'S VITAL TEE, PP sample, size XL",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0086 FLOW SIMPLE TEE, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "874094271760",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Taylor",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 7/8/26 · #sunwin-general",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0088 ZEPHYR TANK, proto sample, size XL",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "Proto"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 FLOW TIE TANK, proto sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "Proto"
+                }
+              ]
+            },
+            {
+              "text": "SW0086 FLOW WRAP TOP, PP sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0086 MEN'S VITAL TEE, PP sample, size XL",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0086 FLOW SIMPLE TEE, PP sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0073 BASIS CREW LONG SLEEVE, 2nd PP sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true
+        },
+        {
+          "recipient": "esther",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "874094391066",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Esther",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 7/8/26 · #sunwin-general",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0088 ZEPHYR TANK, proto sample, size XL",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "Proto"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 FLOW TIE TANK, proto sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "Proto"
+                }
+              ]
+            },
+            {
+              "text": "SW0086 FLOW WRAP TOP, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0086 MEN'S VITAL TEE, PP sample, size XL",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0086 FLOW SIMPLE TEE, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0073 BASIS CREW LONG SLEEVE, 2nd PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "WOMEN'S RACER TANK, proto sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "Proto"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true
+        }
+      ]
+    },
     {
       "title": "DGJ0108 Bluebird Cloud II PP + fit samples — Alexa, Esther, Taylor (Jul 7)",
       "packages": [
@@ -15,8 +323,8 @@
           "recipientLabel": "Alexa",
           "statusLabel": "In Transit",
           "routeText": "Dongguan → Denver, CO · Shipped 7/7/26 · #dgj-0108-laura-bfcm-collab",
-          "etaType": "eta",
-          "etaText": "Thu, Jul 9",
+          "etaType": "tba",
+          "etaText": "TBA",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -93,7 +401,7 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "recipient": "esther",
@@ -106,8 +414,8 @@
           "recipientLabel": "Esther",
           "statusLabel": "In Transit",
           "routeText": "Dongguan → El Cerrito, CA · Shipped 7/7/26 · #dgj-0108-laura-bfcm-collab",
-          "etaType": "eta",
-          "etaText": "Thu, Jul 9",
+          "etaType": "tba",
+          "etaText": "TBA",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -184,7 +492,7 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "recipient": "taylor",
@@ -197,8 +505,8 @@
           "recipientLabel": "Taylor",
           "statusLabel": "In Transit",
           "routeText": "Dongguan → Castle Rock, CO · Shipped 7/7/26 · #dgj-0108-laura-bfcm-collab",
-          "etaType": "eta",
-          "etaText": "Thu, Jul 9",
+          "etaType": "tba",
+          "etaText": "TBA",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -275,7 +583,7 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         }
       ]
     },
@@ -285,16 +593,16 @@
         {
           "recipient": "alexa",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "874036668626",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Alexa",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → Denver, CO · Shipped 7/7/26 · #sunwin-general",
-          "etaType": "eta",
-          "etaText": "Thu, Jul 9",
+          "etaType": "delivered",
+          "etaText": "Delivered Wed, Jul 8",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -326,7 +634,7 @@
             }
           ],
           "note": "Becky asks for comments ASAP",
-          "isNew": true
+          "isNew": false
         },
         {
           "recipient": "esther",
@@ -339,8 +647,8 @@
           "recipientLabel": "Esther",
           "statusLabel": "In Transit",
           "routeText": "Shanghai → El Cerrito, CA · Shipped 7/7/26 · #sunwin-general",
-          "etaType": "tba",
-          "etaText": "TBA",
+          "etaType": "eta",
+          "etaText": "Wed, Jul 8 (out for delivery)",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -372,7 +680,7 @@
             }
           ],
           "note": "Becky asks for comments ASAP",
-          "isNew": true
+          "isNew": false
         },
         {
           "recipient": "taylor",
@@ -385,8 +693,8 @@
           "recipientLabel": "Taylor",
           "statusLabel": "In Transit",
           "routeText": "Shanghai → Castle Rock, CO · Shipped 7/7/26 · #sunwin-general",
-          "etaType": "tba",
-          "etaText": "TBA",
+          "etaType": "eta",
+          "etaText": "Wed, Jul 8 (out for delivery)",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -436,7 +744,7 @@
             }
           ],
           "note": "Becky asks for comments ASAP",
-          "isNew": true
+          "isNew": false
         }
       ]
     },
@@ -446,16 +754,16 @@
         {
           "recipient": "other",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "873965814111",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Julia",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → Costa Mesa, CA · Shipped 7/6/26 · #sw-marketing-samples",
-          "etaType": "eta",
-          "etaText": "Wed, Jul 8",
+          "etaType": "delivered",
+          "etaText": "Delivered Wed, Jul 8",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -464,21 +772,21 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "recipient": "other",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "873965706441",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Alexandra",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → Toronto, ON · Shipped 7/6/26 · #sw-marketing-samples",
-          "etaType": "eta",
-          "etaText": "Tue, Jul 7 (out for delivery)",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue, Jul 7",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -487,13 +795,13 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         }
       ]
     },
     {
       "title": "Sunwin SW0082/SW0072 P2+TOP + Accelerate PP samples — Alexa, Taylor, Esther (Jul 3)",
-      "isNew": true,
+      "isNew": false,
       "packages": [
         {
           "recipient": "alexa",
@@ -655,7 +963,7 @@
     },
     {
       "title": "Sunwin marketing samples — Julia & Alexandra (Jul 4)",
-      "isNew": true,
+      "isNew": false,
       "packages": [
         {
           "recipient": "other",
@@ -671,7 +979,7 @@
           "note": "",
           "recipientLabel": "Julia",
           "trackingNumber": "873938115652",
-          "etaText": "Wed, Jul 8",
+          "etaText": "Wed, Jul 8 (out for delivery)",
           "routeText": "Shanghai → Costa Mesa, CA · Shipped 7/4/26 · #sw-marketing-samples",
           "items": [
             {
