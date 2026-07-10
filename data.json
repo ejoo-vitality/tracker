@@ -1,6 +1,104 @@
 {
-  "lastUpdated": "Updated Wed, Jul 8 · 10:14 AM · 4 new packages · 0 archived · 0 new VP packages",
+  "lastUpdated": "Updated Fri, Jul 10 · 10:16 AM · 2 new packages · 4 archived · 0 new VP packages (scan skipped)",
   "groups": [
+    {
+      "title": "Sunwin Academy HOMEBODY PP samples — Alexa & Esther (Jul 10)",
+      "isNew": true,
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "874151379021",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → Denver, CO · Shipped 7/9/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri, Jul 10",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "HOMEBODY HOODIE BONE WASHED, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "HOMEBODY TROUSER BONE WASHED, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "POLAR FLEECE FULL ZIP HOODIE, bulk trims for color approval",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            }
+          ],
+          "note": "Becky asks for comments ASAP",
+          "isNew": true
+        },
+        {
+          "recipient": "esther",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "874151848942",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Esther",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 7/9/26 · #sunwin-general",
+          "etaType": "eta",
+          "etaText": "Fri, Jul 10",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "HOMEBODY HOODIE BONE WASHED, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "HOMEBODY TROUSER BONE WASHED, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "POLAR FLEECE FULL ZIP HOODIE, bulk trims for color approval",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            }
+          ],
+          "note": "Out for delivery · Becky asks for comments ASAP",
+          "isNew": true
+        }
+      ]
+    },
     {
       "title": "SW0068 Balanced affiliate samples — warehouse (Jul 8)",
       "isNew": true,
@@ -8,16 +106,16 @@
         {
           "recipient": "other",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "874092563264",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Audra (warehouse)",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → American Fork, UT · Shipped 7/8/26 · #sw-affiliate-samples",
-          "etaType": "eta",
-          "etaText": "Fri, Jul 10",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri, Jul 10",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -26,7 +124,7 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         }
       ]
     },
@@ -37,16 +135,16 @@
         {
           "recipient": "alexa",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "874094888270",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Alexa",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → Denver, CO · Shipped 7/8/26 · #sunwin-general",
-          "etaType": "eta",
-          "etaText": "Fri, Jul 10",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri, Jul 10",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -150,21 +248,21 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "recipient": "taylor",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "874094271760",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Taylor",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → Castle Rock, CO · Shipped 7/8/26 · #sunwin-general",
-          "etaType": "tba",
-          "etaText": "TBA",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri, Jul 10",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -223,21 +321,21 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "recipient": "esther",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "874094391066",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Esther",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → El Cerrito, CA · Shipped 7/8/26 · #sunwin-general",
-          "etaType": "tba",
-          "etaText": "TBA",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu, Jul 9",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -305,7 +403,7 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         }
       ]
     },
@@ -315,16 +413,16 @@
         {
           "recipient": "alexa",
           "vendor": "DGJ",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "874033333234",
           "vendorLabel": "DGJ",
           "recipientLabel": "Alexa",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Dongguan → Denver, CO · Shipped 7/7/26 · #dgj-0108-laura-bfcm-collab",
-          "etaType": "tba",
-          "etaText": "TBA",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri, Jul 10",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -414,8 +512,8 @@
           "recipientLabel": "Esther",
           "statusLabel": "In Transit",
           "routeText": "Dongguan → El Cerrito, CA · Shipped 7/7/26 · #dgj-0108-laura-bfcm-collab",
-          "etaType": "tba",
-          "etaText": "TBA",
+          "etaType": "eta",
+          "etaText": "Fri, Jul 10",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -505,8 +603,8 @@
           "recipientLabel": "Taylor",
           "statusLabel": "In Transit",
           "routeText": "Dongguan → Castle Rock, CO · Shipped 7/7/26 · #dgj-0108-laura-bfcm-collab",
-          "etaType": "tba",
-          "etaText": "TBA",
+          "etaType": "eta",
+          "etaText": "Mon, Jul 13",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -639,16 +737,16 @@
         {
           "recipient": "esther",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "874036749391",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Esther",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → El Cerrito, CA · Shipped 7/7/26 · #sunwin-general",
-          "etaType": "eta",
-          "etaText": "Wed, Jul 8 (out for delivery)",
+          "etaType": "delivered",
+          "etaText": "Delivered Wed, Jul 8",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -685,16 +783,16 @@
         {
           "recipient": "taylor",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "874036460961",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Taylor",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → Castle Rock, CO · Shipped 7/7/26 · #sunwin-general",
-          "etaType": "eta",
-          "etaText": "Wed, Jul 8 (out for delivery)",
+          "etaType": "delivered",
+          "etaText": "Delivered Wed, Jul 8",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -968,18 +1066,18 @@
         {
           "recipient": "other",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "vendorLabel": "Sunwin",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "contentsLabel": "Contents:",
-          "etaType": "eta",
+          "etaType": "delivered",
           "isNew": false,
           "note": "",
           "recipientLabel": "Julia",
           "trackingNumber": "873938115652",
-          "etaText": "Wed, Jul 8 (out for delivery)",
+          "etaText": "Delivered Wed, Jul 8",
           "routeText": "Shanghai → Costa Mesa, CA · Shipped 7/4/26 · #sw-marketing-samples",
           "items": [
             {
@@ -991,18 +1089,18 @@
         {
           "recipient": "other",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "vendorLabel": "Sunwin",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "contentsLabel": "Contents:",
-          "etaType": "eta",
+          "etaType": "delivered",
           "isNew": false,
           "note": "One size L of SW0064 ESSENCE WIDE LEG PANT color SNOW missing — Sunwin will include it in the next parcel",
           "recipientLabel": "Alexandra",
           "trackingNumber": "873938240120",
-          "etaText": "Mon, Jul 13",
+          "etaText": "Delivered Thu, Jul 9",
           "routeText": "Shanghai → Toronto, ON · Shipped 7/4/26 · #sw-marketing-samples",
           "items": [
             {
@@ -1014,8 +1112,43 @@
       ]
     },
     {
-      "title": "Sunwin SW0080/SW0068/SW0075/SW0084 TOP+P2 samples — Alexa, Taylor, Esther (Jun 30)",
-      "isNew": false,
+      "title": "Sunwin marketing samples — Julia, customs delay (Jun 2)",
+      "packages": [
+        {
+          "recipient": "other",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "872522566810",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Other",
+          "statusLabel": "In Transit",
+          "isNew": false,
+          "routeText": "Shanghai → Costa Mesa, CA · Shipped 6/2/26 · #sw-marketing-samples",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "Babydoll Tank, Flow Skirt — Julia Abner photoshoot",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "SAMPLE"
+                }
+              ]
+            }
+          ],
+          "note": "Customs delay reported 6/8; customs released per Cindy 6/16, FedEx updating"
+        }
+      ],
+      "isNew": false
+    }
+  ],
+  "archivedGroups": [
+    {
+      "title": "Archived — rolled 7/10/26",
       "packages": [
         {
           "recipient": "alexa",
@@ -1079,16 +1212,16 @@
         {
           "recipient": "taylor",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "873754404573",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Taylor",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → Castle Rock, CO · Shipped 6/30/26 · #sunwin-general",
-          "etaType": "tba",
-          "etaText": "TBA",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu, Jul 2",
           "contentsLabel": "Contents:",
           "isNew": false,
           "items": [
@@ -1135,12 +1268,7 @@
             }
           ],
           "note": ""
-        }
-      ]
-    },
-    {
-      "title": "Sunwin Academy DAYDREAM PP samples — Alexa & Grace (Jun 27-29)",
-      "packages": [
+        },
         {
           "recipient": "other",
           "vendor": "SW",
@@ -1178,45 +1306,8 @@
           ],
           "note": ""
         }
-      ],
-      "isNew": false
+      ]
     },
-    {
-      "title": "Sunwin marketing samples — Julia, customs delay (Jun 2)",
-      "packages": [
-        {
-          "recipient": "other",
-          "vendor": "SW",
-          "status": "onway",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "872522566810",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Other",
-          "statusLabel": "In Transit",
-          "isNew": false,
-          "routeText": "Shanghai → Costa Mesa, CA · Shipped 6/2/26 · #sw-marketing-samples",
-          "etaType": "tba",
-          "etaText": "TBA",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "Babydoll Tank, Flow Skirt — Julia Abner photoshoot",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "SAMPLE"
-                }
-              ]
-            }
-          ],
-          "note": "Customs delay reported 6/8; customs released per Cindy 6/16, FedEx updating"
-        }
-      ],
-      "isNew": false
-    }
-  ],
-  "archivedGroups": [
     {
       "title": "Archived — rolled 7/7/26",
       "packages": [
