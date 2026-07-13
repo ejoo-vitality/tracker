@@ -1,6 +1,204 @@
 {
-  "lastUpdated": "Updated Fri, Jul 10 · 10:16 AM · 2 new packages · 4 archived · 0 new VP packages (scan skipped)",
+  "lastUpdated": "Updated Mon, Jul 13 · 10:18 AM · 3 new packages · 0 archived · 0 new VP packages (scan skipped)",
   "groups": [
+    {
+      "title": "Sunwin Academy ACCELERATE PP samples — Alexa, Esther, Taylor (Jul 11)",
+      "isNew": true,
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "874249638700",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → Denver, CO · Shipped 7/11/26 · #sunwin-general",
+          "etaType": "eta",
+          "etaText": "Tue, Jul 14",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "ACCELERATE FRAME JACKET ESPRESSO, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE VOLLEY SHORT ESPRESSO, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE CREW TEE SNOW, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE TROUSER MIDNIGHT, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "POLAR FLEECE FULL ZIP HOODIE, Milk Chocolate, pocketing for color approval",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "isNew": true,
+          "note": "Becky (7/12): Jason & Wendy put Vitality items in the 7/10 & 7/11 SW parcels — may contain VP items."
+        },
+        {
+          "recipient": "esther",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "874249713087",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Esther",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 7/11/26 · #sunwin-general",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "ACCELERATE FRAME JACKET ESPRESSO, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE VOLLEY SHORT ESPRESSO, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE CREW TEE MIDNIGHT, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE TROUSER MIDNIGHT, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "POLAR FLEECE FULL ZIP HOODIE, Milk Chocolate, pocketing for color approval",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "isNew": true,
+          "note": "Becky (7/12): Jason & Wendy put Vitality items in the 7/10 & 7/11 SW parcels — may contain VP items."
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "874249094060",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Taylor",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 7/11/26 · #sunwin-general",
+          "etaType": "eta",
+          "etaText": "Tue, Jul 14",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "HOMEBODY HOODIE MIDNIGHT WASHED, PP sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "HOMEBODY TROUSER MIDNIGHT WASHED, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE VOLLEY SHORT MIDNIGHT, PP sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE CREW TEE MIDNIGHT, PP sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE TROUSER MIDNIGHT, PP sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ],
+          "isNew": true,
+          "note": "Becky (7/12): Jason & Wendy put Vitality items in the 7/10 & 7/11 SW parcels — may contain VP items."
+        }
+      ]
+    },
     {
       "title": "Sunwin Academy HOMEBODY PP samples — Alexa & Esther (Jul 10)",
       "isNew": true,
@@ -49,21 +247,21 @@
             }
           ],
           "note": "Becky asks for comments ASAP",
-          "isNew": true
+          "isNew": false
         },
         {
           "recipient": "esther",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "874151848942",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Esther",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → El Cerrito, CA · Shipped 7/9/26 · #sunwin-general",
-          "etaType": "eta",
-          "etaText": "Fri, Jul 10",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri, Jul 10",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -95,7 +293,7 @@
             }
           ],
           "note": "Out for delivery · Becky asks for comments ASAP",
-          "isNew": true
+          "isNew": false
         }
       ]
     },
@@ -504,16 +702,16 @@
         {
           "recipient": "esther",
           "vendor": "DGJ",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "874033487373",
           "vendorLabel": "DGJ",
           "recipientLabel": "Esther",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Dongguan → El Cerrito, CA · Shipped 7/7/26 · #dgj-0108-laura-bfcm-collab",
-          "etaType": "eta",
-          "etaText": "Fri, Jul 10",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri, Jul 10",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -595,16 +793,16 @@
         {
           "recipient": "taylor",
           "vendor": "DGJ",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "874033619490",
           "vendorLabel": "DGJ",
           "recipientLabel": "Taylor",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Dongguan → Castle Rock, CO · Shipped 7/7/26 · #dgj-0108-laura-bfcm-collab",
-          "etaType": "eta",
-          "etaText": "Mon, Jul 13",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon, Jul 13",
           "contentsLabel": "Contents:",
           "items": [
             {
