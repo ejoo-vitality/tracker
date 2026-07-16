@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "Updated Wed, Jul 15 · 3:09 PM · 3 new packages · 1 archived · 2 status updates · 0 new VP packages (scan skipped)",
+  "lastUpdated": "Updated Thu, Jul 16 · 11:20 AM · 0 new packages · 5 archived · 3 status updates · 0 new VP packages (scan skipped)",
   "groups": [
     {
       "title": "Sunwin trim submits + SW0088 proto samples — Alexa, Esther, Taylor (Jul 15)",
@@ -8,18 +8,18 @@
         {
           "recipient": "alexa",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "874406240013",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Alexa",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → Denver, CO · Shipped 7/15/26 · #sunwin-general",
-          "etaType": "eta",
-          "etaText": "Thu, Jul 16",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu, Jul 16",
           "contentsLabel": "Contents:",
-          "isNew": true,
+          "isNew": false,
           "note": "",
           "items": [
             {
@@ -125,10 +125,10 @@
           "recipientLabel": "Esther",
           "statusLabel": "In Transit",
           "routeText": "Shanghai → El Cerrito, CA · Shipped 7/15/26 · #sunwin-general",
-          "etaType": "tba",
-          "etaText": "TBA",
+          "etaType": "eta",
+          "etaText": "Fri, Jul 17",
           "contentsLabel": "Contents:",
-          "isNew": true,
+          "isNew": false,
           "note": "",
           "items": [
             {
@@ -208,18 +208,18 @@
         {
           "recipient": "taylor",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "874405452108",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Taylor",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → Castle Rock, CO · Shipped 7/15/26 · #sunwin-general",
-          "etaType": "eta",
-          "etaText": "Thu, Jul 16",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu, Jul 16",
           "contentsLabel": "Contents:",
-          "isNew": true,
+          "isNew": false,
           "note": "",
           "items": [
             {
@@ -1317,7 +1317,72 @@
       "isNew": false
     },
     {
-      "title": "Sunwin Academy PP samples — Alexa, Esther, Taylor (Jul 7)",
+      "title": "Sunwin marketing samples — Julia & Alexandra (Jul 4)",
+      "isNew": false,
+      "packages": [
+        {
+          "recipient": "other",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "Sunwin",
+          "statusLabel": "Delivered",
+          "contentsLabel": "Contents:",
+          "etaType": "delivered",
+          "isNew": false,
+          "note": "One size L of SW0064 ESSENCE WIDE LEG PANT color SNOW missing — Sunwin will include it in the next parcel",
+          "recipientLabel": "Alexandra",
+          "trackingNumber": "873938240120",
+          "etaText": "Delivered Thu, Jul 9",
+          "routeText": "Shanghai → Toronto, ON · Shipped 7/4/26 · #sw-marketing-samples",
+          "items": [
+            {
+              "text": "Marketing samples, two cartons",
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sunwin marketing samples — Julia, customs delay (Jun 2)",
+      "packages": [
+        {
+          "recipient": "other",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "872522566810",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Other",
+          "statusLabel": "In Transit",
+          "isNew": false,
+          "routeText": "Shanghai → Costa Mesa, CA · Shipped 6/2/26 · #sw-marketing-samples",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "Babydoll Tank, Flow Skirt — Julia Abner photoshoot",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "SAMPLE"
+                }
+              ]
+            }
+          ],
+          "note": "Customs delay reported 6/8; customs released per Cindy 6/16, FedEx updating"
+        }
+      ],
+      "isNew": false
+    }
+  ],
+  "archivedGroups": [
+    {
+      "title": "Archived — rolled 7/16/26",
       "packages": [
         {
           "recipient": "alexa",
@@ -1474,13 +1539,7 @@
           ],
           "note": "Becky asks for comments ASAP",
           "isNew": false
-        }
-      ],
-      "isNew": false
-    },
-    {
-      "title": "Sunwin SW0071 marketing samples — Julia & Alexandra (Jul 6)",
-      "packages": [
+        },
         {
           "recipient": "other",
           "vendor": "SW",
@@ -1503,14 +1562,7 @@
           ],
           "note": "",
           "isNew": false
-        }
-      ],
-      "isNew": false
-    },
-    {
-      "title": "Sunwin marketing samples — Julia & Alexandra (Jul 4)",
-      "isNew": false,
-      "packages": [
+        },
         {
           "recipient": "other",
           "vendor": "SW",
@@ -1533,68 +1585,9 @@
               "tags": []
             }
           ]
-        },
-        {
-          "recipient": "other",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "vendorLabel": "Sunwin",
-          "statusLabel": "Delivered",
-          "contentsLabel": "Contents:",
-          "etaType": "delivered",
-          "isNew": false,
-          "note": "One size L of SW0064 ESSENCE WIDE LEG PANT color SNOW missing — Sunwin will include it in the next parcel",
-          "recipientLabel": "Alexandra",
-          "trackingNumber": "873938240120",
-          "etaText": "Delivered Thu, Jul 9",
-          "routeText": "Shanghai → Toronto, ON · Shipped 7/4/26 · #sw-marketing-samples",
-          "items": [
-            {
-              "text": "Marketing samples, two cartons",
-              "tags": []
-            }
-          ]
         }
       ]
     },
-    {
-      "title": "Sunwin marketing samples — Julia, customs delay (Jun 2)",
-      "packages": [
-        {
-          "recipient": "other",
-          "vendor": "SW",
-          "status": "onway",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "872522566810",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Other",
-          "statusLabel": "In Transit",
-          "isNew": false,
-          "routeText": "Shanghai → Costa Mesa, CA · Shipped 6/2/26 · #sw-marketing-samples",
-          "etaType": "tba",
-          "etaText": "TBA",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "Babydoll Tank, Flow Skirt — Julia Abner photoshoot",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "SAMPLE"
-                }
-              ]
-            }
-          ],
-          "note": "Customs delay reported 6/8; customs released per Cindy 6/16, FedEx updating"
-        }
-      ],
-      "isNew": false
-    }
-  ],
-  "archivedGroups": [
     {
       "title": "Archived — rolled 7/15/26",
       "isNew": false,
