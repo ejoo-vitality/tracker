@@ -1,6 +1,49 @@
 {
-  "lastUpdated": "Updated Thu, Jul 16 · 11:20 AM · 0 new packages · 5 archived · 3 status updates · 0 new VP packages (scan skipped)",
+  "lastUpdated": "Updated Fri, Jul 17 · 2:28 PM · 1 new package · 2 archived · 1 status update · 0 new VP packages (scan skipped)",
   "groups": [
+    {
+      "title": "Sunwin bulk submits (SW0076/78/79/86 New Basis + SW0084 Pulse) — Alexa (Jul 17)",
+      "isNew": true,
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "874517256056",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → Denver, CO · Shipped 7/17/26 · #sunwin-general",
+          "etaType": "eta",
+          "etaText": "Mon, Jul 20",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0076/SW0078/SW0079/SW0086 NEW BASIS, bulk",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            },
+            {
+              "text": "SW0084 PULSE, bulk",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            }
+          ],
+          "isNew": true,
+          "note": ""
+        }
+      ]
+    },
     {
       "title": "Sunwin trim submits + SW0088 proto samples — Alexa, Esther, Taylor (Jul 15)",
       "isNew": true,
@@ -117,16 +160,16 @@
         {
           "recipient": "esther",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "874405780600",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Esther",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → El Cerrito, CA · Shipped 7/15/26 · #sunwin-general",
-          "etaType": "eta",
-          "etaText": "Fri, Jul 17",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri, Jul 17",
           "contentsLabel": "Contents:",
           "isNew": false,
           "note": "",
@@ -952,88 +995,6 @@
           ],
           "note": "",
           "isNew": false
-        },
-        {
-          "recipient": "esther",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "874094391066",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Esther",
-          "statusLabel": "Delivered",
-          "routeText": "Shanghai → El Cerrito, CA · Shipped 7/8/26 · #sunwin-general",
-          "etaType": "delivered",
-          "etaText": "Delivered Thu, Jul 9",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "SW0088 ZEPHYR TANK, proto sample, size XL",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "Proto"
-                }
-              ]
-            },
-            {
-              "text": "SW0088 FLOW TIE TANK, proto sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "Proto"
-                }
-              ]
-            },
-            {
-              "text": "SW0086 FLOW WRAP TOP, PP sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "SW0086 MEN'S VITAL TEE, PP sample, size XL",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "SW0086 FLOW SIMPLE TEE, PP sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "SW0073 BASIS CREW LONG SLEEVE, 2nd PP sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "WOMEN'S RACER TANK, proto sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "Proto"
-                }
-              ]
-            }
-          ],
-          "note": "",
-          "isNew": false
         }
       ]
     },
@@ -1317,35 +1278,6 @@
       "isNew": false
     },
     {
-      "title": "Sunwin marketing samples — Julia & Alexandra (Jul 4)",
-      "isNew": false,
-      "packages": [
-        {
-          "recipient": "other",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "vendorLabel": "Sunwin",
-          "statusLabel": "Delivered",
-          "contentsLabel": "Contents:",
-          "etaType": "delivered",
-          "isNew": false,
-          "note": "One size L of SW0064 ESSENCE WIDE LEG PANT color SNOW missing — Sunwin will include it in the next parcel",
-          "recipientLabel": "Alexandra",
-          "trackingNumber": "873938240120",
-          "etaText": "Delivered Thu, Jul 9",
-          "routeText": "Shanghai → Toronto, ON · Shipped 7/4/26 · #sw-marketing-samples",
-          "items": [
-            {
-              "text": "Marketing samples, two cartons",
-              "tags": []
-            }
-          ]
-        }
-      ]
-    },
-    {
       "title": "Sunwin marketing samples — Julia, customs delay (Jun 2)",
       "packages": [
         {
@@ -1381,6 +1313,116 @@
     }
   ],
   "archivedGroups": [
+    {
+      "title": "Archived — rolled 7/17/26",
+      "packages": [
+        {
+          "recipient": "esther",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "874094391066",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Esther",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 7/8/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu, Jul 9",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0088 ZEPHYR TANK, proto sample, size XL",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "Proto"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 FLOW TIE TANK, proto sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "Proto"
+                }
+              ]
+            },
+            {
+              "text": "SW0086 FLOW WRAP TOP, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0086 MEN'S VITAL TEE, PP sample, size XL",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0086 FLOW SIMPLE TEE, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0073 BASIS CREW LONG SLEEVE, 2nd PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "WOMEN'S RACER TANK, proto sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "Proto"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false
+        },
+        {
+          "recipient": "other",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "Sunwin",
+          "statusLabel": "Delivered",
+          "contentsLabel": "Contents:",
+          "etaType": "delivered",
+          "isNew": false,
+          "note": "One size L of SW0064 ESSENCE WIDE LEG PANT color SNOW missing — Sunwin will include it in the next parcel",
+          "recipientLabel": "Alexandra",
+          "trackingNumber": "873938240120",
+          "etaText": "Delivered Thu, Jul 9",
+          "routeText": "Shanghai → Toronto, ON · Shipped 7/4/26 · #sw-marketing-samples",
+          "items": [
+            {
+              "text": "Marketing samples, two cartons",
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
     {
       "title": "Archived — rolled 7/16/26",
       "packages": [
