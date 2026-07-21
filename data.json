@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "Updated Mon, Jul 20 · 10:13 AM · 2 new packages · 7 archived · 0 status updates · 0 new VP packages (scan skipped)",
+  "lastUpdated": "Updated Tue, Jul 21 · 10:21 AM · 0 new packages · 1 archived · 1 status update · 0 new VP packages (scan skipped) · Slack search hung, browsed #sunwin-general directly",
   "groups": [
     {
       "title": "Sunwin SW0075/SW0080 marketing samples — Julia & Alexandra (Jul 20)",
@@ -15,7 +15,7 @@
           "vendorLabel": "Sunwin",
           "recipientLabel": "Julia Abner",
           "statusLabel": "In Transit",
-          "isNew": true,
+          "isNew": false,
           "routeText": "Shanghai → Costa Mesa, CA · Shipped 7/20/26 · #sw-marketing-samples",
           "etaType": "tba",
           "etaText": "TBA",
@@ -52,7 +52,7 @@
           "vendorLabel": "Sunwin",
           "recipientLabel": "Alexandra West",
           "statusLabel": "In Transit",
-          "isNew": true,
+          "isNew": false,
           "routeText": "Shanghai → Toronto, ON · Shipped 7/20/26 · #sw-marketing-samples",
           "etaType": "eta",
           "etaText": "Fri, Jul 24",
@@ -88,16 +88,16 @@
         {
           "recipient": "alexa",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "874517256056",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Alexa",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → Denver, CO · Shipped 7/17/26 · #sunwin-general",
-          "etaType": "eta",
-          "etaText": "Mon, Jul 20",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue, Jul 21",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -755,7 +755,43 @@
       ]
     },
     {
-      "title": "DGJ0108 Bluebird Cloud II PP + fit samples — Alexa, Esther, Taylor (Jul 7)",
+      "title": "Sunwin marketing samples — Julia, customs delay (Jun 2)",
+      "packages": [
+        {
+          "recipient": "other",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "872522566810",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Other",
+          "statusLabel": "In Transit",
+          "isNew": false,
+          "routeText": "Shanghai → Costa Mesa, CA · Shipped 6/2/26 · #sw-marketing-samples",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "Babydoll Tank, Flow Skirt — Julia Abner photoshoot",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "SAMPLE"
+                }
+              ]
+            }
+          ],
+          "note": "Customs delay reported 6/8; customs released per Cindy 6/16, FedEx updating"
+        }
+      ],
+      "isNew": false
+    }
+  ],
+  "archivedGroups": [
+    {
+      "title": "DGJ0108 Bluebird Cloud II PP + fit samples — Alexa, Esther, Taylor (Jul 7) — rolled 7/21/26",
       "packages": [
         {
           "recipient": "taylor",
@@ -851,42 +887,6 @@
       ],
       "isNew": false
     },
-    {
-      "title": "Sunwin marketing samples — Julia, customs delay (Jun 2)",
-      "packages": [
-        {
-          "recipient": "other",
-          "vendor": "SW",
-          "status": "onway",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "872522566810",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Other",
-          "statusLabel": "In Transit",
-          "isNew": false,
-          "routeText": "Shanghai → Costa Mesa, CA · Shipped 6/2/26 · #sw-marketing-samples",
-          "etaType": "tba",
-          "etaText": "TBA",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "Babydoll Tank, Flow Skirt — Julia Abner photoshoot",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "SAMPLE"
-                }
-              ]
-            }
-          ],
-          "note": "Customs delay reported 6/8; customs released per Cindy 6/16, FedEx updating"
-        }
-      ],
-      "isNew": false
-    }
-  ],
-  "archivedGroups": [
     {
       "title": "Archived — rolled 7/20/26",
       "isNew": false,
