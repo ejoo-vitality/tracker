@@ -1,6 +1,131 @@
 {
-  "lastUpdated": "Updated Tue, Jul 21 · 10:21 AM · 0 new packages · 1 archived · 1 status update · 0 new VP packages (scan skipped) · Slack search hung, browsed #sunwin-general directly",
+  "lastUpdated": "Updated Wed, Jul 22 · 10:14 AM · 3 new packages · 6 archived · 1 status update · 0 new VP packages (scan skipped)",
   "groups": [
+    {
+      "title": "Sunwin SW0075 TOP + SW0077 P2 + SW0085 proto samples — Alexa, Taylor, Esther (Jul 22)",
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "874717922041",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → Denver, CO · Shipped 7/22/26 · #sunwin-general",
+          "etaType": "eta",
+          "etaText": "Thu, Jul 23",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0075 HOMEBODY HOODIE / TROUSER-SHORT / TROUSER-REGULAR, TOP samples, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "SW0077 FLOAT SCOOP LONG SLEEVE, P2 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0085 HOMEBODY MOCKNECK SWEATSHIRT, proto sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "Proto"
+                }
+              ]
+            }
+          ],
+          "note": "SW0085 logo missing — Sunwin will submit mockup to confirm later",
+          "isNew": true
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "874718119245",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Taylor",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 7/22/26 · #sunwin-general",
+          "etaType": "eta",
+          "etaText": "Thu, Jul 23",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0077 FLOAT SCOOP LONG SLEEVE, P2 sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0085 HOMEBODY MOCKNECK SWEATSHIRT, proto sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "Proto"
+                }
+              ]
+            }
+          ],
+          "note": "SW0085 logo missing — Sunwin will submit mockup to confirm later",
+          "isNew": true
+        },
+        {
+          "recipient": "esther",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "874718055218",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Esther",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 7/22/26 · #sunwin-general",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0077 FLOAT SCOOP LONG SLEEVE, P2 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0085 HOMEBODY MOCKNECK SWEATSHIRT, proto sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "Proto"
+                }
+              ]
+            }
+          ],
+          "note": "SW0085 logo missing — mockup to follow · Original sample returned in this package",
+          "isNew": true
+        }
+      ]
+    },
     {
       "title": "Sunwin SW0075/SW0080 marketing samples — Julia & Alexandra (Jul 20)",
       "isNew": true,
@@ -17,8 +142,8 @@
           "statusLabel": "In Transit",
           "isNew": false,
           "routeText": "Shanghai → Costa Mesa, CA · Shipped 7/20/26 · #sw-marketing-samples",
-          "etaType": "tba",
-          "etaText": "TBA",
+          "etaType": "eta",
+          "etaText": "Thu, Jul 23",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -386,178 +511,43 @@
       ]
     },
     {
-      "title": "Sunwin Academy ACCELERATE PP samples (Sports Car / Spruce) — Alexa, Esther, Taylor (Jul 13)",
-      "isNew": false,
+      "title": "Sunwin marketing samples — Julia, customs delay (Jun 2)",
       "packages": [
         {
-          "recipient": "alexa",
+          "recipient": "other",
           "vendor": "SW",
-          "status": "delivered",
+          "status": "onway",
           "isDupCompanion": false,
           "carrier": "FedEx",
-          "trackingNumber": "874290467752",
+          "trackingNumber": "872522566810",
           "vendorLabel": "Sunwin",
-          "recipientLabel": "Alexa",
-          "statusLabel": "Delivered",
-          "routeText": "Shanghai → Denver, CO · Shipped 7/13/26 · #sw-academy-sports",
-          "etaType": "delivered",
-          "etaText": "Delivered Tue, Jul 14",
+          "recipientLabel": "Other",
+          "statusLabel": "In Transit",
+          "isNew": false,
+          "routeText": "Shanghai → Costa Mesa, CA · Shipped 6/2/26 · #sw-marketing-samples",
+          "etaType": "tba",
+          "etaText": "TBA",
           "contentsLabel": "Contents:",
           "items": [
             {
-              "text": "ACCELERATE PANEL JACKET SPORTS CAR, PP sample, size S",
+              "text": "Babydoll Tank, Flow Skirt — Julia Abner photoshoot",
               "tags": [
                 {
                   "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "ACCELERATE FULL ZIP JACKET SPRUCE CONTRAST, PP sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "ACCELERATE PANT W STRIPE SPRUCE CONTRAST, PP sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "ACCELERATE PANEL PANT SPORTS CAR, PP sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
+                  "label": "SAMPLE"
                 }
               ]
             }
           ],
-          "note": "",
-          "isNew": false
-        },
-        {
-          "recipient": "esther",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "874290622914",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Esther",
-          "statusLabel": "Delivered",
-          "routeText": "Shanghai → El Cerrito, CA · Shipped 7/13/26 · #sw-academy-sports",
-          "etaType": "delivered",
-          "etaText": "Delivered Tue, Jul 14",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "ACCELERATE PANEL JACKET SPORTS CAR, PP sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "ACCELERATE FULL ZIP JACKET SPRUCE CONTRAST, PP sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "ACCELERATE PANT W STRIPE SPRUCE CONTRAST, PP sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "ACCELERATE PANEL PANT SPORTS CAR, PP sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            }
-          ],
-          "note": "",
-          "isNew": false
-        },
-        {
-          "recipient": "taylor",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "874290747759",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Taylor",
-          "statusLabel": "Delivered",
-          "routeText": "Shanghai → Castle Rock, CO · Shipped 7/13/26 · #sw-academy-sports",
-          "etaType": "delivered",
-          "etaText": "Delivered Tue, Jul 14",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "ACCELERATE PANEL JACKET SPORTS CAR, PP sample, size XS",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "ACCELERATE FULL ZIP JACKET SPRUCE CONTRAST, PP sample, size XS",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "ACCELERATE PANT W STRIPE SPRUCE CONTRAST, PP sample, size XS",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "ACCELERATE PANEL PANT SPORTS CAR, PP sample, size XS",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            }
-          ],
-          "note": "",
-          "isNew": false
+          "note": "Customs delay reported 6/8; customs released per Cindy 6/16, FedEx updating"
         }
-      ]
-    },
+      ],
+      "isNew": false
+    }
+  ],
+  "archivedGroups": [
     {
-      "title": "Sunwin Academy ACCELERATE PP samples — Alexa, Esther, Taylor (Jul 11)",
+      "title": "Sunwin Academy ACCELERATE PP samples — Alexa, Esther, Taylor (Jul 11) — rolled 7/22/26",
       "isNew": false,
       "packages": [
         {
@@ -755,41 +745,176 @@
       ]
     },
     {
-      "title": "Sunwin marketing samples — Julia, customs delay (Jun 2)",
+      "title": "Sunwin Academy ACCELERATE PP samples (Sports Car / Spruce) — Alexa, Esther, Taylor (Jul 13) — rolled 7/22/26",
+      "isNew": false,
       "packages": [
         {
-          "recipient": "other",
+          "recipient": "alexa",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
-          "trackingNumber": "872522566810",
+          "trackingNumber": "874290467752",
           "vendorLabel": "Sunwin",
-          "recipientLabel": "Other",
-          "statusLabel": "In Transit",
-          "isNew": false,
-          "routeText": "Shanghai → Costa Mesa, CA · Shipped 6/2/26 · #sw-marketing-samples",
-          "etaType": "tba",
-          "etaText": "TBA",
+          "recipientLabel": "Alexa",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → Denver, CO · Shipped 7/13/26 · #sw-academy-sports",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue, Jul 14",
           "contentsLabel": "Contents:",
           "items": [
             {
-              "text": "Babydoll Tank, Flow Skirt — Julia Abner photoshoot",
+              "text": "ACCELERATE PANEL JACKET SPORTS CAR, PP sample, size S",
               "tags": [
                 {
                   "type": "sample",
-                  "label": "SAMPLE"
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE FULL ZIP JACKET SPRUCE CONTRAST, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE PANT W STRIPE SPRUCE CONTRAST, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE PANEL PANT SPORTS CAR, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
                 }
               ]
             }
           ],
-          "note": "Customs delay reported 6/8; customs released per Cindy 6/16, FedEx updating"
+          "note": "",
+          "isNew": false
+        },
+        {
+          "recipient": "esther",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "874290622914",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Esther",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 7/13/26 · #sw-academy-sports",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue, Jul 14",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "ACCELERATE PANEL JACKET SPORTS CAR, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE FULL ZIP JACKET SPRUCE CONTRAST, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE PANT W STRIPE SPRUCE CONTRAST, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE PANEL PANT SPORTS CAR, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "874290747759",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Taylor",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 7/13/26 · #sw-academy-sports",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue, Jul 14",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "ACCELERATE PANEL JACKET SPORTS CAR, PP sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE FULL ZIP JACKET SPRUCE CONTRAST, PP sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE PANT W STRIPE SPRUCE CONTRAST, PP sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE PANEL PANT SPORTS CAR, PP sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false
         }
-      ],
-      "isNew": false
-    }
-  ],
-  "archivedGroups": [
+      ]
+    },
     {
       "title": "DGJ0108 Bluebird Cloud II PP + fit samples — Alexa, Esther, Taylor (Jul 7) — rolled 7/21/26",
       "packages": [
