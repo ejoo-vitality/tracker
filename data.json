@@ -1,6 +1,229 @@
 {
-  "lastUpdated": "Updated Tue, Jul 28 · 10:14 AM · 4 new packages · 3 archived · 5 status updates · 0 new VP packages (scan skipped)",
+  "lastUpdated": "Updated Wed, Jul 29 · 10:04 AM · 3 new packages · 1 archived · 0 status updates · 0 new VP packages (scan skipped)",
   "groups": [
+    {
+      "title": "Sunwin P2/P3 samples SW0076–SW0083 + puffer trim approval — Alexa, Esther, Taylor (Jul 29)",
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "875029022357",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → Denver, CO · Shipped 7/29/26 · #sunwin-general",
+          "etaType": "eta",
+          "etaText": "Fri, Jul 31",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0083 FLOAT RIB COMFORT SHORT, P2 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "New development with brushed fabric SW260610-14 (81% nylon 19% spandex), size S",
+              "tags": []
+            },
+            {
+              "text": "SW0078 SNAP & EYELET quality & color approval for OVERSIZED PUFFER VEST",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "SW0078 BASIS OPEN LONG SLEEVE, P2 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0078 BASIS SCOOP BRA, P2 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0077 FLOAT BAND BRALETTE, P2 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0076 DAYDREAM OVERLAP TANK, P3 sample, two options, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true
+        },
+        {
+          "recipient": "esther",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "875029857099",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Esther",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 7/29/26 · #sunwin-general",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0083 FLOAT RIB COMFORT SHORT, P2 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "New development with brushed fabric SW260610-14 (81% nylon 19% spandex), size S",
+              "tags": []
+            },
+            {
+              "text": "SW0078 SNAP & EYELET quality & color approval for OVERSIZED PUFFER VEST",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "SW0078 BASIS OPEN LONG SLEEVE, P2 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0078 BASIS SCOOP BRA, P2 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0077 FLOAT BAND BRALETTE, P2 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0076 DAYDREAM OVERLAP TANK, P3 sample, two options, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "875029155064",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Taylor",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 7/29/26 · #sunwin-general",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0083 FLOAT RIB COMFORT SHORT, P2 sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0078 BASIS OPEN LONG SLEEVE, P2 sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0078 BASIS SCOOP BRA, P2 sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0077 FLOAT BAND BRALETTE, P2 sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0076 DAYDREAM OVERLAP TANK, P3 sample, two options, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true
+        }
+      ]
+    },
     {
       "title": "Sunwin Accelerate Gather Jacket PP + Homebody wash panels — Alexa, Esther (Jul 25)",
       "isNew": true,
@@ -9,7 +232,7 @@
           "recipient": "alexa",
           "vendor": "SW",
           "status": "label",
-          "isNew": true,
+          "isNew": false,
           "isDupCompanion": false,
           "carrier": "FedEx",
           "vendorLabel": "Sunwin",
@@ -64,7 +287,7 @@
           "recipient": "esther",
           "vendor": "SW",
           "status": "label",
-          "isNew": true,
+          "isNew": false,
           "isDupCompanion": false,
           "carrier": "FedEx",
           "vendorLabel": "Sunwin",
@@ -125,7 +348,7 @@
           "recipient": "alexa",
           "vendor": "SW",
           "status": "delivered",
-          "isNew": true,
+          "isNew": false,
           "isDupCompanion": false,
           "carrier": "FedEx",
           "vendorLabel": "Sunwin",
@@ -168,7 +391,7 @@
           "recipient": "esther",
           "vendor": "SW",
           "status": "delivered",
-          "isNew": true,
+          "isNew": false,
           "isDupCompanion": false,
           "carrier": "FedEx",
           "vendorLabel": "Sunwin",
@@ -400,8 +623,43 @@
       ]
     },
     {
-      "title": "Sunwin bulk submits (SW0076/78/79/86 New Basis + SW0084 Pulse) — Alexa (Jul 17)",
-      "isNew": false,
+      "title": "Sunwin marketing samples — Julia, customs delay (Jun 2)",
+      "packages": [
+        {
+          "recipient": "other",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "872522566810",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Other",
+          "statusLabel": "In Transit",
+          "isNew": false,
+          "routeText": "Shanghai → Costa Mesa, CA · Shipped 6/2/26 · #sw-marketing-samples",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "Babydoll Tank, Flow Skirt — Julia Abner photoshoot",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "SAMPLE"
+                }
+              ]
+            }
+          ],
+          "note": "Customs delay reported 6/8; customs released per Cindy 6/16, FedEx updating"
+        }
+      ],
+      "isNew": false
+    }
+  ],
+  "archivedGroups": [
+    {
+      "title": "Archived — rolled 7/29/26",
       "packages": [
         {
           "recipient": "alexa",
@@ -442,42 +700,6 @@
         }
       ]
     },
-    {
-      "title": "Sunwin marketing samples — Julia, customs delay (Jun 2)",
-      "packages": [
-        {
-          "recipient": "other",
-          "vendor": "SW",
-          "status": "onway",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "872522566810",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Other",
-          "statusLabel": "In Transit",
-          "isNew": false,
-          "routeText": "Shanghai → Costa Mesa, CA · Shipped 6/2/26 · #sw-marketing-samples",
-          "etaType": "tba",
-          "etaText": "TBA",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "Babydoll Tank, Flow Skirt — Julia Abner photoshoot",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "SAMPLE"
-                }
-              ]
-            }
-          ],
-          "note": "Customs delay reported 6/8; customs released per Cindy 6/16, FedEx updating"
-        }
-      ],
-      "isNew": false
-    }
-  ],
-  "archivedGroups": [
     {
       "title": "Archived — rolled 7/28/26",
       "packages": [
