@@ -1,8 +1,9 @@
 {
-  "lastUpdated": "Updated Wed, Jul 29 · 10:04 AM · 3 new packages · 1 archived · 0 status updates · 0 new VP packages (scan skipped)",
+  "lastUpdated": "Updated Thu, Jul 30 · 10:05 AM · 3 new packages · 0 archived · 3 status updates · 0 new VP packages (scan skipped)",
   "groups": [
     {
-      "title": "Sunwin P2/P3 samples SW0076–SW0083 + puffer trim approval — Alexa, Esther, Taylor (Jul 29)",
+      "title": "Sunwin SW0081 PP + SW0088 P1/P2 samples — Alexa, Esther, Taylor (Jul 30)",
+      "isNew": true,
       "packages": [
         {
           "recipient": "alexa",
@@ -10,17 +11,26 @@
           "status": "onway",
           "isDupCompanion": false,
           "carrier": "FedEx",
-          "trackingNumber": "875029022357",
+          "trackingNumber": "875082978414",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Alexa",
           "statusLabel": "In Transit",
-          "routeText": "Shanghai → Denver, CO · Shipped 7/29/26 · #sunwin-general",
+          "routeText": "Shanghai → Denver, CO · Shipped 7/30/26 · #sunwin-general",
           "etaType": "eta",
-          "etaText": "Fri, Jul 31",
+          "etaText": "Mon, Aug 3",
           "contentsLabel": "Contents:",
           "items": [
             {
-              "text": "SW0083 FLOAT RIB COMFORT SHORT, P2 sample, size S",
+              "text": "SW0081 FLOW CREW LONG SLEEVE, PP sample, Oceanview, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 RIB RACER TANK, P2 sample, size S",
               "tags": [
                 {
                   "type": "sample",
@@ -29,51 +39,11 @@
               ]
             },
             {
-              "text": "New development with brushed fabric SW260610-14 (81% nylon 19% spandex), size S",
-              "tags": []
-            },
-            {
-              "text": "SW0078 SNAP & EYELET quality & color approval for OVERSIZED PUFFER VEST",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            },
-            {
-              "text": "SW0078 BASIS OPEN LONG SLEEVE, P2 sample, size S",
+              "text": "SW0088 ZEPHYR TANK, P1 sample, size XL",
               "tags": [
                 {
                   "type": "sample",
-                  "label": "P2"
-                }
-              ]
-            },
-            {
-              "text": "SW0078 BASIS SCOOP BRA, P2 sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P2"
-                }
-              ]
-            },
-            {
-              "text": "SW0077 FLOAT BAND BRALETTE, P2 sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P2"
-                }
-              ]
-            },
-            {
-              "text": "SW0076 DAYDREAM OVERLAP TANK, P3 sample, two options, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P3"
+                  "label": "P1"
                 }
               ]
             }
@@ -87,13 +57,92 @@
           "status": "onway",
           "isDupCompanion": false,
           "carrier": "FedEx",
-          "trackingNumber": "875029857099",
+          "trackingNumber": "875083228222",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Esther",
           "statusLabel": "In Transit",
-          "routeText": "Shanghai → El Cerrito, CA · Shipped 7/29/26 · #sunwin-general",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 7/30/26 · #sunwin-general",
           "etaType": "tba",
           "etaText": "TBA",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0088 RIB RACER TANK, P2 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 ZEPHYR TANK, P1 sample, size XL",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "875083524236",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Taylor",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 7/30/26 · #sunwin-general",
+          "etaType": "eta",
+          "etaText": "Mon, Aug 3",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0088 RIB RACER TANK, P2 sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 ZEPHYR TANK, P1 sample, size XL",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true
+        }
+      ]
+    },
+    {
+      "title": "Sunwin P2/P3 samples SW0076–SW0083 + puffer trim approval — Alexa, Esther, Taylor (Jul 29)",
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "875029022357",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → Denver, CO · Shipped 7/29/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu, Jul 30",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -156,21 +205,98 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
+        },
+        {
+          "recipient": "esther",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "875029857099",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Esther",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 7/29/26 · #sunwin-general",
+          "etaType": "eta",
+          "etaText": "Thu, Jul 30",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0083 FLOAT RIB COMFORT SHORT, P2 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "New development with brushed fabric SW260610-14 (81% nylon 19% spandex), size S",
+              "tags": []
+            },
+            {
+              "text": "SW0078 SNAP & EYELET quality & color approval for OVERSIZED PUFFER VEST",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "SW0078 BASIS OPEN LONG SLEEVE, P2 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0078 BASIS SCOOP BRA, P2 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0077 FLOAT BAND BRALETTE, P2 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0076 DAYDREAM OVERLAP TANK, P3 sample, two options, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false
         },
         {
           "recipient": "taylor",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "875029155064",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Taylor",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → Castle Rock, CO · Shipped 7/29/26 · #sunwin-general",
-          "etaType": "tba",
-          "etaText": "TBA",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu, Jul 30",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -220,7 +346,7 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         }
       ]
     },
