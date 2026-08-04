@@ -1,6 +1,167 @@
 {
-  "lastUpdated": "Updated Tue, Aug 4 · 11:42 AM · 0 new packages · 0 archived · 0 status updates · Gmail scan skipped (temporarily unavailable) · 0 new VP packages (scan skipped)",
+  "lastUpdated": "Updated Tue, Aug 4 · 12:03 PM · 3 new DGJ packages (VP scan) · 0 archived · Gmail scan skipped (temporarily unavailable)",
   "groups": [
+    {
+      "title": "DGJ Cloud II Crush Block Tank P3 + polka dot colors, trims, lab dip — Alexa, Esther, Taylor (Aug 3)",
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "DGJ",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "875183695944",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Alexa",
+          "statusLabel": "Delivered",
+          "routeText": "Dongguan City → Denver, CO · Shipped 8/3/26 · #dgj-0118-cloud-spring",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue, Aug 4",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "CLOUD II CRUSH BLOCK TANK, P3 sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "PINK POLKA DOT — color before update",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "BLUE POLKA DOT — color before update",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "Cherry Lace and Ribbon Trims",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "New Oxford Cloud II lab dip",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true
+        },
+        {
+          "recipient": "esther",
+          "vendor": "DGJ",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "875183787055",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Esther",
+          "statusLabel": "In Transit",
+          "routeText": "Dongguan City → El Cerrito, CA · Shipped 8/3/26 · #dgj-0118-cloud-spring",
+          "etaType": "eta",
+          "etaText": "Wed, Aug 5",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "CLOUD II CRUSH BLOCK TANK, P3 sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "PINK POLKA DOT — color before update",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "BLUE POLKA DOT — color before update",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "Cherry Lace and Ribbon Trims",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "New Oxford Cloud II lab dip",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "DGJ",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "875183894108",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Taylor",
+          "statusLabel": "Delivered",
+          "routeText": "Dongguan City → Castle Rock, CO · Shipped 8/3/26 · #dgj-0118-cloud-spring",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue, Aug 4",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "CLOUD II CRUSH BLOCK TANK, P3 sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true
+        }
+      ]
+    },
     {
       "title": "TFK cotton modal span JSY trial cuttings — Alexa, Esther (Jul 31)",
       "isNew": true,
