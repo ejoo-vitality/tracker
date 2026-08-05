@@ -1,6 +1,231 @@
 {
-  "lastUpdated": "Updated Tue, Aug 4 · 12:03 PM · 3 new DGJ packages (VP scan) · 0 archived · Gmail scan skipped (temporarily unavailable)",
+  "lastUpdated": "Updated Wed, Aug 5 · 10:28 AM · 4 new Sunwin packages · 0 archived · Gmail scan skipped (temporarily unavailable)",
   "groups": [
+    {
+      "title": "Sunwin SW0088 Butterfly/Pulse/Flow protos & P2s + puffer zipper tape LD — Alexa, Grace, Taylor, Esther (Aug 5)",
+      "packages": [
+        {
+          "vendor": "SW",
+          "vendorLabel": "Sunwin",
+          "carrier": "FedEx",
+          "isDupCompanion": false,
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "note": "",
+          "recipient": "alexa",
+          "recipientLabel": "Alexa",
+          "trackingNumber": "875345363945",
+          "routeText": "Shanghai → Denver, CO · Shipped 8/5/26 · #sunwin-general",
+          "items": [
+            {
+              "text": "SW0088 RIB BUTTERFLY TANK, P2 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 RIB BUTTERFLY CROPPED TANK, Proto sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "Proto"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 PULSE SCULPT ACCENT PANT, Proto sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "Proto"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 PULSE SCULPT ACCENT VOLLEY SHORT, Proto sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "Proto"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 FLOW TIE TANK, P2 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "vendor": "SW",
+          "vendorLabel": "Sunwin",
+          "carrier": "FedEx",
+          "isDupCompanion": false,
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "note": "",
+          "recipient": "other",
+          "recipientLabel": "Grace",
+          "trackingNumber": "875345620609",
+          "routeText": "Shanghai → San Francisco, CA · Shipped 8/5/26 · #sunwin-general",
+          "items": [
+            {
+              "text": "SW0088 RIB BUTTERFLY TANK, P2 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 RIB BUTTERFLY CROPPED TANK, Proto sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "Proto"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 PULSE SCULPT ACCENT PANT, Proto sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "Proto"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 PULSE SCULPT ACCENT VOLLEY SHORT, Proto sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "Proto"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 FLOW TIE TANK, P2 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "vendor": "SW",
+          "vendorLabel": "Sunwin",
+          "carrier": "FedEx",
+          "isDupCompanion": false,
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "note": "",
+          "recipient": "taylor",
+          "recipientLabel": "Taylor",
+          "trackingNumber": "875345938550",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 8/5/26 · #sunwin-general",
+          "items": [
+            {
+              "text": "SW0088 RIB BUTTERFLY TANK, P2 sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 RIB BUTTERFLY CROPPED TANK, Proto sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "Proto"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 PULSE SCULPT ACCENT PANT, Proto sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "Proto"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 PULSE SCULPT ACCENT VOLLEY SHORT, Proto sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "Proto"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 FLOW TIE TANK, P2 sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "vendor": "SW",
+          "vendorLabel": "Sunwin",
+          "carrier": "FedEx",
+          "isDupCompanion": false,
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "note": "Cindy: samples sent together — same message lists SW0084 FLOAT RIB BOXER PANT&SHORT PP + SW0076 BASIS LAYERING LONG SLEEVE P3 for Alexa/Grace/Taylor (no separate tracking # given)",
+          "recipient": "esther",
+          "recipientLabel": "Esther",
+          "trackingNumber": "875342789064",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 8/5/26 · #sunwin-general",
+          "items": [
+            {
+              "text": "Zipper tape L/D approval from Talon for SW0078 OVERSIZED PUFFER VEST",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "title": "DGJ Cloud II Crush Block Tank P3 + polka dot colors, trims, lab dip — Alexa, Esther, Taylor (Aug 3)",
       "packages": [
@@ -66,7 +291,7 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "recipient": "esther",
@@ -80,7 +305,7 @@
           "statusLabel": "In Transit",
           "routeText": "Dongguan City → El Cerrito, CA · Shipped 8/3/26 · #dgj-0118-cloud-spring",
           "etaType": "eta",
-          "etaText": "Wed, Aug 5",
+          "etaText": "Thu, Aug 6",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -130,7 +355,7 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "recipient": "taylor",
@@ -158,7 +383,7 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         }
       ]
     },
@@ -231,16 +456,16 @@
         {
           "recipient": "esther",
           "vendor": "OTHER",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "382863598534",
           "vendorLabel": "Only Hangers",
           "recipientLabel": "Esther",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Miami, FL → El Cerrito, CA · Shipped 7/28/26 · Gmail",
-          "etaType": "eta",
-          "etaText": "Tue, Aug 4",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue, Aug 4",
           "contentsLabel": "Contents:",
           "items": [
             {
