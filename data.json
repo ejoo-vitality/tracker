@@ -1,22 +1,373 @@
 {
-  "lastUpdated": "Updated Fri, Aug 7 · 11:30 AM · 5 new packages · 3 archived · 3 status updates · Gmail scan skipped (temporarily unavailable)",
+  "lastUpdated": "Updated Mon, Aug 10 · 10:27 AM · 12 new packages · 1 archived · 6 status updates · Gmail scan skipped (temporarily unavailable)",
   "groups": [
+    {
+      "title": "DGJ0111 marketing samples — Bubblegum Cloud II Relaxed Trouser — Julia, Alexandra (Aug 10)",
+      "packages": [
+        {
+          "recipient": "other",
+          "vendor": "DGJ",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Julia",
+          "statusLabel": "In Transit",
+          "contentsLabel": "Contents:",
+          "etaType": "eta",
+          "etaText": "Wed, Aug 12 (per DGJ)",
+          "isNew": true,
+          "note": "",
+          "trackingNumber": "875533582098",
+          "routeText": "Dongguan City → Costa Mesa, CA · Shipped 8/10/26 · #dgj-marketing-samples",
+          "items": [
+            {
+              "text": "DGJ0111 Bubblegum Cloud II Relaxed Trouser — marketing samples",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "SAMPLE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "other",
+          "vendor": "DGJ",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Alexandra",
+          "statusLabel": "In Transit",
+          "contentsLabel": "Contents:",
+          "etaType": "eta",
+          "etaText": "Thu, Aug 13",
+          "isNew": true,
+          "note": "",
+          "trackingNumber": "875534037271",
+          "routeText": "Dongguan City → Toronto, ON · Shipped 8/10/26 · #dgj-marketing-samples",
+          "items": [
+            {
+              "text": "DGJ0111 Bubblegum Cloud II Relaxed Trouser — marketing samples",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "SAMPLE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sunwin — Academy FAHO26-8 TOPs + SW0070 marketing samples + DHL TOP sample (Aug 7–8)",
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "Delivered",
+          "contentsLabel": "Contents:",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon, Aug 10",
+          "isNew": true,
+          "note": "Sent on Vitality courier account by mistake — Sunwin will offset shipping next week",
+          "trackingNumber": "875458495096",
+          "routeText": "Shanghai → Denver, CO · Shipped 8/8/26 · #sunwin-general",
+          "items": [
+            {
+              "text": "Academy vitality FAHO26-8 TOP samples (see sample list 8.8)",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "other",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Julia",
+          "statusLabel": "In Transit",
+          "contentsLabel": "Contents:",
+          "etaType": "eta",
+          "etaText": "Tue, Aug 11",
+          "isNew": true,
+          "note": "",
+          "trackingNumber": "875500121726",
+          "routeText": "Shanghai → Costa Mesa, CA · Shipped 8/8/26 · #sw-marketing-samples",
+          "items": [
+            {
+              "text": "SW0070 marketing samples",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "SAMPLE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "other",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexandra",
+          "statusLabel": "In Transit",
+          "contentsLabel": "Contents:",
+          "etaType": "eta",
+          "etaText": "Tue, Aug 11",
+          "isNew": true,
+          "note": "",
+          "trackingNumber": "875456243745",
+          "routeText": "Shanghai → Toronto, ON · Shipped 8/8/26 · #sw-marketing-samples",
+          "items": [
+            {
+              "text": "SW0070 marketing samples",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "SAMPLE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "DHL",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "In Transit",
+          "contentsLabel": "Contents:",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "isNew": true,
+          "note": "DHL — not auto-tracked by this refresh",
+          "trackingNumber": "4260952010",
+          "routeText": "China → Denver, CO · Shipped 8/7/26 · #sunwin-general",
+          "items": [
+            {
+              "text": "New TOP sample, size S (logo placement fix)",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "DGJ bulk — 6 consignments to American Fork, UT warehouse (Aug 10)",
+      "packages": [
+        {
+          "recipient": "other",
+          "vendor": "DGJ",
+          "status": "label",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Warehouse",
+          "statusLabel": "Label Created",
+          "contentsLabel": "Contents:",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "isNew": true,
+          "note": "",
+          "trackingNumber": "875505666006",
+          "routeText": "City of Industry, CA → American Fork, UT · FedEx Ground · #dgj-logistics",
+          "items": [
+            {
+              "text": "Bulk — 68 cartons",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "other",
+          "vendor": "DGJ",
+          "status": "label",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Warehouse",
+          "statusLabel": "Label Created",
+          "contentsLabel": "Contents:",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "isNew": true,
+          "note": "",
+          "trackingNumber": "875505641220",
+          "routeText": "City of Industry, CA → American Fork, UT · FedEx Ground · #dgj-logistics",
+          "items": [
+            {
+              "text": "Bulk — 76 cartons",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "other",
+          "vendor": "DGJ",
+          "status": "label",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Warehouse",
+          "statusLabel": "Label Created",
+          "contentsLabel": "Contents:",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "isNew": true,
+          "note": "",
+          "trackingNumber": "875505680411",
+          "routeText": "City of Industry, CA → American Fork, UT · FedEx Ground · #dgj-logistics",
+          "items": [
+            {
+              "text": "Bulk — 71 cartons",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "other",
+          "vendor": "DGJ",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "UPS",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Warehouse",
+          "statusLabel": "In Transit",
+          "contentsLabel": "Contents:",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "isNew": true,
+          "note": "UPS — not auto-tracked by this refresh",
+          "trackingNumber": "1Z1BE2120311138700",
+          "routeText": "City of Industry, CA → American Fork, UT · UPS · #dgj-logistics",
+          "items": [
+            {
+              "text": "Bulk — 61 cartons",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "other",
+          "vendor": "DGJ",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "UPS",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Warehouse",
+          "statusLabel": "In Transit",
+          "contentsLabel": "Contents:",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "isNew": true,
+          "note": "UPS — not auto-tracked by this refresh",
+          "trackingNumber": "1Z1BE2120300610111",
+          "routeText": "City of Industry, CA → American Fork, UT · UPS · #dgj-logistics",
+          "items": [
+            {
+              "text": "Bulk — 61 cartons",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "other",
+          "vendor": "DGJ",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "UPS",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Warehouse",
+          "statusLabel": "In Transit",
+          "contentsLabel": "Contents:",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "isNew": true,
+          "note": "UPS — not auto-tracked by this refresh",
+          "trackingNumber": "1Z1BE2120300683329",
+          "routeText": "City of Industry, CA → American Fork, UT · UPS · #dgj-logistics",
+          "items": [
+            {
+              "text": "Bulk — 64 cartons",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "title": "Sunwin SW0073 TOPs + SW0085 Daydream P3s + FLOAT/BASIS trim approvals — Alexa (Aug 7)",
       "packages": [
         {
           "recipient": "alexa",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Alexa",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "contentsLabel": "Contents:",
-          "etaType": "eta",
-          "etaText": "Mon, Aug 10",
-          "isNew": true,
+          "etaType": "delivered",
+          "etaText": "Delivered Mon, Aug 10",
+          "isNew": false,
           "note": "Copies of some styles to Esther & Taylor ship next Wednesday (8/12) per Cindy",
           "trackingNumber": "875455228131",
           "routeText": "Shanghai → Denver, CO · Shipped 8/7/26 · #sunwin-general",
@@ -74,9 +425,9 @@
           "recipientLabel": "Esther",
           "statusLabel": "In Transit",
           "contentsLabel": "Contents:",
-          "etaType": "tba",
-          "etaText": "TBA",
-          "isNew": true,
+          "etaType": "eta",
+          "etaText": "Tue, Aug 11",
+          "isNew": false,
           "note": "",
           "trackingNumber": "875455161116",
           "routeText": "Dongguan City → El Cerrito, CA · Shipped 8/8/26 · #dgj-0122-prime-breeze-pulse-sport",
@@ -103,8 +454,8 @@
           "statusLabel": "In Transit",
           "contentsLabel": "Contents:",
           "etaType": "eta",
-          "etaText": "Mon, Aug 10",
-          "isNew": true,
+          "etaText": "Tue, Aug 11",
+          "isNew": false,
           "note": "",
           "trackingNumber": "875455521260",
           "routeText": "Dongguan City → Denver, CO · Shipped 8/8/26 · #dgj-0122-prime-breeze-pulse-sport",
@@ -144,9 +495,9 @@
           "recipientLabel": "Julia",
           "statusLabel": "In Transit",
           "contentsLabel": "Contents:",
-          "etaType": "tba",
-          "etaText": "TBA",
-          "isNew": true,
+          "etaType": "eta",
+          "etaText": "Today, Aug 10 (out for delivery)",
+          "isNew": false,
           "note": "",
           "trackingNumber": "875448434299",
           "routeText": "Shanghai → Costa Mesa, CA · Shipped 8/7/26 · #sw-marketing-samples",
@@ -172,9 +523,9 @@
           "recipientLabel": "Alexandra",
           "statusLabel": "In Transit",
           "contentsLabel": "Contents:",
-          "etaType": "eta",
-          "etaText": "Thu, Aug 13",
-          "isNew": true,
+          "etaType": "tba",
+          "etaText": "TBA",
+          "isNew": false,
           "note": "",
           "trackingNumber": "875448861054",
           "routeText": "Shanghai → Toronto, ON · Shipped 8/7/26 · #sw-marketing-samples",
@@ -264,10 +615,10 @@
           "vendorLabel": "Sunwin",
           "carrier": "FedEx",
           "isDupCompanion": false,
-          "status": "onway",
-          "statusLabel": "In Transit",
-          "etaType": "eta",
-          "etaText": "Mon, Aug 10",
+          "status": "delivered",
+          "statusLabel": "Delivered",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon, Aug 10",
           "contentsLabel": "Contents:",
           "isNew": false,
           "note": "Reroute to Esther requested 8/5 (Grace OOO) — FedEx address change in progress per Cindy/Alexa",
@@ -674,52 +1025,6 @@
       "isNew": false,
       "packages": [
         {
-          "recipient": "alexa",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "875082978414",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Alexa",
-          "statusLabel": "Delivered",
-          "routeText": "Shanghai → Denver, CO · Shipped 7/30/26 · #sunwin-general",
-          "etaType": "delivered",
-          "etaText": "Delivered Fri, Jul 31",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "SW0081 FLOW CREW LONG SLEEVE, PP sample, Oceanview, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "SW0088 RIB RACER TANK, P2 sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P2"
-                }
-              ]
-            },
-            {
-              "text": "SW0088 ZEPHYR TANK, P1 sample, size XL",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P1"
-                }
-              ]
-            }
-          ],
-          "note": "",
-          "isNew": false
-        },
-        {
           "recipient": "esther",
           "vendor": "SW",
           "status": "delivered",
@@ -947,6 +1252,57 @@
     }
   ],
   "archivedGroups": [
+    {
+      "title": "Archived — rolled 8/10/26",
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "875082978414",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → Denver, CO · Shipped 7/30/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri, Jul 31",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0081 FLOW CREW LONG SLEEVE, PP sample, Oceanview, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 RIB RACER TANK, P2 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 ZEPHYR TANK, P1 sample, size XL",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false
+        }
+      ]
+    },
     {
       "title": "Archived — rolled 8/7/26",
       "packages": [
