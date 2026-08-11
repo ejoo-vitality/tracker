@@ -1,6 +1,109 @@
 {
-  "lastUpdated": "Updated Tue, Aug 11 · 10:26 AM · 2 new packages · 4 archived · 8 status updates · Gmail scan skipped (temporarily unavailable)",
+  "lastUpdated": "Updated Tue, Aug 11 · 10:32 AM · 5 new packages (3 via Gmail rescan) · 4 archived · 8 status updates",
   "groups": [
+    {
+      "title": "Jinlin Knitting — JLCH100-410 pink/blue color cards + yarn-dyed swatches — Alexa, Esther (Aug 11)",
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "JL",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "Jinlin Knitting",
+          "statusLabel": "In Transit",
+          "etaType": "eta",
+          "etaText": "Thu, Aug 13",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "JLCH100-410 pink & blue color cards + yarn-dyed yarn swatches",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true,
+          "recipientLabel": "Alexa",
+          "routeText": "Cixi → Denver, CO · Shipped 8/12/26 · Gmail",
+          "trackingNumber": "875603665076"
+        },
+        {
+          "recipient": "esther",
+          "vendor": "JL",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "Jinlin Knitting",
+          "statusLabel": "In Transit",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "JLCH100-410 pink & blue color cards + yarn-dyed yarn swatches",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true,
+          "recipientLabel": "Esther",
+          "routeText": "Cixi → El Cerrito, CA · Shipped 8/12/26 · Gmail",
+          "trackingNumber": "875603506020"
+        }
+      ]
+    },
+    {
+      "title": "Talon — zipper samples + VITALITY logo tape — Alexa (Aug 6)",
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "TALON",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "Talon Intl",
+          "statusLabel": "Delivered",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon, Aug 10",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "ITEM_#5 Rev Coil zippers, DTM teeth, Talon logo slider — Butter Yellow / Powder Blue / Navy tape, 6\", 5pcs each",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "VITALITY logo tape 1.25\" — DTM Butterfly (PMS 12-0322) + Blue Bell (PMS 14-4121), continuous rolls",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true,
+          "recipientLabel": "Alexa",
+          "routeText": "Woodland Hills, CA → Denver, CO · Shipped 8/6/26 · Gmail",
+          "trackingNumber": "875442598478"
+        }
+      ]
+    },
     {
       "title": "DGJ0125 Cloud II strike offs + Bubblegum Cloud II Relaxed Trouser TOPs — Alexa, Esther (Aug 11)",
       "packages": [
