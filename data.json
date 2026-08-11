@@ -1,6 +1,76 @@
 {
-  "lastUpdated": "Updated Mon, Aug 10 · 10:27 AM · 12 new packages · 1 archived · 6 status updates · Gmail scan skipped (temporarily unavailable)",
+  "lastUpdated": "Updated Tue, Aug 11 · 10:26 AM · 2 new packages · 4 archived · 8 status updates · Gmail scan skipped (temporarily unavailable)",
   "groups": [
+    {
+      "title": "DGJ0125 Cloud II strike offs + Bubblegum Cloud II Relaxed Trouser TOPs — Alexa, Esther (Aug 11)",
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "DGJ",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "875534592095",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Alexa",
+          "statusLabel": "In Transit",
+          "routeText": "Dongguan City → Denver, CO · Shipped 8/12/26 · #dgj-0125-coastal-lines-cloud-refresh",
+          "etaType": "eta",
+          "etaText": "Thu, Aug 13 (per DGJ)",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "Bubblegum Cloud II Relaxed Trouser, TOP samples",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "Cloud II strike offs + updated Cove Invisible Zipper",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true
+        },
+        {
+          "recipient": "esther",
+          "vendor": "DGJ",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "875600880418",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Esther",
+          "statusLabel": "In Transit",
+          "routeText": "Dongguan City → El Cerrito, CA · Shipped 8/12/26 · #dgj-0125-coastal-lines-cloud-refresh",
+          "etaType": "eta",
+          "etaText": "Thu, Aug 13 (per DGJ)",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "Cloud II strike offs + updated Cove Invisible Zipper",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true
+        }
+      ]
+    },
     {
       "title": "DGJ0111 marketing samples — Bubblegum Cloud II Relaxed Trouser — Julia, Alexandra (Aug 10)",
       "packages": [
@@ -14,9 +84,9 @@
           "recipientLabel": "Julia",
           "statusLabel": "In Transit",
           "contentsLabel": "Contents:",
-          "etaType": "eta",
-          "etaText": "Wed, Aug 12 (per DGJ)",
-          "isNew": true,
+          "etaType": "tba",
+          "etaText": "TBA",
+          "isNew": false,
           "note": "",
           "trackingNumber": "875533582098",
           "routeText": "Dongguan City → Costa Mesa, CA · Shipped 8/10/26 · #dgj-marketing-samples",
@@ -44,7 +114,7 @@
           "contentsLabel": "Contents:",
           "etaType": "eta",
           "etaText": "Thu, Aug 13",
-          "isNew": true,
+          "isNew": false,
           "note": "",
           "trackingNumber": "875534037271",
           "routeText": "Dongguan City → Toronto, ON · Shipped 8/10/26 · #dgj-marketing-samples",
@@ -77,7 +147,7 @@
           "contentsLabel": "Contents:",
           "etaType": "delivered",
           "etaText": "Delivered Mon, Aug 10",
-          "isNew": true,
+          "isNew": false,
           "note": "Sent on Vitality courier account by mistake — Sunwin will offset shipping next week",
           "trackingNumber": "875458495096",
           "routeText": "Shanghai → Denver, CO · Shipped 8/8/26 · #sunwin-general",
@@ -96,16 +166,16 @@
         {
           "recipient": "other",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Julia",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "contentsLabel": "Contents:",
-          "etaType": "eta",
-          "etaText": "Tue, Aug 11",
-          "isNew": true,
+          "etaType": "delivered",
+          "etaText": "Delivered Tue, Aug 11",
+          "isNew": false,
           "note": "",
           "trackingNumber": "875500121726",
           "routeText": "Shanghai → Costa Mesa, CA · Shipped 8/8/26 · #sw-marketing-samples",
@@ -132,9 +202,9 @@
           "statusLabel": "In Transit",
           "contentsLabel": "Contents:",
           "etaType": "eta",
-          "etaText": "Tue, Aug 11",
-          "isNew": true,
-          "note": "",
+          "etaText": "Wed, Aug 12",
+          "isNew": false,
+          "note": "FedEx attempted delivery — redelivery scheduled 8/12",
           "trackingNumber": "875456243745",
           "routeText": "Shanghai → Toronto, ON · Shipped 8/8/26 · #sw-marketing-samples",
           "items": [
@@ -161,7 +231,7 @@
           "contentsLabel": "Contents:",
           "etaType": "tba",
           "etaText": "TBA",
-          "isNew": true,
+          "isNew": false,
           "note": "DHL — not auto-tracked by this refresh",
           "trackingNumber": "4260952010",
           "routeText": "China → Denver, CO · Shipped 8/7/26 · #sunwin-general",
@@ -194,7 +264,7 @@
           "contentsLabel": "Contents:",
           "etaType": "tba",
           "etaText": "TBA",
-          "isNew": true,
+          "isNew": false,
           "note": "",
           "trackingNumber": "875505666006",
           "routeText": "City of Industry, CA → American Fork, UT · FedEx Ground · #dgj-logistics",
@@ -222,7 +292,7 @@
           "contentsLabel": "Contents:",
           "etaType": "tba",
           "etaText": "TBA",
-          "isNew": true,
+          "isNew": false,
           "note": "",
           "trackingNumber": "875505641220",
           "routeText": "City of Industry, CA → American Fork, UT · FedEx Ground · #dgj-logistics",
@@ -250,7 +320,7 @@
           "contentsLabel": "Contents:",
           "etaType": "tba",
           "etaText": "TBA",
-          "isNew": true,
+          "isNew": false,
           "note": "",
           "trackingNumber": "875505680411",
           "routeText": "City of Industry, CA → American Fork, UT · FedEx Ground · #dgj-logistics",
@@ -278,7 +348,7 @@
           "contentsLabel": "Contents:",
           "etaType": "tba",
           "etaText": "TBA",
-          "isNew": true,
+          "isNew": false,
           "note": "UPS — not auto-tracked by this refresh",
           "trackingNumber": "1Z1BE2120311138700",
           "routeText": "City of Industry, CA → American Fork, UT · UPS · #dgj-logistics",
@@ -306,7 +376,7 @@
           "contentsLabel": "Contents:",
           "etaType": "tba",
           "etaText": "TBA",
-          "isNew": true,
+          "isNew": false,
           "note": "UPS — not auto-tracked by this refresh",
           "trackingNumber": "1Z1BE2120300610111",
           "routeText": "City of Industry, CA → American Fork, UT · UPS · #dgj-logistics",
@@ -334,7 +404,7 @@
           "contentsLabel": "Contents:",
           "etaType": "tba",
           "etaText": "TBA",
-          "isNew": true,
+          "isNew": false,
           "note": "UPS — not auto-tracked by this refresh",
           "trackingNumber": "1Z1BE2120300683329",
           "routeText": "City of Industry, CA → American Fork, UT · UPS · #dgj-logistics",
@@ -418,15 +488,15 @@
         {
           "recipient": "esther",
           "vendor": "DGJ",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "vendorLabel": "DGJ",
           "recipientLabel": "Esther",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "contentsLabel": "Contents:",
-          "etaType": "eta",
-          "etaText": "Tue, Aug 11",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue, Aug 11",
           "isNew": false,
           "note": "",
           "trackingNumber": "875455161116",
@@ -446,15 +516,15 @@
         {
           "recipient": "alexa",
           "vendor": "DGJ",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "vendorLabel": "DGJ",
           "recipientLabel": "Alexa",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "contentsLabel": "Contents:",
-          "etaType": "eta",
-          "etaText": "Tue, Aug 11",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue, Aug 11",
           "isNew": false,
           "note": "",
           "trackingNumber": "875455521260",
@@ -488,15 +558,15 @@
         {
           "recipient": "other",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Julia",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "contentsLabel": "Contents:",
-          "etaType": "eta",
-          "etaText": "Today, Aug 10 (out for delivery)",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon, Aug 10",
           "isNew": false,
           "note": "",
           "trackingNumber": "875448434299",
@@ -523,8 +593,8 @@
           "recipientLabel": "Alexandra",
           "statusLabel": "In Transit",
           "contentsLabel": "Contents:",
-          "etaType": "tba",
-          "etaText": "TBA",
+          "etaType": "eta",
+          "etaText": "Thu, Aug 13",
           "isNew": false,
           "note": "",
           "trackingNumber": "875448861054",
@@ -553,8 +623,8 @@
           "isDupCompanion": false,
           "status": "onway",
           "statusLabel": "In Transit",
-          "etaType": "eta",
-          "etaText": "Mon, Aug 10",
+          "etaType": "tba",
+          "etaText": "TBA",
           "contentsLabel": "Contents:",
           "isNew": false,
           "note": "",
@@ -930,68 +1000,6 @@
       ]
     },
     {
-      "title": "TFK cotton modal span JSY trial cuttings — Alexa, Esther (Jul 31)",
-      "isNew": true,
-      "packages": [
-        {
-          "recipient": "alexa",
-          "vendor": "TFK",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "875137832340",
-          "vendorLabel": "Texfriend Korea",
-          "recipientLabel": "Alexa",
-          "statusLabel": "Delivered",
-          "routeText": "Seoul → Denver, CO · Shipped 7/31/26 · Gmail fwd",
-          "etaType": "delivered",
-          "etaText": "Delivered Mon, Aug 3",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "Cotton modal span JSY trial cutting (for TEXWORLD NY)",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            }
-          ],
-          "note": "TFK office closed Aug 3–5 (summer vacation)",
-          "isNew": false
-        },
-        {
-          "recipient": "esther",
-          "vendor": "TFK",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "875137889121",
-          "vendorLabel": "Texfriend Korea",
-          "recipientLabel": "Esther",
-          "statusLabel": "Delivered",
-          "routeText": "Seoul → El Cerrito, CA · Shipped 7/31/26 · Gmail fwd",
-          "etaType": "delivered",
-          "etaText": "Delivered Mon, Aug 3",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "Cotton modal span JSY trial cutting (for TEXWORLD NY)",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            }
-          ],
-          "note": "",
-          "isNew": false
-        }
-      ]
-    },
-    {
       "title": "Only Hangers store fixtures — Esther (Jul 28)",
       "isNew": true,
       "packages": [
@@ -1016,86 +1024,6 @@
             }
           ],
           "note": "Out for delivery 12:35–2:35pm · master TN; companion 382863599806 delivered",
-          "isNew": false
-        }
-      ]
-    },
-    {
-      "title": "Sunwin SW0081 PP + SW0088 P1/P2 samples — Alexa, Esther, Taylor (Jul 30)",
-      "isNew": false,
-      "packages": [
-        {
-          "recipient": "esther",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "875083228222",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Esther",
-          "statusLabel": "Delivered",
-          "routeText": "Shanghai → El Cerrito, CA · Shipped 7/30/26 · #sunwin-general",
-          "etaType": "delivered",
-          "etaText": "Delivered Mon, Aug 3",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "SW0088 RIB RACER TANK, P2 sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P2"
-                }
-              ]
-            },
-            {
-              "text": "SW0088 ZEPHYR TANK, P1 sample, size XL",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P1"
-                }
-              ]
-            }
-          ],
-          "note": "",
-          "isNew": false
-        },
-        {
-          "recipient": "taylor",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "875083524236",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Taylor",
-          "statusLabel": "Delivered",
-          "routeText": "Shanghai → Castle Rock, CO · Shipped 7/30/26 · #sunwin-general",
-          "etaType": "delivered",
-          "etaText": "Delivered Mon, Aug 3",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "SW0088 RIB RACER TANK, P2 sample, size XS",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P2"
-                }
-              ]
-            },
-            {
-              "text": "SW0088 ZEPHYR TANK, P1 sample, size XL",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P1"
-                }
-              ]
-            }
-          ],
-          "note": "",
           "isNew": false
         }
       ]
@@ -1252,6 +1180,141 @@
     }
   ],
   "archivedGroups": [
+    {
+      "title": "Archived — rolled 8/11/26",
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "TFK",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "875137832340",
+          "vendorLabel": "Texfriend Korea",
+          "recipientLabel": "Alexa",
+          "statusLabel": "Delivered",
+          "routeText": "Seoul → Denver, CO · Shipped 7/31/26 · Gmail fwd",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon, Aug 3",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "Cotton modal span JSY trial cutting (for TEXWORLD NY)",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "TFK office closed Aug 3–5 (summer vacation)",
+          "isNew": false
+        },
+        {
+          "recipient": "esther",
+          "vendor": "TFK",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "875137889121",
+          "vendorLabel": "Texfriend Korea",
+          "recipientLabel": "Esther",
+          "statusLabel": "Delivered",
+          "routeText": "Seoul → El Cerrito, CA · Shipped 7/31/26 · Gmail fwd",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon, Aug 3",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "Cotton modal span JSY trial cutting (for TEXWORLD NY)",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false
+        },
+        {
+          "recipient": "esther",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "875083228222",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Esther",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 7/30/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon, Aug 3",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0088 RIB RACER TANK, P2 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 ZEPHYR TANK, P1 sample, size XL",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "875083524236",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Taylor",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 7/30/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon, Aug 3",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0088 RIB RACER TANK, P2 sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 ZEPHYR TANK, P1 sample, size XL",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false
+        }
+      ]
+    },
     {
       "title": "Archived — rolled 8/10/26",
       "packages": [
