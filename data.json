@@ -1,6 +1,298 @@
 {
-  "lastUpdated": "Updated Tue, Aug 11 · 10:32 AM · 5 new packages (3 via Gmail rescan) · 4 archived · 8 status updates",
+  "lastUpdated": "Updated Wed, Aug 12 · 10:18 AM · 7 new packages · 3 archived · 2 status updates",
   "groups": [
+    {
+      "title": "Sunwin SW0087 Men's Marshmallow P2s — Alexa, Esther, Taylor (Aug 12)",
+      "packages": [
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": true,
+          "recipient": "alexa",
+          "vendor": "SW",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "trackingNumber": "875661795063",
+          "routeText": "Shanghai → Denver, CO · Shipped 8/12/26 · #sunwin-general",
+          "etaType": "eta",
+          "etaText": "Thu, Aug 13",
+          "items": [
+            {
+              "text": "SW0087 MEN'S MARSHMALLOW GO SHORT, P2 sample, size L",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0087 MEN'S MARSHMALLOW ZIP JACKET, P2 sample, size XL",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": true,
+          "recipient": "esther",
+          "vendor": "SW",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Esther",
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "trackingNumber": "875662043876",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 8/12/26 · #sunwin-general",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "items": [
+            {
+              "text": "SW0087 MEN'S MARSHMALLOW GO SHORT, P2 sample, size XL",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0087 MEN'S MARSHMALLOW ZIP JACKET, P2 sample, size XL",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": true,
+          "recipient": "taylor",
+          "vendor": "SW",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Taylor",
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "trackingNumber": "875661655365",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 8/12/26 · #sunwin-general",
+          "etaType": "eta",
+          "etaText": "Thu, Aug 13",
+          "items": [
+            {
+              "text": "SW0087 MEN'S MARSHMALLOW GO SHORT, P2 sample, size L",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0087 MEN'S MARSHMALLOW ZIP JACKET, P2 sample, size XL",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sunwin SW0070 Marshmallow TOP samples — Alexa (Aug 11)",
+      "packages": [
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": true,
+          "recipient": "alexa",
+          "vendor": "SW",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "trackingNumber": "875603884022",
+          "routeText": "Shanghai → Denver, CO · Shipped 8/11/26 · #sunwin-general",
+          "etaType": "eta",
+          "etaText": "Wed, Aug 12 (out for delivery)",
+          "items": [
+            {
+              "text": "SW0070 MARSHMALLOW GO JOGGER PANT, TOP sample, Midnight & Stone Heather, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "SW0070 MARSHMALLOW ZIP UP JACKET, TOP sample, Midnight, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "SW0070 MENS MARSHMALLOW CREWNECK, TOP sample, Midnight, size XL",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "SW0070 MENS MARSHMALLOW GO JOGGER PANT, TOP sample, Midnight & Stone Heather, size L",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "DGJ0118 Cloud Spring new dips + proto samples — Grace, Alexa, Taylor (Aug 12)",
+      "packages": [
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": true,
+          "recipient": "other",
+          "vendor": "DGJ",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Grace",
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "trackingNumber": "875660041973",
+          "routeText": "Dongguan → San Francisco, CA · Shipped 8/13/26 · #dgj-0118-cloud-spring",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "items": [
+            {
+              "text": "DGJ0118 Cloud Spring — new color dips",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0118 Cloud Spring — proto samples",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PROTO"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": true,
+          "recipient": "alexa",
+          "vendor": "DGJ",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Alexa",
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "trackingNumber": "875660769460",
+          "routeText": "Dongguan → Denver, CO · Shipped 8/13/26 · #dgj-0118-cloud-spring",
+          "etaType": "eta",
+          "etaText": "Mon, Aug 17",
+          "items": [
+            {
+              "text": "DGJ0118 Cloud Spring — new color dips",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0118 Cloud Spring — proto samples",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PROTO"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": true,
+          "recipient": "taylor",
+          "vendor": "DGJ",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Taylor",
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "trackingNumber": "875660298420",
+          "routeText": "Dongguan → Castle Rock, CO · Shipped 8/13/26 · #dgj-0118-cloud-spring",
+          "etaType": "eta",
+          "etaText": "Mon, Aug 17",
+          "items": [
+            {
+              "text": "DGJ0118 Cloud Spring — new color dips",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0118 Cloud Spring — proto samples",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PROTO"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "title": "Jinlin Knitting — JLCH100-410 pink/blue color cards + yarn-dyed swatches — Alexa, Esther (Aug 11)",
       "packages": [
@@ -27,7 +319,7 @@
             }
           ],
           "note": "",
-          "isNew": true,
+          "isNew": false,
           "recipientLabel": "Alexa",
           "routeText": "Cixi → Denver, CO · Shipped 8/12/26 · Gmail",
           "trackingNumber": "875603665076"
@@ -55,7 +347,7 @@
             }
           ],
           "note": "",
-          "isNew": true,
+          "isNew": false,
           "recipientLabel": "Esther",
           "routeText": "Cixi → El Cerrito, CA · Shipped 8/12/26 · Gmail",
           "trackingNumber": "875603506020"
@@ -97,7 +389,7 @@
             }
           ],
           "note": "",
-          "isNew": true,
+          "isNew": false,
           "recipientLabel": "Alexa",
           "routeText": "Woodland Hills, CA → Denver, CO · Shipped 8/6/26 · Gmail",
           "trackingNumber": "875442598478"
@@ -142,7 +434,7 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "recipient": "esther",
@@ -170,7 +462,7 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         }
       ]
     },
@@ -187,8 +479,8 @@
           "recipientLabel": "Julia",
           "statusLabel": "In Transit",
           "contentsLabel": "Contents:",
-          "etaType": "tba",
-          "etaText": "TBA",
+          "etaType": "eta",
+          "etaText": "Thu, Aug 13",
           "isNew": false,
           "note": "",
           "trackingNumber": "875533582098",
@@ -297,15 +589,15 @@
         {
           "recipient": "other",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Alexandra",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "contentsLabel": "Contents:",
-          "etaType": "eta",
-          "etaText": "Wed, Aug 12",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue, Aug 11",
           "isNew": false,
           "note": "FedEx attempted delivery — redelivery scheduled 8/12",
           "trackingNumber": "875456243745",
@@ -945,70 +1237,6 @@
       "title": "DGJ Cloud II Crush Block Tank P3 + polka dot colors, trims, lab dip — Alexa, Esther, Taylor (Aug 3)",
       "packages": [
         {
-          "recipient": "alexa",
-          "vendor": "DGJ",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "875183695944",
-          "vendorLabel": "DGJ",
-          "recipientLabel": "Alexa",
-          "statusLabel": "Delivered",
-          "routeText": "Dongguan City → Denver, CO · Shipped 8/3/26 · #dgj-0118-cloud-spring",
-          "etaType": "delivered",
-          "etaText": "Delivered Tue, Aug 4",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "CLOUD II CRUSH BLOCK TANK, P3 sample",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P3"
-                }
-              ]
-            },
-            {
-              "text": "PINK POLKA DOT — color before update",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            },
-            {
-              "text": "BLUE POLKA DOT — color before update",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            },
-            {
-              "text": "Cherry Lace and Ribbon Trims",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            },
-            {
-              "text": "New Oxford Cloud II lab dip",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            }
-          ],
-          "note": "",
-          "isNew": false
-        },
-        {
           "recipient": "esther",
           "vendor": "DGJ",
           "status": "delivered",
@@ -1070,63 +1298,6 @@
             }
           ],
           "note": "",
-          "isNew": false
-        },
-        {
-          "recipient": "taylor",
-          "vendor": "DGJ",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "875183894108",
-          "vendorLabel": "DGJ",
-          "recipientLabel": "Taylor",
-          "statusLabel": "Delivered",
-          "routeText": "Dongguan City → Castle Rock, CO · Shipped 8/3/26 · #dgj-0118-cloud-spring",
-          "etaType": "delivered",
-          "etaText": "Delivered Tue, Aug 4",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "CLOUD II CRUSH BLOCK TANK, P3 sample",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P3"
-                }
-              ]
-            }
-          ],
-          "note": "",
-          "isNew": false
-        }
-      ]
-    },
-    {
-      "title": "Only Hangers store fixtures — Esther (Jul 28)",
-      "isNew": true,
-      "packages": [
-        {
-          "recipient": "esther",
-          "vendor": "OTHER",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "382863598534",
-          "vendorLabel": "Only Hangers",
-          "recipientLabel": "Esther",
-          "statusLabel": "Delivered",
-          "routeText": "Miami, FL → El Cerrito, CA · Shipped 7/28/26 · Gmail",
-          "etaType": "delivered",
-          "etaText": "Delivered Tue, Aug 4",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "Store fixtures/hangers, 2 pieces, 64 lb (ref 21611, invoice 8119)",
-              "tags": []
-            }
-          ],
-          "note": "Out for delivery 12:35–2:35pm · master TN; companion 382863599806 delivered",
           "isNew": false
         }
       ]
@@ -1283,6 +1454,126 @@
     }
   ],
   "archivedGroups": [
+    {
+      "title": "Archived — rolled 8/12/26",
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "DGJ",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "875183695944",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Alexa",
+          "statusLabel": "Delivered",
+          "routeText": "Dongguan City → Denver, CO · Shipped 8/3/26 · #dgj-0118-cloud-spring",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue, Aug 4",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "CLOUD II CRUSH BLOCK TANK, P3 sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "PINK POLKA DOT — color before update",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "BLUE POLKA DOT — color before update",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "Cherry Lace and Ribbon Trims",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "New Oxford Cloud II lab dip",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "DGJ",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "875183894108",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Taylor",
+          "statusLabel": "Delivered",
+          "routeText": "Dongguan City → Castle Rock, CO · Shipped 8/3/26 · #dgj-0118-cloud-spring",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue, Aug 4",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "CLOUD II CRUSH BLOCK TANK, P3 sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false
+        },
+        {
+          "recipient": "esther",
+          "vendor": "OTHER",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "382863598534",
+          "vendorLabel": "Only Hangers",
+          "recipientLabel": "Esther",
+          "statusLabel": "Delivered",
+          "routeText": "Miami, FL → El Cerrito, CA · Shipped 7/28/26 · Gmail",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue, Aug 4",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "Store fixtures/hangers, 2 pieces, 64 lb (ref 21611, invoice 8119)",
+              "tags": []
+            }
+          ],
+          "note": "Out for delivery 12:35–2:35pm · master TN; companion 382863599806 delivered",
+          "isNew": false
+        }
+      ]
+    },
     {
       "title": "Archived — rolled 8/11/26",
       "packages": [
