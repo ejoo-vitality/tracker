@@ -1,29 +1,28 @@
 {
-  "lastUpdated": "Updated Mon, Aug 17 · 9:49 AM · 10 new packages · 1 archived · 5 status updates",
+  "lastUpdated": "Updated Mon, Aug 17 · 9:52 AM · 10 new packages · 1 archived · 5 status updates · FedEx poll skipped already-delivered pkgs",
   "groups": [
     {
-      "title": "Sunwin — SW0085 Flow bulk + Homebody/Daydream LDs — Alexa, Esther, Taylor (Aug 17)",
-      "isNew": true,
+      "title": "Sunwin — SW0085 Flow bulk + lab dips (Aug 17)",
       "packages": [
         {
-          "carrier": "FedEx",
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "onway",
           "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "Sunwin",
+          "statusLabel": "In Transit",
+          "etaType": "eta",
           "contentsLabel": "Contents:",
           "isNew": true,
           "note": "",
-          "status": "onway",
-          "statusLabel": "In Transit",
-          "recipient": "alexa",
           "recipientLabel": "Alexa",
-          "vendor": "SW",
-          "vendorLabel": "Sunwin",
           "trackingNumber": "875850548748",
           "routeText": "Shanghai → Denver, CO · Shipped 8/17/26 · #sunwin-general",
-          "etaType": "eta",
           "etaText": "Tue, Aug 18",
           "items": [
             {
-              "text": "Bulk of SW0085 Flow",
+              "text": "SW0085 Flow — bulk cutting",
               "tags": [
                 {
                   "type": "bulk",
@@ -43,20 +42,20 @@
           ]
         },
         {
-          "carrier": "FedEx",
+          "recipient": "esther",
+          "vendor": "SW",
+          "status": "onway",
           "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "Sunwin",
+          "statusLabel": "In Transit",
+          "etaType": "tba",
           "contentsLabel": "Contents:",
           "isNew": true,
           "note": "",
-          "status": "onway",
-          "statusLabel": "In Transit",
-          "recipient": "esther",
           "recipientLabel": "Esther",
-          "vendor": "SW",
-          "vendorLabel": "Sunwin",
           "trackingNumber": "875850765460",
           "routeText": "Shanghai → El Cerrito, CA · Shipped 8/17/26 · #sunwin-general",
-          "etaType": "tba",
           "etaText": "TBA",
           "items": [
             {
@@ -71,20 +70,20 @@
           ]
         },
         {
-          "carrier": "FedEx",
+          "recipient": "taylor",
+          "vendor": "SW",
+          "status": "onway",
           "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "Sunwin",
+          "statusLabel": "In Transit",
+          "etaType": "eta",
           "contentsLabel": "Contents:",
           "isNew": true,
           "note": "",
-          "status": "onway",
-          "statusLabel": "In Transit",
-          "recipient": "taylor",
           "recipientLabel": "Taylor",
-          "vendor": "SW",
-          "vendorLabel": "Sunwin",
           "trackingNumber": "875849795035",
           "routeText": "Shanghai → Castle Rock, CO · Shipped 8/17/26 · #sunwin-general",
-          "etaType": "eta",
           "etaText": "Tue, Aug 18",
           "items": [
             {
@@ -101,24 +100,23 @@
       ]
     },
     {
-      "title": "DGJ0112 Polka Dot TOPs + Cloud II Split Tank P1s — Alexa, Esther, Taylor (Aug 17)",
-      "isNew": true,
+      "title": "DGJ0112 TOP samples + Cloud II Split Tank P1 (Aug 17)",
       "packages": [
         {
-          "carrier": "FedEx",
+          "recipient": "alexa",
+          "vendor": "DGJ",
+          "status": "onway",
           "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "DGJ",
+          "statusLabel": "In Transit",
+          "etaType": "eta",
           "contentsLabel": "Contents:",
           "isNew": true,
           "note": "",
-          "status": "onway",
-          "statusLabel": "In Transit",
-          "recipient": "alexa",
           "recipientLabel": "Alexa",
-          "vendor": "DGJ",
-          "vendorLabel": "DGJ",
           "trackingNumber": "875851916670",
-          "routeText": "Dongguan → Denver, CO (new office) · Shipped 8/17/26 · #dgj-0112-cloud-black-edit-reorder",
-          "etaType": "eta",
+          "routeText": "Dongguan → Denver, CO · Shipped 8/17/26 · #dgj-0112-cloud-black-edit-reorder",
           "etaText": "Wed, Aug 19",
           "items": [
             {
@@ -142,20 +140,20 @@
           ]
         },
         {
-          "carrier": "FedEx",
+          "recipient": "esther",
+          "vendor": "DGJ",
+          "status": "onway",
           "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "DGJ",
+          "statusLabel": "In Transit",
+          "etaType": "eta",
           "contentsLabel": "Contents:",
           "isNew": true,
           "note": "",
-          "status": "onway",
-          "statusLabel": "In Transit",
-          "recipient": "esther",
           "recipientLabel": "Esther",
-          "vendor": "DGJ",
-          "vendorLabel": "DGJ",
           "trackingNumber": "875852397938",
           "routeText": "Dongguan → El Cerrito, CA · Shipped 8/17/26 · #dgj-0112-cloud-black-edit-reorder",
-          "etaType": "eta",
           "etaText": "Wed, Aug 19",
           "items": [
             {
@@ -170,20 +168,20 @@
           ]
         },
         {
-          "carrier": "FedEx",
+          "recipient": "taylor",
+          "vendor": "DGJ",
+          "status": "onway",
           "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "DGJ",
+          "statusLabel": "In Transit",
+          "etaType": "eta",
           "contentsLabel": "Contents:",
           "isNew": true,
           "note": "",
-          "status": "onway",
-          "statusLabel": "In Transit",
-          "recipient": "taylor",
           "recipientLabel": "Taylor",
-          "vendor": "DGJ",
-          "vendorLabel": "DGJ",
           "trackingNumber": "875852668789",
           "routeText": "Dongguan → Castle Rock, CO · Shipped 8/17/26 · #dgj-0112-cloud-black-edit-reorder",
-          "etaType": "eta",
           "etaText": "Wed, Aug 19",
           "items": [
             {
@@ -200,90 +198,27 @@
       ]
     },
     {
-      "title": "DGJ0112 marketing samples — Julia, Alexandra (Aug 14)",
-      "isNew": true,
+      "title": "Huazhi knit lab dips — Alexa (Aug 17)",
       "packages": [
         {
-          "carrier": "FedEx",
-          "isDupCompanion": false,
-          "contentsLabel": "Contents:",
-          "isNew": true,
-          "note": "",
-          "status": "onway",
-          "statusLabel": "In Transit",
-          "recipient": "other",
-          "recipientLabel": "Julia",
-          "vendor": "DGJ",
-          "vendorLabel": "DGJ",
-          "trackingNumber": "875812119588",
-          "routeText": "Dongguan → Costa Mesa, CA · Shipped 8/17/26 · #dgj-marketing-samples",
-          "etaType": "eta",
-          "etaText": "Mon, Aug 17 (out for delivery)",
-          "items": [
-            {
-              "text": "DGJ0112 marketing samples",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "SAMPLE"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "carrier": "FedEx",
-          "isDupCompanion": false,
-          "contentsLabel": "Contents:",
-          "isNew": true,
-          "note": "",
-          "status": "onway",
-          "statusLabel": "In Transit",
-          "recipient": "other",
-          "recipientLabel": "Alexandra",
-          "vendor": "DGJ",
-          "vendorLabel": "DGJ",
-          "trackingNumber": "875812263624",
-          "routeText": "Dongguan → Toronto, ON · Shipped 8/17/26 · #dgj-marketing-samples",
-          "etaType": "eta",
-          "etaText": "Mon, Aug 17 (out for delivery)",
-          "items": [
-            {
-              "text": "DGJ0112 marketing samples",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "SAMPLE"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Huazhi — Y202 color card + Bright White lab dips — Alexa (Aug 17)",
-      "isNew": true,
-      "packages": [
-        {
-          "carrier": "FedEx",
-          "isDupCompanion": false,
-          "contentsLabel": "Contents:",
-          "isNew": true,
-          "note": "Huazhi asks if white can match their color 01; heather pricing higher than solids.",
-          "status": "onway",
-          "statusLabel": "In Transit",
           "recipient": "alexa",
-          "recipientLabel": "Alexa",
           "vendor": "HZ",
-          "vendorLabel": "Hangzhou Huazhi",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "Huazhi Textile",
+          "statusLabel": "In Transit",
+          "etaType": "eta",
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "note": "",
+          "recipientLabel": "Alexa",
           "trackingNumber": "875841709980",
           "routeText": "Xiaoshan → Denver, CO · Shipped 8/17/26 · Gmail",
-          "etaType": "eta",
           "etaText": "Wed, Aug 19",
           "items": [
             {
-              "text": "Y202 color card + lab dips of Bright White 11-0601 TCX",
+              "text": "Y202 color card + Bright White 11-0601 TCX lab dips (knitted fabric)",
               "tags": [
                 {
                   "type": "submit",
@@ -296,28 +231,88 @@
       ]
     },
     {
-      "title": "Internal — Alexa → Esther (Aug 12)",
-      "isNew": true,
+      "title": "DGJ0112 marketing samples (Aug 14)",
       "packages": [
         {
-          "carrier": "FedEx",
+          "recipient": "other",
+          "vendor": "DGJ",
+          "status": "onway",
           "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "DGJ",
+          "statusLabel": "In Transit",
+          "etaType": "eta",
           "contentsLabel": "Contents:",
           "isNew": true,
           "note": "",
-          "status": "delivered",
-          "statusLabel": "Delivered",
-          "recipient": "esther",
-          "recipientLabel": "Esther",
-          "vendor": "VIT",
-          "vendorLabel": "Vitality (Alexa)",
-          "trackingNumber": "875693195474",
-          "routeText": "Denver, CO → El Cerrito, CA · Shipped 8/12/26 · Gmail",
-          "etaType": "delivered",
-          "etaText": "Delivered Sat, Aug 15",
+          "recipientLabel": "Julia",
+          "trackingNumber": "875812119588",
+          "routeText": "Dongguan → Costa Mesa, CA · Shipped 8/14/26 · #dgj-marketing-samples",
+          "etaText": "Mon, Aug 17 (out for delivery)",
           "items": [
             {
-              "text": "Package from Alexa — 8 lb, FedEx Economy (likely forwarded samples)",
+              "text": "DGJ0112 marketing samples",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "SAMPLE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "other",
+          "vendor": "DGJ",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "DGJ",
+          "statusLabel": "In Transit",
+          "etaType": "eta",
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "note": "",
+          "recipientLabel": "Alexandra",
+          "trackingNumber": "875812263624",
+          "routeText": "Dongguan → Toronto, ON · Shipped 8/14/26 · #dgj-marketing-samples",
+          "etaText": "Mon, Aug 17 (out for delivery)",
+          "items": [
+            {
+              "text": "DGJ0112 marketing samples",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "SAMPLE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Internal — Alexa → Esther (Aug 12)",
+      "packages": [
+        {
+          "recipient": "esther",
+          "vendor": "VIT",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "Vitality (Alexa)",
+          "statusLabel": "Delivered",
+          "etaType": "delivered",
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "note": "",
+          "recipientLabel": "Esther",
+          "trackingNumber": "875693195474",
+          "etaText": "Delivered Sat, Aug 15",
+          "routeText": "Denver, CO → El Cerrito, CA · Shipped 8/12/26 · Gmail",
+          "items": [
+            {
+              "text": "Package from Alexa — 8 lb, FedEx Economy (contents TBC)",
               "tags": []
             }
           ]
@@ -326,7 +321,7 @@
     },
     {
       "title": "Heyone woven fabric options — Esther (Aug 14)",
-      "isNew": false,
+      "isNew": true,
       "packages": [
         {
           "recipient": "esther",
@@ -360,7 +355,7 @@
     },
     {
       "title": "SS proto samples / lab dips — Esther (Aug 12)",
-      "isNew": false,
+      "isNew": true,
       "packages": [
         {
           "recipient": "esther",
@@ -394,7 +389,7 @@
     },
     {
       "title": "Internal — Alexa → Esther (Aug 10)",
-      "isNew": false,
+      "isNew": true,
       "packages": [
         {
           "recipient": "esther",
@@ -423,7 +418,7 @@
     },
     {
       "title": "Outbound — Esther → DGJ, Dongguan (Aug 11)",
-      "isNew": false,
+      "isNew": true,
       "packages": [
         {
           "recipient": "other",
@@ -784,8 +779,7 @@
             }
           ]
         }
-      ],
-      "isNew": false
+      ]
     },
     {
       "title": "Sunwin SW0070 Marshmallow TOP samples — Alexa (Aug 11)",
@@ -845,8 +839,7 @@
             }
           ]
         }
-      ],
-      "isNew": false
+      ]
     },
     {
       "title": "DGJ0118 Cloud Spring new dips + proto samples — Grace, Alexa, Taylor (Aug 12)",
@@ -962,8 +955,7 @@
             }
           ]
         }
-      ],
-      "isNew": false
+      ]
     },
     {
       "title": "Jinlin Knitting — JLCH100-410 pink/blue color cards + yarn-dyed swatches — Alexa, Esther (Aug 11)",
@@ -1024,8 +1016,7 @@
           "routeText": "Cixi → El Cerrito, CA · Shipped 8/12/26 · Gmail",
           "trackingNumber": "875603506020"
         }
-      ],
-      "isNew": false
+      ]
     },
     {
       "title": "Talon — zipper samples + VITALITY logo tape — Alexa (Aug 6)",
@@ -1067,8 +1058,7 @@
           "routeText": "Woodland Hills, CA → Denver, CO · Shipped 8/6/26 · Gmail",
           "trackingNumber": "875442598478"
         }
-      ],
-      "isNew": false
+      ]
     },
     {
       "title": "DGJ0125 Cloud II strike offs + Bubblegum Cloud II Relaxed Trouser TOPs — Alexa, Esther (Aug 11)",
@@ -1138,8 +1128,7 @@
           "note": "",
           "isNew": false
         }
-      ],
-      "isNew": false
+      ]
     },
     {
       "title": "DGJ0111 marketing samples — Bubblegum Cloud II Relaxed Trouser — Julia, Alexandra (Aug 10)",
@@ -1200,8 +1189,7 @@
             }
           ]
         }
-      ],
-      "isNew": false
+      ]
     },
     {
       "title": "Sunwin — Academy FAHO26-8 TOPs + SW0070 marketing samples + DHL TOP sample (Aug 7–8)",
@@ -1318,8 +1306,7 @@
             }
           ]
         }
-      ],
-      "isNew": false
+      ]
     },
     {
       "title": "DGJ bulk — 6 consignments to American Fork, UT warehouse (Aug 10)",
@@ -1492,8 +1479,7 @@
             }
           ]
         }
-      ],
-      "isNew": false
+      ]
     },
     {
       "title": "Sunwin SW0073 TOPs + SW0085 Daydream P3s + FLOAT/BASIS trim approvals — Alexa (Aug 7)",
@@ -1553,8 +1539,7 @@
             }
           ]
         }
-      ],
-      "isNew": false
+      ]
     },
     {
       "title": "DGJ prime dips + DGJ0105 top + easyday staple tee — Esther, Alexa (Aug 7)",
@@ -1624,8 +1609,7 @@
             }
           ]
         }
-      ],
-      "isNew": false
+      ]
     },
     {
       "title": "Sunwin marketing samples SW0073/SW0070 — Julia, Alexandra (Aug 6)",
@@ -1686,8 +1670,7 @@
             }
           ]
         }
-      ],
-      "isNew": false
+      ]
     },
     {
       "title": "Sunwin SW0088 Butterfly/Pulse/Flow protos & P2s + puffer zipper tape LD — Alexa, Grace, Taylor, Esther (Aug 5)",
@@ -1820,8 +1803,7 @@
             }
           ]
         }
-      ],
-      "isNew": false
+      ]
     },
     {
       "title": "Sunwin Accelerate Gather Jacket PP + Homebody wash panels — Alexa, Esther (Jul 25)",
