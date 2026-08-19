@@ -1,6 +1,317 @@
 {
-  "lastUpdated": "Updated Tue, Aug 18 · 10:15 AM · 1 new package · 5 archived · 8 status updates · FedEx poll skipped already-delivered pkgs",
+  "lastUpdated": "Updated Wed, Aug 19 · 9:52 AM · 4 new packages · 4 archived · 8 status updates · Gmail 404 cleared on retry",
   "groups": [
+    {
+      "title": "Sunwin SW0088/SW0084/SW0076/SW0083 P2 + PP samples — Alexa, Esther, Taylor (Aug 19)",
+      "packages": [
+        {
+          "vendor": "SW",
+          "vendorLabel": "Sunwin",
+          "carrier": "FedEx",
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "isDupCompanion": false,
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "recipient": "alexa",
+          "recipientLabel": "Alexa",
+          "trackingNumber": "875978489188",
+          "routeText": "Shanghai → Denver, CO · Shipped 8/19/26 · #sunwin-general",
+          "etaType": "eta",
+          "etaText": "Thu, Aug 20",
+          "items": [
+            {
+              "text": "SW0088 ZEPHYR TANK, P2 sample, size XL",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 PULSE STRAPPY RACER STRIPE BRA, P2 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 PULSE STRIPE JACKET, P2 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0084 PULSE HUE PANT, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0076 DAYDREAM OVERLAP TANK, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0076 DAYDREAM OVERLAP BRA, P2/PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0083 FLOAT RIB ROBE, P2 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            }
+          ],
+          "note": "Becky (sw-academy-sports): TOP samples also shipping under this tracking number."
+        },
+        {
+          "vendor": "SW",
+          "vendorLabel": "Sunwin",
+          "carrier": "FedEx",
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "isDupCompanion": false,
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "recipient": "esther",
+          "recipientLabel": "Esther",
+          "trackingNumber": "875979258981",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 8/19/26 · #sunwin-general",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "items": [
+            {
+              "text": "SW0088 ZEPHYR TANK, P2 sample, size XL",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 PULSE STRAPPY RACER STRIPE BRA, P2 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 PULSE STRIPE JACKET, P2 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0084 PULSE HUE PANT, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0076 DAYDREAM OVERLAP TANK, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0076 DAYDREAM OVERLAP BRA, P2/PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0083 FLOAT RIB ROBE, P2 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "vendor": "SW",
+          "vendorLabel": "Sunwin",
+          "carrier": "FedEx",
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "isDupCompanion": false,
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "recipient": "taylor",
+          "recipientLabel": "Taylor",
+          "trackingNumber": "875979455234",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 8/19/26 · #sunwin-general",
+          "etaType": "eta",
+          "etaText": "Thu, Aug 20",
+          "items": [
+            {
+              "text": "SW0088 ZEPHYR TANK, P2 sample, size XL",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 PULSE STRAPPY RACER STRIPE BRA, P2 sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 PULSE STRIPE JACKET, P2 sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0084 PULSE HUE PANT, PP sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0076 DAYDREAM OVERLAP TANK, PP sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0076 DAYDREAM OVERLAP BRA, P2/PP sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0083 FLOAT RIB ROBE, P2 sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            }
+          ],
+          "note": "Recipient not named in Slack — XS set to Castle Rock, CO (Taylor)."
+        }
+      ]
+    },
+    {
+      "title": "Talon Intl trim + zipper submits — Alexa (Aug 18)",
+      "packages": [
+        {
+          "recipient": "alexa",
+          "recipientLabel": "Alexa",
+          "vendor": "TL",
+          "vendorLabel": "Talon Intl",
+          "carrier": "FedEx",
+          "trackingNumber": "875958418210",
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "isDupCompanion": false,
+          "isNew": true,
+          "routeText": "Woodland Hills, CA → Denver, CO · Shipped 8/18/26 · Gmail",
+          "etaType": "eta",
+          "etaText": "Thu, Aug 20",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "VITWLB26A0017 SERENITY/NAVY BLAZER VITALITY logo woven label",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "VITZPP26A0010 DTM Serenity/Bright White logo jacquard zipper puller",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "#3 reversed coil zippers 6\" — Butterfly, Blue Bell (5 pcs each)",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "#5 reversed coil zippers 7\" — Equestrian Red, Flame Scarlet, Empire Yellow (5 pcs each)",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ]
+    },
     {
       "title": "Product City — Serenity trim submits (8/17)",
       "packages": [
@@ -15,10 +326,10 @@
           "recipientLabel": "Alexa",
           "statusLabel": "In Transit",
           "routeText": "Hong Kong → Denver, CO · Shipped 8/17/26 · Gmail",
-          "etaType": "tba",
-          "etaText": "TBA",
+          "etaType": "eta",
+          "etaText": "Today, Wed Aug 19",
           "contentsLabel": "Contents:",
-          "isNew": true,
+          "isNew": false,
           "items": [
             {
               "text": "G4519 Vitality debossed logo 2H plastic stopper, Serenity 15-3919 TCX",
@@ -49,19 +360,19 @@
         {
           "recipient": "alexa",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "vendorLabel": "Sunwin",
-          "statusLabel": "In Transit",
-          "etaType": "eta",
+          "statusLabel": "Delivered",
+          "etaType": "delivered",
           "contentsLabel": "Contents:",
           "isNew": false,
           "note": "",
           "recipientLabel": "Alexa",
           "trackingNumber": "875850548748",
           "routeText": "Shanghai → Denver, CO · Shipped 8/17/26 · #sunwin-general",
-          "etaText": "Today, Tue Aug 18",
+          "etaText": "Delivered Tue 8/18",
           "items": [
             {
               "text": "SW0085 Flow — bulk cutting",
@@ -86,19 +397,19 @@
         {
           "recipient": "esther",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "vendorLabel": "Sunwin",
-          "statusLabel": "In Transit",
-          "etaType": "eta",
+          "statusLabel": "Delivered",
+          "etaType": "delivered",
           "contentsLabel": "Contents:",
           "isNew": false,
           "note": "",
           "recipientLabel": "Esther",
           "trackingNumber": "875850765460",
           "routeText": "Shanghai → El Cerrito, CA · Shipped 8/17/26 · #sunwin-general",
-          "etaText": "Today, Tue Aug 18",
+          "etaText": "Delivered Tue 8/18",
           "items": [
             {
               "text": "LD of Academy Homebody / SW0092 Daydream",
@@ -114,19 +425,19 @@
         {
           "recipient": "taylor",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "vendorLabel": "Sunwin",
-          "statusLabel": "In Transit",
-          "etaType": "eta",
+          "statusLabel": "Delivered",
+          "etaType": "delivered",
           "contentsLabel": "Contents:",
           "isNew": false,
           "note": "",
           "recipientLabel": "Taylor",
           "trackingNumber": "875849795035",
           "routeText": "Shanghai → Castle Rock, CO · Shipped 8/17/26 · #sunwin-general",
-          "etaText": "Today, Tue Aug 18",
+          "etaText": "Delivered Tue 8/18",
           "items": [
             {
               "text": "LD of SW0092 Daydream",
@@ -159,7 +470,7 @@
           "recipientLabel": "Alexa",
           "trackingNumber": "875851916670",
           "routeText": "Dongguan → Denver, CO · Shipped 8/17/26 · #dgj-0112-cloud-black-edit-reorder",
-          "etaText": "Wed, Aug 19",
+          "etaText": "Thu, Aug 20",
           "items": [
             {
               "text": "DGJ0112 Midnight & Espresso Polka Dot TOP samples",
@@ -196,7 +507,7 @@
           "recipientLabel": "Esther",
           "trackingNumber": "875852397938",
           "routeText": "Dongguan → El Cerrito, CA · Shipped 8/17/26 · #dgj-0112-cloud-black-edit-reorder",
-          "etaText": "Wed, Aug 19",
+          "etaText": "Thu, Aug 20",
           "items": [
             {
               "text": "Cloud II Split Tank — P1 sample",
@@ -224,7 +535,7 @@
           "recipientLabel": "Taylor",
           "trackingNumber": "875852668789",
           "routeText": "Dongguan → Castle Rock, CO · Shipped 8/17/26 · #dgj-0112-cloud-black-edit-reorder",
-          "etaText": "Wed, Aug 19",
+          "etaText": "Thu, Aug 20",
           "items": [
             {
               "text": "Cloud II Split Tank — P1 sample",
@@ -245,19 +556,19 @@
         {
           "recipient": "alexa",
           "vendor": "HZ",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "vendorLabel": "Huazhi Textile",
-          "statusLabel": "In Transit",
-          "etaType": "eta",
+          "statusLabel": "Delivered",
+          "etaType": "delivered",
           "contentsLabel": "Contents:",
           "isNew": false,
           "note": "",
           "recipientLabel": "Alexa",
           "trackingNumber": "875841709980",
           "routeText": "Xiaoshan → Denver, CO · Shipped 8/17/26 · Gmail",
-          "etaText": "Today, Tue Aug 18",
+          "etaText": "Delivered Tue 8/18",
           "items": [
             {
               "text": "Y202 color card + Bright White 11-0601 TCX lab dips (knitted fabric)",
@@ -1195,62 +1506,6 @@
       "title": "Sunwin — Academy FAHO26-8 TOPs + SW0070 marketing samples + DHL TOP sample (Aug 7–8)",
       "packages": [
         {
-          "recipient": "other",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Julia",
-          "statusLabel": "Delivered",
-          "contentsLabel": "Contents:",
-          "etaType": "delivered",
-          "etaText": "Delivered Tue, Aug 11",
-          "isNew": false,
-          "note": "",
-          "trackingNumber": "875500121726",
-          "routeText": "Shanghai → Costa Mesa, CA · Shipped 8/8/26 · #sw-marketing-samples",
-          "items": [
-            {
-              "text": "SW0070 marketing samples",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "SAMPLE"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "recipient": "other",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Alexandra",
-          "statusLabel": "Delivered",
-          "contentsLabel": "Contents:",
-          "etaType": "delivered",
-          "etaText": "Delivered Tue, Aug 11",
-          "isNew": false,
-          "note": "FedEx attempted delivery — redelivery scheduled 8/12",
-          "trackingNumber": "875456243745",
-          "routeText": "Shanghai → Toronto, ON · Shipped 8/8/26 · #sw-marketing-samples",
-          "items": [
-            {
-              "text": "SW0070 marketing samples",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "SAMPLE"
-                }
-              ]
-            }
-          ]
-        },
-        {
           "recipient": "alexa",
           "vendor": "SW",
           "status": "onway",
@@ -1446,76 +1701,6 @@
                 {
                   "type": "bulk",
                   "label": "BULK"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "DGJ prime dips + DGJ0105 top + easyday staple tee — Esther, Alexa (Aug 7)",
-      "packages": [
-        {
-          "recipient": "esther",
-          "vendor": "DGJ",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "vendorLabel": "DGJ",
-          "recipientLabel": "Esther",
-          "statusLabel": "Delivered",
-          "contentsLabel": "Contents:",
-          "etaType": "delivered",
-          "etaText": "Delivered Tue, Aug 11",
-          "isNew": false,
-          "note": "",
-          "trackingNumber": "875455161116",
-          "routeText": "Dongguan City → El Cerrito, CA · Shipped 8/8/26 · #dgj-0122-prime-breeze-pulse-sport",
-          "items": [
-            {
-              "text": "Womens Easyday Staple Tee",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "SAMPLE"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "recipient": "alexa",
-          "vendor": "DGJ",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "vendorLabel": "DGJ",
-          "recipientLabel": "Alexa",
-          "statusLabel": "Delivered",
-          "contentsLabel": "Contents:",
-          "etaType": "delivered",
-          "etaText": "Delivered Tue, Aug 11",
-          "isNew": false,
-          "note": "",
-          "trackingNumber": "875455521260",
-          "routeText": "Dongguan City → Denver, CO · Shipped 8/8/26 · #dgj-0122-prime-breeze-pulse-sport",
-          "items": [
-            {
-              "text": "Prime lab dips (sent with DGJ0105 TOP)",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            },
-            {
-              "text": "Crinkle fabric new options B & C, 0.5 yd each",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
                 }
               ]
             }
@@ -1777,6 +1962,132 @@
     }
   ],
   "archivedGroups": [
+    {
+      "title": "Archived — rolled 8/19/26",
+      "packages": [
+        {
+          "recipient": "other",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Julia",
+          "statusLabel": "Delivered",
+          "contentsLabel": "Contents:",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue, Aug 11",
+          "isNew": false,
+          "note": "",
+          "trackingNumber": "875500121726",
+          "routeText": "Shanghai → Costa Mesa, CA · Shipped 8/8/26 · #sw-marketing-samples",
+          "items": [
+            {
+              "text": "SW0070 marketing samples",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "SAMPLE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "other",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexandra",
+          "statusLabel": "Delivered",
+          "contentsLabel": "Contents:",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue, Aug 11",
+          "isNew": false,
+          "note": "FedEx attempted delivery — redelivery scheduled 8/12",
+          "trackingNumber": "875456243745",
+          "routeText": "Shanghai → Toronto, ON · Shipped 8/8/26 · #sw-marketing-samples",
+          "items": [
+            {
+              "text": "SW0070 marketing samples",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "SAMPLE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "esther",
+          "vendor": "DGJ",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Esther",
+          "statusLabel": "Delivered",
+          "contentsLabel": "Contents:",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue, Aug 11",
+          "isNew": false,
+          "note": "",
+          "trackingNumber": "875455161116",
+          "routeText": "Dongguan City → El Cerrito, CA · Shipped 8/8/26 · #dgj-0122-prime-breeze-pulse-sport",
+          "items": [
+            {
+              "text": "Womens Easyday Staple Tee",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "SAMPLE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "alexa",
+          "vendor": "DGJ",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Alexa",
+          "statusLabel": "Delivered",
+          "contentsLabel": "Contents:",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue, Aug 11",
+          "isNew": false,
+          "note": "",
+          "trackingNumber": "875455521260",
+          "routeText": "Dongguan City → Denver, CO · Shipped 8/8/26 · #dgj-0122-prime-breeze-pulse-sport",
+          "items": [
+            {
+              "text": "Prime lab dips (sent with DGJ0105 TOP)",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "Crinkle fabric new options B & C, 0.5 yd each",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "title": "Archived — rolled 8/18/26",
       "packages": [
