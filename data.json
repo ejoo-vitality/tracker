@@ -1,6 +1,430 @@
 {
-  "lastUpdated": "Updated Wed, Aug 19 · 9:52 AM · 4 new packages · 4 archived · 8 status updates · Gmail 404 cleared on retry",
+  "lastUpdated": "Updated Thu, Aug 20 · 6:06 PM",
   "groups": [
+    {
+      "title": "DGJ0118 Cloud Spring P2 samples — Taylor, Esther, Alexa (Aug 20)",
+      "packages": [
+        {
+          "carrier": "FedEx",
+          "isDupCompanion": false,
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "note": "",
+          "vendor": "DGJ",
+          "vendorLabel": "DGJ",
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "recipient": "taylor",
+          "recipientLabel": "Taylor",
+          "trackingNumber": "876027632016",
+          "routeText": "Dongguan City → Castle Rock, CO · Shipped 8/20/26 · #dgj-0118-cloud-spring",
+          "etaType": "eta",
+          "etaText": "Mon, Aug 24",
+          "items": [
+            {
+              "text": "DGJ0118 Crinkle Set, P2 sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0118 Breeze Peak Short, P2 sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0118 Play Tee, P2 sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "carrier": "FedEx",
+          "isDupCompanion": false,
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "note": "",
+          "vendor": "DGJ",
+          "vendorLabel": "DGJ",
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "recipient": "esther",
+          "recipientLabel": "Esther",
+          "trackingNumber": "876027915743",
+          "routeText": "Dongguan City → El Cerrito, CA · Shipped 8/20/26 · #dgj-0118-cloud-spring",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "items": [
+            {
+              "text": "DGJ0118 Crinkle Set, P2 sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0118 Breeze Peak Short, P2 sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0118 Play Tee, P2 sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "carrier": "FedEx",
+          "isDupCompanion": false,
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "note": "",
+          "vendor": "DGJ",
+          "vendorLabel": "DGJ",
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "recipient": "alexa",
+          "recipientLabel": "Alexa",
+          "trackingNumber": "876028027201",
+          "routeText": "Dongguan City → Denver, CO · Shipped 8/20/26 · #dgj-0118-cloud-spring",
+          "etaType": "eta",
+          "etaText": "Mon, Aug 24",
+          "items": [
+            {
+              "text": "DGJ0118 Crinkle Set, P2 sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0118 Breeze Peak Short, P2 sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0118 Play Tee, P2 sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "DGJ0120 Cloud II Maternity Bra PP samples — Alexa, Taylor, Esther (Aug 20)",
+      "packages": [
+        {
+          "carrier": "FedEx",
+          "isDupCompanion": false,
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "note": "",
+          "vendor": "DGJ",
+          "vendorLabel": "DGJ",
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "recipient": "alexa",
+          "recipientLabel": "Alexa",
+          "trackingNumber": "875973844310",
+          "routeText": "Dongguan City → Denver, CO · Shipped 8/20/26 · #dgj-0120-cloud-ii-maternity-bra",
+          "etaType": "eta",
+          "etaText": "Fri, Aug 21",
+          "items": [
+            {
+              "text": "DGJ0120 Midnight Cloud II Maternity Bra, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "carrier": "FedEx",
+          "isDupCompanion": false,
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "note": "",
+          "vendor": "DGJ",
+          "vendorLabel": "DGJ",
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "recipient": "taylor",
+          "recipientLabel": "Taylor",
+          "trackingNumber": "875974129248",
+          "routeText": "Dongguan City → Castle Rock, CO · Shipped 8/20/26 · #dgj-0120-cloud-ii-maternity-bra",
+          "etaType": "eta",
+          "etaText": "Fri, Aug 21",
+          "items": [
+            {
+              "text": "DGJ0120 Midnight Cloud II Maternity Bra, PP sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "carrier": "FedEx",
+          "isDupCompanion": false,
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "note": "",
+          "vendor": "DGJ",
+          "vendorLabel": "DGJ",
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "recipient": "esther",
+          "recipientLabel": "Esther",
+          "trackingNumber": "875974001080",
+          "routeText": "Dongguan City → El Cerrito, CA · Shipped 8/20/26 · #dgj-0120-cloud-ii-maternity-bra",
+          "etaType": "eta",
+          "etaText": "Fri, Aug 21",
+          "items": [
+            {
+              "text": "DGJ0120 Espresso Cloud II Maternity Bra, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Talon Intl — Serenity trims & zippers to Alexa (Aug 20)",
+      "packages": [
+        {
+          "carrier": "FedEx",
+          "isDupCompanion": false,
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "note": "",
+          "vendor": "TL",
+          "vendorLabel": "Talon Intl",
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "recipient": "alexa",
+          "recipientLabel": "Alexa",
+          "trackingNumber": "876073210248",
+          "routeText": "Woodland Hills, CA → Denver, CO · Shipped 8/20/26 · Gmail",
+          "etaType": "eta",
+          "etaText": "Mon, Aug 24",
+          "items": [
+            {
+              "text": "VITYLT26A0012 Serenity 1.25\" logo tape, trim submit",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "#3 Invisible LACE + #5 Reversed Coil zippers, Serenity 15-3919 TCX (PO 50238815), 5pcs each",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Heyone — woven fabric option to Esther (Aug 20)",
+      "packages": [
+        {
+          "carrier": "FedEx",
+          "isDupCompanion": false,
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "note": "",
+          "vendor": "HY",
+          "vendorLabel": "Heyone",
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "recipient": "esther",
+          "recipientLabel": "Esther",
+          "trackingNumber": "876027597205",
+          "routeText": "Daegu → El Cerrito, CA · Shipped 8/20/26 · Gmail",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "items": [
+            {
+              "text": "Woven fabric option, 1Y (85% nylon / 15% spandex development)",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Outbound — standards & lab dips to vendors (Aug 14–19)",
+      "packages": [
+        {
+          "carrier": "FedEx",
+          "isDupCompanion": false,
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "note": "",
+          "vendor": "SW",
+          "vendorLabel": "Sunwin",
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "recipient": "other",
+          "recipientLabel": "Becky Wang (Sunwin)",
+          "trackingNumber": "876004412533",
+          "routeText": "Denver, CO → Shanghai · Shipped 8/19/26 · #sw-academy-sports",
+          "etaType": "eta",
+          "etaText": "Mon, Aug 24",
+          "items": [
+            {
+              "text": "Approved lab dip (return with redips)",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "carrier": "FedEx",
+          "isDupCompanion": false,
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "note": "",
+          "vendor": "SS",
+          "vendorLabel": "SS",
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "recipient": "other",
+          "recipientLabel": "Freya (SS)",
+          "trackingNumber": "876005232823",
+          "routeText": "Denver, CO → Xinhui · Shipped 8/19/26 · #ss-0006-cozy-mock-neck-sweatshirt",
+          "etaType": "eta",
+          "etaText": "Mon, Aug 24",
+          "items": [
+            {
+              "text": "Lime Cream color standards (Cozy Mock Neck Sweatshirt)",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "carrier": "FedEx",
+          "isDupCompanion": false,
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "note": "",
+          "vendor": "HY",
+          "vendorLabel": "Heyone",
+          "status": "delivered",
+          "statusLabel": "Delivered",
+          "recipient": "other",
+          "recipientLabel": "Matiz Kim (Heyone)",
+          "trackingNumber": "875760453710",
+          "routeText": "El Cerrito, CA → Daegu · Shipped 8/14/26 · Gmail",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue 8/18",
+          "items": [
+            {
+              "text": "Reference fabric cutting for woven development",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Esther → Taylor — internal samples (delivered Aug 19)",
+      "packages": [
+        {
+          "carrier": "FedEx",
+          "isDupCompanion": false,
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "note": "",
+          "vendor": "VIT",
+          "vendorLabel": "Vitality",
+          "status": "delivered",
+          "statusLabel": "Delivered",
+          "recipient": "taylor",
+          "recipientLabel": "Taylor",
+          "trackingNumber": "875954953779",
+          "routeText": "El Cerrito, CA → Castle Rock, CO · Shipped 8/18/26 · Gmail",
+          "etaType": "delivered",
+          "etaText": "Delivered Wed 8/19",
+          "items": [
+            {
+              "text": "Samples from Esther (1 lb, Priority Overnight — contents not specified)",
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
     {
       "title": "Sunwin SW0088/SW0084/SW0076/SW0083 P2 + PP samples — Alexa, Esther, Taylor (Aug 19)",
       "packages": [
@@ -12,13 +436,13 @@
           "statusLabel": "In Transit",
           "isDupCompanion": false,
           "contentsLabel": "Contents:",
-          "isNew": true,
+          "isNew": false,
           "recipient": "alexa",
           "recipientLabel": "Alexa",
           "trackingNumber": "875978489188",
           "routeText": "Shanghai → Denver, CO · Shipped 8/19/26 · #sunwin-general",
           "etaType": "eta",
-          "etaText": "Thu, Aug 20",
+          "etaText": "Fri, Aug 21",
           "items": [
             {
               "text": "SW0088 ZEPHYR TANK, P2 sample, size XL",
@@ -94,7 +518,7 @@
           "statusLabel": "In Transit",
           "isDupCompanion": false,
           "contentsLabel": "Contents:",
-          "isNew": true,
+          "isNew": false,
           "recipient": "esther",
           "recipientLabel": "Esther",
           "trackingNumber": "875979258981",
@@ -176,13 +600,13 @@
           "statusLabel": "In Transit",
           "isDupCompanion": false,
           "contentsLabel": "Contents:",
-          "isNew": true,
+          "isNew": false,
           "recipient": "taylor",
           "recipientLabel": "Taylor",
           "trackingNumber": "875979455234",
           "routeText": "Shanghai → Castle Rock, CO · Shipped 8/19/26 · #sunwin-general",
           "etaType": "eta",
-          "etaText": "Thu, Aug 20",
+          "etaText": "Fri, Aug 21",
           "items": [
             {
               "text": "SW0088 ZEPHYR TANK, P2 sample, size XL",
@@ -262,13 +686,13 @@
           "vendorLabel": "Talon Intl",
           "carrier": "FedEx",
           "trackingNumber": "875958418210",
-          "status": "onway",
-          "statusLabel": "In Transit",
+          "status": "delivered",
+          "statusLabel": "Delivered",
           "isDupCompanion": false,
-          "isNew": true,
+          "isNew": false,
           "routeText": "Woodland Hills, CA → Denver, CO · Shipped 8/18/26 · Gmail",
-          "etaType": "eta",
-          "etaText": "Thu, Aug 20",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu 8/20",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -318,16 +742,16 @@
         {
           "recipient": "alexa",
           "vendor": "PC",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "875854546924",
           "vendorLabel": "Product City",
           "recipientLabel": "Alexa",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Hong Kong → Denver, CO · Shipped 8/17/26 · Gmail",
-          "etaType": "eta",
-          "etaText": "Today, Wed Aug 19",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu 8/20",
           "contentsLabel": "Contents:",
           "isNew": false,
           "items": [
@@ -458,19 +882,19 @@
         {
           "recipient": "alexa",
           "vendor": "DGJ",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "vendorLabel": "DGJ",
-          "statusLabel": "In Transit",
-          "etaType": "eta",
+          "statusLabel": "Delivered",
+          "etaType": "delivered",
           "contentsLabel": "Contents:",
           "isNew": false,
           "note": "",
           "recipientLabel": "Alexa",
           "trackingNumber": "875851916670",
           "routeText": "Dongguan → Denver, CO · Shipped 8/17/26 · #dgj-0112-cloud-black-edit-reorder",
-          "etaText": "Thu, Aug 20",
+          "etaText": "Delivered Thu 8/20",
           "items": [
             {
               "text": "DGJ0112 Midnight & Espresso Polka Dot TOP samples",
@@ -495,19 +919,19 @@
         {
           "recipient": "esther",
           "vendor": "DGJ",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "vendorLabel": "DGJ",
-          "statusLabel": "In Transit",
-          "etaType": "eta",
+          "statusLabel": "Delivered",
+          "etaType": "delivered",
           "contentsLabel": "Contents:",
           "isNew": false,
           "note": "",
           "recipientLabel": "Esther",
           "trackingNumber": "875852397938",
           "routeText": "Dongguan → El Cerrito, CA · Shipped 8/17/26 · #dgj-0112-cloud-black-edit-reorder",
-          "etaText": "Thu, Aug 20",
+          "etaText": "Delivered Thu 8/20",
           "items": [
             {
               "text": "Cloud II Split Tank — P1 sample",
@@ -523,19 +947,19 @@
         {
           "recipient": "taylor",
           "vendor": "DGJ",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "vendorLabel": "DGJ",
-          "statusLabel": "In Transit",
-          "etaType": "eta",
+          "statusLabel": "Delivered",
+          "etaType": "delivered",
           "contentsLabel": "Contents:",
           "isNew": false,
           "note": "",
           "recipientLabel": "Taylor",
           "trackingNumber": "875852668789",
           "routeText": "Dongguan → Castle Rock, CO · Shipped 8/17/26 · #dgj-0112-cloud-black-edit-reorder",
-          "etaText": "Thu, Aug 20",
+          "etaText": "Delivered Thu 8/20",
           "items": [
             {
               "text": "Cloud II Split Tank — P1 sample",
@@ -1127,66 +1551,6 @@
                 {
                   "type": "sample",
                   "label": "P2"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Sunwin SW0070 Marshmallow TOP samples — Alexa (Aug 11)",
-      "packages": [
-        {
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "contentsLabel": "Contents:",
-          "note": "",
-          "isNew": false,
-          "recipient": "alexa",
-          "vendor": "SW",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Alexa",
-          "status": "delivered",
-          "statusLabel": "Delivered",
-          "trackingNumber": "875603884022",
-          "routeText": "Shanghai → Denver, CO · Shipped 8/11/26 · #sunwin-general",
-          "etaType": "delivered",
-          "etaText": "Delivered Wed, Aug 12",
-          "items": [
-            {
-              "text": "SW0070 MARSHMALLOW GO JOGGER PANT, TOP sample, Midnight & Stone Heather, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "TOP"
-                }
-              ]
-            },
-            {
-              "text": "SW0070 MARSHMALLOW ZIP UP JACKET, TOP sample, Midnight, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "TOP"
-                }
-              ]
-            },
-            {
-              "text": "SW0070 MENS MARSHMALLOW CREWNECK, TOP sample, Midnight, size XL",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "TOP"
-                }
-              ]
-            },
-            {
-              "text": "SW0070 MENS MARSHMALLOW GO JOGGER PANT, TOP sample, Midnight & Stone Heather, size L",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "TOP"
                 }
               ]
             }
@@ -1962,6 +2326,66 @@
     }
   ],
   "archivedGroups": [
+    {
+      "title": "Archived — rolled 8/20/26",
+      "packages": [
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": false,
+          "recipient": "alexa",
+          "vendor": "SW",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "status": "delivered",
+          "statusLabel": "Delivered",
+          "trackingNumber": "875603884022",
+          "routeText": "Shanghai → Denver, CO · Shipped 8/11/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Wed, Aug 12",
+          "items": [
+            {
+              "text": "SW0070 MARSHMALLOW GO JOGGER PANT, TOP sample, Midnight & Stone Heather, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "SW0070 MARSHMALLOW ZIP UP JACKET, TOP sample, Midnight, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "SW0070 MENS MARSHMALLOW CREWNECK, TOP sample, Midnight, size XL",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "SW0070 MENS MARSHMALLOW GO JOGGER PANT, TOP sample, Midnight & Stone Heather, size L",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "title": "Archived — rolled 8/19/26",
       "packages": [
