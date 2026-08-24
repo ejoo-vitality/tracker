@@ -1,30 +1,30 @@
 {
-  "lastUpdated": "Updated Fri, Aug 21 · 9:24 AM",
+  "lastUpdated": "Updated Mon, Aug 24 · 10:19 AM",
   "groups": [
     {
-      "title": "SW0093 Active SY Cuttings — shipped 8/21",
+      "title": "DGJ0106/DGJ0117 Marketing Samples — shipped 8/24",
       "packages": [
         {
-          "recipient": "alexa",
-          "vendor": "SW",
-          "status": "onway",
+          "recipient": "other",
+          "vendor": "DGJ",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
-          "trackingNumber": "876085897055",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Alexa",
-          "statusLabel": "In Transit",
-          "routeText": "Shanghai → Denver, CO · Shipped 8/21/26 · #sunwin-general",
-          "etaType": "eta",
-          "etaText": "Mon, Aug 24",
+          "trackingNumber": "876130618456",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Julia",
+          "statusLabel": "Delivered",
+          "routeText": "Dongguan City → Costa Mesa, CA · Shipped 8/24/26 · #dgj-marketing-samples",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon 8/24",
           "contentsLabel": "Contents:",
           "items": [
             {
-              "text": "SW0093 Active — SY cutting",
+              "text": "DGJ0106 & DGJ0117 marketing samples (incl. Cloud II Headband)",
               "tags": [
                 {
-                  "type": "submit",
-                  "label": "SUBMIT"
+                  "type": "sample",
+                  "label": "MKT"
                 }
               ]
             }
@@ -33,26 +33,26 @@
           "isNew": true
         },
         {
-          "recipient": "esther",
-          "vendor": "SW",
-          "status": "onway",
+          "recipient": "other",
+          "vendor": "DGJ",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
-          "trackingNumber": "876085863068",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Esther",
-          "statusLabel": "In Transit",
-          "routeText": "Shanghai → El Cerrito, CA · Shipped 8/21/26 · #sunwin-general",
-          "etaType": "eta",
-          "etaText": "Mon, Aug 24",
+          "trackingNumber": "876130764860",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Alexandra",
+          "statusLabel": "Delivered",
+          "routeText": "Dongguan City → Toronto, ON · Shipped 8/24/26 · #dgj-marketing-samples",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon 8/24",
           "contentsLabel": "Contents:",
           "items": [
             {
-              "text": "SW0093 Active — SY cutting",
+              "text": "DGJ0106 & DGJ0117 marketing samples (incl. Cloud II Headband)",
               "tags": [
                 {
-                  "type": "submit",
-                  "label": "SUBMIT"
+                  "type": "sample",
+                  "label": "MKT"
                 }
               ]
             }
@@ -63,21 +63,82 @@
       ]
     },
     {
+      "title": "SW0093 Active SY Cuttings — shipped 8/21",
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "876085897055",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → Denver, CO · Shipped 8/21/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon 8/24",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0093 Active — SY cutting",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false
+        },
+        {
+          "recipient": "esther",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "876085863068",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Esther",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 8/21/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon 8/24",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0093 Active — SY cutting",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false
+        }
+      ]
+    },
+    {
       "title": "SW0086 Basis PP Samples — shipped 8/20",
       "packages": [
         {
           "recipient": "alexa",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "876032467584",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Alexa",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → Denver, CO · Shipped 8/20/26 · #sunwin-general",
-          "etaType": "eta",
-          "etaText": "Fri, Aug 21",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon 8/24",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -100,21 +161,21 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "recipient": "esther",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "876032657188",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Esther",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → El Cerrito, CA · Shipped 8/20/26 · #sunwin-general",
-          "etaType": "tba",
-          "etaText": "TBA",
+          "etaType": "delivered",
+          "etaText": "Delivered Sat 8/22",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -137,21 +198,21 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "recipient": "taylor",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "876032832499",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Taylor",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → Castle Rock, CO · Shipped 8/20/26 · #sunwin-general",
-          "etaType": "eta",
-          "etaText": "Mon, Aug 24",
+          "etaType": "delivered",
+          "etaText": "Delivered Sat 8/22",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -174,7 +235,7 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         }
       ]
     },
@@ -189,14 +250,14 @@
           "note": "",
           "vendor": "DGJ",
           "vendorLabel": "DGJ",
-          "status": "onway",
-          "statusLabel": "In Transit",
+          "status": "delivered",
+          "statusLabel": "Delivered",
           "recipient": "taylor",
           "recipientLabel": "Taylor",
           "trackingNumber": "876027632016",
           "routeText": "Dongguan City → Castle Rock, CO · Shipped 8/20/26 · #dgj-0118-cloud-spring",
-          "etaType": "eta",
-          "etaText": "Mon, Aug 24",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon 8/24",
           "items": [
             {
               "text": "DGJ0118 Crinkle Set, P2 sample",
@@ -235,14 +296,14 @@
           "note": "",
           "vendor": "DGJ",
           "vendorLabel": "DGJ",
-          "status": "onway",
-          "statusLabel": "In Transit",
+          "status": "delivered",
+          "statusLabel": "Delivered",
           "recipient": "esther",
           "recipientLabel": "Esther",
           "trackingNumber": "876027915743",
           "routeText": "Dongguan City → El Cerrito, CA · Shipped 8/20/26 · #dgj-0118-cloud-spring",
-          "etaType": "tba",
-          "etaText": "TBA",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon 8/24",
           "items": [
             {
               "text": "DGJ0118 Crinkle Set, P2 sample",
@@ -281,14 +342,14 @@
           "note": "",
           "vendor": "DGJ",
           "vendorLabel": "DGJ",
-          "status": "onway",
-          "statusLabel": "In Transit",
+          "status": "delivered",
+          "statusLabel": "Delivered",
           "recipient": "alexa",
           "recipientLabel": "Alexa",
           "trackingNumber": "876028027201",
           "routeText": "Dongguan City → Denver, CO · Shipped 8/20/26 · #dgj-0118-cloud-spring",
-          "etaType": "eta",
-          "etaText": "Mon, Aug 24",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon 8/24",
           "items": [
             {
               "text": "DGJ0118 Crinkle Set, P2 sample",
@@ -332,14 +393,14 @@
           "note": "",
           "vendor": "DGJ",
           "vendorLabel": "DGJ",
-          "status": "onway",
-          "statusLabel": "In Transit",
+          "status": "delivered",
+          "statusLabel": "Delivered",
           "recipient": "alexa",
           "recipientLabel": "Alexa",
           "trackingNumber": "875973844310",
           "routeText": "Dongguan City → Denver, CO · Shipped 8/20/26 · #dgj-0120-cloud-ii-maternity-bra",
-          "etaType": "eta",
-          "etaText": "Fri, Aug 21",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri 8/21",
           "items": [
             {
               "text": "DGJ0120 Midnight Cloud II Maternity Bra, PP sample, size S",
@@ -360,14 +421,14 @@
           "note": "",
           "vendor": "DGJ",
           "vendorLabel": "DGJ",
-          "status": "onway",
-          "statusLabel": "In Transit",
+          "status": "delivered",
+          "statusLabel": "Delivered",
           "recipient": "taylor",
           "recipientLabel": "Taylor",
           "trackingNumber": "875974129248",
           "routeText": "Dongguan City → Castle Rock, CO · Shipped 8/20/26 · #dgj-0120-cloud-ii-maternity-bra",
-          "etaType": "eta",
-          "etaText": "Fri, Aug 21",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri 8/21",
           "items": [
             {
               "text": "DGJ0120 Midnight Cloud II Maternity Bra, PP sample, size XS",
@@ -388,14 +449,14 @@
           "note": "",
           "vendor": "DGJ",
           "vendorLabel": "DGJ",
-          "status": "onway",
-          "statusLabel": "In Transit",
+          "status": "delivered",
+          "statusLabel": "Delivered",
           "recipient": "esther",
           "recipientLabel": "Esther",
           "trackingNumber": "875974001080",
           "routeText": "Dongguan City → El Cerrito, CA · Shipped 8/20/26 · #dgj-0120-cloud-ii-maternity-bra",
-          "etaType": "eta",
-          "etaText": "Fri, Aug 21",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri 8/21",
           "items": [
             {
               "text": "DGJ0120 Espresso Cloud II Maternity Bra, PP sample, size S",
@@ -421,14 +482,14 @@
           "note": "",
           "vendor": "TL",
           "vendorLabel": "Talon Intl",
-          "status": "onway",
-          "statusLabel": "In Transit",
+          "status": "delivered",
+          "statusLabel": "Delivered",
           "recipient": "alexa",
           "recipientLabel": "Alexa",
           "trackingNumber": "876073210248",
           "routeText": "Woodland Hills, CA → Denver, CO · Shipped 8/20/26 · Gmail",
-          "etaType": "eta",
-          "etaText": "Mon, Aug 24",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon 8/24",
           "items": [
             {
               "text": "VITYLT26A0012 Serenity 1.25\" logo tape, trim submit",
@@ -463,14 +524,14 @@
           "note": "",
           "vendor": "HY",
           "vendorLabel": "Heyone",
-          "status": "onway",
-          "statusLabel": "In Transit",
+          "status": "delivered",
+          "statusLabel": "Delivered",
           "recipient": "esther",
           "recipientLabel": "Esther",
           "trackingNumber": "876027597205",
           "routeText": "Daegu → El Cerrito, CA · Shipped 8/20/26 · Gmail",
-          "etaType": "eta",
-          "etaText": "Fri, Aug 21",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri 8/21",
           "items": [
             {
               "text": "Woven fabric option, 1Y (85% nylon / 15% spandex development)",
@@ -496,14 +557,14 @@
           "note": "",
           "vendor": "SW",
           "vendorLabel": "Sunwin",
-          "status": "onway",
-          "statusLabel": "In Transit",
+          "status": "delivered",
+          "statusLabel": "Delivered",
           "recipient": "other",
           "recipientLabel": "Becky Wang (Sunwin)",
           "trackingNumber": "876004412533",
           "routeText": "Denver, CO → Shanghai · Shipped 8/19/26 · #sw-academy-sports",
-          "etaType": "eta",
-          "etaText": "Mon, Aug 24",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon 8/24",
           "items": [
             {
               "text": "Approved lab dip (return with redips)",
@@ -524,14 +585,14 @@
           "note": "",
           "vendor": "SS",
           "vendorLabel": "SS",
-          "status": "onway",
-          "statusLabel": "In Transit",
+          "status": "delivered",
+          "statusLabel": "Delivered",
           "recipient": "other",
           "recipientLabel": "Freya (SS)",
           "trackingNumber": "876005232823",
           "routeText": "Denver, CO → Xinhui · Shipped 8/19/26 · #ss-0006-cozy-mock-neck-sweatshirt",
-          "etaType": "eta",
-          "etaText": "Mon, Aug 24",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon 8/24",
           "items": [
             {
               "text": "Lime Cream color standards (Cozy Mock Neck Sweatshirt)",
@@ -609,8 +670,8 @@
           "vendor": "SW",
           "vendorLabel": "Sunwin",
           "carrier": "FedEx",
-          "status": "onway",
-          "statusLabel": "In Transit",
+          "status": "delivered",
+          "statusLabel": "Delivered",
           "isDupCompanion": false,
           "contentsLabel": "Contents:",
           "isNew": false,
@@ -618,8 +679,8 @@
           "recipientLabel": "Alexa",
           "trackingNumber": "875978489188",
           "routeText": "Shanghai → Denver, CO · Shipped 8/19/26 · #sunwin-general",
-          "etaType": "eta",
-          "etaText": "Fri, Aug 21",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri 8/21",
           "items": [
             {
               "text": "SW0088 ZEPHYR TANK, P2 sample, size XL",
@@ -691,8 +752,8 @@
           "vendor": "SW",
           "vendorLabel": "Sunwin",
           "carrier": "FedEx",
-          "status": "onway",
-          "statusLabel": "In Transit",
+          "status": "delivered",
+          "statusLabel": "Delivered",
           "isDupCompanion": false,
           "contentsLabel": "Contents:",
           "isNew": false,
@@ -700,8 +761,8 @@
           "recipientLabel": "Esther",
           "trackingNumber": "875979258981",
           "routeText": "Shanghai → El Cerrito, CA · Shipped 8/19/26 · #sunwin-general",
-          "etaType": "eta",
-          "etaText": "Fri, Aug 21",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri 8/21",
           "items": [
             {
               "text": "SW0088 ZEPHYR TANK, P2 sample, size XL",
@@ -773,8 +834,8 @@
           "vendor": "SW",
           "vendorLabel": "Sunwin",
           "carrier": "FedEx",
-          "status": "onway",
-          "statusLabel": "In Transit",
+          "status": "delivered",
+          "statusLabel": "Delivered",
           "isDupCompanion": false,
           "contentsLabel": "Contents:",
           "isNew": false,
@@ -782,8 +843,8 @@
           "recipientLabel": "Taylor",
           "trackingNumber": "875979455234",
           "routeText": "Shanghai → Castle Rock, CO · Shipped 8/19/26 · #sunwin-general",
-          "etaType": "eta",
-          "etaText": "Fri, Aug 21",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri 8/21",
           "items": [
             {
               "text": "SW0088 ZEPHYR TANK, P2 sample, size XL",
@@ -1246,34 +1307,6 @@
       ]
     },
     {
-      "title": "Internal — Alexa → Esther (Aug 12)",
-      "packages": [
-        {
-          "recipient": "esther",
-          "vendor": "VIT",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "vendorLabel": "Vitality (Alexa)",
-          "statusLabel": "Delivered",
-          "etaType": "delivered",
-          "contentsLabel": "Contents:",
-          "isNew": false,
-          "note": "",
-          "recipientLabel": "Esther",
-          "trackingNumber": "875693195474",
-          "etaText": "Delivered Sat, Aug 15",
-          "routeText": "Denver, CO → El Cerrito, CA · Shipped 8/12/26 · Gmail",
-          "items": [
-            {
-              "text": "Package from Alexa — 8 lb, FedEx Economy (contents TBC)",
-              "tags": []
-            }
-          ]
-        }
-      ]
-    },
-    {
       "title": "Heyone woven fabric options — Esther (Aug 14)",
       "isNew": true,
       "packages": [
@@ -1304,237 +1337,6 @@
             }
           ],
           "note": "New vendor: Heyone Corporation (Matiz Kim, Daegu, Korea). Confirm receipt when arrived; Heyone holiday 8/17."
-        }
-      ]
-    },
-    {
-      "title": "SS proto samples / lab dips — Esther (Aug 12)",
-      "isNew": true,
-      "packages": [
-        {
-          "recipient": "esther",
-          "vendor": "SS",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "875661105194",
-          "vendorLabel": "SS",
-          "recipientLabel": "Esther",
-          "statusLabel": "Delivered",
-          "routeText": "Dongguan → El Cerrito, CA · Shipped 8/12/26 · Gmail",
-          "etaType": "delivered",
-          "etaText": "Delivered Fri, Aug 14",
-          "contentsLabel": "Contents:",
-          "isNew": false,
-          "items": [
-            {
-              "text": "Package from Freya (0.5 kg) — likely SS-0006 Cozy Mock Neck proto samples + lab dips (contents TBC)",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            }
-          ],
-          "note": "Alexa requested awb# for proto samples and lab dips in #ss-0006-cozy-mock-neck-sweatshirt"
-        }
-      ]
-    },
-    {
-      "title": "Internal — Alexa → Esther (Aug 10)",
-      "isNew": true,
-      "packages": [
-        {
-          "recipient": "esther",
-          "vendor": "VIT",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "875571547260",
-          "vendorLabel": "Vitality (Alexa)",
-          "recipientLabel": "Esther",
-          "statusLabel": "Delivered",
-          "routeText": "Denver, CO → El Cerrito, CA · Shipped 8/10/26 · Gmail",
-          "etaType": "delivered",
-          "etaText": "Delivered Fri, Aug 14",
-          "contentsLabel": "Contents:",
-          "isNew": false,
-          "items": [
-            {
-              "text": "Package from Alexa — 13 lb, FedEx Home Delivery (likely forwarded samples)",
-              "tags": []
-            }
-          ],
-          "note": ""
-        }
-      ]
-    },
-    {
-      "title": "Outbound — Esther → DGJ, Dongguan (Aug 11)",
-      "isNew": true,
-      "packages": [
-        {
-          "recipient": "other",
-          "vendor": "DGJ",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "875597516444",
-          "vendorLabel": "DGJ",
-          "recipientLabel": "DGJ (Derek)",
-          "statusLabel": "Delivered",
-          "routeText": "El Cerrito, CA → Dongguan · Shipped 8/11/26 · Gmail",
-          "etaType": "delivered",
-          "etaText": "Delivered Fri, Aug 14",
-          "contentsLabel": "Contents:",
-          "isNew": false,
-          "items": [
-            {
-              "text": "Outbound to Derek / Dongguan Jiejin Co. (1 lb) — reference/return shipment",
-              "tags": []
-            }
-          ],
-          "note": "Outbound package, not an incoming sample"
-        }
-      ]
-    },
-    {
-      "title": "Sunwin SW0083 P2 + SW0076 PP — Alexa, Esther, Taylor (Aug 13)",
-      "isNew": false,
-      "packages": [
-        {
-          "recipient": "alexa",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "875718122855",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Alexa",
-          "statusLabel": "Delivered",
-          "routeText": "Shanghai → Denver, CO · Shipped 8/13/26 · #sunwin-general",
-          "etaType": "delivered",
-          "etaText": "Delivered Fri, Aug 14",
-          "contentsLabel": "Contents:",
-          "isNew": false,
-          "items": [
-            {
-              "text": "SW0083 FLOAT RIB SCOOP LONG SLEEVE, P2 sample, size S (confirm inner layer length of front panel)",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P2"
-                }
-              ]
-            },
-            {
-              "text": "SW0084 DAYDREAM X BRA & TANK, TOP samples, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "TOP"
-                }
-              ]
-            },
-            {
-              "text": "SW0076 DAYDREAM DRAWCORD POCKET PANT, PP sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "1pc improved Accelerate QT pant (per Becky)",
-              "tags": []
-            }
-          ],
-          "note": ""
-        },
-        {
-          "recipient": "esther",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "875718310180",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Esther",
-          "statusLabel": "Delivered",
-          "routeText": "Shanghai → El Cerrito, CA · Shipped 8/13/26 · #sunwin-general",
-          "etaType": "delivered",
-          "etaText": "Delivered Fri, Aug 14",
-          "contentsLabel": "Contents:",
-          "isNew": false,
-          "items": [
-            {
-              "text": "SW0083 FLOAT RIB SCOOP LONG SLEEVE, P2 sample, size S (confirm inner layer length of front panel)",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P2"
-                }
-              ]
-            },
-            {
-              "text": "SW0076 DAYDREAM DRAWCORD POCKET PANT, PP sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "POLAR FLEECE FULL ZIP HOODIE, P1 sample, size S (per Becky, under Sunwin account)",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P1"
-                }
-              ]
-            }
-          ],
-          "note": ""
-        },
-        {
-          "recipient": "taylor",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "875718401671",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Taylor",
-          "statusLabel": "Delivered",
-          "routeText": "Shanghai → Castle Rock, CO · Shipped 8/13/26 · #sunwin-general",
-          "etaType": "delivered",
-          "etaText": "Delivered Fri, Aug 14",
-          "contentsLabel": "Contents:",
-          "isNew": false,
-          "items": [
-            {
-              "text": "SW0083 FLOAT RIB SCOOP LONG SLEEVE, P2 sample, size XS (confirm inner layer length of front panel)",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P2"
-                }
-              ]
-            },
-            {
-              "text": "SW0076 DAYDREAM DRAWCORD POCKET PANT, PP sample, size XS",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            }
-          ],
-          "note": ""
         }
       ]
     },
@@ -1620,87 +1422,8 @@
       ]
     },
     {
-      "title": "Sunwin SW0087 Men's Marshmallow P2s — Alexa, Esther, Taylor (Aug 12)",
-      "packages": [
-        {
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "contentsLabel": "Contents:",
-          "note": "",
-          "isNew": false,
-          "recipient": "taylor",
-          "vendor": "SW",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Taylor",
-          "status": "delivered",
-          "statusLabel": "Delivered",
-          "trackingNumber": "875661655365",
-          "routeText": "Shanghai → Castle Rock, CO · Shipped 8/12/26 · #sunwin-general",
-          "etaType": "delivered",
-          "etaText": "Delivered Fri, Aug 14",
-          "items": [
-            {
-              "text": "SW0087 MEN'S MARSHMALLOW GO SHORT, P2 sample, size L",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P2"
-                }
-              ]
-            },
-            {
-              "text": "SW0087 MEN'S MARSHMALLOW ZIP JACKET, P2 sample, size XL",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P2"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "title": "DGJ0118 Cloud Spring new dips + proto samples — Grace, Alexa, Taylor (Aug 12)",
       "packages": [
-        {
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "contentsLabel": "Contents:",
-          "note": "",
-          "isNew": false,
-          "recipient": "other",
-          "vendor": "DGJ",
-          "vendorLabel": "DGJ",
-          "recipientLabel": "Grace",
-          "status": "delivered",
-          "statusLabel": "Delivered",
-          "trackingNumber": "875660041973",
-          "routeText": "Dongguan → San Francisco, CA · Shipped 8/13/26 · #dgj-0118-cloud-spring",
-          "etaType": "delivered",
-          "etaText": "Delivered Fri, Aug 14",
-          "items": [
-            {
-              "text": "DGJ0118 Cloud Spring — new color dips",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            },
-            {
-              "text": "DGJ0118 Cloud Spring — proto samples",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PROTO"
-                }
-              ]
-            }
-          ]
-        },
         {
           "isDupCompanion": false,
           "carrier": "FedEx",
@@ -1733,109 +1456,6 @@
                 {
                   "type": "sample",
                   "label": "PROTO"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "contentsLabel": "Contents:",
-          "note": "",
-          "isNew": false,
-          "recipient": "taylor",
-          "vendor": "DGJ",
-          "vendorLabel": "DGJ",
-          "recipientLabel": "Taylor",
-          "status": "delivered",
-          "statusLabel": "Delivered",
-          "trackingNumber": "875660298420",
-          "routeText": "Dongguan → Castle Rock, CO · Shipped 8/13/26 · #dgj-0118-cloud-spring",
-          "etaType": "delivered",
-          "etaText": "Delivered Fri, Aug 14",
-          "items": [
-            {
-              "text": "DGJ0118 Cloud Spring — new color dips",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            },
-            {
-              "text": "DGJ0118 Cloud Spring — proto samples",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PROTO"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Jinlin Knitting — JLCH100-410 pink/blue color cards + yarn-dyed swatches — Alexa, Esther (Aug 11)",
-      "packages": [
-        {
-          "recipient": "alexa",
-          "vendor": "JL",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "vendorLabel": "Jinlin Knitting",
-          "statusLabel": "Delivered",
-          "etaType": "delivered",
-          "etaText": "Delivered Fri, Aug 14",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "JLCH100-410 pink & blue color cards + yarn-dyed yarn swatches",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            }
-          ],
-          "note": "",
-          "isNew": false,
-          "recipientLabel": "Alexa",
-          "routeText": "Cixi → Denver, CO · Shipped 8/12/26 · Gmail",
-          "trackingNumber": "875603665076"
-        }
-      ]
-    },
-    {
-      "title": "DGJ0111 marketing samples — Bubblegum Cloud II Relaxed Trouser — Julia, Alexandra (Aug 10)",
-      "packages": [
-        {
-          "recipient": "other",
-          "vendor": "DGJ",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "vendorLabel": "DGJ",
-          "recipientLabel": "Alexandra",
-          "statusLabel": "Delivered",
-          "contentsLabel": "Contents:",
-          "etaType": "delivered",
-          "etaText": "Delivered Fri, Aug 14",
-          "isNew": false,
-          "note": "",
-          "trackingNumber": "875534037271",
-          "routeText": "Dongguan City → Toronto, ON · Shipped 8/10/26 · #dgj-marketing-samples",
-          "items": [
-            {
-              "text": "DGJ0111 Bubblegum Cloud II Relaxed Trouser — marketing samples",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "SAMPLE"
                 }
               ]
             }
@@ -2270,6 +1890,408 @@
     }
   ],
   "archivedGroups": [
+    {
+      "title": "Archived — rolled 8/24/26",
+      "packages": [
+        {
+          "recipient": "esther",
+          "vendor": "VIT",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "Vitality (Alexa)",
+          "statusLabel": "Delivered",
+          "etaType": "delivered",
+          "contentsLabel": "Contents:",
+          "isNew": false,
+          "note": "",
+          "recipientLabel": "Esther",
+          "trackingNumber": "875693195474",
+          "etaText": "Delivered Sat, Aug 15",
+          "routeText": "Denver, CO → El Cerrito, CA · Shipped 8/12/26 · Gmail",
+          "items": [
+            {
+              "text": "Package from Alexa — 8 lb, FedEx Economy (contents TBC)",
+              "tags": []
+            }
+          ]
+        },
+        {
+          "recipient": "esther",
+          "vendor": "SS",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "875661105194",
+          "vendorLabel": "SS",
+          "recipientLabel": "Esther",
+          "statusLabel": "Delivered",
+          "routeText": "Dongguan → El Cerrito, CA · Shipped 8/12/26 · Gmail",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri, Aug 14",
+          "contentsLabel": "Contents:",
+          "isNew": false,
+          "items": [
+            {
+              "text": "Package from Freya (0.5 kg) — likely SS-0006 Cozy Mock Neck proto samples + lab dips (contents TBC)",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "Alexa requested awb# for proto samples and lab dips in #ss-0006-cozy-mock-neck-sweatshirt"
+        },
+        {
+          "recipient": "esther",
+          "vendor": "VIT",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "875571547260",
+          "vendorLabel": "Vitality (Alexa)",
+          "recipientLabel": "Esther",
+          "statusLabel": "Delivered",
+          "routeText": "Denver, CO → El Cerrito, CA · Shipped 8/10/26 · Gmail",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri, Aug 14",
+          "contentsLabel": "Contents:",
+          "isNew": false,
+          "items": [
+            {
+              "text": "Package from Alexa — 13 lb, FedEx Home Delivery (likely forwarded samples)",
+              "tags": []
+            }
+          ],
+          "note": ""
+        },
+        {
+          "recipient": "other",
+          "vendor": "DGJ",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "875597516444",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "DGJ (Derek)",
+          "statusLabel": "Delivered",
+          "routeText": "El Cerrito, CA → Dongguan · Shipped 8/11/26 · Gmail",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri, Aug 14",
+          "contentsLabel": "Contents:",
+          "isNew": false,
+          "items": [
+            {
+              "text": "Outbound to Derek / Dongguan Jiejin Co. (1 lb) — reference/return shipment",
+              "tags": []
+            }
+          ],
+          "note": "Outbound package, not an incoming sample"
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "875718401671",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Taylor",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 8/13/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri, Aug 14",
+          "contentsLabel": "Contents:",
+          "isNew": false,
+          "items": [
+            {
+              "text": "SW0083 FLOAT RIB SCOOP LONG SLEEVE, P2 sample, size XS (confirm inner layer length of front panel)",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0076 DAYDREAM DRAWCORD POCKET PANT, PP sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "recipient": "esther",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "875718310180",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Esther",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 8/13/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri, Aug 14",
+          "contentsLabel": "Contents:",
+          "isNew": false,
+          "items": [
+            {
+              "text": "SW0083 FLOAT RIB SCOOP LONG SLEEVE, P2 sample, size S (confirm inner layer length of front panel)",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0076 DAYDREAM DRAWCORD POCKET PANT, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "POLAR FLEECE FULL ZIP HOODIE, P1 sample, size S (per Becky, under Sunwin account)",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "875718122855",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → Denver, CO · Shipped 8/13/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri, Aug 14",
+          "contentsLabel": "Contents:",
+          "isNew": false,
+          "items": [
+            {
+              "text": "SW0083 FLOAT RIB SCOOP LONG SLEEVE, P2 sample, size S (confirm inner layer length of front panel)",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0084 DAYDREAM X BRA & TANK, TOP samples, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "SW0076 DAYDREAM DRAWCORD POCKET PANT, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "1pc improved Accelerate QT pant (per Becky)",
+              "tags": []
+            }
+          ],
+          "note": ""
+        },
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": false,
+          "recipient": "taylor",
+          "vendor": "SW",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Taylor",
+          "status": "delivered",
+          "statusLabel": "Delivered",
+          "trackingNumber": "875661655365",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 8/12/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri, Aug 14",
+          "items": [
+            {
+              "text": "SW0087 MEN'S MARSHMALLOW GO SHORT, P2 sample, size L",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0087 MEN'S MARSHMALLOW ZIP JACKET, P2 sample, size XL",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": false,
+          "recipient": "taylor",
+          "vendor": "DGJ",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Taylor",
+          "status": "delivered",
+          "statusLabel": "Delivered",
+          "trackingNumber": "875660298420",
+          "routeText": "Dongguan → Castle Rock, CO · Shipped 8/13/26 · #dgj-0118-cloud-spring",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri, Aug 14",
+          "items": [
+            {
+              "text": "DGJ0118 Cloud Spring — new color dips",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0118 Cloud Spring — proto samples",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PROTO"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": false,
+          "recipient": "other",
+          "vendor": "DGJ",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Grace",
+          "status": "delivered",
+          "statusLabel": "Delivered",
+          "trackingNumber": "875660041973",
+          "routeText": "Dongguan → San Francisco, CA · Shipped 8/13/26 · #dgj-0118-cloud-spring",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri, Aug 14",
+          "items": [
+            {
+              "text": "DGJ0118 Cloud Spring — new color dips",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0118 Cloud Spring — proto samples",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PROTO"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "alexa",
+          "vendor": "JL",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "Jinlin Knitting",
+          "statusLabel": "Delivered",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri, Aug 14",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "JLCH100-410 pink & blue color cards + yarn-dyed yarn swatches",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false,
+          "recipientLabel": "Alexa",
+          "routeText": "Cixi → Denver, CO · Shipped 8/12/26 · Gmail",
+          "trackingNumber": "875603665076"
+        },
+        {
+          "recipient": "other",
+          "vendor": "DGJ",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Alexandra",
+          "statusLabel": "Delivered",
+          "contentsLabel": "Contents:",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri, Aug 14",
+          "isNew": false,
+          "note": "",
+          "trackingNumber": "875534037271",
+          "routeText": "Dongguan City → Toronto, ON · Shipped 8/10/26 · #dgj-marketing-samples",
+          "items": [
+            {
+              "text": "DGJ0111 Bubblegum Cloud II Relaxed Trouser — marketing samples",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "SAMPLE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "title": "Archived — rolled 8/21/26",
       "packages": [
