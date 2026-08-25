@@ -1,6 +1,34 @@
 {
-  "lastUpdated": "Updated Mon, Aug 24 · 10:19 AM",
+  "lastUpdated": "Updated Tue, Aug 25 · 9:54 AM",
   "groups": [
+    {
+      "title": "Crinkle Track Jacket Lining — quality to source → DGJ (shipped 8/24)",
+      "packages": [
+        {
+          "recipient": "other",
+          "vendor": "DGJ",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "876208785685",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Derek Liu (DGJ)",
+          "statusLabel": "In Transit",
+          "routeText": "Denver, CO → Dongguan · Shipped 8/24/26 · #dgj-0118-cloud-spring",
+          "etaType": "eta",
+          "etaText": "Thu, Aug 27",
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "note": "",
+          "items": [
+            {
+              "text": "Mesh lining quality to source — Crinkle Track Jacket (DGJ0118 Cloud Spring)",
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
     {
       "title": "DGJ0106/DGJ0117 Marketing Samples — shipped 8/24",
       "packages": [
@@ -30,7 +58,7 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "recipient": "other",
@@ -58,7 +86,7 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         }
       ]
     },
@@ -1246,224 +1274,6 @@
       ]
     },
     {
-      "title": "DGJ0112 marketing samples (Aug 14)",
-      "packages": [
-        {
-          "recipient": "other",
-          "vendor": "DGJ",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "vendorLabel": "DGJ",
-          "statusLabel": "Delivered",
-          "etaType": "delivered",
-          "contentsLabel": "Contents:",
-          "isNew": false,
-          "note": "",
-          "recipientLabel": "Julia",
-          "trackingNumber": "875812119588",
-          "routeText": "Dongguan → Costa Mesa, CA · Shipped 8/14/26 · #dgj-marketing-samples",
-          "etaText": "Delivered Mon 8/17",
-          "items": [
-            {
-              "text": "DGJ0112 marketing samples",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "SAMPLE"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "recipient": "other",
-          "vendor": "DGJ",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "vendorLabel": "DGJ",
-          "statusLabel": "Delivered",
-          "etaType": "delivered",
-          "contentsLabel": "Contents:",
-          "isNew": false,
-          "note": "",
-          "recipientLabel": "Alexandra",
-          "trackingNumber": "875812263624",
-          "routeText": "Dongguan → Toronto, ON · Shipped 8/14/26 · #dgj-marketing-samples",
-          "etaText": "Delivered Mon 8/17",
-          "items": [
-            {
-              "text": "DGJ0112 marketing samples",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "SAMPLE"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Heyone woven fabric options — Esther (Aug 14)",
-      "isNew": true,
-      "packages": [
-        {
-          "recipient": "esther",
-          "vendor": "HY",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "875762301620",
-          "vendorLabel": "Heyone",
-          "recipientLabel": "Esther",
-          "statusLabel": "Delivered",
-          "routeText": "Daegu, Korea → El Cerrito, CA · Shipped 8/14/26 · Gmail",
-          "etaType": "delivered",
-          "etaText": "Delivered Mon 8/17",
-          "contentsLabel": "Contents:",
-          "isNew": false,
-          "items": [
-            {
-              "text": "4 woven fabric options, 1Y each (new woven development — 85% nylon/15% spandex reference)",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            }
-          ],
-          "note": "New vendor: Heyone Corporation (Matiz Kim, Daegu, Korea). Confirm receipt when arrived; Heyone holiday 8/17."
-        }
-      ]
-    },
-    {
-      "title": "DGJ0118 Cloud Spring save-cost samples + cherry trims — Esther (Aug 13)",
-      "isNew": false,
-      "packages": [
-        {
-          "recipient": "esther",
-          "vendor": "DGJ",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "875715708528",
-          "vendorLabel": "DGJ",
-          "recipientLabel": "Esther",
-          "statusLabel": "Delivered",
-          "routeText": "Dongguan → El Cerrito, CA · Shipped 8/13/26 · #dgj-0118-cloud-spring",
-          "etaType": "delivered",
-          "etaText": "Delivered Mon 8/17",
-          "contentsLabel": "Contents:",
-          "isNew": false,
-          "items": [
-            {
-              "text": "Cloud II Contrast Pocket Volley Short & Pant — save-cost version samples (ultrasonic cutting on inner pocket)",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P1"
-                }
-              ]
-            },
-            {
-              "text": "Cherry lace trim (narrower by 2-3mm after dyeing — confirm) + 2 cherry ribbon trim options",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            },
-            {
-              "text": "Breeze Print strike offs (added by Derek to Kayla's parcel)",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            }
-          ],
-          "note": "Kayla: review which ribbon trim best matches the cherry lace trim"
-        }
-      ]
-    },
-    {
-      "title": "Outbound — Alexa → Sunwin, Shanghai (Aug 12)",
-      "isNew": false,
-      "packages": [
-        {
-          "recipient": "other",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "875692919868",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Sunwin (Shanghai)",
-          "statusLabel": "Delivered",
-          "routeText": "Denver, CO → Shanghai · Shipped 8/12/26 · #sw-academy-sports",
-          "etaType": "delivered",
-          "etaText": "Delivered Mon, Aug 17",
-          "contentsLabel": "Contents:",
-          "isNew": false,
-          "items": [
-            {
-              "text": "Outbound shipment to Becky/Sunwin — AWB provided by Alexa (label on Vitality account)",
-              "tags": []
-            }
-          ],
-          "note": "Return/outbound package, not an incoming sample"
-        }
-      ]
-    },
-    {
-      "title": "DGJ0118 Cloud Spring new dips + proto samples — Grace, Alexa, Taylor (Aug 12)",
-      "packages": [
-        {
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "contentsLabel": "Contents:",
-          "note": "",
-          "isNew": false,
-          "recipient": "alexa",
-          "vendor": "DGJ",
-          "vendorLabel": "DGJ",
-          "recipientLabel": "Alexa",
-          "status": "delivered",
-          "statusLabel": "Delivered",
-          "trackingNumber": "875660769460",
-          "routeText": "Dongguan → Denver, CO · Shipped 8/13/26 · #dgj-0118-cloud-spring",
-          "etaType": "delivered",
-          "etaText": "Delivered Mon, Aug 17",
-          "items": [
-            {
-              "text": "DGJ0118 Cloud Spring — new color dips",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            },
-            {
-              "text": "DGJ0118 Cloud Spring — proto samples",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PROTO"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "title": "Sunwin — Academy FAHO26-8 TOPs + SW0070 marketing samples + DHL TOP sample (Aug 7–8)",
       "packages": [
         {
@@ -1502,19 +1312,19 @@
         {
           "recipient": "other",
           "vendor": "DGJ",
-          "status": "label",
+          "status": "onway",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "vendorLabel": "DGJ",
           "recipientLabel": "Warehouse",
-          "statusLabel": "Label Created",
+          "statusLabel": "In Transit",
           "contentsLabel": "Contents:",
-          "etaType": "tba",
-          "etaText": "TBA",
+          "etaType": "eta",
+          "etaText": "Wed, Aug 26",
           "isNew": false,
           "note": "",
           "trackingNumber": "875505666006",
-          "routeText": "City of Industry, CA → American Fork, UT · FedEx Ground · #dgj-logistics",
+          "routeText": "City of Industry, CA → American Fork, UT · FedEx Ground · Shipped 8/24/26 · #dgj-logistics",
           "items": [
             {
               "text": "Bulk — 68 cartons",
@@ -1890,6 +1700,201 @@
     }
   ],
   "archivedGroups": [
+    {
+      "title": "Archived — rolled 8/25/26",
+      "packages": [
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": false,
+          "recipient": "alexa",
+          "vendor": "DGJ",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Alexa",
+          "status": "delivered",
+          "statusLabel": "Delivered",
+          "trackingNumber": "875660769460",
+          "routeText": "Dongguan → Denver, CO · Shipped 8/13/26 · #dgj-0118-cloud-spring",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon, Aug 17",
+          "items": [
+            {
+              "text": "DGJ0118 Cloud Spring — new color dips",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0118 Cloud Spring — proto samples",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PROTO"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "other",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "875692919868",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Sunwin (Shanghai)",
+          "statusLabel": "Delivered",
+          "routeText": "Denver, CO → Shanghai · Shipped 8/12/26 · #sw-academy-sports",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon, Aug 17",
+          "contentsLabel": "Contents:",
+          "isNew": false,
+          "items": [
+            {
+              "text": "Outbound shipment to Becky/Sunwin — AWB provided by Alexa (label on Vitality account)",
+              "tags": []
+            }
+          ],
+          "note": "Return/outbound package, not an incoming sample"
+        },
+        {
+          "recipient": "esther",
+          "vendor": "DGJ",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "875715708528",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Esther",
+          "statusLabel": "Delivered",
+          "routeText": "Dongguan → El Cerrito, CA · Shipped 8/13/26 · #dgj-0118-cloud-spring",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon 8/17",
+          "contentsLabel": "Contents:",
+          "isNew": false,
+          "items": [
+            {
+              "text": "Cloud II Contrast Pocket Volley Short & Pant — save-cost version samples (ultrasonic cutting on inner pocket)",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "Cherry lace trim (narrower by 2-3mm after dyeing — confirm) + 2 cherry ribbon trim options",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "Breeze Print strike offs (added by Derek to Kayla's parcel)",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "Kayla: review which ribbon trim best matches the cherry lace trim"
+        },
+        {
+          "recipient": "esther",
+          "vendor": "HY",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "875762301620",
+          "vendorLabel": "Heyone",
+          "recipientLabel": "Esther",
+          "statusLabel": "Delivered",
+          "routeText": "Daegu, Korea → El Cerrito, CA · Shipped 8/14/26 · Gmail",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon 8/17",
+          "contentsLabel": "Contents:",
+          "isNew": false,
+          "items": [
+            {
+              "text": "4 woven fabric options, 1Y each (new woven development — 85% nylon/15% spandex reference)",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "New vendor: Heyone Corporation (Matiz Kim, Daegu, Korea). Confirm receipt when arrived; Heyone holiday 8/17."
+        },
+        {
+          "recipient": "other",
+          "vendor": "DGJ",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "DGJ",
+          "statusLabel": "Delivered",
+          "etaType": "delivered",
+          "contentsLabel": "Contents:",
+          "isNew": false,
+          "note": "",
+          "recipientLabel": "Julia",
+          "trackingNumber": "875812119588",
+          "routeText": "Dongguan → Costa Mesa, CA · Shipped 8/14/26 · #dgj-marketing-samples",
+          "etaText": "Delivered Mon 8/17",
+          "items": [
+            {
+              "text": "DGJ0112 marketing samples",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "SAMPLE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "other",
+          "vendor": "DGJ",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "DGJ",
+          "statusLabel": "Delivered",
+          "etaType": "delivered",
+          "contentsLabel": "Contents:",
+          "isNew": false,
+          "note": "",
+          "recipientLabel": "Alexandra",
+          "trackingNumber": "875812263624",
+          "routeText": "Dongguan → Toronto, ON · Shipped 8/14/26 · #dgj-marketing-samples",
+          "etaText": "Delivered Mon 8/17",
+          "items": [
+            {
+              "text": "DGJ0112 marketing samples",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "SAMPLE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "title": "Archived — rolled 8/24/26",
       "packages": [
