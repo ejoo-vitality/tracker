@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "Updated Wed, Aug 26 · 9:20 PM · Gmail scan found no new shipments",
+  "lastUpdated": "Updated Thu, Aug 27 · 11:35 AM · Gmail scan found no new shipments",
   "groups": [
     {
-      "title": "SW0087/SW0088 Marshmallow + Pulse P2 & PP samples — Alexa, Esther, Taylor (Aug 26)",
+      "title": "SW0078 Basis + SW0084 Pulse + Academy Polar Fleece samples — Alexa, Esther, Taylor (Aug 27)",
       "isNew": true,
       "packages": [
         {
@@ -17,10 +17,154 @@
           "vendorLabel": "Sunwin",
           "status": "onway",
           "statusLabel": "In Transit",
+          "trackingNumber": "876353940599",
+          "routeText": "Shanghai → Denver, CO · Shipped 8/27/26 · #sunwin-general",
+          "etaType": "eta",
+          "etaText": "Fri, Aug 28",
+          "items": [
+            {
+              "text": "SW0078 BASIS OPEN LONG SLEEVE, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0084 PULSE RACER TANK, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "POLAR FLEECE FULL ZIP HOODIE, EGRET, PP sample, size S (Academy)",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": true,
+          "recipient": "esther",
+          "recipientLabel": "Esther",
+          "vendor": "SW",
+          "vendorLabel": "Sunwin",
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "trackingNumber": "876354054152",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 8/27/26 · #sunwin-general",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "items": [
+            {
+              "text": "SW0078 BASIS OPEN LONG SLEEVE, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0084 PULSE RACER TANK, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "POLAR FLEECE FULL ZIP HOODIE, EGRET, PP sample & mock up, size S (Academy)",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": true,
+          "recipient": "taylor",
+          "recipientLabel": "Taylor",
+          "vendor": "SW",
+          "vendorLabel": "Sunwin",
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "trackingNumber": "876354132676",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 8/27/26 · #sunwin-general",
+          "etaType": "eta",
+          "etaText": "Fri, Aug 28",
+          "items": [
+            {
+              "text": "SW0078 BASIS OPEN LONG SLEEVE, P3 sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0084 PULSE RACER TANK, PP sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "POLAR FLEECE FULL ZIP HOODIE, MILK CHOCOLATE, PP sample, size XS (Academy)",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "SW0087/SW0088 Marshmallow + Pulse P2 & PP samples — Alexa, Esther, Taylor (Aug 26)",
+      "isNew": false,
+      "packages": [
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": false,
+          "recipient": "alexa",
+          "recipientLabel": "Alexa",
+          "vendor": "SW",
+          "vendorLabel": "Sunwin",
+          "status": "onway",
+          "statusLabel": "In Transit",
           "trackingNumber": "876299037060",
           "routeText": "Shanghai → Denver, CO · Shipped 8/26/26 · #sunwin-general",
           "etaType": "eta",
-          "etaText": "Thu, Aug 27",
+          "etaText": "Fri, Aug 28",
           "items": [
             {
               "text": "SW0087 MARSHMALLOW CROPPED V TOP & GO SHORT, P2 samples, size S",
@@ -92,7 +236,7 @@
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
           "note": "",
-          "isNew": true,
+          "isNew": false,
           "recipient": "esther",
           "recipientLabel": "Esther",
           "vendor": "SW",
@@ -101,8 +245,8 @@
           "statusLabel": "In Transit",
           "trackingNumber": "876299064524",
           "routeText": "Shanghai → El Cerrito, CA · Shipped 8/26/26 · #sunwin-general",
-          "etaType": "tba",
-          "etaText": "TBA",
+          "etaType": "eta",
+          "etaText": "Thu, Aug 27",
           "items": [
             {
               "text": "SW0087 MARSHMALLOW CROPPED V TOP, GO SHORT, OVERSIZED HALF ZIP & WIDE LEG PANT, P2 samples, size S",
@@ -165,7 +309,7 @@
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
           "note": "Recipient not named in Slack; Wendy Wang confirmed size XS of Wide Leg Pant & Oversized Half Zip went to Taylor.",
-          "isNew": true,
+          "isNew": false,
           "recipient": "taylor",
           "recipientLabel": "Taylor",
           "vendor": "SW",
@@ -237,14 +381,14 @@
     },
     {
       "title": "DGJ0106 Cloud II TOP samples + DGJ0118 strike offs — Alexa, Esther, Taylor (Aug 26)",
-      "isNew": true,
+      "isNew": false,
       "packages": [
         {
           "isDupCompanion": false,
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
           "note": "Vendor advised ETA 8/28.",
-          "isNew": true,
+          "isNew": false,
           "recipient": "alexa",
           "recipientLabel": "Alexa",
           "vendor": "DGJ",
@@ -290,7 +434,7 @@
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
           "note": "Vendor advised ETA 8/28.",
-          "isNew": true,
+          "isNew": false,
           "recipient": "esther",
           "recipientLabel": "Esther",
           "vendor": "DGJ",
@@ -327,7 +471,7 @@
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
           "note": "",
-          "isNew": true,
+          "isNew": false,
           "recipient": "taylor",
           "recipientLabel": "Taylor",
           "vendor": "DGJ",
@@ -354,14 +498,14 @@
     },
     {
       "title": "DGJ0118 Breeze Stance Skort P2 samples — Taylor, Alexa (Aug 24)",
-      "isNew": true,
+      "isNew": false,
       "packages": [
         {
           "isDupCompanion": false,
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
           "note": "Derek Liu listed this same AWB for both Taylor and Esther; FedEx shows a single delivery to Castle Rock, CO (Taylor).",
-          "isNew": true,
+          "isNew": false,
           "recipient": "taylor",
           "recipientLabel": "Taylor",
           "vendor": "DGJ",
@@ -389,7 +533,7 @@
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
           "note": "",
-          "isNew": true,
+          "isNew": false,
           "recipient": "alexa",
           "recipientLabel": "Alexa",
           "vendor": "DGJ",
@@ -1058,35 +1202,6 @@
       "isNew": false
     },
     {
-      "title": "Esther → Taylor — internal samples (delivered Aug 19)",
-      "packages": [
-        {
-          "carrier": "FedEx",
-          "isDupCompanion": false,
-          "contentsLabel": "Contents:",
-          "isNew": false,
-          "note": "",
-          "vendor": "VIT",
-          "vendorLabel": "Vitality",
-          "status": "delivered",
-          "statusLabel": "Delivered",
-          "recipient": "taylor",
-          "recipientLabel": "Taylor",
-          "trackingNumber": "875954953779",
-          "routeText": "El Cerrito, CA → Castle Rock, CO · Shipped 8/18/26 · Gmail",
-          "etaType": "delivered",
-          "etaText": "Delivered Wed 8/19",
-          "items": [
-            {
-              "text": "Samples from Esther (1 lb, Priority Overnight — contents not specified)",
-              "tags": []
-            }
-          ]
-        }
-      ],
-      "isNew": false
-    },
-    {
       "title": "Sunwin SW0088/SW0084/SW0076/SW0083 P2 + PP samples — Alexa, Esther, Taylor (Aug 19)",
       "packages": [
         {
@@ -1609,15 +1724,15 @@
         {
           "recipient": "other",
           "vendor": "DGJ",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "vendorLabel": "DGJ",
           "recipientLabel": "Warehouse",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "contentsLabel": "Contents:",
-          "etaType": "eta",
-          "etaText": "Thu, Aug 27",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu 8/27",
           "isNew": false,
           "note": "",
           "trackingNumber": "875505641220",
@@ -1637,15 +1752,15 @@
         {
           "recipient": "other",
           "vendor": "DGJ",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "vendorLabel": "DGJ",
           "recipientLabel": "Warehouse",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "contentsLabel": "Contents:",
-          "etaType": "eta",
-          "etaText": "Thu, Aug 27",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu 8/27",
           "isNew": false,
           "note": "",
           "trackingNumber": "875505680411",
@@ -1971,6 +2086,35 @@
     }
   ],
   "archivedGroups": [
+    {
+      "title": "Archived — rolled 8/27/26",
+      "isNew": false,
+      "packages": [
+        {
+          "carrier": "FedEx",
+          "isDupCompanion": false,
+          "contentsLabel": "Contents:",
+          "isNew": false,
+          "note": "",
+          "vendor": "VIT",
+          "vendorLabel": "Vitality",
+          "status": "delivered",
+          "statusLabel": "Delivered",
+          "recipient": "taylor",
+          "recipientLabel": "Taylor",
+          "trackingNumber": "875954953779",
+          "routeText": "El Cerrito, CA → Castle Rock, CO · Shipped 8/18/26 · Gmail",
+          "etaType": "delivered",
+          "etaText": "Delivered Wed 8/19",
+          "items": [
+            {
+              "text": "Samples from Esther (1 lb, Priority Overnight — contents not specified)",
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
     {
       "title": "Archived — rolled 8/26/26",
       "isNew": false,
