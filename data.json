@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "Updated Thu, Aug 27 · 11:35 AM · Gmail scan found no new shipments",
+  "lastUpdated": "Updated Fri, Aug 28 · 12:05 PM · No new shipments found in Slack or Gmail",
   "groups": [
     {
       "title": "SW0078 Basis + SW0084 Pulse + Academy Polar Fleece samples — Alexa, Esther, Taylor (Aug 27)",
-      "isNew": true,
+      "isNew": false,
       "packages": [
         {
           "isDupCompanion": false,
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
           "note": "",
-          "isNew": true,
+          "isNew": false,
           "recipient": "alexa",
           "recipientLabel": "Alexa",
           "vendor": "SW",
           "vendorLabel": "Sunwin",
-          "status": "onway",
-          "statusLabel": "In Transit",
+          "status": "delivered",
+          "statusLabel": "Delivered",
           "trackingNumber": "876353940599",
           "routeText": "Shanghai → Denver, CO · Shipped 8/27/26 · #sunwin-general",
-          "etaType": "eta",
-          "etaText": "Fri, Aug 28",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri 8/28",
           "items": [
             {
               "text": "SW0078 BASIS OPEN LONG SLEEVE, P3 sample, size S",
@@ -56,17 +56,17 @@
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
           "note": "",
-          "isNew": true,
+          "isNew": false,
           "recipient": "esther",
           "recipientLabel": "Esther",
           "vendor": "SW",
           "vendorLabel": "Sunwin",
-          "status": "onway",
-          "statusLabel": "In Transit",
+          "status": "delivered",
+          "statusLabel": "Delivered",
           "trackingNumber": "876354054152",
           "routeText": "Shanghai → El Cerrito, CA · Shipped 8/27/26 · #sunwin-general",
-          "etaType": "tba",
-          "etaText": "TBA",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri 8/28",
           "items": [
             {
               "text": "SW0078 BASIS OPEN LONG SLEEVE, P3 sample, size S",
@@ -102,17 +102,17 @@
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
           "note": "",
-          "isNew": true,
+          "isNew": false,
           "recipient": "taylor",
           "recipientLabel": "Taylor",
           "vendor": "SW",
           "vendorLabel": "Sunwin",
-          "status": "onway",
-          "statusLabel": "In Transit",
+          "status": "delivered",
+          "statusLabel": "Delivered",
           "trackingNumber": "876354132676",
           "routeText": "Shanghai → Castle Rock, CO · Shipped 8/27/26 · #sunwin-general",
-          "etaType": "eta",
-          "etaText": "Fri, Aug 28",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri 8/28",
           "items": [
             {
               "text": "SW0078 BASIS OPEN LONG SLEEVE, P3 sample, size XS",
@@ -159,12 +159,12 @@
           "recipientLabel": "Alexa",
           "vendor": "SW",
           "vendorLabel": "Sunwin",
-          "status": "onway",
-          "statusLabel": "In Transit",
+          "status": "delivered",
+          "statusLabel": "Delivered",
           "trackingNumber": "876299037060",
           "routeText": "Shanghai → Denver, CO · Shipped 8/26/26 · #sunwin-general",
-          "etaType": "eta",
-          "etaText": "Fri, Aug 28",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri 8/28",
           "items": [
             {
               "text": "SW0087 MARSHMALLOW CROPPED V TOP & GO SHORT, P2 samples, size S",
@@ -241,12 +241,12 @@
           "recipientLabel": "Esther",
           "vendor": "SW",
           "vendorLabel": "Sunwin",
-          "status": "onway",
-          "statusLabel": "In Transit",
+          "status": "delivered",
+          "statusLabel": "Delivered",
           "trackingNumber": "876299064524",
           "routeText": "Shanghai → El Cerrito, CA · Shipped 8/26/26 · #sunwin-general",
-          "etaType": "eta",
-          "etaText": "Thu, Aug 27",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu 8/27",
           "items": [
             {
               "text": "SW0087 MARSHMALLOW CROPPED V TOP, GO SHORT, OVERSIZED HALF ZIP & WIDE LEG PANT, P2 samples, size S",
@@ -314,12 +314,12 @@
           "recipientLabel": "Taylor",
           "vendor": "SW",
           "vendorLabel": "Sunwin",
-          "status": "onway",
-          "statusLabel": "In Transit",
+          "status": "delivered",
+          "statusLabel": "Delivered",
           "trackingNumber": "876299089561",
           "routeText": "Shanghai → Castle Rock, CO · Shipped 8/26/26 · #sunwin-general",
-          "etaType": "eta",
-          "etaText": "Thu, Aug 27",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu 8/27",
           "items": [
             {
               "text": "SW0087 MARSHMALLOW CROPPED V TOP, GO SHORT, OVERSIZED HALF ZIP & WIDE LEG PANT, P2 samples, size XS",
@@ -393,12 +393,12 @@
           "recipientLabel": "Alexa",
           "vendor": "DGJ",
           "vendorLabel": "DGJ",
-          "status": "onway",
-          "statusLabel": "In Transit",
+          "status": "delivered",
+          "statusLabel": "Delivered",
           "trackingNumber": "876296541080",
           "routeText": "Dongguan City → Denver, CO · Shipped 8/26/26 · #dgj-0106-chloe-g-cloud",
-          "etaType": "tba",
-          "etaText": "TBA",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri 8/28",
           "items": [
             {
               "text": "DGJ0106 Cloud II TOP samples",
@@ -439,12 +439,12 @@
           "recipientLabel": "Esther",
           "vendor": "DGJ",
           "vendorLabel": "DGJ",
-          "status": "onway",
-          "statusLabel": "In Transit",
+          "status": "delivered",
+          "statusLabel": "Delivered",
           "trackingNumber": "876296689569",
           "routeText": "Dongguan City → El Cerrito, CA · Shipped 8/26/26 · #dgj-0106-chloe-g-cloud",
-          "etaType": "tba",
-          "etaText": "TBA",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri 8/28",
           "items": [
             {
               "text": "DGJ0118 updated Cloud II strike offs",
@@ -476,12 +476,12 @@
           "recipientLabel": "Taylor",
           "vendor": "DGJ",
           "vendorLabel": "DGJ",
-          "status": "onway",
-          "statusLabel": "In Transit",
+          "status": "delivered",
+          "statusLabel": "Delivered",
           "trackingNumber": "876296923195",
           "routeText": "Dongguan City → Castle Rock, CO · Shipped 8/26/26 · #dgj-0106-chloe-g-cloud",
-          "etaType": "eta",
-          "etaText": "Mon, Aug 31",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri 8/28",
           "items": [
             {
               "text": "DGJ0118 updated Cloud II strike offs",
@@ -1454,209 +1454,6 @@
       "isNew": false
     },
     {
-      "title": "Talon Intl trim + zipper submits — Alexa (Aug 18)",
-      "packages": [
-        {
-          "recipient": "alexa",
-          "recipientLabel": "Alexa",
-          "vendor": "TL",
-          "vendorLabel": "Talon Intl",
-          "carrier": "FedEx",
-          "trackingNumber": "875958418210",
-          "status": "delivered",
-          "statusLabel": "Delivered",
-          "isDupCompanion": false,
-          "isNew": false,
-          "routeText": "Woodland Hills, CA → Denver, CO · Shipped 8/18/26 · Gmail",
-          "etaType": "delivered",
-          "etaText": "Delivered Thu 8/20",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "VITWLB26A0017 SERENITY/NAVY BLAZER VITALITY logo woven label",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            },
-            {
-              "text": "VITZPP26A0010 DTM Serenity/Bright White logo jacquard zipper puller",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            },
-            {
-              "text": "#3 reversed coil zippers 6\" — Butterfly, Blue Bell (5 pcs each)",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            },
-            {
-              "text": "#5 reversed coil zippers 7\" — Equestrian Red, Flame Scarlet, Empire Yellow (5 pcs each)",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            }
-          ],
-          "note": ""
-        }
-      ],
-      "isNew": false
-    },
-    {
-      "title": "Product City — Serenity trim submits (8/17)",
-      "packages": [
-        {
-          "recipient": "alexa",
-          "vendor": "PC",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "875854546924",
-          "vendorLabel": "Product City",
-          "recipientLabel": "Alexa",
-          "statusLabel": "Delivered",
-          "routeText": "Hong Kong → Denver, CO · Shipped 8/17/26 · Gmail",
-          "etaType": "delivered",
-          "etaText": "Delivered Thu 8/20",
-          "contentsLabel": "Contents:",
-          "isNew": false,
-          "items": [
-            {
-              "text": "G4519 Vitality debossed logo 2H plastic stopper, Serenity 15-3919 TCX",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            },
-            {
-              "text": "ES-0111 elastic cord with reflective ticking (2mm), Serenity 15-3919 TCX",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            }
-          ],
-          "note": ""
-        }
-      ],
-      "isNew": false
-    },
-    {
-      "title": "DGJ0112 TOP samples + Cloud II Split Tank P1 (Aug 17)",
-      "packages": [
-        {
-          "recipient": "alexa",
-          "vendor": "DGJ",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "vendorLabel": "DGJ",
-          "statusLabel": "Delivered",
-          "etaType": "delivered",
-          "contentsLabel": "Contents:",
-          "isNew": false,
-          "note": "",
-          "recipientLabel": "Alexa",
-          "trackingNumber": "875851916670",
-          "routeText": "Dongguan → Denver, CO · Shipped 8/17/26 · #dgj-0112-cloud-black-edit-reorder",
-          "etaText": "Delivered Thu 8/20",
-          "items": [
-            {
-              "text": "DGJ0112 Midnight & Espresso Polka Dot TOP samples",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "TOP"
-                }
-              ]
-            },
-            {
-              "text": "Cloud II Split Tank — P1 sample",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P1"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "recipient": "esther",
-          "vendor": "DGJ",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "vendorLabel": "DGJ",
-          "statusLabel": "Delivered",
-          "etaType": "delivered",
-          "contentsLabel": "Contents:",
-          "isNew": false,
-          "note": "",
-          "recipientLabel": "Esther",
-          "trackingNumber": "875852397938",
-          "routeText": "Dongguan → El Cerrito, CA · Shipped 8/17/26 · #dgj-0112-cloud-black-edit-reorder",
-          "etaText": "Delivered Thu 8/20",
-          "items": [
-            {
-              "text": "Cloud II Split Tank — P1 sample",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P1"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "recipient": "taylor",
-          "vendor": "DGJ",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "vendorLabel": "DGJ",
-          "statusLabel": "Delivered",
-          "etaType": "delivered",
-          "contentsLabel": "Contents:",
-          "isNew": false,
-          "note": "",
-          "recipientLabel": "Taylor",
-          "trackingNumber": "875852668789",
-          "routeText": "Dongguan → Castle Rock, CO · Shipped 8/17/26 · #dgj-0112-cloud-black-edit-reorder",
-          "etaText": "Delivered Thu 8/20",
-          "items": [
-            {
-              "text": "Cloud II Split Tank — P1 sample",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P1"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "isNew": false
-    },
-    {
       "title": "Sunwin — Academy FAHO26-8 TOPs + SW0070 marketing samples + DHL TOP sample (Aug 7–8)",
       "packages": [
         {
@@ -2086,6 +1883,196 @@
     }
   ],
   "archivedGroups": [
+    {
+      "title": "Archived — rolled 8/28/26",
+      "packages": [
+        {
+          "recipient": "alexa",
+          "recipientLabel": "Alexa",
+          "vendor": "TL",
+          "vendorLabel": "Talon Intl",
+          "carrier": "FedEx",
+          "trackingNumber": "875958418210",
+          "status": "delivered",
+          "statusLabel": "Delivered",
+          "isDupCompanion": false,
+          "isNew": false,
+          "routeText": "Woodland Hills, CA → Denver, CO · Shipped 8/18/26 · Gmail",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu 8/20",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "VITWLB26A0017 SERENITY/NAVY BLAZER VITALITY logo woven label",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "VITZPP26A0010 DTM Serenity/Bright White logo jacquard zipper puller",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "#3 reversed coil zippers 6\" — Butterfly, Blue Bell (5 pcs each)",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "#5 reversed coil zippers 7\" — Equestrian Red, Flame Scarlet, Empire Yellow (5 pcs each)",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "recipient": "alexa",
+          "vendor": "PC",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "875854546924",
+          "vendorLabel": "Product City",
+          "recipientLabel": "Alexa",
+          "statusLabel": "Delivered",
+          "routeText": "Hong Kong → Denver, CO · Shipped 8/17/26 · Gmail",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu 8/20",
+          "contentsLabel": "Contents:",
+          "isNew": false,
+          "items": [
+            {
+              "text": "G4519 Vitality debossed logo 2H plastic stopper, Serenity 15-3919 TCX",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "ES-0111 elastic cord with reflective ticking (2mm), Serenity 15-3919 TCX",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "recipient": "alexa",
+          "vendor": "DGJ",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "DGJ",
+          "statusLabel": "Delivered",
+          "etaType": "delivered",
+          "contentsLabel": "Contents:",
+          "isNew": false,
+          "note": "",
+          "recipientLabel": "Alexa",
+          "trackingNumber": "875851916670",
+          "routeText": "Dongguan → Denver, CO · Shipped 8/17/26 · #dgj-0112-cloud-black-edit-reorder",
+          "etaText": "Delivered Thu 8/20",
+          "items": [
+            {
+              "text": "DGJ0112 Midnight & Espresso Polka Dot TOP samples",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "Cloud II Split Tank — P1 sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "esther",
+          "vendor": "DGJ",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "DGJ",
+          "statusLabel": "Delivered",
+          "etaType": "delivered",
+          "contentsLabel": "Contents:",
+          "isNew": false,
+          "note": "",
+          "recipientLabel": "Esther",
+          "trackingNumber": "875852397938",
+          "routeText": "Dongguan → El Cerrito, CA · Shipped 8/17/26 · #dgj-0112-cloud-black-edit-reorder",
+          "etaText": "Delivered Thu 8/20",
+          "items": [
+            {
+              "text": "Cloud II Split Tank — P1 sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "DGJ",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "DGJ",
+          "statusLabel": "Delivered",
+          "etaType": "delivered",
+          "contentsLabel": "Contents:",
+          "isNew": false,
+          "note": "",
+          "recipientLabel": "Taylor",
+          "trackingNumber": "875852668789",
+          "routeText": "Dongguan → Castle Rock, CO · Shipped 8/17/26 · #dgj-0112-cloud-black-edit-reorder",
+          "etaText": "Delivered Thu 8/20",
+          "items": [
+            {
+              "text": "Cloud II Split Tank — P1 sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "title": "Archived — rolled 8/27/26",
       "isNew": false,
