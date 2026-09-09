@@ -1,8 +1,332 @@
 {
-  "lastUpdated": "Updated Fri, Sep 4 · 10:22 AM · 10 new packages (Slack + Gmail); 6 delivered packages archived; 9 status updates. Note: DGJ0108 marketing sample awb#s were only shared inside an xlsx attachment (#dgj-marketing-samples) and were not captured.",
+  "lastUpdated": "Updated Wed, Sep 9 · 10:35 AM · 10 new packages (Slack + Gmail); 11 delivered packages archived; 9 status updates. Note: 871460853886 skipped (FedEx duplicate-results error); DGJ0108 marketing sample awb#s remain inside an xlsx attachment in #dgj-marketing-samples and were not captured.",
   "groups": [
     {
-      "title": "SW0076 Daydream Overlap Tank PP samples — Esther, Taylor (Sep 3)",
+      "title": "DGJ0115 / DGJ0116 Cloud II balance PP samples — Esther, Taylor, Alexa (Sep 9)",
+      "isNew": true,
+      "packages": [
+        {
+          "recipient": "esther",
+          "vendor": "DGJ",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "876932713094",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Esther",
+          "statusLabel": "In Transit",
+          "routeText": "Dongguan → El Cerrito, CA · Shipped 9/10/26 · #dgj-0115-cloud-reset",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "Fig Cloud II Split Volley Short — DGJ0115",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Fig Cloud II Single Racer Tank — DGJ0115",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Fig Cloud II Split Bra — DGJ0115",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Fig Cloud II Pocket Pant — DGJ0115",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Cove Cloud II Core High Bra — DGJ0115",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Lilac Frost QT Cloud II Halter Bra — DGJ0116",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Lilac Frost QT Cloud II Pant — DGJ0116",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Lilac Frost QT Cloud II Volley Short — DGJ0116",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Cloud II Nurse & Pump Bra — 2nd round DGJ0120",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Honeydew Haze Stripe — Cloud II strike off",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "Punch — Cloud II lab dip (color fastness to light FAILED)",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "DGJ",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "876932944802",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Taylor",
+          "statusLabel": "In Transit",
+          "routeText": "Dongguan → Castle Rock, CO · Shipped 9/10/26 · #dgj-0115-cloud-reset",
+          "etaType": "eta",
+          "etaText": "Mon, Sep 14",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "Cove Cloud II Split Bra — DGJ0115",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Fig Cloud II Minimalist Jacket — DGJ0115",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Cove Cloud II Pocket Pant — DGJ0115",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Lilac Frost QT Cloud II Volley Short — DGJ0116",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Cloud II Nurse & Pump Bra — 2nd round DGJ0120",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Honeydew Haze Stripe — Cloud II strike off",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "Punch — Cloud II lab dip (color fastness to light FAILED)",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true
+        },
+        {
+          "recipient": "alexa",
+          "vendor": "DGJ",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "876932475142",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Alexa",
+          "statusLabel": "In Transit",
+          "routeText": "Dongguan → Denver, CO · Shipped 9/10/26 · #dgj-0115-cloud-reset",
+          "etaType": "eta",
+          "etaText": "Mon, Sep 14",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "Fig Cloud II Split Volley Short — DGJ0115",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Cove Cloud II Split Volley Short — DGJ0115",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Espresso Cloud II Split Bra — DGJ0115",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Cove Cloud II Split Bra — DGJ0115",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Cove Cloud II Minimalist Jacket — DGJ0115",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Fig Cloud II Core High Bra — DGJ0115",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Lilac Frost QT Cloud II Halter Tank — DGJ0116",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Lilac Frost QT Cloud II Volley Short — DGJ0116",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Cloud II Nurse & Pump Bra — 2nd round DGJ0120",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Honeydew Haze Stripe — Cloud II strike off",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "Punch — Cloud II lab dip (color fastness to light FAILED)",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true
+        }
+      ]
+    },
+    {
+      "title": "SW0078 Oversized Puffer Vest PP + Flow top samples — Esther, Taylor, Alexa (Sep 9)",
       "isNew": true,
       "packages": [
         {
@@ -11,13 +335,452 @@
           "status": "onway",
           "isDupCompanion": false,
           "carrier": "FedEx",
+          "trackingNumber": "876934273684",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Esther",
           "statusLabel": "In Transit",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 9/9/26 · #sunwin-general",
+          "etaType": "tba",
+          "etaText": "TBA",
           "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0078 OVERSIZED PUFFER VEST, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Bulk adjuster color & quality approval — SW0077 FLOAT & SW0078 BASIS",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "876934319050",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Taylor",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 9/9/26 · #sunwin-general",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0078 OVERSIZED PUFFER VEST, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true
+        },
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "876934195230",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → Denver, CO · Shipped 9/9/26 · #sunwin-general",
           "etaType": "eta",
-          "etaText": "Fri, Sep 4",
-          "isNew": true,
+          "etaText": "Thu, Sep 10",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0078 OVERSIZED PUFFER VEST, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0086 FLOW SIMPLE TEE & FLOW WRAP TOP, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "Bulk adjuster color & quality approval — SW0077 FLOAT & SW0078 BASIS",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true
+        }
+      ]
+    },
+    {
+      "title": "Sunwin + Academy submissions — Esther, Taylor, Alexa (Sep 7)",
+      "isNew": true,
+      "packages": [
+        {
+          "recipient": "esther",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "876828292052",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Esther",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 9/7/26 · #sunwin-general / #sw-academy-sports",
+          "etaType": "eta",
+          "etaText": "Out for delivery today",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0093 ACTIVE DRESS, proto sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "SW0076 DAYDREAM bulk trims approval",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            },
+            {
+              "text": "SW0085 FLOW OPEN LONG SLEEVE, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0077 FLOAT BAND BRALETTE — 2nd shoulder strap submission",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "SW0086 DAYDREAM V PANT, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Accelerate V-Bra, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "Accelerate Stream Bra, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "Accelerate Flutter Skort, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "876828323916",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Taylor",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 9/7/26 · #sunwin-general / #sw-academy-sports",
+          "etaType": "eta",
+          "etaText": "Out for delivery today",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0093 ACTIVE DRESS, proto sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "SW0085 FLOW OPEN LONG SLEEVE, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0086 DAYDREAM V PANT, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Accelerate V-Bra, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "Accelerate Stream Bra, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "Accelerate Flutter Skort, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true
+        },
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "876828236030",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → Denver, CO · Shipped 9/7/26 · #sunwin-general / #sw-academy-sports",
+          "etaType": "eta",
+          "etaText": "Out for delivery today",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0093 ACTIVE DRESS, proto sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "SW0076 DAYDREAM bulk trims approval",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            },
+            {
+              "text": "SW0085 FLOW OPEN LONG SLEEVE, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0077 FLOAT BAND BRALETTE — 2nd shoulder strap submission",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "SW0086 DAYDREAM V PANT, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0086 MEN'S VITAL TEE, size XL",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "Accelerate V-Bra, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "Accelerate Stream Bra, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "Accelerate Flutter Skort, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE CLASSIC BRA MARINE FELINE, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE PANT MARINE FELINE, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true
+        }
+      ]
+    },
+    {
+      "title": "Cotton Project fabric submit — Esther (Sep 3)",
+      "isNew": true,
+      "packages": [
+        {
+          "recipient": "esther",
+          "vendor": "CP",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "876694500206",
+          "vendorLabel": "Cotton Project",
+          "recipientLabel": "Esther",
+          "statusLabel": "In Transit",
+          "routeText": "Olot, Spain → El Cerrito, CA · Shipped 9/3/26 · Gmail",
+          "etaType": "eta",
+          "etaText": "Out for delivery today",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "COTTON #7534 — fabric submit, ES0266 Cotton Project S.A.",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "FedEx International Economy · 0.20 kg",
+          "isNew": true
+        }
+      ]
+    },
+    {
+      "title": "SW0076 Daydream Overlap Tank PP samples — Esther, Taylor (Sep 3)",
+      "isNew": false,
+      "packages": [
+        {
+          "recipient": "esther",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Esther",
+          "statusLabel": "Delivered",
+          "contentsLabel": "Contents:",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri 9/4",
+          "isNew": false,
           "note": "Urgent fitting priority requested by Cindy",
           "trackingNumber": "876684842791",
           "routeText": "Shanghai → El Cerrito, CA · Shipped 9/3/26 · #sunwin-general",
@@ -36,16 +799,16 @@
         {
           "recipient": "taylor",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Taylor",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "contentsLabel": "Contents:",
-          "etaType": "eta",
-          "etaText": "Fri, Sep 4",
-          "isNew": true,
+          "etaType": "delivered",
+          "etaText": "Delivered Fri 9/4",
+          "isNew": false,
           "note": "Urgent fitting priority requested by Cindy",
           "trackingNumber": "876684931845",
           "routeText": "Shanghai → Castle Rock, CO · Shipped 9/3/26 · #sunwin-general",
@@ -65,21 +828,21 @@
     },
     {
       "title": "Fabric swatch submits — Jinlin Knitting + Yotex — Alexa, Esther (Sep 2–5)",
-      "isNew": true,
+      "isNew": false,
       "packages": [
         {
           "recipient": "alexa",
           "vendor": "JL",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "vendorLabel": "Jinlin Knitting",
           "recipientLabel": "Alexa",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "contentsLabel": "Contents:",
-          "etaType": "tba",
-          "etaText": "TBA",
-          "isNew": true,
+          "etaType": "delivered",
+          "etaText": "Delivered Tue 9/8",
+          "isNew": false,
           "note": "",
           "trackingNumber": "876737585944",
           "routeText": "Cixi → Denver, CO · Shipped 9/5/26 · Gmail",
@@ -107,16 +870,16 @@
         {
           "recipient": "esther",
           "vendor": "JL",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "vendorLabel": "Jinlin Knitting",
           "recipientLabel": "Esther",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "contentsLabel": "Contents:",
-          "etaType": "tba",
-          "etaText": "TBA",
-          "isNew": true,
+          "etaType": "delivered",
+          "etaText": "Delivered Tue 9/8",
+          "isNew": false,
           "note": "Alexa OOO 9/2–9/7 — Esther to approve on receipt",
           "trackingNumber": "876737911325",
           "routeText": "Cixi → El Cerrito, CA · Shipped 9/5/26 · Gmail",
@@ -144,7 +907,7 @@
           "contentsLabel": "Contents:",
           "etaType": "delivered",
           "etaText": "Delivered Thu 9/3",
-          "isNew": true,
+          "isNew": false,
           "note": "",
           "trackingNumber": "876618493242",
           "routeText": "Shanghai → Denver, CO · Shipped 9/2/26 · Gmail",
@@ -164,21 +927,21 @@
     },
     {
       "title": "Ultra Cozy Mock Neck P1 — Alexa → Esther (Sep 2)",
-      "isNew": true,
+      "isNew": false,
       "packages": [
         {
           "recipient": "esther",
           "vendor": "VIT",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "vendorLabel": "Vitality (Alexa)",
           "recipientLabel": "Esther",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "contentsLabel": "Contents:",
-          "etaType": "eta",
-          "etaText": "Fri, Sep 4",
-          "isNew": true,
+          "etaType": "delivered",
+          "etaText": "Delivered Fri 9/4",
+          "isNew": false,
           "note": "Alexa wants to see P2 before PO; Taylor's was not shipped",
           "trackingNumber": "876656846937",
           "routeText": "Denver, CO → El Cerrito, CA · Shipped 9/2/26 · Slack DM",
@@ -198,7 +961,7 @@
     },
     {
       "title": "DGJ bulk + polybag ocean shipments via UPS — Audra (Sep 2)",
-      "isNew": true,
+      "isNew": false,
       "packages": [
         {
           "recipient": "other",
@@ -212,7 +975,7 @@
           "contentsLabel": "Contents:",
           "etaType": "tba",
           "etaText": "TBA",
-          "isNew": true,
+          "isNew": false,
           "note": "UPS — not auto-tracked by this refresh",
           "trackingNumber": "1Z19D5790331358901",
           "routeText": "Ningbo → US port (ETA ~9/14) · Shipped 9/2/26 · #dgj-logistics",
@@ -240,7 +1003,7 @@
           "contentsLabel": "Contents:",
           "etaType": "tba",
           "etaText": "TBA",
-          "isNew": true,
+          "isNew": false,
           "note": "UPS — not auto-tracked by this refresh",
           "trackingNumber": "1Z19D5790334827354",
           "routeText": "Ningbo → US port (ETA ~9/14) · Shipped 9/2/26 · #dgj-logistics",
@@ -268,7 +1031,7 @@
           "contentsLabel": "Contents:",
           "etaType": "tba",
           "etaText": "TBA",
-          "isNew": true,
+          "isNew": false,
           "note": "UPS — not auto-tracked by this refresh",
           "trackingNumber": "1Z19D5790334772369",
           "routeText": "Ningbo → US port (ETA ~9/14) · Shipped 9/2/26 · #dgj-logistics",
@@ -296,7 +1059,7 @@
           "contentsLabel": "Contents:",
           "etaType": "tba",
           "etaText": "TBA",
-          "isNew": true,
+          "isNew": false,
           "note": "UPS — not auto-tracked by this refresh",
           "trackingNumber": "1Z19D5790321158897",
           "routeText": "Ningbo → US port (ETA ~9/14) · Shipped 9/2/26 · #dgj-logistics",
@@ -530,16 +1293,16 @@
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
           "isNew": false,
-          "status": "onway",
-          "statusLabel": "In Transit",
+          "status": "delivered",
+          "statusLabel": "Delivered",
           "recipient": "alexa",
           "recipientLabel": "Alexa",
           "vendor": "DGJ",
           "vendorLabel": "DGJ",
           "trackingNumber": "876622908140",
           "routeText": "Dongguan City → Denver, CO · Shipped 9/3/26 · #dgj-0115-cloud-reset",
-          "etaType": "eta",
-          "etaText": "Tue, Sep 8",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue 9/8",
           "items": [
             {
               "text": "DGJ0115 BREEZE PLEAT SHORT, PP samples",
@@ -576,16 +1339,16 @@
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
           "isNew": false,
-          "status": "onway",
-          "statusLabel": "In Transit",
+          "status": "delivered",
+          "statusLabel": "Delivered",
           "recipient": "esther",
           "recipientLabel": "Esther",
           "vendor": "DGJ",
           "vendorLabel": "DGJ",
           "trackingNumber": "876623493046",
           "routeText": "Dongguan City → El Cerrito, CA · Shipped 9/3/26 · #dgj-0115-cloud-reset",
-          "etaType": "eta",
-          "etaText": "Tue, Sep 8",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue 9/8",
           "items": [
             {
               "text": "DGJ0115 BREEZE PLEAT SHORT, PP samples",
@@ -622,16 +1385,16 @@
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
           "isNew": false,
-          "status": "onway",
-          "statusLabel": "In Transit",
+          "status": "delivered",
+          "statusLabel": "Delivered",
           "recipient": "taylor",
           "recipientLabel": "Taylor",
           "vendor": "DGJ",
           "vendorLabel": "DGJ",
           "trackingNumber": "876623283359",
           "routeText": "Dongguan City → Castle Rock, CO · Shipped 9/3/26 · #dgj-0115-cloud-reset",
-          "etaType": "eta",
-          "etaText": "Tue, Sep 8",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue 9/8",
           "items": [
             {
               "text": "DGJ0115 BREEZE PLEAT SHORT, PP samples",
@@ -702,16 +1465,16 @@
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
           "isNew": false,
-          "status": "onway",
-          "statusLabel": "In Transit",
+          "status": "delivered",
+          "statusLabel": "Delivered",
           "recipient": "other",
           "recipientLabel": "Alexandra",
           "vendor": "DGJ",
           "vendorLabel": "DGJ",
           "trackingNumber": "876560896622",
           "routeText": "Dongguan City → Toronto, ON · Shipped 9/2/26 · #dgj-marketing-samples",
-          "etaType": "eta",
-          "etaText": "Fri, Sep 4",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri 9/4",
           "items": [
             {
               "text": "DGJ0111 Easyday Tees / DGJ0109 marketing samples",
@@ -751,167 +1514,6 @@
             {
               "text": "Academy Sports program samples returned to Sunwin (AWB shared by Alexa Cowen)",
               "tags": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "SW bulk approvals + Polar Fleece trims + Accelerate Gather TOPs — Alexa, Esther (Aug 31)",
-      "isNew": false,
-      "packages": [
-        {
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "contentsLabel": "Contents:",
-          "note": "",
-          "isNew": false,
-          "recipient": "alexa",
-          "recipientLabel": "Alexa",
-          "vendor": "SW",
-          "vendorLabel": "Sunwin",
-          "status": "delivered",
-          "statusLabel": "Delivered",
-          "trackingNumber": "876498420102",
-          "routeText": "Shanghai → Denver, CO · Shipped 8/31/26 · #sunwin-general",
-          "etaType": "delivered",
-          "etaText": "Delivered Tue 9/1",
-          "items": [
-            {
-              "text": "POLAR FLEECE FULL ZIP HOODIE, improved hood & zipper binding mock up, size S",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            },
-            {
-              "text": "POLAR FLEECE FULL ZIP HOODIE, trim submissions — bell stopper, Emb logo, improved eyelet mockup",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            },
-            {
-              "text": "ACCELERATE GATHER JACKET, MIDNIGHT & ESPRESSO, TOP x2 pcs",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "TOP"
-                }
-              ]
-            },
-            {
-              "text": "SW0077 FLOAT BAND BRALETTE, bulk shoulder strap color & quality approval",
-              "tags": [
-                {
-                  "type": "bulk",
-                  "label": "BULK"
-                }
-              ]
-            },
-            {
-              "text": "SW0076 DAYDREAM, bulk elastic color & quality approval in PUMPKIN SPICE",
-              "tags": [
-                {
-                  "type": "bulk",
-                  "label": "BULK"
-                }
-              ]
-            },
-            {
-              "text": "SW0084 FLOAT RIB, bulk elastic color approval in STONE MARL",
-              "tags": [
-                {
-                  "type": "bulk",
-                  "label": "BULK"
-                }
-              ]
-            },
-            {
-              "text": "SW0086/SW0076 BASIS, bulk Emb. color approval",
-              "tags": [
-                {
-                  "type": "bulk",
-                  "label": "BULK"
-                }
-              ]
-            },
-            {
-              "text": "Sock development samples",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "contentsLabel": "Contents:",
-          "note": "",
-          "isNew": false,
-          "recipient": "esther",
-          "recipientLabel": "Esther",
-          "vendor": "SW",
-          "vendorLabel": "Sunwin",
-          "status": "delivered",
-          "statusLabel": "Delivered",
-          "trackingNumber": "876498347117",
-          "routeText": "Shanghai → El Cerrito, CA · Shipped 8/31/26 · #sunwin-general",
-          "etaType": "delivered",
-          "etaText": "Delivered Tue 9/1",
-          "items": [
-            {
-              "text": "POLAR FLEECE FULL ZIP HOODIE, trim submissions — bell stopper, Emb logo, improved eyelet mockup",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            },
-            {
-              "text": "SW0077 FLOAT BAND BRALETTE, bulk shoulder strap color & quality approval",
-              "tags": [
-                {
-                  "type": "bulk",
-                  "label": "BULK"
-                }
-              ]
-            },
-            {
-              "text": "SW0076 DAYDREAM, bulk elastic color & quality approval in PUMPKIN SPICE",
-              "tags": [
-                {
-                  "type": "bulk",
-                  "label": "BULK"
-                }
-              ]
-            },
-            {
-              "text": "SW0084 FLOAT RIB, bulk elastic color approval in STONE MARL",
-              "tags": [
-                {
-                  "type": "bulk",
-                  "label": "BULK"
-                }
-              ]
-            },
-            {
-              "text": "SW0086/SW0076 BASIS, bulk Emb. color approval",
-              "tags": [
-                {
-                  "type": "bulk",
-                  "label": "BULK"
-                }
-              ]
             }
           ]
         }
@@ -972,418 +1574,6 @@
                 {
                   "type": "sample",
                   "label": "PP"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "SS0006 Cozy Mock Neck Sweatshirt P1 sample — Alexa (Aug 28)",
-      "isNew": false,
-      "packages": [
-        {
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "contentsLabel": "Contents:",
-          "note": "Out for delivery today",
-          "isNew": false,
-          "recipient": "alexa",
-          "recipientLabel": "Alexa",
-          "vendor": "SS",
-          "vendorLabel": "SS",
-          "status": "delivered",
-          "statusLabel": "Delivered",
-          "trackingNumber": "876358339009",
-          "routeText": "Dongguan → Denver, CO · Shipped 8/28/26 · #ss-0006-cozy-mock-neck-sweatshirt",
-          "etaType": "delivered",
-          "etaText": "Delivered Mon 8/31",
-          "items": [
-            {
-              "text": "SS0006 COZY MOCK NECK SWEATSHIRT, P1 sample",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P1"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Internal — Taylor Dilk → Esther (Aug 28)",
-      "isNew": false,
-      "packages": [
-        {
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "contentsLabel": "Contents:",
-          "note": "Out for delivery today, est. 10:15am–2:15pm",
-          "isNew": false,
-          "recipient": "esther",
-          "recipientLabel": "Esther",
-          "vendor": "VIT",
-          "vendorLabel": "Vitality (internal)",
-          "status": "delivered",
-          "statusLabel": "Delivered",
-          "trackingNumber": "875956021500",
-          "routeText": "Castle Rock, CO → El Cerrito, CA · Shipped 8/28/26 · Gmail",
-          "etaType": "delivered",
-          "etaText": "Delivered Mon 8/31",
-          "items": [
-            {
-              "text": "Package from Taylor Dilk — contents not specified in FedEx notification",
-              "tags": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "SW0078 Basis + SW0084 Pulse + Academy Polar Fleece samples — Alexa, Esther, Taylor (Aug 27)",
-      "isNew": false,
-      "packages": [
-        {
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "contentsLabel": "Contents:",
-          "note": "",
-          "isNew": false,
-          "recipient": "alexa",
-          "recipientLabel": "Alexa",
-          "vendor": "SW",
-          "vendorLabel": "Sunwin",
-          "status": "delivered",
-          "statusLabel": "Delivered",
-          "trackingNumber": "876353940599",
-          "routeText": "Shanghai → Denver, CO · Shipped 8/27/26 · #sunwin-general",
-          "etaType": "delivered",
-          "etaText": "Delivered Fri 8/28",
-          "items": [
-            {
-              "text": "SW0078 BASIS OPEN LONG SLEEVE, P3 sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P3"
-                }
-              ]
-            },
-            {
-              "text": "SW0084 PULSE RACER TANK, PP sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "POLAR FLEECE FULL ZIP HOODIE, EGRET, PP sample, size S (Academy)",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "contentsLabel": "Contents:",
-          "note": "",
-          "isNew": false,
-          "recipient": "esther",
-          "recipientLabel": "Esther",
-          "vendor": "SW",
-          "vendorLabel": "Sunwin",
-          "status": "delivered",
-          "statusLabel": "Delivered",
-          "trackingNumber": "876354054152",
-          "routeText": "Shanghai → El Cerrito, CA · Shipped 8/27/26 · #sunwin-general",
-          "etaType": "delivered",
-          "etaText": "Delivered Fri 8/28",
-          "items": [
-            {
-              "text": "SW0078 BASIS OPEN LONG SLEEVE, P3 sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P3"
-                }
-              ]
-            },
-            {
-              "text": "SW0084 PULSE RACER TANK, PP sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "POLAR FLEECE FULL ZIP HOODIE, EGRET, PP sample & mock up, size S (Academy)",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "contentsLabel": "Contents:",
-          "note": "",
-          "isNew": false,
-          "recipient": "taylor",
-          "recipientLabel": "Taylor",
-          "vendor": "SW",
-          "vendorLabel": "Sunwin",
-          "status": "delivered",
-          "statusLabel": "Delivered",
-          "trackingNumber": "876354132676",
-          "routeText": "Shanghai → Castle Rock, CO · Shipped 8/27/26 · #sunwin-general",
-          "etaType": "delivered",
-          "etaText": "Delivered Fri 8/28",
-          "items": [
-            {
-              "text": "SW0078 BASIS OPEN LONG SLEEVE, P3 sample, size XS",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P3"
-                }
-              ]
-            },
-            {
-              "text": "SW0084 PULSE RACER TANK, PP sample, size XS",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "POLAR FLEECE FULL ZIP HOODIE, MILK CHOCOLATE, PP sample, size XS (Academy)",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "SW0087/SW0088 Marshmallow + Pulse P2 & PP samples — Alexa, Esther, Taylor (Aug 26)",
-      "isNew": false,
-      "packages": [
-        {
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "contentsLabel": "Contents:",
-          "note": "",
-          "isNew": false,
-          "recipient": "alexa",
-          "recipientLabel": "Alexa",
-          "vendor": "SW",
-          "vendorLabel": "Sunwin",
-          "status": "delivered",
-          "statusLabel": "Delivered",
-          "trackingNumber": "876299037060",
-          "routeText": "Shanghai → Denver, CO · Shipped 8/26/26 · #sunwin-general",
-          "etaType": "delivered",
-          "etaText": "Delivered Fri 8/28",
-          "items": [
-            {
-              "text": "SW0087 MARSHMALLOW CROPPED V TOP & GO SHORT, P2 samples, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P2"
-                }
-              ]
-            },
-            {
-              "text": "SW0088 PULSE SCULPT ACCENT PANT & VOLLEY SHORT, P2 samples, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P2"
-                }
-              ]
-            },
-            {
-              "text": "SW0078 BASIS SCOOP BRA — bulk elastic straps color & quality approval",
-              "tags": [
-                {
-                  "type": "bulk",
-                  "label": "BULK"
-                }
-              ]
-            },
-            {
-              "text": "Development sample with new fabric TFK-2281-1",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            },
-            {
-              "text": "SW0084 PULSE PANT & VOLLEY SHORT & KEYHOLE TANK & HUE VOLLEY SHORT, PP samples, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "SW0084 DAYDREAM X BRA & X TANK & BLOCK PANT & BLOCK VOLLEY SHORT in River Rock, TOP samples, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "TOP"
-                }
-              ]
-            },
-            {
-              "text": "SW0076 BASIS LAYERING LONG SLEEVE TOP, PP sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "DGJ0106 Cloud II TOP samples + DGJ0118 strike offs — Alexa, Esther, Taylor (Aug 26)",
-      "isNew": false,
-      "packages": [
-        {
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "contentsLabel": "Contents:",
-          "note": "Vendor advised ETA 8/28.",
-          "isNew": false,
-          "recipient": "alexa",
-          "recipientLabel": "Alexa",
-          "vendor": "DGJ",
-          "vendorLabel": "DGJ",
-          "status": "delivered",
-          "statusLabel": "Delivered",
-          "trackingNumber": "876296541080",
-          "routeText": "Dongguan City → Denver, CO · Shipped 8/26/26 · #dgj-0106-chloe-g-cloud",
-          "etaType": "delivered",
-          "etaText": "Delivered Fri 8/28",
-          "items": [
-            {
-              "text": "DGJ0106 Cloud II TOP samples",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "TOP"
-                }
-              ]
-            },
-            {
-              "text": "DGJ0118 updated Cloud II strike offs",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            },
-            {
-              "text": "DGJ0126 Cherry Gingham test result",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "contentsLabel": "Contents:",
-          "note": "Vendor advised ETA 8/28.",
-          "isNew": false,
-          "recipient": "esther",
-          "recipientLabel": "Esther",
-          "vendor": "DGJ",
-          "vendorLabel": "DGJ",
-          "status": "delivered",
-          "statusLabel": "Delivered",
-          "trackingNumber": "876296689569",
-          "routeText": "Dongguan City → El Cerrito, CA · Shipped 8/26/26 · #dgj-0106-chloe-g-cloud",
-          "etaType": "delivered",
-          "etaText": "Delivered Fri 8/28",
-          "items": [
-            {
-              "text": "DGJ0118 updated Cloud II strike offs",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            },
-            {
-              "text": "DGJ0126 Cherry Gingham test result",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "contentsLabel": "Contents:",
-          "note": "",
-          "isNew": false,
-          "recipient": "taylor",
-          "recipientLabel": "Taylor",
-          "vendor": "DGJ",
-          "vendorLabel": "DGJ",
-          "status": "delivered",
-          "statusLabel": "Delivered",
-          "trackingNumber": "876296923195",
-          "routeText": "Dongguan City → Castle Rock, CO · Shipped 8/26/26 · #dgj-0106-chloe-g-cloud",
-          "etaType": "delivered",
-          "etaText": "Delivered Fri 8/28",
-          "items": [
-            {
-              "text": "DGJ0118 updated Cloud II strike offs",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
                 }
               ]
             }
@@ -1737,6 +1927,549 @@
     }
   ],
   "archivedGroups": [
+    {
+      "title": "Archived — rolled 9/9/26",
+      "isNew": false,
+      "packages": [
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": false,
+          "recipient": "alexa",
+          "recipientLabel": "Alexa",
+          "vendor": "SW",
+          "vendorLabel": "Sunwin",
+          "status": "delivered",
+          "statusLabel": "Delivered",
+          "trackingNumber": "876498420102",
+          "routeText": "Shanghai → Denver, CO · Shipped 8/31/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue 9/1",
+          "items": [
+            {
+              "text": "POLAR FLEECE FULL ZIP HOODIE, improved hood & zipper binding mock up, size S",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "POLAR FLEECE FULL ZIP HOODIE, trim submissions — bell stopper, Emb logo, improved eyelet mockup",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE GATHER JACKET, MIDNIGHT & ESPRESSO, TOP x2 pcs",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "SW0077 FLOAT BAND BRALETTE, bulk shoulder strap color & quality approval",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            },
+            {
+              "text": "SW0076 DAYDREAM, bulk elastic color & quality approval in PUMPKIN SPICE",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            },
+            {
+              "text": "SW0084 FLOAT RIB, bulk elastic color approval in STONE MARL",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            },
+            {
+              "text": "SW0086/SW0076 BASIS, bulk Emb. color approval",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            },
+            {
+              "text": "Sock development samples",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": false,
+          "recipient": "esther",
+          "recipientLabel": "Esther",
+          "vendor": "SW",
+          "vendorLabel": "Sunwin",
+          "status": "delivered",
+          "statusLabel": "Delivered",
+          "trackingNumber": "876498347117",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 8/31/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue 9/1",
+          "items": [
+            {
+              "text": "POLAR FLEECE FULL ZIP HOODIE, trim submissions — bell stopper, Emb logo, improved eyelet mockup",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "SW0077 FLOAT BAND BRALETTE, bulk shoulder strap color & quality approval",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            },
+            {
+              "text": "SW0076 DAYDREAM, bulk elastic color & quality approval in PUMPKIN SPICE",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            },
+            {
+              "text": "SW0084 FLOAT RIB, bulk elastic color approval in STONE MARL",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            },
+            {
+              "text": "SW0086/SW0076 BASIS, bulk Emb. color approval",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "Out for delivery today",
+          "isNew": false,
+          "recipient": "alexa",
+          "recipientLabel": "Alexa",
+          "vendor": "SS",
+          "vendorLabel": "SS",
+          "status": "delivered",
+          "statusLabel": "Delivered",
+          "trackingNumber": "876358339009",
+          "routeText": "Dongguan → Denver, CO · Shipped 8/28/26 · #ss-0006-cozy-mock-neck-sweatshirt",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon 8/31",
+          "items": [
+            {
+              "text": "SS0006 COZY MOCK NECK SWEATSHIRT, P1 sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "Out for delivery today, est. 10:15am–2:15pm",
+          "isNew": false,
+          "recipient": "esther",
+          "recipientLabel": "Esther",
+          "vendor": "VIT",
+          "vendorLabel": "Vitality (internal)",
+          "status": "delivered",
+          "statusLabel": "Delivered",
+          "trackingNumber": "875956021500",
+          "routeText": "Castle Rock, CO → El Cerrito, CA · Shipped 8/28/26 · Gmail",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon 8/31",
+          "items": [
+            {
+              "text": "Package from Taylor Dilk — contents not specified in FedEx notification",
+              "tags": []
+            }
+          ]
+        },
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": false,
+          "recipient": "alexa",
+          "recipientLabel": "Alexa",
+          "vendor": "SW",
+          "vendorLabel": "Sunwin",
+          "status": "delivered",
+          "statusLabel": "Delivered",
+          "trackingNumber": "876353940599",
+          "routeText": "Shanghai → Denver, CO · Shipped 8/27/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri 8/28",
+          "items": [
+            {
+              "text": "SW0078 BASIS OPEN LONG SLEEVE, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0084 PULSE RACER TANK, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "POLAR FLEECE FULL ZIP HOODIE, EGRET, PP sample, size S (Academy)",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": false,
+          "recipient": "esther",
+          "recipientLabel": "Esther",
+          "vendor": "SW",
+          "vendorLabel": "Sunwin",
+          "status": "delivered",
+          "statusLabel": "Delivered",
+          "trackingNumber": "876354054152",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 8/27/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri 8/28",
+          "items": [
+            {
+              "text": "SW0078 BASIS OPEN LONG SLEEVE, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0084 PULSE RACER TANK, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "POLAR FLEECE FULL ZIP HOODIE, EGRET, PP sample & mock up, size S (Academy)",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": false,
+          "recipient": "taylor",
+          "recipientLabel": "Taylor",
+          "vendor": "SW",
+          "vendorLabel": "Sunwin",
+          "status": "delivered",
+          "statusLabel": "Delivered",
+          "trackingNumber": "876354132676",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 8/27/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri 8/28",
+          "items": [
+            {
+              "text": "SW0078 BASIS OPEN LONG SLEEVE, P3 sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0084 PULSE RACER TANK, PP sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "POLAR FLEECE FULL ZIP HOODIE, MILK CHOCOLATE, PP sample, size XS (Academy)",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": false,
+          "recipient": "alexa",
+          "recipientLabel": "Alexa",
+          "vendor": "SW",
+          "vendorLabel": "Sunwin",
+          "status": "delivered",
+          "statusLabel": "Delivered",
+          "trackingNumber": "876299037060",
+          "routeText": "Shanghai → Denver, CO · Shipped 8/26/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri 8/28",
+          "items": [
+            {
+              "text": "SW0087 MARSHMALLOW CROPPED V TOP & GO SHORT, P2 samples, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 PULSE SCULPT ACCENT PANT & VOLLEY SHORT, P2 samples, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0078 BASIS SCOOP BRA — bulk elastic straps color & quality approval",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            },
+            {
+              "text": "Development sample with new fabric TFK-2281-1",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "SW0084 PULSE PANT & VOLLEY SHORT & KEYHOLE TANK & HUE VOLLEY SHORT, PP samples, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0084 DAYDREAM X BRA & X TANK & BLOCK PANT & BLOCK VOLLEY SHORT in River Rock, TOP samples, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "SW0076 BASIS LAYERING LONG SLEEVE TOP, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "Vendor advised ETA 8/28.",
+          "isNew": false,
+          "recipient": "alexa",
+          "recipientLabel": "Alexa",
+          "vendor": "DGJ",
+          "vendorLabel": "DGJ",
+          "status": "delivered",
+          "statusLabel": "Delivered",
+          "trackingNumber": "876296541080",
+          "routeText": "Dongguan City → Denver, CO · Shipped 8/26/26 · #dgj-0106-chloe-g-cloud",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri 8/28",
+          "items": [
+            {
+              "text": "DGJ0106 Cloud II TOP samples",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0118 updated Cloud II strike offs",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0126 Cherry Gingham test result",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "Vendor advised ETA 8/28.",
+          "isNew": false,
+          "recipient": "esther",
+          "recipientLabel": "Esther",
+          "vendor": "DGJ",
+          "vendorLabel": "DGJ",
+          "status": "delivered",
+          "statusLabel": "Delivered",
+          "trackingNumber": "876296689569",
+          "routeText": "Dongguan City → El Cerrito, CA · Shipped 8/26/26 · #dgj-0106-chloe-g-cloud",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri 8/28",
+          "items": [
+            {
+              "text": "DGJ0118 updated Cloud II strike offs",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0126 Cherry Gingham test result",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": false,
+          "recipient": "taylor",
+          "recipientLabel": "Taylor",
+          "vendor": "DGJ",
+          "vendorLabel": "DGJ",
+          "status": "delivered",
+          "statusLabel": "Delivered",
+          "trackingNumber": "876296923195",
+          "routeText": "Dongguan City → Castle Rock, CO · Shipped 8/26/26 · #dgj-0106-chloe-g-cloud",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri 8/28",
+          "items": [
+            {
+              "text": "DGJ0118 updated Cloud II strike offs",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "title": "Archived — rolled 9/4/26",
       "isNew": false,
