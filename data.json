@@ -1,9 +1,52 @@
 {
-  "lastUpdated": "Updated Wed, Sep 9 · 10:35 AM · 10 new packages (Slack + Gmail); 11 delivered packages archived; 9 status updates. Note: 871460853886 skipped (FedEx duplicate-results error); DGJ0108 marketing sample awb#s remain inside an xlsx attachment in #dgj-marketing-samples and were not captured.",
+  "lastUpdated": "Updated Thu, Sep 10 · 1 new package (Gmail); 1 delivered package archived; 7 status updates. Note: 874713323024 / 874714351914 (Jinlin color cards, delivered 7/24/26) appeared in an old quoted email and were skipped as out-of-window; DGJ0108 marketing sample awb#s remain inside an xlsx attachment in #dgj-marketing-samples and were not captured.",
   "groups": [
     {
-      "title": "DGJ0115 / DGJ0116 Cloud II balance PP samples — Esther, Taylor, Alexa (Sep 9)",
+      "title": "Espresso Polka Dot TOP samples → Academy (Michelle Godbout) (Sep 9)",
       "isNew": true,
+      "packages": [
+        {
+          "recipient": "other",
+          "vendor": "AH",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "876957116138",
+          "vendorLabel": "Academy Homebody",
+          "recipientLabel": "Michelle Godbout",
+          "statusLabel": "In Transit",
+          "routeText": "Denver, CO → New York City, NY · Shipped 9/9/26 · Gmail",
+          "etaType": "eta",
+          "etaText": "Fri, Sep 11",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "Cloud II Pant — Espresso Polka Dot",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "Cloud II Together Tank — Espresso Polka Dot",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            }
+          ],
+          "note": "Sent by Alexa Cowen — TOP samples must be returned",
+          "isNew": true
+        }
+      ]
+    },
+    {
+      "title": "DGJ0115 / DGJ0116 Cloud II balance PP samples — Esther, Taylor, Alexa (Sep 9)",
+      "isNew": false,
       "packages": [
         {
           "recipient": "esther",
@@ -121,7 +164,7 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "recipient": "taylor",
@@ -203,7 +246,7 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "recipient": "alexa",
@@ -321,13 +364,13 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         }
       ]
     },
     {
       "title": "SW0078 Oversized Puffer Vest PP + Flow top samples — Esther, Taylor, Alexa (Sep 9)",
-      "isNew": true,
+      "isNew": false,
       "packages": [
         {
           "recipient": "esther",
@@ -340,8 +383,8 @@
           "recipientLabel": "Esther",
           "statusLabel": "In Transit",
           "routeText": "Shanghai → El Cerrito, CA · Shipped 9/9/26 · #sunwin-general",
-          "etaType": "tba",
-          "etaText": "TBA",
+          "etaType": "eta",
+          "etaText": "Out for delivery today",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -364,7 +407,7 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "recipient": "taylor",
@@ -377,8 +420,8 @@
           "recipientLabel": "Taylor",
           "statusLabel": "In Transit",
           "routeText": "Shanghai → Castle Rock, CO · Shipped 9/9/26 · #sunwin-general",
-          "etaType": "tba",
-          "etaText": "TBA",
+          "etaType": "eta",
+          "etaText": "Out for delivery today",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -392,7 +435,7 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "recipient": "alexa",
@@ -406,7 +449,7 @@
           "statusLabel": "In Transit",
           "routeText": "Shanghai → Denver, CO · Shipped 9/9/26 · #sunwin-general",
           "etaType": "eta",
-          "etaText": "Thu, Sep 10",
+          "etaText": "Out for delivery today",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -438,27 +481,27 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         }
       ]
     },
     {
       "title": "Sunwin + Academy submissions — Esther, Taylor, Alexa (Sep 7)",
-      "isNew": true,
+      "isNew": false,
       "packages": [
         {
           "recipient": "esther",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "876828292052",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Esther",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → El Cerrito, CA · Shipped 9/7/26 · #sunwin-general / #sw-academy-sports",
-          "etaType": "eta",
-          "etaText": "Out for delivery today",
+          "etaType": "delivered",
+          "etaText": "Delivered Wed 9/9",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -535,21 +578,21 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "recipient": "taylor",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "876828323916",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Taylor",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → Castle Rock, CO · Shipped 9/7/26 · #sunwin-general / #sw-academy-sports",
-          "etaType": "eta",
-          "etaText": "Out for delivery today",
+          "etaType": "delivered",
+          "etaText": "Delivered Wed 9/9",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -608,21 +651,21 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "recipient": "alexa",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "876828236030",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Alexa",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → Denver, CO · Shipped 9/7/26 · #sunwin-general / #sw-academy-sports",
-          "etaType": "eta",
-          "etaText": "Out for delivery today",
+          "etaType": "delivered",
+          "etaText": "Delivered Wed 9/9",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -726,27 +769,27 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         }
       ]
     },
     {
       "title": "Cotton Project fabric submit — Esther (Sep 3)",
-      "isNew": true,
+      "isNew": false,
       "packages": [
         {
           "recipient": "esther",
           "vendor": "CP",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "876694500206",
           "vendorLabel": "Cotton Project",
           "recipientLabel": "Esther",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Olot, Spain → El Cerrito, CA · Shipped 9/3/26 · Gmail",
-          "etaType": "eta",
-          "etaText": "Out for delivery today",
+          "etaType": "delivered",
+          "etaText": "Delivered Wed 9/9",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -760,7 +803,7 @@
             }
           ],
           "note": "FedEx International Economy · 0.20 kg",
-          "isNew": true
+          "isNew": false
         }
       ]
     },
@@ -1550,34 +1593,6 @@
               ]
             }
           ]
-        },
-        {
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "contentsLabel": "Contents:",
-          "note": "",
-          "isNew": false,
-          "recipient": "taylor",
-          "recipientLabel": "Taylor",
-          "vendor": "SS",
-          "vendorLabel": "SS",
-          "status": "delivered",
-          "statusLabel": "Delivered",
-          "trackingNumber": "876473075674",
-          "routeText": "Dongguan → Castle Rock, CO · Shipped 9/1/26 · #ss-0004-ultra-cozy-winter",
-          "etaType": "delivered",
-          "etaText": "Delivered Wed 9/2",
-          "items": [
-            {
-              "text": "SS0004 ULTRA COZY WINTER, Men's PP sample",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            }
-          ]
         }
       ]
     },
@@ -1927,6 +1942,40 @@
     }
   ],
   "archivedGroups": [
+    {
+      "title": "Archived — rolled 9/10/26",
+      "isNew": false,
+      "packages": [
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": false,
+          "recipient": "taylor",
+          "recipientLabel": "Taylor",
+          "vendor": "SS",
+          "vendorLabel": "SS",
+          "status": "delivered",
+          "statusLabel": "Delivered",
+          "trackingNumber": "876473075674",
+          "routeText": "Dongguan → Castle Rock, CO · Shipped 9/1/26 · #ss-0004-ultra-cozy-winter",
+          "etaType": "delivered",
+          "etaText": "Delivered Wed 9/2",
+          "items": [
+            {
+              "text": "SS0004 ULTRA COZY WINTER, Men's PP sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "title": "Archived — rolled 9/9/26",
       "isNew": false,
