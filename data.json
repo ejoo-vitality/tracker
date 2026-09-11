@@ -1,9 +1,43 @@
 {
-  "lastUpdated": "Updated Thu, Sep 10 · 1 new package (Gmail); 1 delivered package archived; 7 status updates. Note: 874713323024 / 874714351914 (Jinlin color cards, delivered 7/24/26) appeared in an old quoted email and were skipped as out-of-window; DGJ0108 marketing sample awb#s remain inside an xlsx attachment in #dgj-marketing-samples and were not captured.",
+  "lastUpdated": "Updated Fri, Sep 11 · 1 new package (Gmail); 6 delivered packages archived; 5 status updates. Note: 888920823363 appeared in an old quoted message (delivered 2/23/26) in the ADDITIONAL VITALITY DEVELOPMENT thread and was skipped as out-of-window; DGJ0114 marketing-sample awb#s were requested on 9/8 but not yet posted; UPS/DHL numbers are not status-checked.",
   "groups": [
     {
-      "title": "Espresso Polka Dot TOP samples → Academy (Michelle Godbout) (Sep 9)",
+      "title": "Freya development parcel → Esther (Sep 4)",
       "isNew": true,
+      "packages": [
+        {
+          "recipient": "esther",
+          "vendor": "FR",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "876683492160",
+          "vendorLabel": "Freya",
+          "recipientLabel": "Esther",
+          "statusLabel": "Delivered",
+          "routeText": "Dongguan → El Cerrito, CA · Shipped 9/4/26 · Gmail",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue 9/8",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "Sample parcel from Freya (Room 1213, Humen, Dongguan) — contents not itemized in the FedEx notification",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            }
+          ],
+          "note": "Found via FedEx Delivery Manager email; no packing list in Slack or Gmail. Likely relates to the Ultra Cozy Mock Neck development with Freya.",
+          "isNew": true
+        }
+      ]
+    },
+    {
+      "title": "Espresso Polka Dot TOP samples → Academy (Michelle Godbout) (Sep 9)",
+      "isNew": false,
       "packages": [
         {
           "recipient": "other",
@@ -17,7 +51,7 @@
           "statusLabel": "In Transit",
           "routeText": "Denver, CO → New York City, NY · Shipped 9/9/26 · Gmail",
           "etaType": "eta",
-          "etaText": "Fri, Sep 11",
+          "etaText": "Out for delivery today",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -40,7 +74,7 @@
             }
           ],
           "note": "Sent by Alexa Cowen — TOP samples must be returned",
-          "isNew": true
+          "isNew": false
         }
       ]
     },
@@ -59,8 +93,8 @@
           "recipientLabel": "Esther",
           "statusLabel": "In Transit",
           "routeText": "Dongguan → El Cerrito, CA · Shipped 9/10/26 · #dgj-0115-cloud-reset",
-          "etaType": "tba",
-          "etaText": "TBA",
+          "etaType": "eta",
+          "etaText": "Mon, Sep 14",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -375,16 +409,16 @@
         {
           "recipient": "esther",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "876934273684",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Esther",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → El Cerrito, CA · Shipped 9/9/26 · #sunwin-general",
-          "etaType": "eta",
-          "etaText": "Out for delivery today",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu 9/10",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -412,16 +446,16 @@
         {
           "recipient": "taylor",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "876934319050",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Taylor",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → Castle Rock, CO · Shipped 9/9/26 · #sunwin-general",
-          "etaType": "eta",
-          "etaText": "Out for delivery today",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu 9/10",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -440,16 +474,16 @@
         {
           "recipient": "alexa",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "876934195230",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Alexa",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → Denver, CO · Shipped 9/9/26 · #sunwin-general",
-          "etaType": "eta",
-          "etaText": "Out for delivery today",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu 9/10",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -937,34 +971,6 @@
               ]
             }
           ]
-        },
-        {
-          "recipient": "alexa",
-          "vendor": "YT",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "vendorLabel": "Yotex Apparel",
-          "recipientLabel": "Alexa",
-          "statusLabel": "Delivered",
-          "contentsLabel": "Contents:",
-          "etaType": "delivered",
-          "etaText": "Delivered Thu 9/3",
-          "isNew": false,
-          "note": "",
-          "trackingNumber": "876618493242",
-          "routeText": "Shanghai → Denver, CO · Shipped 9/2/26 · Gmail",
-          "items": [
-            {
-              "text": "Active dress fabric swatch options (alternates to SW quality)",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            }
-          ]
         }
       ]
     },
@@ -1117,213 +1123,6 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "title": "SW0083 Float Rib + SW0086 Pulse + SW0077 Float Scoop submissions — Alexa, Esther, Taylor (Sep 2)",
-      "isNew": false,
-      "packages": [
-        {
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "contentsLabel": "Contents:",
-          "isNew": false,
-          "status": "delivered",
-          "statusLabel": "Delivered",
-          "recipient": "alexa",
-          "recipientLabel": "Alexa",
-          "vendor": "SW",
-          "vendorLabel": "Sunwin",
-          "trackingNumber": "876625328497",
-          "routeText": "Shanghai → Denver, CO · Shipped 9/2/26 · #sunwin-general",
-          "etaType": "delivered",
-          "etaText": "Delivered Thu 9/3",
-          "items": [
-            {
-              "text": "SW0083 FLOAT RIB COMFORT PANT & SHORT, P2 samples, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P2"
-                }
-              ]
-            },
-            {
-              "text": "SW0083 FLOAT RIB OVERSIZED TEE, P3 sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P3"
-                }
-              ]
-            },
-            {
-              "text": "SW0086 PULSE MINI BRA, PP sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "SW0079&0086 BASIS bulk EMB color approval",
-              "tags": [
-                {
-                  "type": "bulk",
-                  "label": "BULK"
-                }
-              ]
-            },
-            {
-              "text": "SW0077 FLOAT SCOOP LONG SLEEVE & BOXER PANT, PP samples, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            }
-          ],
-          "note": ""
-        },
-        {
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "contentsLabel": "Contents:",
-          "isNew": false,
-          "status": "delivered",
-          "statusLabel": "Delivered",
-          "recipient": "esther",
-          "recipientLabel": "Esther",
-          "vendor": "SW",
-          "vendorLabel": "Sunwin",
-          "trackingNumber": "876625253223",
-          "routeText": "Shanghai → El Cerrito, CA · Shipped 9/2/26 · #sunwin-general",
-          "etaType": "delivered",
-          "etaText": "Delivered Thu 9/3",
-          "items": [
-            {
-              "text": "SW0083 FLOAT RIB COMFORT PANT & SHORT, P2 samples, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P2"
-                }
-              ]
-            },
-            {
-              "text": "SW0083 FLOAT RIB OVERSIZED TEE, P3 sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P3"
-                }
-              ]
-            },
-            {
-              "text": "SW0086 PULSE MINI BRA, PP sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "SW0079&0086 BASIS bulk EMB color approval",
-              "tags": [
-                {
-                  "type": "bulk",
-                  "label": "BULK"
-                }
-              ]
-            },
-            {
-              "text": "SW0077 FLOAT SCOOP LONG SLEEVE & BOXER PANT, PP samples, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "SW0076 DAYDREAM OVERLAP BRA, PP sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            }
-          ],
-          "note": "Urgent — Sunwin asked for the fit to be arranged and comments returned as soon as the parcel arrives."
-        },
-        {
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "contentsLabel": "Contents:",
-          "isNew": false,
-          "status": "delivered",
-          "statusLabel": "Delivered",
-          "recipient": "taylor",
-          "recipientLabel": "Taylor",
-          "vendor": "SW",
-          "vendorLabel": "Sunwin",
-          "trackingNumber": "876625359316",
-          "routeText": "Shanghai → Castle Rock, CO · Shipped 9/2/26 · #sunwin-general",
-          "etaType": "delivered",
-          "etaText": "Delivered Thu 9/3",
-          "items": [
-            {
-              "text": "SW0083 FLOAT RIB COMFORT PANT & SHORT, P2 samples, size XS",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P2"
-                }
-              ]
-            },
-            {
-              "text": "SW0083 FLOAT RIB OVERSIZED TEE, P3 sample, size XS",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P3"
-                }
-              ]
-            },
-            {
-              "text": "SW0086 PULSE MINI BRA, PP sample, size XS",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "SW0077 FLOAT SCOOP LONG SLEEVE & BOXER PANT, PP samples, size XS",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "SW0076 DAYDREAM OVERLAP BRA, PP sample, size XS",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            }
-          ],
-          "note": "Urgent — Sunwin asked for the fit to be arranged and comments returned as soon as the parcel arrives."
         }
       ]
     },
@@ -1530,69 +1329,6 @@
             }
           ],
           "note": "Packing list posted by Derek Liu in #dgj-marketing-samples."
-        }
-      ]
-    },
-    {
-      "title": "Academy Sports samples returning to Sunwin — Jason Sun (Sep 1)",
-      "isNew": false,
-      "packages": [
-        {
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "contentsLabel": "Contents:",
-          "note": "",
-          "isNew": false,
-          "recipient": "other",
-          "recipientLabel": "Jason Sun (Sunwin)",
-          "vendor": "SW",
-          "vendorLabel": "Sunwin",
-          "status": "delivered",
-          "statusLabel": "Delivered",
-          "trackingNumber": "876525535414",
-          "routeText": "Denver, CO → Shanghai · Shipped 8/31/26 · #sw-academy-sports",
-          "etaType": "delivered",
-          "etaText": "Delivered Thu 9/3",
-          "items": [
-            {
-              "text": "Academy Sports program samples returned to Sunwin (AWB shared by Alexa Cowen)",
-              "tags": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "SS0004 Ultra Cozy Winter — Men's PP samples to Esther, Taylor (Aug 30)",
-      "isNew": false,
-      "packages": [
-        {
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "contentsLabel": "Contents:",
-          "note": "",
-          "isNew": false,
-          "recipient": "esther",
-          "recipientLabel": "Esther",
-          "vendor": "SS",
-          "vendorLabel": "SS",
-          "status": "delivered",
-          "statusLabel": "Delivered",
-          "trackingNumber": "876473045145",
-          "routeText": "Dongguan → El Cerrito, CA · Shipped 9/1/26 · #ss-0004-ultra-cozy-winter",
-          "etaType": "delivered",
-          "etaText": "Delivered Thu 9/3",
-          "items": [
-            {
-              "text": "SS0004 ULTRA COZY WINTER, Men's PP sample",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            }
-          ]
         }
       ]
     },
@@ -1942,6 +1678,292 @@
     }
   ],
   "archivedGroups": [
+    {
+      "title": "Archived — rolled 9/11/26",
+      "isNew": false,
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "YT",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "Yotex Apparel",
+          "recipientLabel": "Alexa",
+          "statusLabel": "Delivered",
+          "contentsLabel": "Contents:",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu 9/3",
+          "isNew": false,
+          "note": "",
+          "trackingNumber": "876618493242",
+          "routeText": "Shanghai → Denver, CO · Shipped 9/2/26 · Gmail",
+          "items": [
+            {
+              "text": "Active dress fabric swatch options (alternates to SW quality)",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "isNew": false,
+          "status": "delivered",
+          "statusLabel": "Delivered",
+          "recipient": "alexa",
+          "recipientLabel": "Alexa",
+          "vendor": "SW",
+          "vendorLabel": "Sunwin",
+          "trackingNumber": "876625328497",
+          "routeText": "Shanghai → Denver, CO · Shipped 9/2/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu 9/3",
+          "items": [
+            {
+              "text": "SW0083 FLOAT RIB COMFORT PANT & SHORT, P2 samples, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0083 FLOAT RIB OVERSIZED TEE, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0086 PULSE MINI BRA, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0079&0086 BASIS bulk EMB color approval",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            },
+            {
+              "text": "SW0077 FLOAT SCOOP LONG SLEEVE & BOXER PANT, PP samples, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "isNew": false,
+          "status": "delivered",
+          "statusLabel": "Delivered",
+          "recipient": "esther",
+          "recipientLabel": "Esther",
+          "vendor": "SW",
+          "vendorLabel": "Sunwin",
+          "trackingNumber": "876625253223",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 9/2/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu 9/3",
+          "items": [
+            {
+              "text": "SW0083 FLOAT RIB COMFORT PANT & SHORT, P2 samples, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0083 FLOAT RIB OVERSIZED TEE, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0086 PULSE MINI BRA, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0079&0086 BASIS bulk EMB color approval",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            },
+            {
+              "text": "SW0077 FLOAT SCOOP LONG SLEEVE & BOXER PANT, PP samples, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0076 DAYDREAM OVERLAP BRA, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ],
+          "note": "Urgent — Sunwin asked for the fit to be arranged and comments returned as soon as the parcel arrives."
+        },
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "isNew": false,
+          "status": "delivered",
+          "statusLabel": "Delivered",
+          "recipient": "taylor",
+          "recipientLabel": "Taylor",
+          "vendor": "SW",
+          "vendorLabel": "Sunwin",
+          "trackingNumber": "876625359316",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 9/2/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu 9/3",
+          "items": [
+            {
+              "text": "SW0083 FLOAT RIB COMFORT PANT & SHORT, P2 samples, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0083 FLOAT RIB OVERSIZED TEE, P3 sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0086 PULSE MINI BRA, PP sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0077 FLOAT SCOOP LONG SLEEVE & BOXER PANT, PP samples, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0076 DAYDREAM OVERLAP BRA, PP sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ],
+          "note": "Urgent — Sunwin asked for the fit to be arranged and comments returned as soon as the parcel arrives."
+        },
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": false,
+          "recipient": "other",
+          "recipientLabel": "Jason Sun (Sunwin)",
+          "vendor": "SW",
+          "vendorLabel": "Sunwin",
+          "status": "delivered",
+          "statusLabel": "Delivered",
+          "trackingNumber": "876525535414",
+          "routeText": "Denver, CO → Shanghai · Shipped 8/31/26 · #sw-academy-sports",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu 9/3",
+          "items": [
+            {
+              "text": "Academy Sports program samples returned to Sunwin (AWB shared by Alexa Cowen)",
+              "tags": []
+            }
+          ]
+        },
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": false,
+          "recipient": "esther",
+          "recipientLabel": "Esther",
+          "vendor": "SS",
+          "vendorLabel": "SS",
+          "status": "delivered",
+          "statusLabel": "Delivered",
+          "trackingNumber": "876473045145",
+          "routeText": "Dongguan → El Cerrito, CA · Shipped 9/1/26 · #ss-0004-ultra-cozy-winter",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu 9/3",
+          "items": [
+            {
+              "text": "SS0004 ULTRA COZY WINTER, Men's PP sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "title": "Archived — rolled 9/10/26",
       "isNew": false,
