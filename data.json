@@ -1,9 +1,234 @@
 {
-  "lastUpdated": "Updated Fri, Sep 11 · 1 new package (Gmail); 6 delivered packages archived; 5 status updates. Note: 888920823363 appeared in an old quoted message (delivered 2/23/26) in the ADDITIONAL VITALITY DEVELOPMENT thread and was skipped as out-of-window; DGJ0114 marketing-sample awb#s were requested on 9/8 but not yet posted; UPS/DHL numbers are not status-checked.",
+  "lastUpdated": "Updated Mon, Sep 14 · 6 new packages (3 Sunwin, 3 DGJ); 5 delivered packages archived; 4 status updates. Note: DGJ0114 and SW0077/SW0084/SW0086 marketing-sample awb#s were requested but not yet posted by the vendors; UPS/DHL numbers are not status-checked.",
   "groups": [
     {
-      "title": "Freya development parcel → Esther (Sep 4)",
+      "title": "Sunwin submissions — Academy Accelerate strike offs + SW0087 Marshmallow Rib LDs (Sep 14)",
       "isNew": true,
+      "packages": [
+        {
+          "recipient": "esther",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "877142092621",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Esther",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 9/14/26 · #sunwin-general",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "Academy Accelerate — strike offs",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "SW0087 Marshmallow Rib — lab dips",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "877142278027",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Taylor",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 9/14/26 · #sunwin-general",
+          "etaType": "eta",
+          "etaText": "Tue, Sep 15",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "Academy Accelerate — strike offs",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "SW0087 Marshmallow Rib — lab dips",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true
+        },
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "877142042752",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → Denver, CO · Shipped 9/14/26 · #sunwin-general",
+          "etaType": "eta",
+          "etaText": "Tue, Sep 15",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "Academy Accelerate — strike offs",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "SW0087 Marshmallow Rib — lab dips",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "Accelerate Skylight — color cutting",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true
+        }
+      ]
+    },
+    {
+      "title": "DGJ0118 Blue & Pink Polka Dot strike offs — Esther, Taylor, Alexa (Sep 12)",
+      "isNew": true,
+      "packages": [
+        {
+          "recipient": "esther",
+          "vendor": "DGJ",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "877059157750",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Esther",
+          "statusLabel": "Delivered",
+          "routeText": "Dongguan → El Cerrito, CA · Shipped 9/12/26 · #dgj-0118-cloud-spring",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon 9/14",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "DGJ0118 Blue & Pink Polka Dot — strike offs",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "DGJ",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "877059348589",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Taylor",
+          "statusLabel": "In Transit",
+          "routeText": "Dongguan → Castle Rock, CO · Shipped 9/12/26 · #dgj-0118-cloud-spring",
+          "etaType": "eta",
+          "etaText": "Tue, Sep 15",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "DGJ0118 Blue & Pink Polka Dot — strike offs",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0111 marketing samples (newly added)",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            }
+          ],
+          "note": "Shipped together with Steve’s DGJ0111 marketing samples.",
+          "isNew": true
+        },
+        {
+          "recipient": "alexa",
+          "vendor": "DGJ",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "877058985712",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Alexa",
+          "statusLabel": "Delivered",
+          "routeText": "Dongguan → Denver, CO · Shipped 9/12/26 · #dgj-0118-cloud-spring",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon 9/14",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "DGJ0118 Blue & Pink Polka Dot — strike offs",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true
+        }
+      ]
+    },
+    {
+      "title": "Freya development parcel → Esther (Sep 4)",
+      "isNew": false,
       "packages": [
         {
           "recipient": "esther",
@@ -31,7 +256,7 @@
             }
           ],
           "note": "Found via FedEx Delivery Manager email; no packing list in Slack or Gmail. Likely relates to the Ultra Cozy Mock Neck development with Freya.",
-          "isNew": true
+          "isNew": false
         }
       ]
     },
@@ -42,16 +267,16 @@
         {
           "recipient": "other",
           "vendor": "AH",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "876957116138",
           "vendorLabel": "Academy Homebody",
           "recipientLabel": "Michelle Godbout",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Denver, CO → New York City, NY · Shipped 9/9/26 · Gmail",
-          "etaType": "eta",
-          "etaText": "Out for delivery today",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri 9/11",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -85,16 +310,16 @@
         {
           "recipient": "esther",
           "vendor": "DGJ",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "876932713094",
           "vendorLabel": "DGJ",
           "recipientLabel": "Esther",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Dongguan → El Cerrito, CA · Shipped 9/10/26 · #dgj-0115-cloud-reset",
-          "etaType": "eta",
-          "etaText": "Mon, Sep 14",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon 9/14",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -203,16 +428,16 @@
         {
           "recipient": "taylor",
           "vendor": "DGJ",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "876932944802",
           "vendorLabel": "DGJ",
           "recipientLabel": "Taylor",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Dongguan → Castle Rock, CO · Shipped 9/10/26 · #dgj-0115-cloud-reset",
-          "etaType": "eta",
-          "etaText": "Mon, Sep 14",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon 9/14",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -285,16 +510,16 @@
         {
           "recipient": "alexa",
           "vendor": "DGJ",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "876932475142",
           "vendorLabel": "DGJ",
           "recipientLabel": "Alexa",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Dongguan → Denver, CO · Shipped 9/10/26 · #dgj-0115-cloud-reset",
-          "etaType": "eta",
-          "etaText": "Mon, Sep 14",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon 9/14",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -842,68 +1067,6 @@
       ]
     },
     {
-      "title": "SW0076 Daydream Overlap Tank PP samples — Esther, Taylor (Sep 3)",
-      "isNew": false,
-      "packages": [
-        {
-          "recipient": "esther",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Esther",
-          "statusLabel": "Delivered",
-          "contentsLabel": "Contents:",
-          "etaType": "delivered",
-          "etaText": "Delivered Fri 9/4",
-          "isNew": false,
-          "note": "Urgent fitting priority requested by Cindy",
-          "trackingNumber": "876684842791",
-          "routeText": "Shanghai → El Cerrito, CA · Shipped 9/3/26 · #sunwin-general",
-          "items": [
-            {
-              "text": "SW0076 DAYDREAM OVERLAP TANK, PP sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "recipient": "taylor",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Taylor",
-          "statusLabel": "Delivered",
-          "contentsLabel": "Contents:",
-          "etaType": "delivered",
-          "etaText": "Delivered Fri 9/4",
-          "isNew": false,
-          "note": "Urgent fitting priority requested by Cindy",
-          "trackingNumber": "876684931845",
-          "routeText": "Shanghai → Castle Rock, CO · Shipped 9/3/26 · #sunwin-general",
-          "items": [
-            {
-              "text": "SW0076 DAYDREAM OVERLAP TANK, PP sample, size XS",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "title": "Fabric swatch submits — Jinlin Knitting + Yotex — Alexa, Esther (Sep 2–5)",
       "isNew": false,
       "packages": [
@@ -967,40 +1130,6 @@
                 {
                   "type": "submit",
                   "label": "SUBMIT"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Ultra Cozy Mock Neck P1 — Alexa → Esther (Sep 2)",
-      "isNew": false,
-      "packages": [
-        {
-          "recipient": "esther",
-          "vendor": "VIT",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "vendorLabel": "Vitality (Alexa)",
-          "recipientLabel": "Esther",
-          "statusLabel": "Delivered",
-          "contentsLabel": "Contents:",
-          "etaType": "delivered",
-          "etaText": "Delivered Fri 9/4",
-          "isNew": false,
-          "note": "Alexa wants to see P2 before PO; Taylor's was not shipped",
-          "trackingNumber": "876656846937",
-          "routeText": "Denver, CO → El Cerrito, CA · Shipped 9/2/26 · Slack DM",
-          "items": [
-            {
-              "text": "Ultra Cozy Mock Neck, P1 sample",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P1"
                 }
               ]
             }
@@ -1267,68 +1396,6 @@
             }
           ],
           "note": ""
-        }
-      ]
-    },
-    {
-      "title": "DGJ0111 Easyday Tees / DGJ0109 marketing samples — Julia, Alexandra (Sep 1)",
-      "isNew": false,
-      "packages": [
-        {
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "contentsLabel": "Contents:",
-          "isNew": false,
-          "status": "delivered",
-          "statusLabel": "Delivered",
-          "recipient": "other",
-          "recipientLabel": "Julia",
-          "vendor": "DGJ",
-          "vendorLabel": "DGJ",
-          "trackingNumber": "876560499918",
-          "routeText": "Dongguan City → Costa Mesa, CA · Shipped 9/2/26 · #dgj-marketing-samples",
-          "etaType": "delivered",
-          "etaText": "Delivered Fri 9/4",
-          "items": [
-            {
-              "text": "DGJ0111 Easyday Tees / DGJ0109 marketing samples",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "TOP"
-                }
-              ]
-            }
-          ],
-          "note": "Packing list posted by Derek Liu in #dgj-marketing-samples."
-        },
-        {
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "contentsLabel": "Contents:",
-          "isNew": false,
-          "status": "delivered",
-          "statusLabel": "Delivered",
-          "recipient": "other",
-          "recipientLabel": "Alexandra",
-          "vendor": "DGJ",
-          "vendorLabel": "DGJ",
-          "trackingNumber": "876560896622",
-          "routeText": "Dongguan City → Toronto, ON · Shipped 9/2/26 · #dgj-marketing-samples",
-          "etaType": "delivered",
-          "etaText": "Delivered Fri 9/4",
-          "items": [
-            {
-              "text": "DGJ0111 Easyday Tees / DGJ0109 marketing samples",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "TOP"
-                }
-              ]
-            }
-          ],
-          "note": "Packing list posted by Derek Liu in #dgj-marketing-samples."
         }
       ]
     },
@@ -1678,6 +1745,152 @@
     }
   ],
   "archivedGroups": [
+    {
+      "title": "Archived — rolled 9/14/26",
+      "isNew": false,
+      "packages": [
+        {
+          "recipient": "esther",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Esther",
+          "statusLabel": "Delivered",
+          "contentsLabel": "Contents:",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri 9/4",
+          "isNew": false,
+          "note": "Urgent fitting priority requested by Cindy",
+          "trackingNumber": "876684842791",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 9/3/26 · #sunwin-general",
+          "items": [
+            {
+              "text": "SW0076 DAYDREAM OVERLAP TANK, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Taylor",
+          "statusLabel": "Delivered",
+          "contentsLabel": "Contents:",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri 9/4",
+          "isNew": false,
+          "note": "Urgent fitting priority requested by Cindy",
+          "trackingNumber": "876684931845",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 9/3/26 · #sunwin-general",
+          "items": [
+            {
+              "text": "SW0076 DAYDREAM OVERLAP TANK, PP sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "esther",
+          "vendor": "VIT",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "Vitality (Alexa)",
+          "recipientLabel": "Esther",
+          "statusLabel": "Delivered",
+          "contentsLabel": "Contents:",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri 9/4",
+          "isNew": false,
+          "note": "Alexa wants to see P2 before PO; Taylor's was not shipped",
+          "trackingNumber": "876656846937",
+          "routeText": "Denver, CO → El Cerrito, CA · Shipped 9/2/26 · Slack DM",
+          "items": [
+            {
+              "text": "Ultra Cozy Mock Neck, P1 sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "isNew": false,
+          "status": "delivered",
+          "statusLabel": "Delivered",
+          "recipient": "other",
+          "recipientLabel": "Julia",
+          "vendor": "DGJ",
+          "vendorLabel": "DGJ",
+          "trackingNumber": "876560499918",
+          "routeText": "Dongguan City → Costa Mesa, CA · Shipped 9/2/26 · #dgj-marketing-samples",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri 9/4",
+          "items": [
+            {
+              "text": "DGJ0111 Easyday Tees / DGJ0109 marketing samples",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            }
+          ],
+          "note": "Packing list posted by Derek Liu in #dgj-marketing-samples."
+        },
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "isNew": false,
+          "status": "delivered",
+          "statusLabel": "Delivered",
+          "recipient": "other",
+          "recipientLabel": "Alexandra",
+          "vendor": "DGJ",
+          "vendorLabel": "DGJ",
+          "trackingNumber": "876560896622",
+          "routeText": "Dongguan City → Toronto, ON · Shipped 9/2/26 · #dgj-marketing-samples",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri 9/4",
+          "items": [
+            {
+              "text": "DGJ0111 Easyday Tees / DGJ0109 marketing samples",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            }
+          ],
+          "note": "Packing list posted by Derek Liu in #dgj-marketing-samples."
+        }
+      ]
+    },
     {
       "title": "Archived — rolled 9/11/26",
       "isNew": false,
