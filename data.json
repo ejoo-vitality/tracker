@@ -1,6 +1,39 @@
 {
-  "lastUpdated": "Updated Mon, Sep 14 · 6 new packages (3 Sunwin, 3 DGJ); 5 delivered packages archived; 4 status updates. Note: DGJ0114 and SW0077/SW0084/SW0086 marketing-sample awb#s were requested but not yet posted by the vendors; UPS/DHL numbers are not status-checked.",
+  "lastUpdated": "Updated Tue, Sep 15 · 1 new package (Sunwin outbound color reference); 0 archived; 2 status updates. Note: SW0077/SW0084/SW0086 marketing-sample awb#s still pending — Sunwin advises dispatch 9/17. UPS/DHL numbers are not status-checked.",
   "groups": [
+    {
+      "title": "Outbound to Sunwin — SW0093 Active Dress Gingham color reference (Sep 14)",
+      "packages": [
+        {
+          "recipient": "other",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "877183492015",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Sunwin (Jason Sun)",
+          "statusLabel": "In Transit",
+          "routeText": "Denver, CO → Shanghai · Shipped 9/14/26 · #sw-0093-active-dress-picnic",
+          "etaType": "eta",
+          "etaText": "Mon, Sep 21",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0093 ACTIVE DRESS — Gingham print reference cutting (color match)",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "Outbound to vendor. Alexa approved +10% scale only; color not approved — this cutting is the color standard to match.",
+          "isNew": true
+        }
+      ]
+    },
     {
       "title": "Sunwin submissions — Academy Accelerate strike offs + SW0087 Marshmallow Rib LDs (Sep 14)",
       "isNew": true,
@@ -16,8 +49,8 @@
           "recipientLabel": "Esther",
           "statusLabel": "In Transit",
           "routeText": "Shanghai → El Cerrito, CA · Shipped 9/14/26 · #sunwin-general",
-          "etaType": "tba",
-          "etaText": "TBA",
+          "etaType": "eta",
+          "etaText": "Tue, Sep 15",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -40,7 +73,7 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "recipient": "taylor",
@@ -77,21 +110,21 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "recipient": "alexa",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "877142042752",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Alexa",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → Denver, CO · Shipped 9/14/26 · #sunwin-general",
-          "etaType": "eta",
-          "etaText": "Tue, Sep 15",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue 9/15",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -123,7 +156,7 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         }
       ]
     },
@@ -157,7 +190,7 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "recipient": "taylor",
@@ -194,7 +227,7 @@
             }
           ],
           "note": "Shipped together with Steve’s DGJ0111 marketing samples.",
-          "isNew": true
+          "isNew": false
         },
         {
           "recipient": "alexa",
@@ -222,7 +255,7 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         }
       ]
     },
