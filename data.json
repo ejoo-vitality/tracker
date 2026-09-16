@@ -1,6 +1,348 @@
 {
-  "lastUpdated": "Updated Tue, Sep 15 · 1 new package (Sunwin outbound color reference); 0 archived; 2 status updates. Note: SW0077/SW0084/SW0086 marketing-sample awb#s still pending — Sunwin advises dispatch 9/17. UPS/DHL numbers are not status-checked.",
+  "lastUpdated": "Updated Wed, Sep 16 · 3 new packages (Sunwin SW0086/SW0087/SW0088 samples to Alexa, Esther, Taylor); 6 archived; 3 status updates. Note: SW0077/SW0084/SW0086 marketing-sample awb#s still pending — Sunwin confirmed dispatch 9/17. UPS/DHL numbers are not status-checked.",
   "groups": [
+    {
+      "title": "Sunwin submissions — SW0086 TOP samples + SW0087/SW0088 fit samples (Sep 16)",
+      "isNew": true,
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "877279538180",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → Denver, CO · Shipped 9/16/26 · #sunwin-general",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0086 MENS ZEPHYR TEE, TOP sample, size XL, Midnight",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "SW0086 MENS ZEPHYR TEE, TOP sample, size XL, High Tide",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "SW0086 MENS ZEPHYR TEE, TOP sample, size XL, Titanium",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "SW0087 MARSHMALLOW CROPPED V TOP, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0087 MARSHMALLOW WIDE LEG PANT, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0087 MEN'S MARSHMALLOW GO SHORT, P3 sample, size XL",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 RIB RACER TANK, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 ZEPHYR TANK, P2 sample, size XL",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 PULSE ZIP ACCENT BRA, proto sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "Proto"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 FLOW TIE TANK, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0077 FLOAT BAND BRALETTE, P3/PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0078 BASIS SCOOP BRA, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "ACTIVE DRESS reference cutting (color match)",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true
+        },
+        {
+          "recipient": "esther",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "877279918351",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Esther",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 9/16/26 · #sunwin-general",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0087 MARSHMALLOW CROPPED V TOP, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0087 MARSHMALLOW WIDE LEG PANT, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0087 MEN'S MARSHMALLOW GO SHORT, P3 sample, size XL",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 RIB RACER TANK, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 ZEPHYR TANK, P2 sample, size XL",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 PULSE ZIP ACCENT BRA, proto sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "Proto"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 FLOW TIE TANK, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0077 FLOAT BAND BRALETTE, P3/PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0078 BASIS SCOOP BRA, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "877280424840",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Taylor",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 9/16/26 · #sunwin-general",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0087 MARSHMALLOW CROPPED V TOP, P3 sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0087 MARSHMALLOW WIDE LEG PANT, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0087 MEN'S MARSHMALLOW GO SHORT, P3 sample, size L",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 RIB RACER TANK, P3 sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 ZEPHYR TANK, P2 sample, size XL",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 PULSE ZIP ACCENT BRA, proto sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "Proto"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 FLOW TIE TANK, P3 sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0077 FLOAT BAND BRALETTE, P3/PP sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0078 BASIS SCOOP BRA, P3 sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true
+        }
+      ]
+    },
     {
       "title": "Outbound to Sunwin — SW0093 Active Dress Gingham color reference (Sep 14)",
       "packages": [
@@ -30,27 +372,28 @@
             }
           ],
           "note": "Outbound to vendor. Alexa approved +10% scale only; color not approved — this cutting is the color standard to match.",
-          "isNew": true
+          "isNew": false
         }
-      ]
+      ],
+      "isNew": false
     },
     {
       "title": "Sunwin submissions — Academy Accelerate strike offs + SW0087 Marshmallow Rib LDs (Sep 14)",
-      "isNew": true,
+      "isNew": false,
       "packages": [
         {
           "recipient": "esther",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "877142092621",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Esther",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → El Cerrito, CA · Shipped 9/14/26 · #sunwin-general",
-          "etaType": "eta",
-          "etaText": "Tue, Sep 15",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue 9/15",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -78,16 +421,16 @@
         {
           "recipient": "taylor",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "877142278027",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Taylor",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → Castle Rock, CO · Shipped 9/14/26 · #sunwin-general",
-          "etaType": "eta",
-          "etaText": "Tue, Sep 15",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue 9/15",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -162,7 +505,7 @@
     },
     {
       "title": "DGJ0118 Blue & Pink Polka Dot strike offs — Esther, Taylor, Alexa (Sep 12)",
-      "isNew": true,
+      "isNew": false,
       "packages": [
         {
           "recipient": "esther",
@@ -195,16 +538,16 @@
         {
           "recipient": "taylor",
           "vendor": "DGJ",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "877059348589",
           "vendorLabel": "DGJ",
           "recipientLabel": "Taylor",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Dongguan → Castle Rock, CO · Shipped 9/12/26 · #dgj-0118-cloud-spring",
-          "etaType": "eta",
-          "etaText": "Tue, Sep 15",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue 9/15",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -255,40 +598,6 @@
             }
           ],
           "note": "",
-          "isNew": false
-        }
-      ]
-    },
-    {
-      "title": "Freya development parcel → Esther (Sep 4)",
-      "isNew": false,
-      "packages": [
-        {
-          "recipient": "esther",
-          "vendor": "FR",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "876683492160",
-          "vendorLabel": "Freya",
-          "recipientLabel": "Esther",
-          "statusLabel": "Delivered",
-          "routeText": "Dongguan → El Cerrito, CA · Shipped 9/4/26 · Gmail",
-          "etaType": "delivered",
-          "etaText": "Delivered Tue 9/8",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "Sample parcel from Freya (Room 1213, Humen, Dongguan) — contents not itemized in the FedEx notification",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P1"
-                }
-              ]
-            }
-          ],
-          "note": "Found via FedEx Delivery Manager email; no packing list in Slack or Gmail. Likely relates to the Ultra Cozy Mock Neck development with Freya.",
           "isNew": false
         }
       ]
@@ -1100,77 +1409,6 @@
       ]
     },
     {
-      "title": "Fabric swatch submits — Jinlin Knitting + Yotex — Alexa, Esther (Sep 2–5)",
-      "isNew": false,
-      "packages": [
-        {
-          "recipient": "alexa",
-          "vendor": "JL",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "vendorLabel": "Jinlin Knitting",
-          "recipientLabel": "Alexa",
-          "statusLabel": "Delivered",
-          "contentsLabel": "Contents:",
-          "etaType": "delivered",
-          "etaText": "Delivered Tue 9/8",
-          "isNew": false,
-          "note": "",
-          "trackingNumber": "876737585944",
-          "routeText": "Cixi → Denver, CO · Shipped 9/5/26 · Gmail",
-          "items": [
-            {
-              "text": "Polka dot print fabric swatches (blue + pink trial, 0.5m each)",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            },
-            {
-              "text": "Mainstream fabric options + custom T-shirt gift (2XL)",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "recipient": "esther",
-          "vendor": "JL",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "vendorLabel": "Jinlin Knitting",
-          "recipientLabel": "Esther",
-          "statusLabel": "Delivered",
-          "contentsLabel": "Contents:",
-          "etaType": "delivered",
-          "etaText": "Delivered Tue 9/8",
-          "isNew": false,
-          "note": "Alexa OOO 9/2–9/7 — Esther to approve on receipt",
-          "trackingNumber": "876737911325",
-          "routeText": "Cixi → El Cerrito, CA · Shipped 9/5/26 · Gmail",
-          "items": [
-            {
-              "text": "Polka dot print fabric swatches (blue + pink trial, 0.5m each)",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "title": "DGJ bulk + polybag ocean shipments via UPS — Audra (Sep 2)",
       "isNew": false,
       "packages": [
@@ -1285,150 +1523,6 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "title": "DGJ0115 Cloud Reset — Breeze Pleat Short PP samples + lab dips & strike offs — Alexa, Esther, Taylor (Sep 2)",
-      "isNew": false,
-      "packages": [
-        {
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "contentsLabel": "Contents:",
-          "isNew": false,
-          "status": "delivered",
-          "statusLabel": "Delivered",
-          "recipient": "alexa",
-          "recipientLabel": "Alexa",
-          "vendor": "DGJ",
-          "vendorLabel": "DGJ",
-          "trackingNumber": "876622908140",
-          "routeText": "Dongguan City → Denver, CO · Shipped 9/3/26 · #dgj-0115-cloud-reset",
-          "etaType": "delivered",
-          "etaText": "Delivered Tue 9/8",
-          "items": [
-            {
-              "text": "DGJ0115 BREEZE PLEAT SHORT, PP samples",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "DGJ0115 Cloud Reset lab dips & strike offs",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            },
-            {
-              "text": "DGJ proto samples (from Kayla)",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P1"
-                }
-              ]
-            }
-          ],
-          "note": ""
-        },
-        {
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "contentsLabel": "Contents:",
-          "isNew": false,
-          "status": "delivered",
-          "statusLabel": "Delivered",
-          "recipient": "esther",
-          "recipientLabel": "Esther",
-          "vendor": "DGJ",
-          "vendorLabel": "DGJ",
-          "trackingNumber": "876623493046",
-          "routeText": "Dongguan City → El Cerrito, CA · Shipped 9/3/26 · #dgj-0115-cloud-reset",
-          "etaType": "delivered",
-          "etaText": "Delivered Tue 9/8",
-          "items": [
-            {
-              "text": "DGJ0115 BREEZE PLEAT SHORT, PP samples",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "DGJ0115 Cloud Reset lab dips & strike offs",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            },
-            {
-              "text": "DGJ proto samples (from Kayla)",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P1"
-                }
-              ]
-            }
-          ],
-          "note": ""
-        },
-        {
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "contentsLabel": "Contents:",
-          "isNew": false,
-          "status": "delivered",
-          "statusLabel": "Delivered",
-          "recipient": "taylor",
-          "recipientLabel": "Taylor",
-          "vendor": "DGJ",
-          "vendorLabel": "DGJ",
-          "trackingNumber": "876623283359",
-          "routeText": "Dongguan City → Castle Rock, CO · Shipped 9/3/26 · #dgj-0115-cloud-reset",
-          "etaType": "delivered",
-          "etaText": "Delivered Tue 9/8",
-          "items": [
-            {
-              "text": "DGJ0115 BREEZE PLEAT SHORT, PP samples",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "DGJ0115 Cloud Reset lab dips & strike offs",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            },
-            {
-              "text": "DGJ proto samples (from Kayla)",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P1"
-                }
-              ]
-            }
-          ],
-          "note": ""
         }
       ]
     },
@@ -1778,6 +1872,242 @@
     }
   ],
   "archivedGroups": [
+    {
+      "title": "Archived — rolled 9/16/26",
+      "packages": [
+        {
+          "recipient": "esther",
+          "vendor": "FR",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "876683492160",
+          "vendorLabel": "Freya",
+          "recipientLabel": "Esther",
+          "statusLabel": "Delivered",
+          "routeText": "Dongguan → El Cerrito, CA · Shipped 9/4/26 · Gmail",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue 9/8",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "Sample parcel from Freya (Room 1213, Humen, Dongguan) — contents not itemized in the FedEx notification",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            }
+          ],
+          "note": "Found via FedEx Delivery Manager email; no packing list in Slack or Gmail. Likely relates to the Ultra Cozy Mock Neck development with Freya.",
+          "isNew": false
+        },
+        {
+          "recipient": "alexa",
+          "vendor": "JL",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "Jinlin Knitting",
+          "recipientLabel": "Alexa",
+          "statusLabel": "Delivered",
+          "contentsLabel": "Contents:",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue 9/8",
+          "isNew": false,
+          "note": "",
+          "trackingNumber": "876737585944",
+          "routeText": "Cixi → Denver, CO · Shipped 9/5/26 · Gmail",
+          "items": [
+            {
+              "text": "Polka dot print fabric swatches (blue + pink trial, 0.5m each)",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "Mainstream fabric options + custom T-shirt gift (2XL)",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "esther",
+          "vendor": "JL",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "Jinlin Knitting",
+          "recipientLabel": "Esther",
+          "statusLabel": "Delivered",
+          "contentsLabel": "Contents:",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue 9/8",
+          "isNew": false,
+          "note": "Alexa OOO 9/2–9/7 — Esther to approve on receipt",
+          "trackingNumber": "876737911325",
+          "routeText": "Cixi → El Cerrito, CA · Shipped 9/5/26 · Gmail",
+          "items": [
+            {
+              "text": "Polka dot print fabric swatches (blue + pink trial, 0.5m each)",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "isNew": false,
+          "status": "delivered",
+          "statusLabel": "Delivered",
+          "recipient": "alexa",
+          "recipientLabel": "Alexa",
+          "vendor": "DGJ",
+          "vendorLabel": "DGJ",
+          "trackingNumber": "876622908140",
+          "routeText": "Dongguan City → Denver, CO · Shipped 9/3/26 · #dgj-0115-cloud-reset",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue 9/8",
+          "items": [
+            {
+              "text": "DGJ0115 BREEZE PLEAT SHORT, PP samples",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0115 Cloud Reset lab dips & strike offs",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "DGJ proto samples (from Kayla)",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "isNew": false,
+          "status": "delivered",
+          "statusLabel": "Delivered",
+          "recipient": "esther",
+          "recipientLabel": "Esther",
+          "vendor": "DGJ",
+          "vendorLabel": "DGJ",
+          "trackingNumber": "876623493046",
+          "routeText": "Dongguan City → El Cerrito, CA · Shipped 9/3/26 · #dgj-0115-cloud-reset",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue 9/8",
+          "items": [
+            {
+              "text": "DGJ0115 BREEZE PLEAT SHORT, PP samples",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0115 Cloud Reset lab dips & strike offs",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "DGJ proto samples (from Kayla)",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "isNew": false,
+          "status": "delivered",
+          "statusLabel": "Delivered",
+          "recipient": "taylor",
+          "recipientLabel": "Taylor",
+          "vendor": "DGJ",
+          "vendorLabel": "DGJ",
+          "trackingNumber": "876623283359",
+          "routeText": "Dongguan City → Castle Rock, CO · Shipped 9/3/26 · #dgj-0115-cloud-reset",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue 9/8",
+          "items": [
+            {
+              "text": "DGJ0115 BREEZE PLEAT SHORT, PP samples",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0115 Cloud Reset lab dips & strike offs",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "DGJ proto samples (from Kayla)",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ]
+    },
     {
       "title": "Archived — rolled 9/14/26",
       "isNew": false,
