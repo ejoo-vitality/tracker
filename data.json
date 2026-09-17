@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "Updated Wed, Sep 16 · 3 new packages (Sunwin SW0086/SW0087/SW0088 samples to Alexa, Esther, Taylor); 6 archived; 3 status updates. Note: SW0077/SW0084/SW0086 marketing-sample awb#s still pending — Sunwin confirmed dispatch 9/17. UPS/DHL numbers are not status-checked.",
+  "lastUpdated": "Updated Thu, Sep 17 · 10 new packages (DGJ0116 Fiery QT PP samples to Alexa/Taylor/Esther; DGJ0114 marketing samples to Julia/Alexandra; SW0077 marketing samples to Julia/Alexandra/Taylor; SW0077 revised bulk fabric to Alexa; Academy reference sample outbound to Sunwin); 4 archived; 20 status updates. SW0077/SW0084/SW0086 marketing-sample awb#s from yesterday's note are now resolved for SW0077. UPS/DHL numbers are not status-checked.",
   "groups": [
     {
-      "title": "Sunwin submissions — SW0086 TOP samples + SW0087/SW0088 fit samples (Sep 16)",
+      "title": "Sunwin — SW0077 revised bulk fabric + Academy reference sample (Sep 17)",
       "isNew": true,
       "packages": [
         {
@@ -11,13 +11,398 @@
           "status": "onway",
           "isDupCompanion": false,
           "carrier": "FedEx",
+          "vendorLabel": "Sunwin",
+          "statusLabel": "In Transit",
+          "etaType": "eta",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": true,
+          "recipientLabel": "Alexa",
+          "trackingNumber": "877331219840",
+          "routeText": "Shanghai → Denver, CO · Shipped 9/17/26 · #sw-0077-float-black-friday",
+          "etaText": "Mon, Sep 21",
+          "items": [
+            {
+              "text": "SW0077 Float — revised bulk hand feel fabric for approval",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "other",
+          "vendor": "SW",
+          "status": "label",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "Sunwin",
+          "statusLabel": "Label Created",
+          "etaType": "tba",
+          "contentsLabel": "Contents:",
+          "note": "Alexa's only sample — Sunwin to send back after review.",
+          "isNew": true,
+          "recipientLabel": "Becky Wang",
+          "trackingNumber": "877311493794",
+          "routeText": "Denver, CO → Shanghai · #sw-academy-sports",
+          "etaText": "TBA",
+          "items": [
+            {
+              "text": "Cloud II V Bra reference sample (outbound to Sunwin — must be returned)",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sunwin SW0077 marketing samples — Julia / Alexandra / Taylor (Sep 17)",
+      "isNew": true,
+      "packages": [
+        {
+          "recipient": "other",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "Sunwin",
+          "statusLabel": "In Transit",
+          "etaType": "tba",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": true,
+          "recipientLabel": "Julia",
+          "trackingNumber": "877333154955",
+          "routeText": "Shanghai → Costa Mesa, CA · Shipped 9/17/26 · #sw-marketing-samples",
+          "etaText": "TBA",
+          "items": [
+            {
+              "text": "SW0077 Float Candy Cane marketing samples",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "other",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "Sunwin",
+          "statusLabel": "In Transit",
+          "etaType": "eta",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": true,
+          "recipientLabel": "Alexandra",
+          "trackingNumber": "877333271321",
+          "routeText": "Shanghai → Toronto, ON · Shipped 9/17/26 · #sw-marketing-samples",
+          "etaText": "Mon, Sep 21",
+          "items": [
+            {
+              "text": "SW0077 Float Candy Cane marketing samples",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "Sunwin",
+          "statusLabel": "In Transit",
+          "etaType": "eta",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": true,
+          "recipientLabel": "Taylor",
+          "trackingNumber": "877333347227",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 9/17/26 · #sw-marketing-samples",
+          "etaText": "Mon, Sep 21",
+          "items": [
+            {
+              "text": "SW0077 Float Candy Cane marketing samples",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "DGJ0114 marketing samples — Julia / Alexandra (Sep 17)",
+      "isNew": true,
+      "packages": [
+        {
+          "recipient": "other",
+          "vendor": "DGJ",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "DGJ",
+          "statusLabel": "In Transit",
+          "etaType": "tba",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": true,
+          "recipientLabel": "Julia",
+          "trackingNumber": "877279333035",
+          "routeText": "Dongguan → Costa Mesa, CA · Shipped 9/17/26 · #dgj-marketing-samples",
+          "etaText": "TBA (ETA 9/18 per Kayla)",
+          "items": [
+            {
+              "text": "DGJ0114 marketing samples (see DGJ0114 Marketing Sample List.xlsx)",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "other",
+          "vendor": "DGJ",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "DGJ",
+          "statusLabel": "In Transit",
+          "etaType": "eta",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": true,
+          "recipientLabel": "Alexandra",
+          "trackingNumber": "877217266231",
+          "routeText": "Dongguan → Toronto, ON · Shipped 9/17/26 · #dgj-marketing-samples",
+          "etaText": "Mon, Sep 21",
+          "items": [
+            {
+              "text": "DGJ0114 marketing samples (see DGJ0114 Marketing Sample List.xlsx)",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "DGJ0116 Fiery QT Cloud II PP samples + improved Cloud II fabric (Sep 17)",
+      "isNew": true,
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "DGJ",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "DGJ",
+          "statusLabel": "In Transit",
+          "etaType": "eta",
+          "contentsLabel": "Contents:",
+          "note": "Kayla: polka dot should be matte — supplier printed it wrong on these PP samples; will be corrected for bulk.",
+          "isNew": true,
+          "recipientLabel": "Alexa",
+          "trackingNumber": "877279062880",
+          "routeText": "Dongguan → Denver, CO (new office) · Shipped 9/17/26 · #dgj-0116-vday-cloud",
+          "etaText": "Mon, Sep 21",
+          "items": [
+            {
+              "text": "DGJ0116 Fiery QT Polka Dot Cloud II Halter Bra, PP sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0116 Fiery QT Polka Dot Cloud II Volley Short, PP sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0116 Cloud II Split Tank, P2 sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "Cloud II fabric — improved brushed hand feel",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "DGJ",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "DGJ",
+          "statusLabel": "In Transit",
+          "etaType": "eta",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": true,
+          "recipientLabel": "Taylor",
+          "trackingNumber": "877278046111",
+          "routeText": "Dongguan → Castle Rock, CO · Shipped 9/17/26 · #dgj-0116-vday-cloud",
+          "etaText": "Mon, Sep 21",
+          "items": [
+            {
+              "text": "DGJ0116 Fiery QT Polka Dot Cloud II Halter Bra, PP sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0116 Fiery QT Polka Dot Cloud II Halter Tank, PP sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0116 Fiery QT Polka Dot Cloud II Pant, PP sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0116 Cloud II Split Tank, P2 sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "Cloud II fabric — improved brushed hand feel",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "esther",
+          "vendor": "DGJ",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "DGJ",
+          "statusLabel": "In Transit",
+          "etaType": "tba",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": true,
+          "recipientLabel": "Esther",
+          "trackingNumber": "877278697830",
+          "routeText": "Dongguan → El Cerrito, CA · Shipped 9/17/26 · #dgj-0116-vday-cloud",
+          "etaText": "TBA",
+          "items": [
+            {
+              "text": "DGJ0116 Fiery QT Polka Dot Cloud II Halter Tank",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0116 Cloud II Split Tank, P2 sample",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "Cloud II fabric — improved brushed hand feel",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sunwin submissions — SW0086 TOP samples + SW0087/SW0088 fit samples (Sep 16)",
+      "isNew": false,
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
           "trackingNumber": "877279538180",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Alexa",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → Denver, CO · Shipped 9/16/26 · #sunwin-general",
-          "etaType": "tba",
-          "etaText": "TBA",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu, Sep 17",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -139,7 +524,7 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "recipient": "esther",
@@ -152,8 +537,8 @@
           "recipientLabel": "Esther",
           "statusLabel": "In Transit",
           "routeText": "Shanghai → El Cerrito, CA · Shipped 9/16/26 · #sunwin-general",
-          "etaType": "tba",
-          "etaText": "TBA",
+          "etaType": "eta",
+          "etaText": "Today, Sep 17",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -239,21 +624,21 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "recipient": "taylor",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "877280424840",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Taylor",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → Castle Rock, CO · Shipped 9/16/26 · #sunwin-general",
-          "etaType": "tba",
-          "etaText": "TBA",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu, Sep 17",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -339,7 +724,7 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         }
       ]
     },
@@ -393,7 +778,7 @@
           "statusLabel": "Delivered",
           "routeText": "Shanghai → El Cerrito, CA · Shipped 9/14/26 · #sunwin-general",
           "etaType": "delivered",
-          "etaText": "Delivered Tue 9/15",
+          "etaText": "Delivered Tue, Sep 15",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -430,7 +815,7 @@
           "statusLabel": "Delivered",
           "routeText": "Shanghai → Castle Rock, CO · Shipped 9/14/26 · #sunwin-general",
           "etaType": "delivered",
-          "etaText": "Delivered Tue 9/15",
+          "etaText": "Delivered Tue, Sep 15",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -467,7 +852,7 @@
           "statusLabel": "Delivered",
           "routeText": "Shanghai → Denver, CO · Shipped 9/14/26 · #sunwin-general",
           "etaType": "delivered",
-          "etaText": "Delivered Tue 9/15",
+          "etaText": "Delivered Tue, Sep 15",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -519,7 +904,7 @@
           "statusLabel": "Delivered",
           "routeText": "Dongguan → El Cerrito, CA · Shipped 9/12/26 · #dgj-0118-cloud-spring",
           "etaType": "delivered",
-          "etaText": "Delivered Mon 9/14",
+          "etaText": "Delivered Mon, Sep 14",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -547,7 +932,7 @@
           "statusLabel": "Delivered",
           "routeText": "Dongguan → Castle Rock, CO · Shipped 9/12/26 · #dgj-0118-cloud-spring",
           "etaType": "delivered",
-          "etaText": "Delivered Tue 9/15",
+          "etaText": "Delivered Tue, Sep 15",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -584,7 +969,7 @@
           "statusLabel": "Delivered",
           "routeText": "Dongguan → Denver, CO · Shipped 9/12/26 · #dgj-0118-cloud-spring",
           "etaType": "delivered",
-          "etaText": "Delivered Mon 9/14",
+          "etaText": "Delivered Mon, Sep 14",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -618,7 +1003,7 @@
           "statusLabel": "Delivered",
           "routeText": "Denver, CO → New York City, NY · Shipped 9/9/26 · Gmail",
           "etaType": "delivered",
-          "etaText": "Delivered Fri 9/11",
+          "etaText": "Delivered Fri, Sep 11",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -661,7 +1046,7 @@
           "statusLabel": "Delivered",
           "routeText": "Dongguan → El Cerrito, CA · Shipped 9/10/26 · #dgj-0115-cloud-reset",
           "etaType": "delivered",
-          "etaText": "Delivered Mon 9/14",
+          "etaText": "Delivered Mon, Sep 14",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -779,7 +1164,7 @@
           "statusLabel": "Delivered",
           "routeText": "Dongguan → Castle Rock, CO · Shipped 9/10/26 · #dgj-0115-cloud-reset",
           "etaType": "delivered",
-          "etaText": "Delivered Mon 9/14",
+          "etaText": "Delivered Mon, Sep 14",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -861,7 +1246,7 @@
           "statusLabel": "Delivered",
           "routeText": "Dongguan → Denver, CO · Shipped 9/10/26 · #dgj-0115-cloud-reset",
           "etaType": "delivered",
-          "etaText": "Delivered Mon 9/14",
+          "etaText": "Delivered Mon, Sep 14",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -985,7 +1370,7 @@
           "statusLabel": "Delivered",
           "routeText": "Shanghai → El Cerrito, CA · Shipped 9/9/26 · #sunwin-general",
           "etaType": "delivered",
-          "etaText": "Delivered Thu 9/10",
+          "etaText": "Delivered Thu, Sep 10",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -1022,7 +1407,7 @@
           "statusLabel": "Delivered",
           "routeText": "Shanghai → Castle Rock, CO · Shipped 9/9/26 · #sunwin-general",
           "etaType": "delivered",
-          "etaText": "Delivered Thu 9/10",
+          "etaText": "Delivered Thu, Sep 10",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -1050,7 +1435,7 @@
           "statusLabel": "Delivered",
           "routeText": "Shanghai → Denver, CO · Shipped 9/9/26 · #sunwin-general",
           "etaType": "delivered",
-          "etaText": "Delivered Thu 9/10",
+          "etaText": "Delivered Thu, Sep 10",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -1082,328 +1467,6 @@
             }
           ],
           "note": "",
-          "isNew": false
-        }
-      ]
-    },
-    {
-      "title": "Sunwin + Academy submissions — Esther, Taylor, Alexa (Sep 7)",
-      "isNew": false,
-      "packages": [
-        {
-          "recipient": "esther",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "876828292052",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Esther",
-          "statusLabel": "Delivered",
-          "routeText": "Shanghai → El Cerrito, CA · Shipped 9/7/26 · #sunwin-general / #sw-academy-sports",
-          "etaType": "delivered",
-          "etaText": "Delivered Wed 9/9",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "SW0093 ACTIVE DRESS, proto sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P1"
-                }
-              ]
-            },
-            {
-              "text": "SW0076 DAYDREAM bulk trims approval",
-              "tags": [
-                {
-                  "type": "bulk",
-                  "label": "BULK"
-                }
-              ]
-            },
-            {
-              "text": "SW0085 FLOW OPEN LONG SLEEVE, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "SW0077 FLOAT BAND BRALETTE — 2nd shoulder strap submission",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            },
-            {
-              "text": "SW0086 DAYDREAM V PANT, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "Accelerate V-Bra, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P1"
-                }
-              ]
-            },
-            {
-              "text": "Accelerate Stream Bra, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P1"
-                }
-              ]
-            },
-            {
-              "text": "Accelerate Flutter Skort, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P1"
-                }
-              ]
-            }
-          ],
-          "note": "",
-          "isNew": false
-        },
-        {
-          "recipient": "taylor",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "876828323916",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Taylor",
-          "statusLabel": "Delivered",
-          "routeText": "Shanghai → Castle Rock, CO · Shipped 9/7/26 · #sunwin-general / #sw-academy-sports",
-          "etaType": "delivered",
-          "etaText": "Delivered Wed 9/9",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "SW0093 ACTIVE DRESS, proto sample, size XS",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P1"
-                }
-              ]
-            },
-            {
-              "text": "SW0085 FLOW OPEN LONG SLEEVE, size XS",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "SW0086 DAYDREAM V PANT, size XS",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "Accelerate V-Bra, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P1"
-                }
-              ]
-            },
-            {
-              "text": "Accelerate Stream Bra, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P1"
-                }
-              ]
-            },
-            {
-              "text": "Accelerate Flutter Skort, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P1"
-                }
-              ]
-            }
-          ],
-          "note": "",
-          "isNew": false
-        },
-        {
-          "recipient": "alexa",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "876828236030",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Alexa",
-          "statusLabel": "Delivered",
-          "routeText": "Shanghai → Denver, CO · Shipped 9/7/26 · #sunwin-general / #sw-academy-sports",
-          "etaType": "delivered",
-          "etaText": "Delivered Wed 9/9",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "SW0093 ACTIVE DRESS, proto sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P1"
-                }
-              ]
-            },
-            {
-              "text": "SW0076 DAYDREAM bulk trims approval",
-              "tags": [
-                {
-                  "type": "bulk",
-                  "label": "BULK"
-                }
-              ]
-            },
-            {
-              "text": "SW0085 FLOW OPEN LONG SLEEVE, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "SW0077 FLOAT BAND BRALETTE — 2nd shoulder strap submission",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            },
-            {
-              "text": "SW0086 DAYDREAM V PANT, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "SW0086 MEN'S VITAL TEE, size XL",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "TOP"
-                }
-              ]
-            },
-            {
-              "text": "Accelerate V-Bra, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P1"
-                }
-              ]
-            },
-            {
-              "text": "Accelerate Stream Bra, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P1"
-                }
-              ]
-            },
-            {
-              "text": "Accelerate Flutter Skort, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P1"
-                }
-              ]
-            },
-            {
-              "text": "ACCELERATE CLASSIC BRA MARINE FELINE, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "TOP"
-                }
-              ]
-            },
-            {
-              "text": "ACCELERATE PANT MARINE FELINE, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "TOP"
-                }
-              ]
-            }
-          ],
-          "note": "",
-          "isNew": false
-        }
-      ]
-    },
-    {
-      "title": "Cotton Project fabric submit — Esther (Sep 3)",
-      "isNew": false,
-      "packages": [
-        {
-          "recipient": "esther",
-          "vendor": "CP",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "876694500206",
-          "vendorLabel": "Cotton Project",
-          "recipientLabel": "Esther",
-          "statusLabel": "Delivered",
-          "routeText": "Olot, Spain → El Cerrito, CA · Shipped 9/3/26 · Gmail",
-          "etaType": "delivered",
-          "etaText": "Delivered Wed 9/9",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "COTTON #7534 — fabric submit, ES0266 Cotton Project S.A.",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            }
-          ],
-          "note": "FedEx International Economy · 0.20 kg",
           "isNew": false
         }
       ]
@@ -1872,6 +1935,322 @@
     }
   ],
   "archivedGroups": [
+    {
+      "title": "Archived — rolled 9/17/26",
+      "isNew": false,
+      "packages": [
+        {
+          "recipient": "esther",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "876828292052",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Esther",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 9/7/26 · #sunwin-general / #sw-academy-sports",
+          "etaType": "delivered",
+          "etaText": "Delivered Wed, Sep 9",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0093 ACTIVE DRESS, proto sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "SW0076 DAYDREAM bulk trims approval",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            },
+            {
+              "text": "SW0085 FLOW OPEN LONG SLEEVE, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0077 FLOAT BAND BRALETTE — 2nd shoulder strap submission",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "SW0086 DAYDREAM V PANT, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Accelerate V-Bra, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "Accelerate Stream Bra, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "Accelerate Flutter Skort, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "876828323916",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Taylor",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 9/7/26 · #sunwin-general / #sw-academy-sports",
+          "etaType": "delivered",
+          "etaText": "Delivered Wed, Sep 9",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0093 ACTIVE DRESS, proto sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "SW0085 FLOW OPEN LONG SLEEVE, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0086 DAYDREAM V PANT, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Accelerate V-Bra, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "Accelerate Stream Bra, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "Accelerate Flutter Skort, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false
+        },
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "876828236030",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → Denver, CO · Shipped 9/7/26 · #sunwin-general / #sw-academy-sports",
+          "etaType": "delivered",
+          "etaText": "Delivered Wed, Sep 9",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0093 ACTIVE DRESS, proto sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "SW0076 DAYDREAM bulk trims approval",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            },
+            {
+              "text": "SW0085 FLOW OPEN LONG SLEEVE, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0077 FLOAT BAND BRALETTE — 2nd shoulder strap submission",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "SW0086 DAYDREAM V PANT, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0086 MEN'S VITAL TEE, size XL",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "Accelerate V-Bra, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "Accelerate Stream Bra, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "Accelerate Flutter Skort, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE CLASSIC BRA MARINE FELINE, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "ACCELERATE PANT MARINE FELINE, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false
+        },
+        {
+          "recipient": "esther",
+          "vendor": "CP",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "876694500206",
+          "vendorLabel": "Cotton Project",
+          "recipientLabel": "Esther",
+          "statusLabel": "Delivered",
+          "routeText": "Olot, Spain → El Cerrito, CA · Shipped 9/3/26 · Gmail",
+          "etaType": "delivered",
+          "etaText": "Delivered Wed, Sep 9",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "COTTON #7534 — fabric submit, ES0266 Cotton Project S.A.",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "FedEx International Economy · 0.20 kg",
+          "isNew": false
+        }
+      ]
+    },
     {
       "title": "Archived — rolled 9/16/26",
       "packages": [
