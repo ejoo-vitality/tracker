@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "Updated Thu, Sep 17 · 10 new packages (DGJ0116 Fiery QT PP samples to Alexa/Taylor/Esther; DGJ0114 marketing samples to Julia/Alexandra; SW0077 marketing samples to Julia/Alexandra/Taylor; SW0077 revised bulk fabric to Alexa; Academy reference sample outbound to Sunwin); 4 archived; 20 status updates. SW0077/SW0084/SW0086 marketing-sample awb#s from yesterday's note are now resolved for SW0077. UPS/DHL numbers are not status-checked.",
+  "lastUpdated": "Updated Fri, Sep 18 · 3 new packages (Sunwin parcels on 9/18: Academy Homebody LDs to Alexa/Esther/Taylor, plus SW0089/SW0091/SW0083 bulk lots and SW0093 Active Lining LDs; Academy Accelerate V Tank P1 to Taylor); 3 archived (9/10 deliveries); 10 status updates. Gmail scan clear — only a Vitality retail order confirmation, no vendor shipments. UPS/DHL numbers are not status-checked.",
   "groups": [
     {
-      "title": "Sunwin — SW0077 revised bulk fabric + Academy reference sample (Sep 17)",
+      "title": "Sunwin — Parcels on 9/18: Academy Homebody LDs + SW0089/SW0091/SW0083 bulk lots (Sep 18)",
       "isNew": true,
       "packages": [
         {
@@ -11,16 +11,160 @@
           "status": "onway",
           "isDupCompanion": false,
           "carrier": "FedEx",
+          "trackingNumber": "877396210254",
           "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
           "statusLabel": "In Transit",
+          "routeText": "Shanghai → Denver, CO · Shipped 9/18/26 · #sunwin-general",
           "etaType": "eta",
+          "etaText": "Mon, Sep 21",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "Bulk lots of SW0089 Flow / Academy Flow",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            },
+            {
+              "text": "Bulk lots of SW0091 Pulse / SW0083 Float Rib / SW0089 Daydream",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            },
+            {
+              "text": "LDs of Academy Homebody",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "LDs of SW0093 Active Lining",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true
+        },
+        {
+          "recipient": "esther",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "877396262560",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Esther",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 9/18/26 · #sunwin-general",
+          "etaType": "eta",
+          "etaText": "Mon, Sep 21",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "LDs of Academy Homebody",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "LDs of SW0093 Active Lining",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "877396386376",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Taylor",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 9/18/26 · #sunwin-general",
+          "etaType": "eta",
+          "etaText": "Mon, Sep 21",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "LDs of Academy Homebody",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "LDs of SW0093 Active Lining",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "Accelerate V Tank, P1 sample, size XS (Academy, shipped under Vitality account)",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P1"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true
+        }
+      ]
+    },
+    {
+      "title": "Sunwin — SW0077 revised bulk fabric + Academy reference sample (Sep 17)",
+      "isNew": false,
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "Sunwin",
+          "statusLabel": "Delivered",
+          "etaType": "delivered",
           "contentsLabel": "Contents:",
           "note": "",
-          "isNew": true,
+          "isNew": false,
           "recipientLabel": "Alexa",
           "trackingNumber": "877331219840",
           "routeText": "Shanghai → Denver, CO · Shipped 9/17/26 · #sw-0077-float-black-friday",
-          "etaText": "Mon, Sep 21",
+          "etaText": "Delivered Fri, Sep 18",
           "items": [
             {
               "text": "SW0077 Float — revised bulk hand feel fabric for approval",
@@ -36,18 +180,18 @@
         {
           "recipient": "other",
           "vendor": "SW",
-          "status": "label",
+          "status": "onway",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "vendorLabel": "Sunwin",
-          "statusLabel": "Label Created",
+          "statusLabel": "In Transit",
           "etaType": "tba",
           "contentsLabel": "Contents:",
           "note": "Alexa's only sample — Sunwin to send back after review.",
-          "isNew": true,
+          "isNew": false,
           "recipientLabel": "Becky Wang",
           "trackingNumber": "877311493794",
-          "routeText": "Denver, CO → Shanghai · #sw-academy-sports",
+          "routeText": "Denver, CO → Shanghai · Shipped 9/17/26",
           "etaText": "TBA",
           "items": [
             {
@@ -65,7 +209,7 @@
     },
     {
       "title": "Sunwin SW0077 marketing samples — Julia / Alexandra / Taylor (Sep 17)",
-      "isNew": true,
+      "isNew": false,
       "packages": [
         {
           "recipient": "other",
@@ -75,14 +219,14 @@
           "carrier": "FedEx",
           "vendorLabel": "Sunwin",
           "statusLabel": "In Transit",
-          "etaType": "tba",
+          "etaType": "eta",
           "contentsLabel": "Contents:",
           "note": "",
-          "isNew": true,
+          "isNew": false,
           "recipientLabel": "Julia",
           "trackingNumber": "877333154955",
           "routeText": "Shanghai → Costa Mesa, CA · Shipped 9/17/26 · #sw-marketing-samples",
-          "etaText": "TBA",
+          "etaText": "Mon, Sep 21",
           "items": [
             {
               "text": "SW0077 Float Candy Cane marketing samples",
@@ -98,19 +242,19 @@
         {
           "recipient": "other",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "vendorLabel": "Sunwin",
-          "statusLabel": "In Transit",
-          "etaType": "eta",
+          "statusLabel": "Delivered",
+          "etaType": "delivered",
           "contentsLabel": "Contents:",
           "note": "",
-          "isNew": true,
+          "isNew": false,
           "recipientLabel": "Alexandra",
           "trackingNumber": "877333271321",
           "routeText": "Shanghai → Toronto, ON · Shipped 9/17/26 · #sw-marketing-samples",
-          "etaText": "Mon, Sep 21",
+          "etaText": "Delivered Fri, Sep 18",
           "items": [
             {
               "text": "SW0077 Float Candy Cane marketing samples",
@@ -126,19 +270,19 @@
         {
           "recipient": "taylor",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "vendorLabel": "Sunwin",
-          "statusLabel": "In Transit",
-          "etaType": "eta",
+          "statusLabel": "Delivered",
+          "etaType": "delivered",
           "contentsLabel": "Contents:",
           "note": "",
-          "isNew": true,
+          "isNew": false,
           "recipientLabel": "Taylor",
           "trackingNumber": "877333347227",
           "routeText": "Shanghai → Castle Rock, CO · Shipped 9/17/26 · #sw-marketing-samples",
-          "etaText": "Mon, Sep 21",
+          "etaText": "Delivered Fri, Sep 18",
           "items": [
             {
               "text": "SW0077 Float Candy Cane marketing samples",
@@ -155,7 +299,7 @@
     },
     {
       "title": "DGJ0114 marketing samples — Julia / Alexandra (Sep 17)",
-      "isNew": true,
+      "isNew": false,
       "packages": [
         {
           "recipient": "other",
@@ -165,14 +309,14 @@
           "carrier": "FedEx",
           "vendorLabel": "DGJ",
           "statusLabel": "In Transit",
-          "etaType": "tba",
+          "etaType": "eta",
           "contentsLabel": "Contents:",
           "note": "",
-          "isNew": true,
+          "isNew": false,
           "recipientLabel": "Julia",
           "trackingNumber": "877279333035",
           "routeText": "Dongguan → Costa Mesa, CA · Shipped 9/17/26 · #dgj-marketing-samples",
-          "etaText": "TBA (ETA 9/18 per Kayla)",
+          "etaText": "Mon, Sep 21",
           "items": [
             {
               "text": "DGJ0114 marketing samples (see DGJ0114 Marketing Sample List.xlsx)",
@@ -188,19 +332,19 @@
         {
           "recipient": "other",
           "vendor": "DGJ",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "vendorLabel": "DGJ",
-          "statusLabel": "In Transit",
-          "etaType": "eta",
+          "statusLabel": "Delivered",
+          "etaType": "delivered",
           "contentsLabel": "Contents:",
           "note": "",
-          "isNew": true,
+          "isNew": false,
           "recipientLabel": "Alexandra",
           "trackingNumber": "877217266231",
           "routeText": "Dongguan → Toronto, ON · Shipped 9/17/26 · #dgj-marketing-samples",
-          "etaText": "Mon, Sep 21",
+          "etaText": "Delivered Fri, Sep 18",
           "items": [
             {
               "text": "DGJ0114 marketing samples (see DGJ0114 Marketing Sample List.xlsx)",
@@ -217,7 +361,7 @@
     },
     {
       "title": "DGJ0116 Fiery QT Cloud II PP samples + improved Cloud II fabric (Sep 17)",
-      "isNew": true,
+      "isNew": false,
       "packages": [
         {
           "recipient": "alexa",
@@ -230,10 +374,10 @@
           "etaType": "eta",
           "contentsLabel": "Contents:",
           "note": "Kayla: polka dot should be matte — supplier printed it wrong on these PP samples; will be corrected for bulk.",
-          "isNew": true,
+          "isNew": false,
           "recipientLabel": "Alexa",
           "trackingNumber": "877279062880",
-          "routeText": "Dongguan → Denver, CO (new office) · Shipped 9/17/26 · #dgj-0116-vday-cloud",
+          "routeText": "Dongguan → Denver, CO · Shipped 9/17/26 · #dgj-0116-vday-cloud",
           "etaText": "Mon, Sep 21",
           "items": [
             {
@@ -285,7 +429,7 @@
           "etaType": "eta",
           "contentsLabel": "Contents:",
           "note": "",
-          "isNew": true,
+          "isNew": false,
           "recipientLabel": "Taylor",
           "trackingNumber": "877278046111",
           "routeText": "Dongguan → Castle Rock, CO · Shipped 9/17/26 · #dgj-0116-vday-cloud",
@@ -346,14 +490,14 @@
           "carrier": "FedEx",
           "vendorLabel": "DGJ",
           "statusLabel": "In Transit",
-          "etaType": "tba",
+          "etaType": "eta",
           "contentsLabel": "Contents:",
           "note": "",
-          "isNew": true,
+          "isNew": false,
           "recipientLabel": "Esther",
           "trackingNumber": "877278697830",
           "routeText": "Dongguan → El Cerrito, CA · Shipped 9/17/26 · #dgj-0116-vday-cloud",
-          "etaText": "TBA",
+          "etaText": "Mon, Sep 21",
           "items": [
             {
               "text": "DGJ0116 Fiery QT Polka Dot Cloud II Halter Tank",
@@ -529,16 +673,16 @@
         {
           "recipient": "esther",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "877279918351",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Esther",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → El Cerrito, CA · Shipped 9/16/26 · #sunwin-general",
-          "etaType": "eta",
-          "etaText": "Today, Sep 17",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu, Sep 17",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -1355,123 +1499,6 @@
       ]
     },
     {
-      "title": "SW0078 Oversized Puffer Vest PP + Flow top samples — Esther, Taylor, Alexa (Sep 9)",
-      "isNew": false,
-      "packages": [
-        {
-          "recipient": "esther",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "876934273684",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Esther",
-          "statusLabel": "Delivered",
-          "routeText": "Shanghai → El Cerrito, CA · Shipped 9/9/26 · #sunwin-general",
-          "etaType": "delivered",
-          "etaText": "Delivered Thu, Sep 10",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "SW0078 OVERSIZED PUFFER VEST, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "Bulk adjuster color & quality approval — SW0077 FLOAT & SW0078 BASIS",
-              "tags": [
-                {
-                  "type": "bulk",
-                  "label": "BULK"
-                }
-              ]
-            }
-          ],
-          "note": "",
-          "isNew": false
-        },
-        {
-          "recipient": "taylor",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "876934319050",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Taylor",
-          "statusLabel": "Delivered",
-          "routeText": "Shanghai → Castle Rock, CO · Shipped 9/9/26 · #sunwin-general",
-          "etaType": "delivered",
-          "etaText": "Delivered Thu, Sep 10",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "SW0078 OVERSIZED PUFFER VEST, size XS",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            }
-          ],
-          "note": "",
-          "isNew": false
-        },
-        {
-          "recipient": "alexa",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "876934195230",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Alexa",
-          "statusLabel": "Delivered",
-          "routeText": "Shanghai → Denver, CO · Shipped 9/9/26 · #sunwin-general",
-          "etaType": "delivered",
-          "etaText": "Delivered Thu, Sep 10",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "SW0078 OVERSIZED PUFFER VEST, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "SW0086 FLOW SIMPLE TEE & FLOW WRAP TOP, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "TOP"
-                }
-              ]
-            },
-            {
-              "text": "Bulk adjuster color & quality approval — SW0077 FLOAT & SW0078 BASIS",
-              "tags": [
-                {
-                  "type": "bulk",
-                  "label": "BULK"
-                }
-              ]
-            }
-          ],
-          "note": "",
-          "isNew": false
-        }
-      ]
-    },
-    {
       "title": "DGJ bulk + polybag ocean shipments via UPS — Audra (Sep 2)",
       "isNew": false,
       "packages": [
@@ -1935,6 +1962,123 @@
     }
   ],
   "archivedGroups": [
+    {
+      "title": "Archived — rolled 9/18/26",
+      "isNew": false,
+      "packages": [
+        {
+          "recipient": "esther",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "876934273684",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Esther",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 9/9/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu, Sep 10",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0078 OVERSIZED PUFFER VEST, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Bulk adjuster color & quality approval — SW0077 FLOAT & SW0078 BASIS",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "876934319050",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Taylor",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 9/9/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu, Sep 10",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0078 OVERSIZED PUFFER VEST, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false
+        },
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "876934195230",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → Denver, CO · Shipped 9/9/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu, Sep 10",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0078 OVERSIZED PUFFER VEST, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0086 FLOW SIMPLE TEE & FLOW WRAP TOP, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "Bulk adjuster color & quality approval — SW0077 FLOAT & SW0078 BASIS",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false
+        }
+      ]
+    },
     {
       "title": "Archived — rolled 9/17/26",
       "isNew": false,
