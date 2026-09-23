@@ -1,9 +1,392 @@
 {
-  "lastUpdated": "Updated Mon, Sep 21 · 4 new packages (Sunwin marketing samples to Julia & Alexandra on 9/19; DGJ0112 first partial bulk shipment, 102 cartons — FedEx master 877453712684 + UPS 1Z19D5790336769333); 1 archived (876957116138, delivered 9/11); 10 status updates. Gmail scan clear — only Vitality retail order confirmations and a FedEx delivery notice for an already-tracked parcel; Zengyao fabric samples not yet shipped, no AWB. Gmail required one 'Try Again' on the transient 404. UPS/DHL numbers are not status-checked.",
+  "lastUpdated": "Updated Wed, Sep 23 · 5 new packages (Sunwin 9/23 parcels to Alexa/Esther/Taylor; Float Rib 2XS marketing samples to Julia; DGJ samples for Tyler, delivered 9/18); 9 archived (delivered 9/14–9/15); 1 status update (877446082462 Toronto — FedEx delivery date being updated). Gmail scan clear (needed one Try Again on the 404); Zengyao fabric samples still no AWB. Pending: SS-0005 samples sent over weekend — Alexa still waiting on AWB from Freya; Sunwin Pulse Sculpt Accent Pant sending 9/30. UPS/DHL numbers not status-checked.",
   "groups": [
     {
-      "title": "DGJ — DGJ0112 first partial bulk shipment, 102 cartons (Sep 20)",
+      "title": "Sunwin — Parcels on 9/23: SW0088 Pulse P2/P3s, SW0087 Marshmallow Half Zip P3, SW0084 TOPs, SW0091/SW0078/SW0082 PPs (Sep 23)",
       "isNew": true,
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "In Transit",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0081 FLOW CREW LONG SLEEVE, TOP sample, size S, Espresso/Midnight/Snow/Oceanview",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 PULSE SCULPT ACCENT VOLLEY SHORT, P2 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 PULSE STRAPPY RACER STRIPE BRA, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 PULSE STRIPE JACKET, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0082 RIB BUTTERFLY CROPPED TANK, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Everyday Ankle Sock & Everyday Crew Sock, proto samples, one size",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PROTO"
+                }
+              ]
+            },
+            {
+              "text": "SW0084 PULSE PANT (2 colors), PULSE VOLLEY SHORT, PULSE KEYHOLE TANK (Neon Blue), TOP samples, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "SW0091 PULSE VOLLEY SHORT & PANT, PP samples, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0084 FLOAT RIB BOXER PANT, BOXER SHORT, HENLEY TOP & V TANK, TOP samples, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "SW0078 BASIS OPEN LONG SLEEVE, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ],
+          "note": "Pulse Sculpt Accent Pant held back for revisions — Sunwin to send next Wed (9/30)",
+          "isNew": true,
+          "trackingNumber": "877621010796",
+          "routeText": "Shanghai → Denver, CO · Shipped 9/23/26 · #sunwin-general"
+        },
+        {
+          "recipient": "esther",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Esther",
+          "statusLabel": "In Transit",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0087 MARSHMALLOW OVERSIZED HALF ZIP, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 PULSE SCULPT ACCENT VOLLEY SHORT, P2 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 PULSE STRAPPY RACER STRIPE BRA, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 PULSE STRIPE JACKET, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0096 FLOW HIGH CINCH TANK, proto sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PROTO"
+                }
+              ]
+            },
+            {
+              "text": "SW0082 RIB BUTTERFLY CROPPED TANK, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Everyday Ankle Sock & Everyday Crew Sock, proto samples, one size",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PROTO"
+                }
+              ]
+            },
+            {
+              "text": "SW0091 PULSE VOLLEY SHORT & PANT, PP samples, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0078 BASIS OPEN LONG SLEEVE, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true,
+          "trackingNumber": "877620831881",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 9/23/26 · #sunwin-general"
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Taylor",
+          "statusLabel": "In Transit",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0087 MARSHMALLOW OVERSIZED HALF ZIP, P3 sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 PULSE SCULPT ACCENT VOLLEY SHORT, P2 sample, sizes XS & S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 PULSE STRAPPY RACER STRIPE BRA, P3 sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 PULSE STRIPE JACKET, P3 sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0096 FLOW HIGH CINCH TANK, proto sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PROTO"
+                }
+              ]
+            },
+            {
+              "text": "SW0082 RIB BUTTERFLY CROPPED TANK, PP sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Everyday Ankle Sock & Everyday Crew Sock, proto samples, one size",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PROTO"
+                }
+              ]
+            },
+            {
+              "text": "SW0091 PULSE VOLLEY SHORT, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0078 BASIS OPEN LONG SLEEVE, PP sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true,
+          "trackingNumber": "877621280217",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 9/23/26 · #sunwin-general"
+        }
+      ]
+    },
+    {
+      "title": "Sunwin — Float Rib Boxer Pant & Short 2XS Stone Marl marketing samples to Julia (Sep 23)",
+      "isNew": true,
+      "packages": [
+        {
+          "recipient": "other",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Julia",
+          "statusLabel": "In Transit",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "FLOAT RIB BOXER PANT & SHORT, marketing samples, size 2XS, Stone Marl (Sunwin account)",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "MKTG"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true,
+          "trackingNumber": "877620320733",
+          "routeText": "Shanghai → Costa Mesa, CA · Shipped 9/23/26 · #sw-marketing-samples"
+        }
+      ]
+    },
+    {
+      "title": "DGJ — samples for Tyler Olson (Sep 17)",
+      "isNew": true,
+      "packages": [
+        {
+          "recipient": "other",
+          "vendor": "DGJ",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Tyler",
+          "statusLabel": "Delivered",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri, Sep 18",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "Tyler's samples (tracking shared by Alexa in #product-fittings; ships with DGJ0116 batch)",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true,
+          "trackingNumber": "877278296431",
+          "routeText": "Dongguan → Denver, CO · Shipped 9/17/26 · #product-fittings"
+        }
+      ]
+    },
+    {
+      "title": "DGJ — DGJ0112 first partial bulk shipment, 102 cartons (Sep 20)",
+      "isNew": false,
       "packages": [
         {
           "recipient": "other",
@@ -31,7 +414,7 @@
             }
           ],
           "note": "Master tracking on a multi-piece FedEx Ground shipment; ship date pending.",
-          "isNew": true
+          "isNew": false
         },
         {
           "recipient": "other",
@@ -59,13 +442,13 @@
             }
           ],
           "note": "UPS — not status-checked.",
-          "isNew": true
+          "isNew": false
         }
       ]
     },
     {
       "title": "Sunwin — Marketing samples to Julia & Alexandra (Sep 19)",
-      "isNew": true,
+      "isNew": false,
       "packages": [
         {
           "recipient": "other",
@@ -93,7 +476,7 @@
             }
           ],
           "note": "Float Rib Boxer Pant & Short each missing one size 2XS piece (Stone Marl elastic shortage). Makeup pieces ship to Julia 9/24.",
-          "isNew": true
+          "isNew": false
         },
         {
           "recipient": "other",
@@ -106,8 +489,8 @@
           "recipientLabel": "Alexandra",
           "statusLabel": "In Transit",
           "routeText": "Shanghai → Toronto, ON · Shipped 9/19/26 · #sw-marketing-samples",
-          "etaType": "eta",
-          "etaText": "Mon, Sep 21",
+          "etaType": "tba",
+          "etaText": "TBA",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -120,8 +503,8 @@
               ]
             }
           ],
-          "note": "",
-          "isNew": true
+          "note": "FedEx: delivery updated — new date pending",
+          "isNew": false
         }
       ]
     },
@@ -1031,555 +1414,6 @@
       "isNew": false
     },
     {
-      "title": "Sunwin submissions — Academy Accelerate strike offs + SW0087 Marshmallow Rib LDs (Sep 14)",
-      "isNew": false,
-      "packages": [
-        {
-          "recipient": "esther",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "877142092621",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Esther",
-          "statusLabel": "Delivered",
-          "routeText": "Shanghai → El Cerrito, CA · Shipped 9/14/26 · #sunwin-general",
-          "etaType": "delivered",
-          "etaText": "Delivered Tue, Sep 15",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "Academy Accelerate — strike offs",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            },
-            {
-              "text": "SW0087 Marshmallow Rib — lab dips",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            }
-          ],
-          "note": "",
-          "isNew": false
-        },
-        {
-          "recipient": "taylor",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "877142278027",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Taylor",
-          "statusLabel": "Delivered",
-          "routeText": "Shanghai → Castle Rock, CO · Shipped 9/14/26 · #sunwin-general",
-          "etaType": "delivered",
-          "etaText": "Delivered Tue, Sep 15",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "Academy Accelerate — strike offs",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            },
-            {
-              "text": "SW0087 Marshmallow Rib — lab dips",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            }
-          ],
-          "note": "",
-          "isNew": false
-        },
-        {
-          "recipient": "alexa",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "877142042752",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Alexa",
-          "statusLabel": "Delivered",
-          "routeText": "Shanghai → Denver, CO · Shipped 9/14/26 · #sunwin-general",
-          "etaType": "delivered",
-          "etaText": "Delivered Tue, Sep 15",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "Academy Accelerate — strike offs",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            },
-            {
-              "text": "SW0087 Marshmallow Rib — lab dips",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            },
-            {
-              "text": "Accelerate Skylight — color cutting",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            }
-          ],
-          "note": "",
-          "isNew": false
-        }
-      ]
-    },
-    {
-      "title": "DGJ0118 Blue & Pink Polka Dot strike offs — Esther, Taylor, Alexa (Sep 12)",
-      "isNew": false,
-      "packages": [
-        {
-          "recipient": "esther",
-          "vendor": "DGJ",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "877059157750",
-          "vendorLabel": "DGJ",
-          "recipientLabel": "Esther",
-          "statusLabel": "Delivered",
-          "routeText": "Dongguan → El Cerrito, CA · Shipped 9/12/26 · #dgj-0118-cloud-spring",
-          "etaType": "delivered",
-          "etaText": "Delivered Mon, Sep 14",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "DGJ0118 Blue & Pink Polka Dot — strike offs",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            }
-          ],
-          "note": "",
-          "isNew": false
-        },
-        {
-          "recipient": "taylor",
-          "vendor": "DGJ",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "877059348589",
-          "vendorLabel": "DGJ",
-          "recipientLabel": "Taylor",
-          "statusLabel": "Delivered",
-          "routeText": "Dongguan → Castle Rock, CO · Shipped 9/12/26 · #dgj-0118-cloud-spring",
-          "etaType": "delivered",
-          "etaText": "Delivered Tue, Sep 15",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "DGJ0118 Blue & Pink Polka Dot — strike offs",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            },
-            {
-              "text": "DGJ0111 marketing samples (newly added)",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "TOP"
-                }
-              ]
-            }
-          ],
-          "note": "Shipped together with Steve’s DGJ0111 marketing samples.",
-          "isNew": false
-        },
-        {
-          "recipient": "alexa",
-          "vendor": "DGJ",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "877058985712",
-          "vendorLabel": "DGJ",
-          "recipientLabel": "Alexa",
-          "statusLabel": "Delivered",
-          "routeText": "Dongguan → Denver, CO · Shipped 9/12/26 · #dgj-0118-cloud-spring",
-          "etaType": "delivered",
-          "etaText": "Delivered Mon, Sep 14",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "DGJ0118 Blue & Pink Polka Dot — strike offs",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            }
-          ],
-          "note": "",
-          "isNew": false
-        }
-      ]
-    },
-    {
-      "title": "DGJ0115 / DGJ0116 Cloud II balance PP samples — Esther, Taylor, Alexa (Sep 9)",
-      "isNew": false,
-      "packages": [
-        {
-          "recipient": "esther",
-          "vendor": "DGJ",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "876932713094",
-          "vendorLabel": "DGJ",
-          "recipientLabel": "Esther",
-          "statusLabel": "Delivered",
-          "routeText": "Dongguan → El Cerrito, CA · Shipped 9/10/26 · #dgj-0115-cloud-reset",
-          "etaType": "delivered",
-          "etaText": "Delivered Mon, Sep 14",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "Fig Cloud II Split Volley Short — DGJ0115",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "Fig Cloud II Single Racer Tank — DGJ0115",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "Fig Cloud II Split Bra — DGJ0115",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "Fig Cloud II Pocket Pant — DGJ0115",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "Cove Cloud II Core High Bra — DGJ0115",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "Lilac Frost QT Cloud II Halter Bra — DGJ0116",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "Lilac Frost QT Cloud II Pant — DGJ0116",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "Lilac Frost QT Cloud II Volley Short — DGJ0116",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "Cloud II Nurse & Pump Bra — 2nd round DGJ0120",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "Honeydew Haze Stripe — Cloud II strike off",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            },
-            {
-              "text": "Punch — Cloud II lab dip (color fastness to light FAILED)",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            }
-          ],
-          "note": "",
-          "isNew": false
-        },
-        {
-          "recipient": "taylor",
-          "vendor": "DGJ",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "876932944802",
-          "vendorLabel": "DGJ",
-          "recipientLabel": "Taylor",
-          "statusLabel": "Delivered",
-          "routeText": "Dongguan → Castle Rock, CO · Shipped 9/10/26 · #dgj-0115-cloud-reset",
-          "etaType": "delivered",
-          "etaText": "Delivered Mon, Sep 14",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "Cove Cloud II Split Bra — DGJ0115",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "Fig Cloud II Minimalist Jacket — DGJ0115",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "Cove Cloud II Pocket Pant — DGJ0115",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "Lilac Frost QT Cloud II Volley Short — DGJ0116",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "Cloud II Nurse & Pump Bra — 2nd round DGJ0120",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "Honeydew Haze Stripe — Cloud II strike off",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            },
-            {
-              "text": "Punch — Cloud II lab dip (color fastness to light FAILED)",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            }
-          ],
-          "note": "",
-          "isNew": false
-        },
-        {
-          "recipient": "alexa",
-          "vendor": "DGJ",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "876932475142",
-          "vendorLabel": "DGJ",
-          "recipientLabel": "Alexa",
-          "statusLabel": "Delivered",
-          "routeText": "Dongguan → Denver, CO · Shipped 9/10/26 · #dgj-0115-cloud-reset",
-          "etaType": "delivered",
-          "etaText": "Delivered Mon, Sep 14",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "Fig Cloud II Split Volley Short — DGJ0115",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "Cove Cloud II Split Volley Short — DGJ0115",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "Espresso Cloud II Split Bra — DGJ0115",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "Cove Cloud II Split Bra — DGJ0115",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "Cove Cloud II Minimalist Jacket — DGJ0115",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "Fig Cloud II Core High Bra — DGJ0115",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "Lilac Frost QT Cloud II Halter Tank — DGJ0116",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "Lilac Frost QT Cloud II Volley Short — DGJ0116",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "Cloud II Nurse & Pump Bra — 2nd round DGJ0120",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "Honeydew Haze Stripe — Cloud II strike off",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            },
-            {
-              "text": "Punch — Cloud II lab dip (color fastness to light FAILED)",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            }
-          ],
-          "note": "",
-          "isNew": false
-        }
-      ]
-    },
-    {
       "title": "DGJ bulk + polybag ocean shipments via UPS — Audra (Sep 2)",
       "isNew": false,
       "packages": [
@@ -2043,6 +1877,543 @@
     }
   ],
   "archivedGroups": [
+    {
+      "title": "Archived — rolled 9/23/26",
+      "isNew": false,
+      "packages": [
+        {
+          "recipient": "esther",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "877142092621",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Esther",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 9/14/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue, Sep 15",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "Academy Accelerate — strike offs",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "SW0087 Marshmallow Rib — lab dips",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "877142278027",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Taylor",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 9/14/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue, Sep 15",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "Academy Accelerate — strike offs",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "SW0087 Marshmallow Rib — lab dips",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false
+        },
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "877142042752",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → Denver, CO · Shipped 9/14/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue, Sep 15",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "Academy Accelerate — strike offs",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "SW0087 Marshmallow Rib — lab dips",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "Accelerate Skylight — color cutting",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false
+        },
+        {
+          "recipient": "esther",
+          "vendor": "DGJ",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "877059157750",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Esther",
+          "statusLabel": "Delivered",
+          "routeText": "Dongguan → El Cerrito, CA · Shipped 9/12/26 · #dgj-0118-cloud-spring",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon, Sep 14",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "DGJ0118 Blue & Pink Polka Dot — strike offs",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "DGJ",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "877059348589",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Taylor",
+          "statusLabel": "Delivered",
+          "routeText": "Dongguan → Castle Rock, CO · Shipped 9/12/26 · #dgj-0118-cloud-spring",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue, Sep 15",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "DGJ0118 Blue & Pink Polka Dot — strike offs",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "DGJ0111 marketing samples (newly added)",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            }
+          ],
+          "note": "Shipped together with Steve’s DGJ0111 marketing samples.",
+          "isNew": false
+        },
+        {
+          "recipient": "alexa",
+          "vendor": "DGJ",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "877058985712",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Alexa",
+          "statusLabel": "Delivered",
+          "routeText": "Dongguan → Denver, CO · Shipped 9/12/26 · #dgj-0118-cloud-spring",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon, Sep 14",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "DGJ0118 Blue & Pink Polka Dot — strike offs",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false
+        },
+        {
+          "recipient": "esther",
+          "vendor": "DGJ",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "876932713094",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Esther",
+          "statusLabel": "Delivered",
+          "routeText": "Dongguan → El Cerrito, CA · Shipped 9/10/26 · #dgj-0115-cloud-reset",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon, Sep 14",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "Fig Cloud II Split Volley Short — DGJ0115",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Fig Cloud II Single Racer Tank — DGJ0115",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Fig Cloud II Split Bra — DGJ0115",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Fig Cloud II Pocket Pant — DGJ0115",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Cove Cloud II Core High Bra — DGJ0115",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Lilac Frost QT Cloud II Halter Bra — DGJ0116",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Lilac Frost QT Cloud II Pant — DGJ0116",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Lilac Frost QT Cloud II Volley Short — DGJ0116",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Cloud II Nurse & Pump Bra — 2nd round DGJ0120",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Honeydew Haze Stripe — Cloud II strike off",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "Punch — Cloud II lab dip (color fastness to light FAILED)",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "DGJ",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "876932944802",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Taylor",
+          "statusLabel": "Delivered",
+          "routeText": "Dongguan → Castle Rock, CO · Shipped 9/10/26 · #dgj-0115-cloud-reset",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon, Sep 14",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "Cove Cloud II Split Bra — DGJ0115",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Fig Cloud II Minimalist Jacket — DGJ0115",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Cove Cloud II Pocket Pant — DGJ0115",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Lilac Frost QT Cloud II Volley Short — DGJ0116",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Cloud II Nurse & Pump Bra — 2nd round DGJ0120",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Honeydew Haze Stripe — Cloud II strike off",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "Punch — Cloud II lab dip (color fastness to light FAILED)",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false
+        },
+        {
+          "recipient": "alexa",
+          "vendor": "DGJ",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "876932475142",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Alexa",
+          "statusLabel": "Delivered",
+          "routeText": "Dongguan → Denver, CO · Shipped 9/10/26 · #dgj-0115-cloud-reset",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon, Sep 14",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "Fig Cloud II Split Volley Short — DGJ0115",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Cove Cloud II Split Volley Short — DGJ0115",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Espresso Cloud II Split Bra — DGJ0115",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Cove Cloud II Split Bra — DGJ0115",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Cove Cloud II Minimalist Jacket — DGJ0115",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Fig Cloud II Core High Bra — DGJ0115",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Lilac Frost QT Cloud II Halter Tank — DGJ0116",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Lilac Frost QT Cloud II Volley Short — DGJ0116",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Cloud II Nurse & Pump Bra — 2nd round DGJ0120",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Honeydew Haze Stripe — Cloud II strike off",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "Punch — Cloud II lab dip (color fastness to light FAILED)",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false
+        }
+      ]
+    },
     {
       "title": "Archived — rolled 9/21/26",
       "isNew": false,
