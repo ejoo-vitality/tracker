@@ -1,9 +1,71 @@
 {
-  "lastUpdated": "Updated Wed, Sep 23 · 5 new packages (Sunwin 9/23 parcels to Alexa/Esther/Taylor; Float Rib 2XS marketing samples to Julia; DGJ samples for Tyler, delivered 9/18); 9 archived (delivered 9/14–9/15); 1 status update (877446082462 Toronto — FedEx delivery date being updated). Gmail scan clear (needed one Try Again on the 404); Zengyao fabric samples still no AWB. Pending: SS-0005 samples sent over weekend — Alexa still waiting on AWB from Freya; Sunwin Pulse Sculpt Accent Pant sending 9/30. UPS/DHL numbers not status-checked.",
+  "lastUpdated": "Updated Thu, Sep 24 · 2 new packages (DGJ parcel to Esther out for delivery today — contents TBC; DGJ0113 Chloe G BFCM marketing samples to Alexandra); 0 archived; 5 status updates (877621280217 Castle Rock & 877446082462 Toronto delivered 9/24; 877620320733 Costa Mesa out for delivery; 877621010796 Denver & 877620831881 El Cerrito ETA Fri 9/25). Gmail scan clear (needed one Try Again on the 404). Pending: SS-0005 samples — Alexa still waiting on AWB from Freya; DGJ0118 sample list posted today in #dgj-0118-cloud-spring (image only, no AWB in text). Older 7/24 & 8/5 Sunwin parcels still show no FedEx movement. UPS/DHL numbers not status-checked.",
   "groups": [
     {
-      "title": "Sunwin — Parcels on 9/23: SW0088 Pulse P2/P3s, SW0087 Marshmallow Half Zip P3, SW0084 TOPs, SW0091/SW0078/SW0082 PPs (Sep 23)",
+      "title": "DGJ — Sample parcel to Esther (Sep 23) & DGJ0113 Chloe G BFCM marketing samples to Alexandra (Sep 24)",
       "isNew": true,
+      "packages": [
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "vendor": "DGJ",
+          "vendorLabel": "DGJ",
+          "recipient": "esther",
+          "recipientLabel": "Esther",
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "trackingNumber": "877553267451",
+          "routeText": "Dongguan → El Cerrito, CA · Shipped 9/23/26 · Gmail (FedEx notification)",
+          "etaType": "eta",
+          "etaText": "Today, Thu Sep 24 (out for delivery)",
+          "items": [
+            {
+              "text": "DGJ samples — contents TBC (no packing list found; possibly DGJ0118 Cloud Spring sample list Derek posted 9/22 in #dgj-0118-cloud-spring)",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ],
+          "note": "Found via FedEx delivery email only — confirm contents"
+        },
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "vendor": "DGJ",
+          "vendorLabel": "DGJ",
+          "recipient": "other",
+          "recipientLabel": "Alexandra",
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "trackingNumber": "877677690163",
+          "routeText": "Dongguan → Toronto, ON · Shipped 9/25/26 (CN time) · #dgj-marketing-samples",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "items": [
+            {
+              "text": "DGJ0113 CHLOE G BFCM marketing samples (Alexandra only — none to Julia); packing list to follow",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "MKTG"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ]
+    },
+    {
+      "title": "Sunwin — Parcels on 9/23: SW0088 Pulse P2/P3s, SW0087 Marshmallow Half Zip P3, SW0084 TOPs, SW0091/SW0078/SW0082 PPs (Sep 23)",
+      "isNew": false,
       "packages": [
         {
           "recipient": "alexa",
@@ -14,8 +76,8 @@
           "vendorLabel": "Sunwin",
           "recipientLabel": "Alexa",
           "statusLabel": "In Transit",
-          "etaType": "tba",
-          "etaText": "TBA",
+          "etaType": "eta",
+          "etaText": "Fri, Sep 25",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -110,7 +172,7 @@
             }
           ],
           "note": "Pulse Sculpt Accent Pant held back for revisions — Sunwin to send next Wed (9/30)",
-          "isNew": true,
+          "isNew": false,
           "trackingNumber": "877621010796",
           "routeText": "Shanghai → Denver, CO · Shipped 9/23/26 · #sunwin-general"
         },
@@ -123,8 +185,8 @@
           "vendorLabel": "Sunwin",
           "recipientLabel": "Esther",
           "statusLabel": "In Transit",
-          "etaType": "tba",
-          "etaText": "TBA",
+          "etaType": "eta",
+          "etaText": "Fri, Sep 25",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -210,21 +272,21 @@
             }
           ],
           "note": "",
-          "isNew": true,
+          "isNew": false,
           "trackingNumber": "877620831881",
           "routeText": "Shanghai → El Cerrito, CA · Shipped 9/23/26 · #sunwin-general"
         },
         {
           "recipient": "taylor",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Taylor",
-          "statusLabel": "In Transit",
-          "etaType": "tba",
-          "etaText": "TBA",
+          "statusLabel": "Delivered",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu, Sep 24",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -310,7 +372,7 @@
             }
           ],
           "note": "",
-          "isNew": true,
+          "isNew": false,
           "trackingNumber": "877621280217",
           "routeText": "Shanghai → Castle Rock, CO · Shipped 9/23/26 · #sunwin-general"
         }
@@ -318,7 +380,7 @@
     },
     {
       "title": "Sunwin — Float Rib Boxer Pant & Short 2XS Stone Marl marketing samples to Julia (Sep 23)",
-      "isNew": true,
+      "isNew": false,
       "packages": [
         {
           "recipient": "other",
@@ -329,8 +391,8 @@
           "vendorLabel": "Sunwin",
           "recipientLabel": "Julia",
           "statusLabel": "In Transit",
-          "etaType": "tba",
-          "etaText": "TBA",
+          "etaType": "eta",
+          "etaText": "Today, Thu Sep 24 (out for delivery)",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -344,7 +406,7 @@
             }
           ],
           "note": "",
-          "isNew": true,
+          "isNew": false,
           "trackingNumber": "877620320733",
           "routeText": "Shanghai → Costa Mesa, CA · Shipped 9/23/26 · #sw-marketing-samples"
         }
@@ -352,7 +414,7 @@
     },
     {
       "title": "DGJ — samples for Tyler Olson (Sep 17)",
-      "isNew": true,
+      "isNew": false,
       "packages": [
         {
           "recipient": "other",
@@ -378,7 +440,7 @@
             }
           ],
           "note": "",
-          "isNew": true,
+          "isNew": false,
           "trackingNumber": "877278296431",
           "routeText": "Dongguan → Denver, CO · Shipped 9/17/26 · #product-fittings"
         }
@@ -481,16 +543,16 @@
         {
           "recipient": "other",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "877446082462",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Alexandra",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → Toronto, ON · Shipped 9/19/26 · #sw-marketing-samples",
-          "etaType": "tba",
-          "etaText": "TBA",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu, Sep 24",
           "contentsLabel": "Contents:",
           "items": [
             {
