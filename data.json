@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "Updated Thu, Sep 24 · 2 new packages (DGJ parcel to Esther out for delivery today — contents TBC; DGJ0113 Chloe G BFCM marketing samples to Alexandra); 0 archived; 5 status updates (877621280217 Castle Rock & 877446082462 Toronto delivered 9/24; 877620320733 Costa Mesa out for delivery; 877621010796 Denver & 877620831881 El Cerrito ETA Fri 9/25). Gmail scan clear (needed one Try Again on the 404). Pending: SS-0005 samples — Alexa still waiting on AWB from Freya; DGJ0118 sample list posted today in #dgj-0118-cloud-spring (image only, no AWB in text). Older 7/24 & 8/5 Sunwin parcels still show no FedEx movement. UPS/DHL numbers not status-checked.",
+  "lastUpdated": "Updated Fri, Sep 25 · 10:34 AM · 0 new packages; 3 archived (SW0086/SW0087/SW0088 samples, delivered 9/17, rolled after 7 days); 3 status updates (877553267451 El Cerrito & 877620320733 Costa Mesa delivered 9/24, 877621010796 Denver delivered 9/25). Slack (Vitality Production + Sunwin, 4 keywords each) and Gmail scans found no new tracking numbers this run — all AWB/fedex mentions matched already-tracked packages. Pending: SS-0005 & SS-0006 samples — Alexa still awaiting AWB from Freya; DGJ0113 packlist still requested from Derek Liu; Sunwin logistics AWB request to Cindy (#logistics) unanswered since Sep 22. Older 6/2, 7/24 & 8/5 Sunwin/DGJ parcels still show no real FedEx movement (label created / delivery updated, no date).",
   "groups": [
     {
       "title": "DGJ — Sample parcel to Esther (Sep 23) & DGJ0113 Chloe G BFCM marketing samples to Alexandra (Sep 24)",
@@ -9,17 +9,17 @@
           "isDupCompanion": false,
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
-          "isNew": true,
+          "isNew": false,
           "vendor": "DGJ",
           "vendorLabel": "DGJ",
           "recipient": "esther",
           "recipientLabel": "Esther",
-          "status": "onway",
-          "statusLabel": "In Transit",
+          "status": "delivered",
+          "statusLabel": "Delivered",
           "trackingNumber": "877553267451",
           "routeText": "Dongguan → El Cerrito, CA · Shipped 9/23/26 · Gmail (FedEx notification)",
-          "etaType": "eta",
-          "etaText": "Today, Thu Sep 24 (out for delivery)",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu, Sep 24",
           "items": [
             {
               "text": "DGJ samples — contents TBC (no packing list found; possibly DGJ0118 Cloud Spring sample list Derek posted 9/22 in #dgj-0118-cloud-spring)",
@@ -37,7 +37,7 @@
           "isDupCompanion": false,
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
-          "isNew": true,
+          "isNew": false,
           "vendor": "DGJ",
           "vendorLabel": "DGJ",
           "recipient": "other",
@@ -70,14 +70,14 @@
         {
           "recipient": "alexa",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Alexa",
-          "statusLabel": "In Transit",
-          "etaType": "eta",
-          "etaText": "Fri, Sep 25",
+          "statusLabel": "Delivered",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri, Sep 25",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -385,14 +385,14 @@
         {
           "recipient": "other",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Julia",
-          "statusLabel": "In Transit",
-          "etaType": "eta",
-          "etaText": "Today, Thu Sep 24 (out for delivery)",
+          "statusLabel": "Delivered",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu, Sep 24",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -1100,348 +1100,6 @@
       ]
     },
     {
-      "title": "Sunwin submissions — SW0086 TOP samples + SW0087/SW0088 fit samples (Sep 16)",
-      "isNew": false,
-      "packages": [
-        {
-          "recipient": "alexa",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "877279538180",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Alexa",
-          "statusLabel": "Delivered",
-          "routeText": "Shanghai → Denver, CO · Shipped 9/16/26 · #sunwin-general",
-          "etaType": "delivered",
-          "etaText": "Delivered Thu, Sep 17",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "SW0086 MENS ZEPHYR TEE, TOP sample, size XL, Midnight",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "TOP"
-                }
-              ]
-            },
-            {
-              "text": "SW0086 MENS ZEPHYR TEE, TOP sample, size XL, High Tide",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "TOP"
-                }
-              ]
-            },
-            {
-              "text": "SW0086 MENS ZEPHYR TEE, TOP sample, size XL, Titanium",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "TOP"
-                }
-              ]
-            },
-            {
-              "text": "SW0087 MARSHMALLOW CROPPED V TOP, P3 sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P3"
-                }
-              ]
-            },
-            {
-              "text": "SW0087 MARSHMALLOW WIDE LEG PANT, P3 sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P3"
-                }
-              ]
-            },
-            {
-              "text": "SW0087 MEN'S MARSHMALLOW GO SHORT, P3 sample, size XL",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P3"
-                }
-              ]
-            },
-            {
-              "text": "SW0088 RIB RACER TANK, P3 sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P3"
-                }
-              ]
-            },
-            {
-              "text": "SW0088 ZEPHYR TANK, P2 sample, size XL",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P2"
-                }
-              ]
-            },
-            {
-              "text": "SW0088 PULSE ZIP ACCENT BRA, proto sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "Proto"
-                }
-              ]
-            },
-            {
-              "text": "SW0088 FLOW TIE TANK, P3 sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P3"
-                }
-              ]
-            },
-            {
-              "text": "SW0077 FLOAT BAND BRALETTE, P3/PP sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "SW0078 BASIS SCOOP BRA, P3 sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P3"
-                }
-              ]
-            },
-            {
-              "text": "ACTIVE DRESS reference cutting (color match)",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            }
-          ],
-          "note": "",
-          "isNew": false
-        },
-        {
-          "recipient": "esther",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "877279918351",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Esther",
-          "statusLabel": "Delivered",
-          "routeText": "Shanghai → El Cerrito, CA · Shipped 9/16/26 · #sunwin-general",
-          "etaType": "delivered",
-          "etaText": "Delivered Thu, Sep 17",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "SW0087 MARSHMALLOW CROPPED V TOP, P3 sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P3"
-                }
-              ]
-            },
-            {
-              "text": "SW0087 MARSHMALLOW WIDE LEG PANT, P3 sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P3"
-                }
-              ]
-            },
-            {
-              "text": "SW0087 MEN'S MARSHMALLOW GO SHORT, P3 sample, size XL",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P3"
-                }
-              ]
-            },
-            {
-              "text": "SW0088 RIB RACER TANK, P3 sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P3"
-                }
-              ]
-            },
-            {
-              "text": "SW0088 ZEPHYR TANK, P2 sample, size XL",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P2"
-                }
-              ]
-            },
-            {
-              "text": "SW0088 PULSE ZIP ACCENT BRA, proto sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "Proto"
-                }
-              ]
-            },
-            {
-              "text": "SW0088 FLOW TIE TANK, P3 sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P3"
-                }
-              ]
-            },
-            {
-              "text": "SW0077 FLOAT BAND BRALETTE, P3/PP sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "SW0078 BASIS SCOOP BRA, P3 sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P3"
-                }
-              ]
-            }
-          ],
-          "note": "",
-          "isNew": false
-        },
-        {
-          "recipient": "taylor",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "877280424840",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Taylor",
-          "statusLabel": "Delivered",
-          "routeText": "Shanghai → Castle Rock, CO · Shipped 9/16/26 · #sunwin-general",
-          "etaType": "delivered",
-          "etaText": "Delivered Thu, Sep 17",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "SW0087 MARSHMALLOW CROPPED V TOP, P3 sample, size XS",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P3"
-                }
-              ]
-            },
-            {
-              "text": "SW0087 MARSHMALLOW WIDE LEG PANT, P3 sample, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P3"
-                }
-              ]
-            },
-            {
-              "text": "SW0087 MEN'S MARSHMALLOW GO SHORT, P3 sample, size L",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P3"
-                }
-              ]
-            },
-            {
-              "text": "SW0088 RIB RACER TANK, P3 sample, size XS",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P3"
-                }
-              ]
-            },
-            {
-              "text": "SW0088 ZEPHYR TANK, P2 sample, size XL",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P2"
-                }
-              ]
-            },
-            {
-              "text": "SW0088 PULSE ZIP ACCENT BRA, proto sample, size XS",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "Proto"
-                }
-              ]
-            },
-            {
-              "text": "SW0088 FLOW TIE TANK, P3 sample, size XS",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P3"
-                }
-              ]
-            },
-            {
-              "text": "SW0077 FLOAT BAND BRALETTE, P3/PP sample, size XS",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "SW0078 BASIS SCOOP BRA, P3 sample, size XS",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P3"
-                }
-              ]
-            }
-          ],
-          "note": "",
-          "isNew": false
-        }
-      ]
-    },
-    {
       "title": "Outbound to Sunwin — SW0093 Active Dress Gingham color reference (Sep 14)",
       "packages": [
         {
@@ -1939,6 +1597,347 @@
     }
   ],
   "archivedGroups": [
+    {
+      "title": "Archived — rolled 9/25/26",
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "877279538180",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → Denver, CO · Shipped 9/16/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu, Sep 17",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0086 MENS ZEPHYR TEE, TOP sample, size XL, Midnight",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "SW0086 MENS ZEPHYR TEE, TOP sample, size XL, High Tide",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "SW0086 MENS ZEPHYR TEE, TOP sample, size XL, Titanium",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "SW0087 MARSHMALLOW CROPPED V TOP, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0087 MARSHMALLOW WIDE LEG PANT, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0087 MEN'S MARSHMALLOW GO SHORT, P3 sample, size XL",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 RIB RACER TANK, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 ZEPHYR TANK, P2 sample, size XL",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 PULSE ZIP ACCENT BRA, proto sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "Proto"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 FLOW TIE TANK, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0077 FLOAT BAND BRALETTE, P3/PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0078 BASIS SCOOP BRA, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "ACTIVE DRESS reference cutting (color match)",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false
+        },
+        {
+          "recipient": "esther",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "877279918351",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Esther",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 9/16/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu, Sep 17",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0087 MARSHMALLOW CROPPED V TOP, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0087 MARSHMALLOW WIDE LEG PANT, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0087 MEN'S MARSHMALLOW GO SHORT, P3 sample, size XL",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 RIB RACER TANK, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 ZEPHYR TANK, P2 sample, size XL",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 PULSE ZIP ACCENT BRA, proto sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "Proto"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 FLOW TIE TANK, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0077 FLOAT BAND BRALETTE, P3/PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0078 BASIS SCOOP BRA, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "877280424840",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Taylor",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 9/16/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu, Sep 17",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0087 MARSHMALLOW CROPPED V TOP, P3 sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0087 MARSHMALLOW WIDE LEG PANT, P3 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0087 MEN'S MARSHMALLOW GO SHORT, P3 sample, size L",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 RIB RACER TANK, P3 sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 ZEPHYR TANK, P2 sample, size XL",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 PULSE ZIP ACCENT BRA, proto sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "Proto"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 FLOW TIE TANK, P3 sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0077 FLOAT BAND BRALETTE, P3/PP sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0078 BASIS SCOOP BRA, P3 sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false
+        }
+      ]
+    },
     {
       "title": "Archived — rolled 9/23/26",
       "isNew": false,
