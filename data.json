@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "Updated Fri, Sep 25 · 10:34 AM · 0 new packages; 3 archived (SW0086/SW0087/SW0088 samples, delivered 9/17, rolled after 7 days); 3 status updates (877553267451 El Cerrito & 877620320733 Costa Mesa delivered 9/24, 877621010796 Denver delivered 9/25). Slack (Vitality Production + Sunwin, 4 keywords each) and Gmail scans found no new tracking numbers this run — all AWB/fedex mentions matched already-tracked packages. Pending: SS-0005 & SS-0006 samples — Alexa still awaiting AWB from Freya; DGJ0113 packlist still requested from Derek Liu; Sunwin logistics AWB request to Cindy (#logistics) unanswered since Sep 22. Older 6/2, 7/24 & 8/5 Sunwin/DGJ parcels still show no real FedEx movement (label created / delivery updated, no date).",
+  "lastUpdated": "Updated Mon, Sep 28 · 10:02 AM · 0 new packages; 7 archived (877278296431/877396262560/877331219840/877333271321/877333347227/877217266231/877183492015, delivered 9/18-9/20, rolled after 7 days); 2 status updates (877677690163 Toronto delivered 9/28 11:27 AM, 877620831881 El Cerrito delivered 9/25 2:10 PM — both were previously In Transit). Slack (Vitality Production + Sunwin, 4 keywords each) and Gmail scans found no new tracking numbers this run — all AWB/fedex/tracking/sent mentions matched already-tracked packages. New this run: Esther couldn't find tracking for the prime short that should've shipped with Taylor's Breeze package — flagged to Alexa Cowen in #product-fittings (Sep 22), still unresolved. Pending carried over: SS-0005 & SS-0006 samples — Alexa still awaiting AWB from Freya (followed up again 9/25); Sunwin logistics AWB request to Cindy (#logistics) unanswered since Sep 22, followed up 9/24. Older 6/2, 7/24 & 8/5 Sunwin/DGJ parcels still show no real FedEx movement (label created / delivery updated, no date). Note: Chrome extension briefly disconnected mid-run and recovered after ~45s; all scan steps completed.",
   "groups": [
     {
       "title": "DGJ — Sample parcel to Esther (Sep 23) & DGJ0113 Chloe G BFCM marketing samples to Alexandra (Sep 24)",
@@ -42,12 +42,12 @@
           "vendorLabel": "DGJ",
           "recipient": "other",
           "recipientLabel": "Alexandra",
-          "status": "onway",
-          "statusLabel": "In Transit",
+          "status": "delivered",
+          "statusLabel": "Delivered",
           "trackingNumber": "877677690163",
           "routeText": "Dongguan → Toronto, ON · Shipped 9/25/26 (CN time) · #dgj-marketing-samples",
-          "etaType": "tba",
-          "etaText": "TBA",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon, Sep 28",
           "items": [
             {
               "text": "DGJ0113 CHLOE G BFCM marketing samples (Alexandra only — none to Julia); packing list to follow",
@@ -179,14 +179,14 @@
         {
           "recipient": "esther",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Esther",
-          "statusLabel": "In Transit",
-          "etaType": "eta",
-          "etaText": "Fri, Sep 25",
+          "statusLabel": "Delivered",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri, Sep 25",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -413,40 +413,6 @@
       ]
     },
     {
-      "title": "DGJ — samples for Tyler Olson (Sep 17)",
-      "isNew": false,
-      "packages": [
-        {
-          "recipient": "other",
-          "vendor": "DGJ",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "vendorLabel": "DGJ",
-          "recipientLabel": "Tyler",
-          "statusLabel": "Delivered",
-          "etaType": "delivered",
-          "etaText": "Delivered Fri, Sep 18",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "Tyler's samples (tracking shared by Alexa in #product-fittings; ships with DGJ0116 batch)",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            }
-          ],
-          "note": "",
-          "isNew": false,
-          "trackingNumber": "877278296431",
-          "routeText": "Dongguan → Denver, CO · Shipped 9/17/26 · #product-fittings"
-        }
-      ]
-    },
-    {
       "title": "DGJ — DGJ0112 first partial bulk shipment, 102 cartons (Sep 20)",
       "isNew": false,
       "packages": [
@@ -630,43 +596,6 @@
           "isNew": false
         },
         {
-          "recipient": "esther",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "877396262560",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Esther",
-          "statusLabel": "Delivered",
-          "routeText": "Shanghai → El Cerrito, CA · Shipped 9/18/26 · #sunwin-general",
-          "etaType": "delivered",
-          "etaText": "Delivered Sat, Sep 19",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "LDs of Academy Homebody",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            },
-            {
-              "text": "LDs of SW0093 Active Lining",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            }
-          ],
-          "note": "",
-          "isNew": false
-        },
-        {
           "recipient": "taylor",
           "vendor": "SW",
           "status": "delivered",
@@ -718,34 +647,6 @@
       "title": "Sunwin — SW0077 revised bulk fabric + Academy reference sample (Sep 17)",
       "isNew": false,
       "packages": [
-        {
-          "recipient": "alexa",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "vendorLabel": "Sunwin",
-          "statusLabel": "Delivered",
-          "etaType": "delivered",
-          "contentsLabel": "Contents:",
-          "note": "",
-          "isNew": false,
-          "recipientLabel": "Alexa",
-          "trackingNumber": "877331219840",
-          "routeText": "Shanghai → Denver, CO · Shipped 9/17/26 · #sw-0077-float-black-friday",
-          "etaText": "Delivered Fri, Sep 18",
-          "items": [
-            {
-              "text": "SW0077 Float — revised bulk hand feel fabric for approval",
-              "tags": [
-                {
-                  "type": "bulk",
-                  "label": "BULK"
-                }
-              ]
-            }
-          ]
-        },
         {
           "recipient": "other",
           "vendor": "SW",
@@ -807,62 +708,6 @@
               ]
             }
           ]
-        },
-        {
-          "recipient": "other",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "vendorLabel": "Sunwin",
-          "statusLabel": "Delivered",
-          "etaType": "delivered",
-          "contentsLabel": "Contents:",
-          "note": "",
-          "isNew": false,
-          "recipientLabel": "Alexandra",
-          "trackingNumber": "877333271321",
-          "routeText": "Shanghai → Toronto, ON · Shipped 9/17/26 · #sw-marketing-samples",
-          "etaText": "Delivered Fri, Sep 18",
-          "items": [
-            {
-              "text": "SW0077 Float Candy Cane marketing samples",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "TOP"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "recipient": "taylor",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "vendorLabel": "Sunwin",
-          "statusLabel": "Delivered",
-          "etaType": "delivered",
-          "contentsLabel": "Contents:",
-          "note": "",
-          "isNew": false,
-          "recipientLabel": "Taylor",
-          "trackingNumber": "877333347227",
-          "routeText": "Shanghai → Castle Rock, CO · Shipped 9/17/26 · #sw-marketing-samples",
-          "etaText": "Delivered Fri, Sep 18",
-          "items": [
-            {
-              "text": "SW0077 Float Candy Cane marketing samples",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "TOP"
-                }
-              ]
-            }
-          ]
         }
       ]
     },
@@ -886,34 +731,6 @@
           "trackingNumber": "877279333035",
           "routeText": "Dongguan → Costa Mesa, CA · Shipped 9/17/26 · #dgj-marketing-samples",
           "etaText": "Delivered Mon, Sep 21",
-          "items": [
-            {
-              "text": "DGJ0114 marketing samples (see DGJ0114 Marketing Sample List.xlsx)",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "TOP"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "recipient": "other",
-          "vendor": "DGJ",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "vendorLabel": "DGJ",
-          "statusLabel": "Delivered",
-          "etaType": "delivered",
-          "contentsLabel": "Contents:",
-          "note": "",
-          "isNew": false,
-          "recipientLabel": "Alexandra",
-          "trackingNumber": "877217266231",
-          "routeText": "Dongguan → Toronto, ON · Shipped 9/17/26 · #dgj-marketing-samples",
-          "etaText": "Delivered Fri, Sep 18",
           "items": [
             {
               "text": "DGJ0114 marketing samples (see DGJ0114 Marketing Sample List.xlsx)",
@@ -1098,40 +915,6 @@
           ]
         }
       ]
-    },
-    {
-      "title": "Outbound to Sunwin — SW0093 Active Dress Gingham color reference (Sep 14)",
-      "packages": [
-        {
-          "recipient": "other",
-          "vendor": "SW",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "877183492015",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Sunwin (Jason Sun)",
-          "statusLabel": "Delivered",
-          "routeText": "Denver, CO → Shanghai · Shipped 9/14/26 · #sw-0093-active-dress-picnic",
-          "etaType": "delivered",
-          "etaText": "Delivered Sun, Sep 20",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "SW0093 ACTIVE DRESS — Gingham print reference cutting (color match)",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            }
-          ],
-          "note": "Outbound to vendor. Alexa approved +10% scale only; color not approved — this cutting is the color standard to match.",
-          "isNew": false
-        }
-      ],
-      "isNew": false
     },
     {
       "title": "DGJ bulk + polybag ocean shipments via UPS — Audra (Sep 2)",
@@ -1597,6 +1380,216 @@
     }
   ],
   "archivedGroups": [
+    {
+      "title": "Archived — rolled 9/28/26",
+      "packages": [
+        {
+          "recipient": "other",
+          "vendor": "DGJ",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Tyler",
+          "statusLabel": "Delivered",
+          "etaType": "delivered",
+          "etaText": "Delivered Fri, Sep 18",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "Tyler's samples (tracking shared by Alexa in #product-fittings; ships with DGJ0116 batch)",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false,
+          "trackingNumber": "877278296431",
+          "routeText": "Dongguan → Denver, CO · Shipped 9/17/26 · #product-fittings"
+        },
+        {
+          "recipient": "esther",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "877396262560",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Esther",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 9/18/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Sat, Sep 19",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "LDs of Academy Homebody",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            },
+            {
+              "text": "LDs of SW0093 Active Lining",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false
+        },
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "Sunwin",
+          "statusLabel": "Delivered",
+          "etaType": "delivered",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": false,
+          "recipientLabel": "Alexa",
+          "trackingNumber": "877331219840",
+          "routeText": "Shanghai → Denver, CO · Shipped 9/17/26 · #sw-0077-float-black-friday",
+          "etaText": "Delivered Fri, Sep 18",
+          "items": [
+            {
+              "text": "SW0077 Float — revised bulk hand feel fabric for approval",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "other",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "Sunwin",
+          "statusLabel": "Delivered",
+          "etaType": "delivered",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": false,
+          "recipientLabel": "Alexandra",
+          "trackingNumber": "877333271321",
+          "routeText": "Shanghai → Toronto, ON · Shipped 9/17/26 · #sw-marketing-samples",
+          "etaText": "Delivered Fri, Sep 18",
+          "items": [
+            {
+              "text": "SW0077 Float Candy Cane marketing samples",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "Sunwin",
+          "statusLabel": "Delivered",
+          "etaType": "delivered",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": false,
+          "recipientLabel": "Taylor",
+          "trackingNumber": "877333347227",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 9/17/26 · #sw-marketing-samples",
+          "etaText": "Delivered Fri, Sep 18",
+          "items": [
+            {
+              "text": "SW0077 Float Candy Cane marketing samples",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "other",
+          "vendor": "DGJ",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "vendorLabel": "DGJ",
+          "statusLabel": "Delivered",
+          "etaType": "delivered",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": false,
+          "recipientLabel": "Alexandra",
+          "trackingNumber": "877217266231",
+          "routeText": "Dongguan → Toronto, ON · Shipped 9/17/26 · #dgj-marketing-samples",
+          "etaText": "Delivered Fri, Sep 18",
+          "items": [
+            {
+              "text": "DGJ0114 marketing samples (see DGJ0114 Marketing Sample List.xlsx)",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "other",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "877183492015",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Sunwin (Jason Sun)",
+          "statusLabel": "Delivered",
+          "routeText": "Denver, CO → Shanghai · Shipped 9/14/26 · #sw-0093-active-dress-picnic",
+          "etaType": "delivered",
+          "etaText": "Delivered Sun, Sep 20",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0093 ACTIVE DRESS — Gingham print reference cutting (color match)",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "Outbound to vendor. Alexa approved +10% scale only; color not approved — this cutting is the color standard to match.",
+          "isNew": false
+        }
+      ]
+    },
     {
       "title": "Archived — rolled 9/25/26",
       "packages": [
