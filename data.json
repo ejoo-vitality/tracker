@@ -1,9 +1,268 @@
 {
-  "lastUpdated": "Updated Tue, Sep 29 · 9:40 AM · 2 new packages (Taylor 877552981859 & Alexa 877553622891, DGJ 9/23, already delivered 9/24); 9 packages archived (delivered 9/21); 0 status changes among the rest. Slack (Vitality Production + Sunwin, 4 keywords each) and Gmail scans found no other new tracking numbers (Gmail hit a transient 404, cleared on retry). Pending: SS-0005 & SS-0006 AWBs from Freya; Sunwin logistics AWB/packlist from Cindy (Audra asked 9/24 & 9/29); DGJ0131 Daydream parcel held at airport (abnormal), Derek following up. Older 6/2, 7/24 & 8/5 Sunwin parcels still show no real FedEx movement.",
+  "lastUpdated": "Updated Thu, Oct 1 · 9:40 AM · 7 new packages (Sunwin x3, DGJ x3 already delivered, Jinlin x1); 0 archived; 0 status changes. Slack (both workspaces, 4 keywords each) + Gmail scanned (Gmail 404 cleared on retry). Pending AWBs: Sunwin TOP/P3/PP samples Cindy sent 10/1 (to Alexa, Esther, Taylor) and Sunwin logistics AWB (Cindy: due 10/2); SS-0005 & SS-0006 from Freya; DGJ0118 follow-up parcels (Kayla sending 9/30, Alexa asked for AWB); DGJ0131 Daydream parcel held at airport. Older 6/2, 7/24 & 8/5 Sunwin parcels still show no real FedEx movement.",
   "groups": [
     {
-      "title": "DGJ — Sample parcels to Taylor & Alexa (Sep 23)",
+      "title": "Sunwin — PP samples & webbing confirmation (Sep 30)",
       "isNew": true,
+      "packages": [
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "note": "",
+          "recipient": "esther",
+          "vendor": "SW",
+          "status": "onway",
+          "trackingNumber": "877956397490",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Esther",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 9/30/26 · #sunwin-general · International shipment release",
+          "etaType": "eta",
+          "etaText": "Fri, Oct 2",
+          "items": [
+            {
+              "text": "SW0089 Flow Crop Long Sleeve, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0089 Flow Wrap Top, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0087 Marshmallow webbing quality & color confirmation",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "note": "",
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "onway",
+          "trackingNumber": "877955214429",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → Denver, CO · Shipped 9/30/26 · #sunwin-general",
+          "etaType": "eta",
+          "etaText": "Mon, Oct 5",
+          "items": [
+            {
+              "text": "SW0089 Flow Crop Long Sleeve, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0089 Flow Wrap Top, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0087 Marshmallow webbing quality & color confirmation",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "note": "",
+          "recipient": "taylor",
+          "vendor": "SW",
+          "status": "onway",
+          "trackingNumber": "877956563101",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Taylor",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 9/30/26 · #sunwin-general",
+          "etaType": "eta",
+          "etaText": "Mon, Oct 5",
+          "items": [
+            {
+              "text": "SW0089 Flow Crop Long Sleeve, PP sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0089 Flow Wrap Top, PP sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "DGJ — Sample parcels to Taylor, Esther & Alexa (Sep 24 list)",
+      "isNew": true,
+      "packages": [
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "note": "",
+          "recipient": "taylor",
+          "vendor": "DGJ",
+          "status": "delivered",
+          "trackingNumber": "877677052410",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Taylor",
+          "statusLabel": "Delivered",
+          "routeText": "Dongguan → Castle Rock, CO · Shipped 9/25/26 · #dgj-0118-cloud-spring",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon, Sep 28",
+          "items": [
+            {
+              "text": "DGJ sample parcel from 9/24 sample list (see #dgj-0118-cloud-spring)",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "Sample"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "note": "",
+          "recipient": "esther",
+          "vendor": "DGJ",
+          "status": "delivered",
+          "trackingNumber": "877677316291",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Esther",
+          "statusLabel": "Delivered",
+          "routeText": "Dongguan → El Cerrito, CA · Shipped 9/25/26 · #dgj-0118-cloud-spring",
+          "etaType": "delivered",
+          "etaText": "Delivered Sat, Sep 26",
+          "items": [
+            {
+              "text": "DGJ sample parcel from 9/24 sample list (see #dgj-0118-cloud-spring)",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "Sample"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "note": "",
+          "recipient": "alexa",
+          "vendor": "DGJ",
+          "status": "delivered",
+          "trackingNumber": "877677509799",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Alexa",
+          "statusLabel": "Delivered",
+          "routeText": "Dongguan → Denver, CO · Shipped 9/25/26 · #dgj-0118-cloud-spring",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon, Sep 28",
+          "items": [
+            {
+              "text": "DGJ sample parcel from 9/24 sample list (see #dgj-0118-cloud-spring)",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "Sample"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Jinlin Knitting — Fabric samples (Sep 30)",
+      "isNew": true,
+      "packages": [
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "isNew": true,
+          "note": "",
+          "recipient": "esther",
+          "vendor": "JL",
+          "status": "onway",
+          "trackingNumber": "877961611047",
+          "vendorLabel": "Jinlin Knitting",
+          "recipientLabel": "Esther",
+          "statusLabel": "In Transit",
+          "routeText": "Cixi, China → El Cerrito, CA · Shipped 9/30/26 · Gmail",
+          "etaType": "eta",
+          "etaText": "Mon, Oct 5",
+          "items": [
+            {
+              "text": "JLCH100-410 fabric samples (non-yarn-dyed set); yarn-dyed stripes still in production, est. ~Oct 15",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "DGJ — Sample parcels to Taylor & Alexa (Sep 23)",
+      "isNew": false,
       "packages": [
         {
           "recipient": "taylor",
@@ -30,7 +289,7 @@
               ]
             }
           ],
-          "isNew": true,
+          "isNew": false,
           "note": ""
         },
         {
@@ -58,7 +317,7 @@
               ]
             }
           ],
-          "isNew": true,
+          "isNew": false,
           "note": ""
         }
       ]
