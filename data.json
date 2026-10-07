@@ -1,11 +1,235 @@
 {
-  "lastUpdated": "Updated Tue, Oct 6 · 9:40 AM · 6 new packages (DGJ bulk x4 label created; 2 outbound Oct 5); 6 archived; 1 status updates. Slack (both workspaces, 4 keywords each) + Gmail scanned (Gmail 404 cleared on retry). Pending AWBs: DGJ0121 Cloud II Pop samples (Kayla, shipped to Taylor & Esther 10/6), DGJ Fast Vessel bulk (Kayla), SS skinvisible/sportlite samples (Freya), Sunwin 20% batch AWB (Cindy, ships 10/8), SW0093 (Jason). Older 6/2, 7/24 & 8/5 Sunwin parcels still show no real FedEx movement.",
+  "lastUpdated": "Updated Wed, Oct 7 · 11:45 AM · 7 new packages; 0 archived; 2 status updates. Slack (both workspaces, 4 keywords each) + Gmail scanned (Gmail 404 cleared on retry; no new AWBs in Gmail). Pending AWBs: Sunwin SW0076 20% batch (ships 10/8), SW0093 (Jason), SW0081/SW0086 marketing samples (ship Sat 10/10), SW academy P1 bra (Alexa asking), SS skinvisible samples. Older 6/2, 7/24 & 8/5 Sunwin parcels still show no real FedEx movement. DHL/UPS not re-checked.",
   "groups": [
+    {
+      "title": "DGJ — Cloud II samples, strike offs (Oct 6) + Fast Vessel bulk (Oct 6)",
+      "packages": [
+        {
+          "isNew": true,
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "vendor": "DGJ",
+          "vendorLabel": "DGJ",
+          "recipient": "esther",
+          "recipientLabel": "Esther",
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "trackingNumber": "878231210228",
+          "routeText": "Dongguan → El Cerrito, CA · Shipped 10/6/26 · #dgj-0129 / #dgj-0121",
+          "etaType": "eta",
+          "etaText": "Mon, Oct 12",
+          "items": [
+            {
+              "text": "DGJ0129/DGJ0121 Cloud II Twisted Bra with Bust Pads, sample (Esther)",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "SAMPLE"
+                }
+              ]
+            },
+            {
+              "text": "Rose Garden Stripe strike offs",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "isNew": true,
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "vendor": "DGJ",
+          "vendorLabel": "DGJ",
+          "recipient": "taylor",
+          "recipientLabel": "Taylor",
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "trackingNumber": "878231028739",
+          "routeText": "Dongguan → Castle Rock, CO · Shipped 10/6/26 · #dgj-0129 / #dgj-0121",
+          "etaType": "eta",
+          "etaText": "Mon, Oct 12",
+          "items": [
+            {
+              "text": "DGJ0129/DGJ0121 Cloud II Twisted Bra with Bust Pads, sample size S (Taylor)",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "SAMPLE"
+                }
+              ]
+            },
+            {
+              "text": "Rose Garden Stripe strike offs",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "isNew": true,
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "vendor": "DGJ",
+          "vendorLabel": "DGJ",
+          "recipient": "alexa",
+          "recipientLabel": "Alexa",
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "trackingNumber": "878231334342",
+          "routeText": "Dongguan → Denver, CO (new office) · Shipped 10/6/26 · #dgj-0118-cloud-spring",
+          "etaType": "eta",
+          "etaText": "Mon, Oct 12",
+          "items": [
+            {
+              "text": "DGJ0118 Cloud Spring strike offs incl. new round Blue Polka Dot",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "isNew": true,
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "vendor": "DGJ",
+          "vendorLabel": "DGJ",
+          "recipient": "other",
+          "recipientLabel": "Audra",
+          "status": "label",
+          "statusLabel": "Label Created",
+          "trackingNumber": "878018464600",
+          "routeText": "City of Industry, CA → American Fork, UT · Label created · #dgj-logistics",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "items": [
+            {
+              "text": "JJ26096006-68 bulk (Fast Vessel)",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "isNew": true,
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "vendor": "DGJ",
+          "vendorLabel": "DGJ",
+          "recipient": "other",
+          "recipientLabel": "Audra",
+          "status": "label",
+          "statusLabel": "Label Created",
+          "trackingNumber": "878018484597",
+          "routeText": "City of Industry, CA → American Fork, UT · Label created · #dgj-logistics",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "items": [
+            {
+              "text": "JJ26096006-54 bulk (Fast Vessel)",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "isNew": true,
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "vendor": "DGJ",
+          "vendorLabel": "DGJ",
+          "recipient": "other",
+          "recipientLabel": "Audra",
+          "status": "label",
+          "statusLabel": "Label Created",
+          "trackingNumber": "878018490158",
+          "routeText": "City of Industry, CA → American Fork, UT · Label created · #dgj-logistics",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "items": [
+            {
+              "text": "JJ26096006-56B bulk (Fast Vessel)",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "SS — Ultra Cozy Winter top sample (Oct 7)",
+      "packages": [
+        {
+          "isNew": true,
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "vendor": "SS",
+          "vendorLabel": "SS",
+          "recipient": "alexa",
+          "recipientLabel": "Alexa",
+          "status": "label",
+          "statusLabel": "Label Created",
+          "trackingNumber": "878301025659",
+          "routeText": "Dongguan → Denver, CO · Label created 10/8/26 · #ss-0004-ultra-cozy-winter",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "items": [
+            {
+              "text": "SS0004 Ultra Cozy Winter TOP sample: zip hoodie top (also W raglan hoodie, W jogger)",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "title": "DGJ bulk Standard Vessel (Oct 6) + outbound to DGJ/Denver (Oct 5)",
       "packages": [
         {
-          "isNew": true,
+          "isNew": false,
           "isDupCompanion": false,
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
@@ -33,7 +257,7 @@
           ]
         },
         {
-          "isNew": true,
+          "isNew": false,
           "isDupCompanion": false,
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
@@ -61,7 +285,7 @@
           ]
         },
         {
-          "isNew": true,
+          "isNew": false,
           "isDupCompanion": false,
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
@@ -89,7 +313,7 @@
           ]
         },
         {
-          "isNew": true,
+          "isNew": false,
           "isDupCompanion": false,
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
@@ -117,7 +341,7 @@
           ]
         },
         {
-          "isNew": true,
+          "isNew": false,
           "isDupCompanion": false,
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
@@ -129,9 +353,9 @@
           "vendorLabel": "DGJ",
           "recipientLabel": "Alexa",
           "statusLabel": "In Transit",
-          "routeText": "El Cerrito, CA → Denver, CO · Shipped 10/5/26 · Slack DM",
+          "routeText": "El Cerrito, CA → Denver, CO · Shipped 10/5/26 · Out for delivery · Slack DM",
           "etaType": "eta",
-          "etaText": "Wed, Oct 7",
+          "etaText": "Out for delivery · Wed, Oct 7 by 8:00 PM",
           "items": [
             {
               "text": "Outbound shipment to Denver Design Office",
@@ -140,7 +364,7 @@
           ]
         },
         {
-          "isNew": true,
+          "isNew": false,
           "isDupCompanion": false,
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
@@ -154,7 +378,7 @@
           "statusLabel": "In Transit",
           "routeText": "El Cerrito, CA → Dongguan, China · Shipped 10/5/26 · Slack DM",
           "etaType": "eta",
-          "etaText": "Mon, Oct 12",
+          "etaText": "Intl release Thu, Oct 8",
           "items": [
             {
               "text": "Outbound shipment to Dongguan Jiejin Co. Ltd",
