@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "Updated Wed, Oct 7 · 11:45 AM · 7 new packages; 0 archived; 2 status updates. Slack (both workspaces, 4 keywords each) + Gmail scanned (Gmail 404 cleared on retry; no new AWBs in Gmail). Pending AWBs: Sunwin SW0076 20% batch (ships 10/8), SW0093 (Jason), SW0081/SW0086 marketing samples (ship Sat 10/10), SW academy P1 bra (Alexa asking), SS skinvisible samples. Older 6/2, 7/24 & 8/5 Sunwin parcels still show no real FedEx movement. DHL/UPS not re-checked.",
+  "lastUpdated": "Updated Thu, Oct 8 · 12:00 PM · 0 new packages; 0 archived; 3 status updates (878301025659 now in transit, 878208293329 & 878208962020 delivered). Slack scanned (Vitality: fedex + sent; Sunwin: awb + fedex; tracking/other keyword searches not all completed) + Gmail scanned (404 cleared on retry; no new AWBs). Pending AWBs: Sunwin SW0076 (ships 10/8), SW0093 (Jason), SW0081/SW0086 marketing samples (ship Sat 10/10), SW academy P1 bra, SS skinvisible samples. Older 6/2, 7/24 & 8/5 Sunwin parcels still show no real FedEx movement. DHL/UPS not re-checked.",
   "groups": [
     {
       "title": "DGJ — Cloud II samples, strike offs (Oct 6) + Fast Vessel bulk (Oct 6)",
       "packages": [
         {
-          "isNew": true,
+          "isNew": false,
           "isDupCompanion": false,
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
@@ -42,7 +42,7 @@
           ]
         },
         {
-          "isNew": true,
+          "isNew": false,
           "isDupCompanion": false,
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
@@ -79,7 +79,7 @@
           ]
         },
         {
-          "isNew": true,
+          "isNew": false,
           "isDupCompanion": false,
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
@@ -107,7 +107,7 @@
           ]
         },
         {
-          "isNew": true,
+          "isNew": false,
           "isDupCompanion": false,
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
@@ -135,7 +135,7 @@
           ]
         },
         {
-          "isNew": true,
+          "isNew": false,
           "isDupCompanion": false,
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
@@ -163,7 +163,7 @@
           ]
         },
         {
-          "isNew": true,
+          "isNew": false,
           "isDupCompanion": false,
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
@@ -196,7 +196,7 @@
       "title": "SS — Ultra Cozy Winter top sample (Oct 7)",
       "packages": [
         {
-          "isNew": true,
+          "isNew": false,
           "isDupCompanion": false,
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
@@ -205,12 +205,12 @@
           "vendorLabel": "SS",
           "recipient": "alexa",
           "recipientLabel": "Alexa",
-          "status": "label",
-          "statusLabel": "Label Created",
+          "status": "onway",
+          "statusLabel": "In Transit",
           "trackingNumber": "878301025659",
           "routeText": "Dongguan → Denver, CO · Label created 10/8/26 · #ss-0004-ultra-cozy-winter",
-          "etaType": "tba",
-          "etaText": "TBA",
+          "etaType": "eta",
+          "etaText": "Mon, Oct 12",
           "items": [
             {
               "text": "SS0004 Ultra Cozy Winter TOP sample: zip hoodie top (also W raglan hoodie, W jogger)",
@@ -348,14 +348,14 @@
           "note": "",
           "recipient": "alexa",
           "vendor": "DGJ",
-          "status": "onway",
+          "status": "delivered",
           "trackingNumber": "878208293329",
           "vendorLabel": "DGJ",
           "recipientLabel": "Alexa",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "El Cerrito, CA → Denver, CO · Shipped 10/5/26 · Out for delivery · Slack DM",
-          "etaType": "eta",
-          "etaText": "Out for delivery · Wed, Oct 7 by 8:00 PM",
+          "etaType": "delivered",
+          "etaText": "Delivered Wed, Oct 7",
           "items": [
             {
               "text": "Outbound shipment to Denver Design Office",
@@ -371,14 +371,14 @@
           "note": "",
           "recipient": "other",
           "vendor": "DGJ",
-          "status": "onway",
+          "status": "delivered",
           "trackingNumber": "878208962020",
           "vendorLabel": "DGJ",
           "recipientLabel": "Kayla (DGJ)",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "El Cerrito, CA → Dongguan, China · Shipped 10/5/26 · Slack DM",
-          "etaType": "eta",
-          "etaText": "Intl release Thu, Oct 8",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu, Oct 8",
           "items": [
             {
               "text": "Outbound shipment to Dongguan Jiejin Co. Ltd",
