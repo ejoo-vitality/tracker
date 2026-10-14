@@ -1,11 +1,277 @@
 {
-  "lastUpdated": "Updated Tue, Oct 13 · 9:40 AM · Slack scanned (Sunwin + Vitality: fedex/awb/tracking/sent) + Gmail scanned (404 cleared on retry). New: Sunwin marketing samples (2), SS ss-0006 P2 (3), Huazhi Y202 lab dips (1). Older 6/2, 7/24 & 8/5 Sunwin parcels still show no real FedEx movement. DHL/UPS not re-checked. Pending AWBs: Sunwin 200pc Balsam bra (ships 10/14), SW0076 bulk, SW academy P1 bra; DGJ Cloud coastal bust pads.",
+  "lastUpdated": "Updated Wed, Oct 14 · 10:39 AM · Slack scanned (Sunwin + Vitality: fedex/tracking/awb/sent) + Gmail scanned (404 cleared on retry). New: Sunwin 10/14 parcels (3 sample + SW0076 bulk PL3). Older 6/2, 7/24 & 8/5 Sunwin parcels still show no real FedEx movement. DHL/UPS not re-checked. Pending AWBs: Sunwin 200pc Balsam bra shortage (ship 10/14), SW academy P1 bra, SW0093 active dress P2; SS ss-0005; DGJ Cloud coastal bust pads.",
   "groups": [
+    {
+      "title": "Sunwin — Oct 14 parcels: TOP/PP/P3 samples (SW0077–SW0088) + SW0076 bulk PL3",
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "878637355258",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → Denver, CO · Shipped 10/14/26 · #sunwin-general",
+          "etaType": "eta",
+          "etaText": "Thu, Oct 15",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0079 BASIS SCOOP LONG SLEEVE, TOP, size S ×2",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "SW0086 BASIS/FLOAT RIB, TOP, size S ×11",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "SW0077 FLOAT, TOP, size S ×3",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "SW0098 EVERYDAY CREW SOCK, PP",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0085 DAYDREAM FLOW A Line Skort, proto, size S",
+              "tags": []
+            },
+            {
+              "text": "Development sample DAYDREAM TWISTED BRA w/ cup structure, size S",
+              "tags": []
+            },
+            {
+              "text": "SW0082 BASIS OPEN CARDIGAN, PP, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 Pulse Sculpt Accent Pant, P3, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0078 BASIS emb. mock-up approval; SW0087 Marshmallow webbing quality/color confirmation",
+              "tags": []
+            }
+          ],
+          "note": "",
+          "isNew": true
+        },
+        {
+          "recipient": "esther",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "878633663281",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Esther",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 10/14/26 · #sunwin-general",
+          "etaType": "eta",
+          "etaText": "Thu, Oct 15",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0098 EVERYDAY CREW SOCK, PP, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0085 DAYDREAM FLOW A Line Skort, proto, size S",
+              "tags": []
+            },
+            {
+              "text": "Development sample DAYDREAM TWISTED BRA w/ cup, size S",
+              "tags": []
+            },
+            {
+              "text": "SW0082 BASIS OPEN CARDIGAN, PP, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0083 FLOAT RIB COMFORT PANT & SHORT, P3, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 Pulse Sculpt Accent Pant, P3, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0087 Marshmallow Wide Leg Pant, P4, size S, Option A&B",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0078 BASIS emb. mock-up approval; SW0087 webbing quality/color confirmation",
+              "tags": []
+            }
+          ],
+          "note": "",
+          "isNew": true
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "878633936746",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Taylor",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 10/14/26 · #sunwin-general",
+          "etaType": "eta",
+          "etaText": "Thu, Oct 15",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0098 EVERYDAY CREW SOCK, PP",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0085 DAYDREAM FLOW A Line Skort, proto, size S",
+              "tags": []
+            },
+            {
+              "text": "Development sample DAYDREAM TWISTED BRA w/ cup, size XS",
+              "tags": []
+            },
+            {
+              "text": "SW0082 BASIS OPEN CARDIGAN, PP, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0083 FLOAT RIB COMFORT PANT & SHORT, P3, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 Pulse Sculpt Accent Pant, P3, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0087 Marshmallow Wide Leg Pant, P4, size XS, Option A&B",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true
+        },
+        {
+          "recipient": "other",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "878629582248",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa / Steve / Audra",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → American Fork, UT · Shipped 10/14/26 · #logistics",
+          "etaType": "eta",
+          "etaText": "Thu, Oct 15",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0076 Bulk PL3 — 195 units DAYDREAM OVERLAP TANK, Balsam Heather (3 cartons)",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true
+        }
+      ]
+    },
     {
       "title": "Sunwin — Marketing samples SW0086 NOS BFCM / SW0077 Float Candy Cane / SW0081 Flow Reset (Oct 10)",
       "packages": [
         {
-          "isNew": true,
+          "isNew": false,
           "isDupCompanion": false,
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
@@ -33,7 +299,7 @@
           ]
         },
         {
-          "isNew": true,
+          "isNew": false,
           "isDupCompanion": false,
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
@@ -66,7 +332,7 @@
       "title": "SS — Cozy Mock Neck Sweatshirt P2, Spotlite/Thong LDs, print strike off (ss-0006)",
       "packages": [
         {
-          "isNew": true,
+          "isNew": false,
           "isDupCompanion": false,
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
@@ -98,7 +364,7 @@
           ]
         },
         {
-          "isNew": true,
+          "isNew": false,
           "isDupCompanion": false,
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
@@ -130,7 +396,7 @@
           ]
         },
         {
-          "isNew": true,
+          "isNew": false,
           "isDupCompanion": false,
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
@@ -167,7 +433,7 @@
       "title": "Hangzhou Huazhi — Daily Rib Y202 Butterfly Tank lab dips A & B (Oct 12)",
       "packages": [
         {
-          "isNew": true,
+          "isNew": false,
           "isDupCompanion": false,
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
@@ -181,7 +447,7 @@
           "trackingNumber": "878505780939",
           "routeText": "Xiaoshan → Denver, CO · Shipped 10/13/26 · Gmail",
           "etaType": "eta",
-          "etaText": "Thu, Oct 15",
+          "etaText": "Wed, Oct 14 (out for delivery)",
           "items": [
             {
               "text": "DAILY RIB Y202 BUTTERFLY TANK lab dips A & B (7 colors each)",
@@ -202,16 +468,16 @@
         {
           "recipient": "alexa",
           "vendor": "TAL",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "878404136797",
           "vendorLabel": "Talon Intl",
           "recipientLabel": "Alexa",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Woodland Hills, CA → Denver, CO · Shipped 10/8/26 · Gmail",
-          "etaType": "eta",
-          "etaText": "Tue, Oct 13 (out for delivery)",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue, Oct 13",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -230,16 +496,16 @@
         {
           "recipient": "alexa",
           "vendor": "HZ",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "878421646382",
           "vendorLabel": "Hangzhou Huazhi Textile",
           "recipientLabel": "Alexa",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Xiaoshan → Denver, CO · Shipped 10/10/26 · Gmail",
-          "etaType": "eta",
-          "etaText": "Tue, Oct 13 (out for delivery)",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue, Oct 13",
           "contentsLabel": "Contents:",
           "items": [
             {
