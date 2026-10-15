@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "Updated Wed, Oct 14 · 10:39 AM · Slack scanned (Sunwin + Vitality: fedex/tracking/awb/sent) + Gmail scanned (404 cleared on retry). New: Sunwin 10/14 parcels (3 sample + SW0076 bulk PL3). Older 6/2, 7/24 & 8/5 Sunwin parcels still show no real FedEx movement. DHL/UPS not re-checked. Pending AWBs: Sunwin 200pc Balsam bra shortage (ship 10/14), SW academy P1 bra, SW0093 active dress P2; SS ss-0005; DGJ Cloud coastal bust pads.",
+  "lastUpdated": "Updated Thu, Oct 15 · 9:39 AM · FedEx statuses refreshed. Slack scanned with \"fedex\" keyword only (Sunwin + Vitality); tracking/awb/sent searches and Gmail deep-open skipped to save tokens (Gmail 404 cleared on retry; shipment emails matched already-tracked numbers). New: SW0093 P2 x3 (Sunwin 10/15), Cloud II Flowerland strike offs x3 (DGJ 10/15). Older 6/2, 7/24 & 8/5 parcels still show no real FedEx movement. DHL/UPS not re-checked.",
   "groups": [
     {
-      "title": "Sunwin — Oct 14 parcels: TOP/PP/P3 samples (SW0077–SW0088) + SW0076 bulk PL3",
+      "title": "Sunwin — Oct 15 parcels: SW0093 Active Dress P2 samples",
       "packages": [
         {
           "recipient": "alexa",
@@ -10,13 +10,191 @@
           "status": "onway",
           "isDupCompanion": false,
           "carrier": "FedEx",
-          "trackingNumber": "878637355258",
+          "trackingNumber": "878700717345",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Alexa",
           "statusLabel": "In Transit",
-          "routeText": "Shanghai → Denver, CO · Shipped 10/14/26 · #sunwin-general",
+          "routeText": "Shanghai → Denver, CO · Shipped 10/15/26 · #sunwin-general",
           "etaType": "eta",
-          "etaText": "Thu, Oct 15",
+          "etaText": "Fri, Oct 16",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0093 ACTIVE DRESS, P2 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true
+        },
+        {
+          "recipient": "esther",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "878700759308",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Esther",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 10/15/26 · #sunwin-general",
+          "etaType": "eta",
+          "etaText": "Fri, Oct 16",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0093 ACTIVE DRESS, P2 sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "SW",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "878700792112",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Taylor",
+          "statusLabel": "In Transit",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 10/15/26 · #sunwin-general",
+          "etaType": "eta",
+          "etaText": "Fri, Oct 16",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0093 ACTIVE DRESS, P2 sample, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true
+        }
+      ]
+    },
+    {
+      "title": "DGJ — Cloud II Flowerland strike offs (Chambray Floral / Moss Floral)",
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "DGJ",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "878636029532",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Alexa",
+          "statusLabel": "In Transit",
+          "routeText": "Dongguan → Denver, CO · Shipped 10/15/26 · #dgj-0128-flowerland-cloud",
+          "etaType": "eta",
+          "etaText": "Mon, Oct 19",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "Cloud II Flowerland strike offs (Chambray Floral + Moss Floral) with base ground color",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true
+        },
+        {
+          "recipient": "esther",
+          "vendor": "DGJ",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "878636174230",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Esther",
+          "statusLabel": "In Transit",
+          "routeText": "Dongguan → El Cerrito, CA · Shipped 10/15/26 · #dgj-0128-flowerland-cloud",
+          "etaType": "eta",
+          "etaText": "Mon, Oct 19",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "Cloud II Flowerland strike offs (Chambray Floral + Moss Floral) with base ground color",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "DGJ",
+          "status": "onway",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "878636365892",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Taylor",
+          "statusLabel": "In Transit",
+          "routeText": "Dongguan → Castle Rock, CO · Shipped 10/15/26 · #dgj-0128-flowerland-cloud",
+          "etaType": "eta",
+          "etaText": "Mon, Oct 19",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "Cloud II Flowerland strike offs (Chambray Floral + Moss Floral) with base ground color",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": true
+        }
+      ]
+    },
+    {
+      "title": "Sunwin — Oct 14 parcels: TOP/PP/P3 samples (SW0077–SW0088) + SW0076 bulk PL3",
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "878637355258",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → Denver, CO · Shipped 10/14/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu, Oct 15",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -87,7 +265,7 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "recipient": "esther",
@@ -101,7 +279,7 @@
           "statusLabel": "In Transit",
           "routeText": "Shanghai → El Cerrito, CA · Shipped 10/14/26 · #sunwin-general",
           "etaType": "eta",
-          "etaText": "Thu, Oct 15",
+          "etaText": "Thu, Oct 15 (out for delivery)",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -163,7 +341,7 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "recipient": "taylor",
@@ -177,7 +355,7 @@
           "statusLabel": "In Transit",
           "routeText": "Shanghai → Castle Rock, CO · Shipped 10/14/26 · #sunwin-general",
           "etaType": "eta",
-          "etaText": "Thu, Oct 15",
+          "etaText": "Thu, Oct 15 (out for delivery)",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -235,21 +413,21 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "recipient": "other",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "878629582248",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Alexa / Steve / Audra",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → American Fork, UT · Shipped 10/14/26 · #logistics",
-          "etaType": "eta",
-          "etaText": "Thu, Oct 15",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu, Oct 15",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -263,7 +441,7 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         }
       ]
     },
@@ -378,7 +556,7 @@
           "trackingNumber": "878570903334",
           "routeText": "Dongguan → El Cerrito, CA · Shipped 10/14/26 · #ss-0006-cozy-mock-neck-sweatshirt",
           "etaType": "eta",
-          "etaText": "Fri, Oct 16",
+          "etaText": "Thu, Oct 15 (out for delivery)",
           "items": [
             {
               "text": "SS0006 Cozy Mock Neck Sweatshirt P2 sample, Spotlite LD, Thong LD, print strike off (Esther)",
@@ -405,12 +583,12 @@
           "vendorLabel": "SS",
           "recipient": "alexa",
           "recipientLabel": "Alexa",
-          "status": "onway",
-          "statusLabel": "In Transit",
+          "status": "delivered",
+          "statusLabel": "Delivered",
           "trackingNumber": "878570708753",
           "routeText": "Dongguan → Denver, CO · Shipped 10/14/26 · #ss-0006-cozy-mock-neck-sweatshirt",
-          "etaType": "eta",
-          "etaText": "Fri, Oct 16",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu, Oct 15",
           "items": [
             {
               "text": "SS0006 Cozy Mock Neck Sweatshirt P2 sample, Spotlite LD, Thong LD, print strike off (Alexa)",
@@ -442,12 +620,12 @@
           "vendorLabel": "Hangzhou Huazhi",
           "recipient": "alexa",
           "recipientLabel": "Alexa",
-          "status": "onway",
-          "statusLabel": "In Transit",
+          "status": "delivered",
+          "statusLabel": "Delivered",
           "trackingNumber": "878505780939",
           "routeText": "Xiaoshan → Denver, CO · Shipped 10/13/26 · Gmail",
-          "etaType": "eta",
-          "etaText": "Wed, Oct 14 (out for delivery)",
+          "etaType": "delivered",
+          "etaText": "Delivered Wed, Oct 14",
           "items": [
             {
               "text": "DAILY RIB Y202 BUTTERFLY TANK lab dips A & B (7 colors each)",
@@ -887,29 +1065,6 @@
                   "label": "BULK"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "isNew": false,
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "contentsLabel": "Contents:",
-          "note": "",
-          "recipient": "alexa",
-          "vendor": "DGJ",
-          "status": "delivered",
-          "trackingNumber": "878208293329",
-          "vendorLabel": "DGJ",
-          "recipientLabel": "Alexa",
-          "statusLabel": "Delivered",
-          "routeText": "El Cerrito, CA → Denver, CO · Shipped 10/5/26 · Out for delivery · Slack DM",
-          "etaType": "delivered",
-          "etaText": "Delivered Wed, Oct 7",
-          "items": [
-            {
-              "text": "Outbound shipment to Denver Design Office",
-              "tags": []
             }
           ]
         },
@@ -1554,6 +1709,34 @@
     }
   ],
   "archivedGroups": [
+    {
+      "title": "Archived — rolled 10/15/26",
+      "packages": [
+        {
+          "isNew": false,
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "recipient": "alexa",
+          "vendor": "DGJ",
+          "status": "delivered",
+          "trackingNumber": "878208293329",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Alexa",
+          "statusLabel": "Delivered",
+          "routeText": "El Cerrito, CA → Denver, CO · Shipped 10/5/26 · Out for delivery · Slack DM",
+          "etaType": "delivered",
+          "etaText": "Delivered Wed, Oct 7",
+          "items": [
+            {
+              "text": "Outbound shipment to Denver Design Office",
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
     {
       "title": "Archived — rolled 10/13/26 · Honggang (HG) — heather fabric cuttings & Daydream lab dips (Sep 30)",
       "packages": [
