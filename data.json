@@ -1,6 +1,187 @@
 {
-  "lastUpdated": "Updated Wed, Oct 21 · 10:08 AM · FedEx refreshed; Slack (Sunwin + Vitality, all 4 keywords) scanned; Gmail (404 cleared on 1st retry) scanned, no new parcels. New: Sunwin SW0083 PPs (3 parcels), Sunwin SW0077/Homebody bulk (delivered Alexa 10/20), DGJ P1/lab-dip parcels (Alexa “new office” + Esther + Taylor), SS0004 marketing resend (Julia/Alexandra/Taylor), 2 more DGJ0114 cartons masters. No ship-to shift yet: DGJ/Sunwin still sending to Alexa, Esther AND Taylor; DGJ calls Alexa’s address “new office” (Denver). No new recipient names seen; Kate Miller-Chamberlain (starts Nov 3/4) not yet a recipient. 871460853886 skipped; UPS/DHL not re-checked. Older 6/2, 7/24 & 8/5 parcels still show no real FedEx movement.",
+  "lastUpdated": "Updated Thu, Oct 22 · 11:30 AM · FedEx refreshed (3 batches); Slack (Sunwin + Vitality, all 4 keywords) scanned; Gmail (404 cleared on 1st retry) scanned. New: Sunwin 10/22 parcels (SW0085 PP ×3 incl. Alexa/Esther/Taylor, SW0078 TOP to Alexa), Sunwin marketing samples to Julia & Alexandra, FRI-268 Chino CA → Esther (878693107504, contents unknown). Taylor SW0083 PP delivered 10/22; DGJ/Sunwin 10/20-21 parcels still moving; 2 DGJ0114 carton masters delivered 10/21. No ship-to shift yet: Sunwin/DGJ still sending to Alexa, Esther AND Taylor. No new recipient seen (Kate, new tech designer, not yet a recipient). 871460853886 skipped; UPS/DHL not re-checked. Older 6/2, 7/24 & 8/5 parcels still show no real FedEx movement.",
   "groups": [
+    {
+      "title": "Sunwin — Parcels on 10/22: SW0085 PP samples, SW0078 TOP",
+      "packages": [
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": true,
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "etaType": "eta",
+          "recipient": "alexa",
+          "vendor": "SW",
+          "trackingNumber": "879044579860",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "routeText": "Shanghai → Denver, CO · Shipped 10/22/26 · #sunwin-general",
+          "etaText": "Fri, Oct 23",
+          "items": [
+            {
+              "text": "SW0078 OVERSIZED PUFFER VEST, TOP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            },
+            {
+              "text": "SW0085 DAYDREAM LOOP BRA & DAYDREAM DOUBLE CONTRAST PANT, PP samples, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": true,
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "etaType": "eta",
+          "recipient": "esther",
+          "vendor": "SW",
+          "trackingNumber": "879044709549",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Esther",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 10/22/26 · #sunwin-general",
+          "etaText": "Fri, Oct 23",
+          "items": [
+            {
+              "text": "SW0085 DAYDREAM LOOP BRA & DAYDREAM DOUBLE CONTRAST PANT, PP samples, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": true,
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "etaType": "eta",
+          "recipient": "taylor",
+          "vendor": "SW",
+          "trackingNumber": "879044490677",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Taylor",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 10/22/26 · #sunwin-general",
+          "etaText": "Mon, Oct 26",
+          "items": [
+            {
+              "text": "SW0085 DAYDREAM LOOP BRA & DAYDREAM DOUBLE CONTRAST PANT, PP samples, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0078 PUFFER & BASIS, marketing samples, size XS",
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sunwin — Marketing samples shipped 10/22 (Julia / Alexandra)",
+      "packages": [
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": true,
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "etaType": "eta",
+          "recipient": "other",
+          "vendor": "SW",
+          "trackingNumber": "879039719518",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Julia",
+          "routeText": "Shanghai → Costa Mesa, CA · Shipped 10/22/26 · #sw-marketing-samples",
+          "etaText": "Wed, Oct 28",
+          "items": [
+            {
+              "text": "Marketing samples (SW0078 / SW0079) for Julia",
+              "tags": []
+            }
+          ]
+        },
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": true,
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "etaType": "eta",
+          "recipient": "other",
+          "vendor": "SW",
+          "trackingNumber": "879039808936",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexandra",
+          "routeText": "Shanghai → Toronto, ON · Shipped 10/22/26 · #sw-marketing-samples",
+          "etaText": "Wed, Oct 28",
+          "items": [
+            {
+              "text": "Marketing samples (SW0078 / SW0079) for Alexandra",
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Vitality warehouse FRI-268 (Chino, CA) → Esther",
+      "packages": [
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "2 pieces, 63 lb, FedEx Ground. Contents not stated (ref TH0126100230704).",
+          "isNew": true,
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "etaType": "eta",
+          "recipient": "esther",
+          "vendor": "VT",
+          "trackingNumber": "878693107504",
+          "vendorLabel": "Vitality FRI-268",
+          "recipientLabel": "Esther",
+          "routeText": "Chino, CA → El Cerrito, CA · Shipped 10/20/26 · Gmail",
+          "etaText": "Thu, Oct 22",
+          "items": [
+            {
+              "text": "Contents unknown — shipped from FRI-268, 2 pieces",
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
     {
       "title": "Sunwin — Parcels on 10/21: SW0083 PP samples",
       "packages": [
@@ -9,7 +190,7 @@
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
           "note": "",
-          "isNew": true,
+          "isNew": false,
           "recipient": "alexa",
           "vendor": "SW",
           "status": "onway",
@@ -37,7 +218,7 @@
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
           "note": "",
-          "isNew": true,
+          "isNew": false,
           "recipient": "esther",
           "vendor": "SW",
           "status": "onway",
@@ -69,17 +250,17 @@
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
           "note": "",
-          "isNew": true,
+          "isNew": false,
           "recipient": "taylor",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "trackingNumber": "878979603584",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Taylor",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → Castle Rock, CO · Shipped 10/21/26 · #sunwin-general",
-          "etaType": "eta",
-          "etaText": "Thu, Oct 22",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu, Oct 22",
           "items": [
             {
               "text": "SW0083 FLOAT RIB U TANK & OVERSIZED TEE & SCOOP LONG SLEEVE, PP samples, size XS",
@@ -111,7 +292,7 @@
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
           "note": "",
-          "isNew": true,
+          "isNew": false,
           "recipient": "alexa",
           "vendor": "DGJ",
           "status": "onway",
@@ -166,7 +347,7 @@
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
           "note": "",
-          "isNew": true,
+          "isNew": false,
           "recipient": "esther",
           "vendor": "DGJ",
           "status": "onway",
@@ -238,7 +419,7 @@
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
           "note": "",
-          "isNew": true,
+          "isNew": false,
           "recipient": "taylor",
           "vendor": "DGJ",
           "status": "onway",
@@ -307,7 +488,7 @@
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
           "note": "Multi-piece; original shipment was held & re-sent",
-          "isNew": true,
+          "isNew": false,
           "recipient": "other",
           "vendor": "SS",
           "status": "onway",
@@ -335,7 +516,7 @@
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
           "note": "",
-          "isNew": true,
+          "isNew": false,
           "recipient": "other",
           "vendor": "SS",
           "status": "onway",
@@ -363,7 +544,7 @@
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
           "note": "",
-          "isNew": true,
+          "isNew": false,
           "recipient": "taylor",
           "vendor": "SS",
           "status": "onway",
@@ -396,7 +577,7 @@
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
           "note": "",
-          "isNew": true,
+          "isNew": false,
           "recipient": "alexa",
           "vendor": "SW",
           "status": "delivered",
@@ -571,7 +752,7 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "recipient": "other",
@@ -599,7 +780,7 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         }
       ]
     },
@@ -1243,39 +1424,6 @@
       ]
     },
     {
-      "title": "Hangzhou Huazhi — Daily Rib Y202 Butterfly Tank lab dips A & B (Oct 12)",
-      "packages": [
-        {
-          "isNew": false,
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "contentsLabel": "Contents:",
-          "note": "",
-          "vendor": "HZ",
-          "vendorLabel": "Hangzhou Huazhi",
-          "recipient": "alexa",
-          "recipientLabel": "Alexa",
-          "status": "delivered",
-          "statusLabel": "Delivered",
-          "trackingNumber": "878505780939",
-          "routeText": "Xiaoshan → Denver, CO · Shipped 10/13/26 · Gmail",
-          "etaType": "delivered",
-          "etaText": "Delivered Wed, Oct 14",
-          "items": [
-            {
-              "text": "DAILY RIB Y202 BUTTERFLY TANK lab dips A & B (7 colors each)",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "title": "DGJ — Cloud II samples, strike offs (Oct 6) + Fast Vessel bulk (Oct 6)",
       "packages": [
         {
@@ -1288,12 +1436,12 @@
           "vendorLabel": "DGJ",
           "recipient": "other",
           "recipientLabel": "Audra",
-          "status": "onway",
-          "statusLabel": "In Transit",
+          "status": "delivered",
+          "statusLabel": "Delivered",
           "trackingNumber": "878018464600",
           "routeText": "City of Industry, CA → American Fork, UT · Label created · #dgj-logistics",
-          "etaType": "eta",
-          "etaText": "Out for delivery Wed, Oct 21",
+          "etaType": "delivered",
+          "etaText": "Delivered Wed, Oct 21",
           "items": [
             {
               "text": "JJ26096006-68 bulk (Fast Vessel)",
@@ -1316,12 +1464,12 @@
           "vendorLabel": "DGJ",
           "recipient": "other",
           "recipientLabel": "Audra",
-          "status": "onway",
-          "statusLabel": "In Transit",
+          "status": "delivered",
+          "statusLabel": "Delivered",
           "trackingNumber": "878018484597",
           "routeText": "City of Industry, CA → American Fork, UT · Label created · #dgj-logistics",
-          "etaType": "eta",
-          "etaText": "Out for delivery Wed, Oct 21",
+          "etaType": "delivered",
+          "etaText": "Delivered Wed, Oct 21",
           "items": [
             {
               "text": "JJ26096006-54 bulk (Fast Vessel)",
@@ -1348,8 +1496,8 @@
           "statusLabel": "Label Created",
           "trackingNumber": "878018490158",
           "routeText": "City of Industry, CA → American Fork, UT · Label created · #dgj-logistics",
-          "etaType": "tba",
-          "etaText": "TBA",
+          "etaType": "eta",
+          "etaText": "Fri, Oct 23",
           "items": [
             {
               "text": "JJ26096006-56B bulk (Fast Vessel)",
@@ -2069,6 +2217,39 @@
     }
   ],
   "archivedGroups": [
+    {
+      "title": "Archived — rolled 10/22/26",
+      "packages": [
+        {
+          "isNew": false,
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "vendor": "HZ",
+          "vendorLabel": "Hangzhou Huazhi",
+          "recipient": "alexa",
+          "recipientLabel": "Alexa",
+          "status": "delivered",
+          "statusLabel": "Delivered",
+          "trackingNumber": "878505780939",
+          "routeText": "Xiaoshan → Denver, CO · Shipped 10/13/26 · Gmail",
+          "etaType": "delivered",
+          "etaText": "Delivered Wed, Oct 14",
+          "items": [
+            {
+              "text": "DAILY RIB Y202 BUTTERFLY TANK lab dips A & B (7 colors each)",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "title": "Archived — rolled 10/21/26",
       "packages": [
