@@ -1,6 +1,102 @@
 {
-  "lastUpdated": "Updated Mon, Oct 26 · 9:40 AM PT · FedEx refreshed (2 batches + new numbers); Slack (Sunwin + Vitality, all 4 keywords) scanned; Gmail (404 cleared on 1st retry) scanned. 7 new packages: DGJ Breeze Running Short W/ Liner samples (Alexa 879152886941, Esther 879152757666, Taylor 879152480460 — shipped 10/24, ETA 10/27); HG lab dips to Esther 879096356253 (out for delivery today); DGJ0109/0111/0112 bulk, 147 cartons (3 ground masters, label created). Delivered: SW 10/22 Alexa 879044579860 & DGJ Alexa 878975900165 (10/26 9:35 AM); Esther 879044709549 & 878976139620 and Toronto 878976885786 (10/23). Customs cleared on Esther 878700759308 (out for delivery today). Taylor/Julia/Alexandra parcels out for delivery today. 5 packages archived. No Nov 4 ship-to shift yet: DGJ/Sunwin still sending to Alexa, Esther AND Taylor; no new recipient seen (Kate/Claire, new tech designer, not yet a recipient). 871460853886 skipped; UPS/DHL not re-checked. Older 6/2, 7/24 & 8/5 parcels still show no real FedEx movement.",
+  "lastUpdated": "Updated Tue, Oct 27 · 9:35 AM PT · FedEx refreshed (3 batches); Slack (Sunwin + Vitality, all 4 keywords) scanned; Gmail (404 cleared on 1st retry) scanned. 1 new package: Sunwin 10/27 PP/P3/P2 samples to Alexa only (879271113901, label created) — FIRST parcel seen going only to Alexa/Denver (no Esther/Taylor copies listed; possible start of the Nov 4 ship-to shift). No new recipient seen. Delivered 10/26–10/27 sweep: HG lab dips Esther 879096356253, Taylor 879044490677, marketing 879039719518/879039808936. DGJ Breeze samples (3) and Esther 878700759308 out for delivery today. Strike offs/lab dips from HG/Ascend going via SF Express to Baogang office; FedEx # to follow. 4 archived. 871460853886 skipped; UPS/DHL not re-checked. Older 6/2, 7/24 & 8/5 parcels still show no real update.",
   "groups": [
+    {
+      "title": "Sunwin — Parcels on 10/27 (Alexa only)",
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "label",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "879271113901",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "Label Created",
+          "routeText": "Shanghai → Denver, CO · Shipped 10/27/26 · #sunwin-general",
+          "etaType": "tba",
+          "etaText": "TBA",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SW0087 MARSHMALLOW CROPPED V TOP, SHORELINE & SUNSHINE, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0087 MARSHMALLOW GO SHORT, SHORELINE & SUNSHINE, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0087 MARSHMALLOW OVERSIZED HALF ZIP, SHORELINE & SUNSHINE, PP sample, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0087 MENS MARSHMALLOW GO JOGGER PANT, DARK SEA, PP sample, size XL",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0087 MEN'S MARSHMALLOW GO SHORT, DARK SEA, PP sample, size XL",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0088 ZEPHYR TANK, P3 sample, size XL",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P3"
+                }
+              ]
+            },
+            {
+              "text": "SW0089 Basis Scoop Long Sleeve, PP sample, size XS & S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0096 Flow High Cinch Tank, P2 sample, size XS & S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                }
+              ]
+            }
+          ],
+          "note": "Only an Alexa (Denver) copy listed in Slack so far — no Esther/Taylor copies seen (possible start of Nov 4 ship-to shift).",
+          "isNew": true
+        }
+      ]
+    },
     {
       "title": "DGJ — DGJ0109 / DGJ0111 / DGJ0112 bulk shipment, 147 cartons (Oct 26)",
       "packages": [
@@ -30,7 +126,7 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "recipient": "other",
@@ -58,7 +154,7 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "recipient": "other",
@@ -86,7 +182,7 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         }
       ]
     },
@@ -96,16 +192,16 @@
         {
           "recipient": "esther",
           "vendor": "HG",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "879096356253",
           "vendorLabel": "Honggang Textile",
           "recipientLabel": "Esther",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Fuzhou, CN → El Cerrito, CA · Shipped 10/23/26 · Gmail",
-          "etaType": "eta",
-          "etaText": "Mon, Oct 26 (out for delivery)",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon, Oct 26",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -119,7 +215,7 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         }
       ]
     },
@@ -138,7 +234,7 @@
           "statusLabel": "In Transit",
           "routeText": "Dongguan → Denver, CO · Shipped 10/24/26 · Gmail (Rechain)",
           "etaType": "eta",
-          "etaText": "Tue, Oct 27",
+          "etaText": "Tue, Oct 27 (out for delivery)",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -152,7 +248,7 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "recipient": "esther",
@@ -166,7 +262,7 @@
           "statusLabel": "In Transit",
           "routeText": "Dongguan → El Cerrito, CA · Shipped 10/24/26 · Gmail (Rechain)",
           "etaType": "eta",
-          "etaText": "Tue, Oct 27",
+          "etaText": "Tue, Oct 27 (out for delivery)",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -180,7 +276,7 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         },
         {
           "recipient": "taylor",
@@ -194,7 +290,7 @@
           "statusLabel": "In Transit",
           "routeText": "Dongguan → Castle Rock, CO · Shipped 10/24/26 · Gmail (Rechain)",
           "etaType": "eta",
-          "etaText": "Tue, Oct 27",
+          "etaText": "Tue, Oct 27 (out for delivery)",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -208,7 +304,7 @@
             }
           ],
           "note": "",
-          "isNew": true
+          "isNew": false
         }
       ]
     },
@@ -286,16 +382,16 @@
           "contentsLabel": "Contents:",
           "note": "",
           "isNew": false,
-          "status": "onway",
-          "statusLabel": "In Transit",
-          "etaType": "eta",
+          "status": "delivered",
+          "statusLabel": "Delivered",
+          "etaType": "delivered",
           "recipient": "taylor",
           "vendor": "SW",
           "trackingNumber": "879044490677",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Taylor",
           "routeText": "Shanghai → Castle Rock, CO · Shipped 10/22/26 · #sunwin-general",
-          "etaText": "Mon, Oct 26 (out for delivery)",
+          "etaText": "Delivered Mon, Oct 26",
           "items": [
             {
               "text": "SW0085 DAYDREAM LOOP BRA & DAYDREAM DOUBLE CONTRAST PANT, PP samples, size XS",
@@ -323,16 +419,16 @@
           "contentsLabel": "Contents:",
           "note": "",
           "isNew": false,
-          "status": "onway",
-          "statusLabel": "In Transit",
-          "etaType": "eta",
+          "status": "delivered",
+          "statusLabel": "Delivered",
+          "etaType": "delivered",
           "recipient": "other",
           "vendor": "SW",
           "trackingNumber": "879039719518",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Julia",
           "routeText": "Shanghai → Costa Mesa, CA · Shipped 10/22/26 · #sw-marketing-samples",
-          "etaText": "Mon, Oct 26 (out for delivery)",
+          "etaText": "Delivered Mon, Oct 26",
           "items": [
             {
               "text": "Marketing samples (SW0078 / SW0079) for Julia",
@@ -346,16 +442,16 @@
           "contentsLabel": "Contents:",
           "note": "",
           "isNew": false,
-          "status": "onway",
-          "statusLabel": "In Transit",
-          "etaType": "eta",
+          "status": "delivered",
+          "statusLabel": "Delivered",
+          "etaType": "delivered",
           "recipient": "other",
           "vendor": "SW",
           "trackingNumber": "879039808936",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Alexandra",
           "routeText": "Shanghai → Toronto, ON · Shipped 10/22/26 · #sw-marketing-samples",
-          "etaText": "Mon, Oct 26 (out for delivery)",
+          "etaText": "Delivered Mon, Oct 26",
           "items": [
             {
               "text": "Marketing samples (SW0078 / SW0079) for Alexandra",
@@ -633,14 +729,14 @@
           "isNew": false,
           "recipient": "taylor",
           "vendor": "DGJ",
-          "status": "onway",
+          "status": "delivered",
           "trackingNumber": "878976269040",
           "vendorLabel": "DGJ",
           "recipientLabel": "Taylor",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Dongguan → Castle Rock, CO · Shipped 10/22/26 · #dgj-0132-pulse-wild",
-          "etaType": "eta",
-          "etaText": "Mon, Oct 26 (out for delivery)",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon, Oct 26",
           "items": [
             {
               "text": "Cloud II Slim Square Bra - DGJ0133, P1",
@@ -1057,39 +1153,6 @@
       ]
     },
     {
-      "title": "SS — Ultra Cozy Winter men’s TOP samples (Oct 16) · Alexa/Denver only",
-      "packages": [
-        {
-          "recipient": "alexa",
-          "vendor": "SS",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "878752150470",
-          "vendorLabel": "SS",
-          "recipientLabel": "Alexa",
-          "statusLabel": "Delivered",
-          "routeText": "Dongguan → Denver, CO · Shipped 10/16/26 · #ss-0004-ultra-cozy-winter",
-          "etaType": "delivered",
-          "etaText": "Delivered Mon, Oct 19",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "SS0004 Ultra Cozy Winter — men’s jogger & hoodie, TOP samples",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "TOP"
-                }
-              ]
-            }
-          ],
-          "note": "",
-          "isNew": false
-        }
-      ]
-    },
-    {
       "title": "Sunwin — Oct 15 parcels: SW0093 Active Dress P2 samples",
       "packages": [
         {
@@ -1104,7 +1167,7 @@
           "statusLabel": "In Transit",
           "routeText": "Shanghai → El Cerrito, CA · Shipped 10/15/26 · #sunwin-general",
           "etaType": "eta",
-          "etaText": "Mon, Oct 26 (out for delivery · cleared customs)",
+          "etaText": "Tue, Oct 27 (out for delivery · cleared customs)",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -1119,104 +1182,6 @@
           ],
           "note": "",
           "isNew": false
-        }
-      ]
-    },
-    {
-      "title": "DGJ — Cloud II Flowerland strike offs (Chambray Floral / Moss Floral)",
-      "packages": [
-        {
-          "recipient": "esther",
-          "vendor": "DGJ",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "878636174230",
-          "vendorLabel": "DGJ",
-          "recipientLabel": "Esther",
-          "statusLabel": "Delivered",
-          "routeText": "Dongguan → El Cerrito, CA · Shipped 10/15/26 · #dgj-0128-flowerland-cloud",
-          "etaType": "delivered",
-          "etaText": "Delivered Mon, Oct 19",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "Cloud II Flowerland strike offs (Chambray Floral + Moss Floral) with base ground color",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            }
-          ],
-          "note": "",
-          "isNew": false
-        },
-        {
-          "recipient": "taylor",
-          "vendor": "DGJ",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "878636365892",
-          "vendorLabel": "DGJ",
-          "recipientLabel": "Taylor",
-          "statusLabel": "Delivered",
-          "routeText": "Dongguan → Castle Rock, CO · Shipped 10/15/26 · #dgj-0128-flowerland-cloud",
-          "etaType": "delivered",
-          "etaText": "Delivered Mon, Oct 19",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "Cloud II Flowerland strike offs (Chambray Floral + Moss Floral) with base ground color",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            }
-          ],
-          "note": "",
-          "isNew": false
-        }
-      ]
-    },
-    {
-      "title": "SS — Cozy Mock Neck Sweatshirt P2, Spotlite/Thong LDs, print strike off (ss-0006)",
-      "packages": [
-        {
-          "isNew": false,
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "contentsLabel": "Contents:",
-          "note": "",
-          "vendor": "SS",
-          "vendorLabel": "SS",
-          "recipient": "taylor",
-          "recipientLabel": "Taylor",
-          "status": "delivered",
-          "statusLabel": "Delivered",
-          "trackingNumber": "878571003760",
-          "routeText": "Dongguan → Castle Rock, CO · Shipped 10/14/26 · #ss-0006-cozy-mock-neck-sweatshirt",
-          "etaType": "delivered",
-          "etaText": "Delivered Mon, Oct 19",
-          "items": [
-            {
-              "text": "SS0006 Cozy Mock Neck Sweatshirt P2 sample, Spotlite LD, Thong LD, print strike off (Taylor)",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "P2"
-                },
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            }
-          ]
         }
       ]
     },
@@ -2014,6 +1979,137 @@
     }
   ],
   "archivedGroups": [
+    {
+      "title": "SS — Cozy Mock Neck Sweatshirt P2, Spotlite/Thong LDs, print strike off (ss-0006) (archived 10/27/26)",
+      "packages": [
+        {
+          "isNew": false,
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "vendor": "SS",
+          "vendorLabel": "SS",
+          "recipient": "taylor",
+          "recipientLabel": "Taylor",
+          "status": "delivered",
+          "statusLabel": "Delivered",
+          "trackingNumber": "878571003760",
+          "routeText": "Dongguan → Castle Rock, CO · Shipped 10/14/26 · #ss-0006-cozy-mock-neck-sweatshirt",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon, Oct 19",
+          "items": [
+            {
+              "text": "SS0006 Cozy Mock Neck Sweatshirt P2 sample, Spotlite LD, Thong LD, print strike off (Taylor)",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "P2"
+                },
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "DGJ — Cloud II Flowerland strike offs (Chambray Floral / Moss Floral) (archived 10/27/26)",
+      "packages": [
+        {
+          "recipient": "esther",
+          "vendor": "DGJ",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "878636174230",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Esther",
+          "statusLabel": "Delivered",
+          "routeText": "Dongguan → El Cerrito, CA · Shipped 10/15/26 · #dgj-0128-flowerland-cloud",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon, Oct 19",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "Cloud II Flowerland strike offs (Chambray Floral + Moss Floral) with base ground color",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false
+        },
+        {
+          "recipient": "taylor",
+          "vendor": "DGJ",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "878636365892",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Taylor",
+          "statusLabel": "Delivered",
+          "routeText": "Dongguan → Castle Rock, CO · Shipped 10/15/26 · #dgj-0128-flowerland-cloud",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon, Oct 19",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "Cloud II Flowerland strike offs (Chambray Floral + Moss Floral) with base ground color",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false
+        }
+      ]
+    },
+    {
+      "title": "SS — Ultra Cozy Winter men’s TOP samples (Oct 16) · Alexa/Denver only (archived 10/27/26)",
+      "packages": [
+        {
+          "recipient": "alexa",
+          "vendor": "SS",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "878752150470",
+          "vendorLabel": "SS",
+          "recipientLabel": "Alexa",
+          "statusLabel": "Delivered",
+          "routeText": "Dongguan → Denver, CO · Shipped 10/16/26 · #ss-0004-ultra-cozy-winter",
+          "etaType": "delivered",
+          "etaText": "Delivered Mon, Oct 19",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "SS0004 Ultra Cozy Winter — men’s jogger & hoodie, TOP samples",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "TOP"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false
+        }
+      ]
+    },
     {
       "title": "Archived — rolled 10/26/26",
       "packages": [
