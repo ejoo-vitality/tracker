@@ -1,22 +1,115 @@
 {
-  "lastUpdated": "Updated Tue, Oct 27 · 9:35 AM PT · FedEx refreshed (3 batches); Slack (Sunwin + Vitality, all 4 keywords) scanned; Gmail (404 cleared on 1st retry) scanned. 1 new package: Sunwin 10/27 PP/P3/P2 samples to Alexa only (879271113901, label created) — FIRST parcel seen going only to Alexa/Denver (no Esther/Taylor copies listed; possible start of the Nov 4 ship-to shift). No new recipient seen. Delivered 10/26–10/27 sweep: HG lab dips Esther 879096356253, Taylor 879044490677, marketing 879039719518/879039808936. DGJ Breeze samples (3) and Esther 878700759308 out for delivery today. Strike offs/lab dips from HG/Ascend going via SF Express to Baogang office; FedEx # to follow. 4 archived. 871460853886 skipped; UPS/DHL not re-checked. Older 6/2, 7/24 & 8/5 parcels still show no real update.",
+  "lastUpdated": "Updated Wed, Oct 28 · 9:50 AM PT · FedEx refreshed (2 batches, non-delivered pkgs); Slack (Sunwin + Vitality, fedex/tracking/awb/sent) scanned; Gmail (404 cleared on 1st retry) scanned, nothing new. 3 new packages: Sunwin 879337887093 (SW0085 PP skort, Alexa only — 2nd Sunwin parcel going only to Alexa/Denver), DGJ 879335188455 (Alexa) + 879335585928 (Esther). NOV 4 SHIFT CONFIRMED: Alexa posted in #dgj-jie-general (10/26) that a new Technical Designer was hired; vendors should stop sending fit samples to Esther and Taylor and send only to the Denver office (dips/strike offs still go to all three). No new recipient name/address seen. Delivered: Sunwin 879271113901 (Alexa, 10/28), DGJ Breeze samples x3 (10/27), 878700759308 (Esther 10/27). 1 archived. 871460853886 skipped; UPS/DHL not re-checked. HG/Ascend strike offs/lab dips via SF Express to Baogang, FedEx # pending. Older 6/2, 7/24 & 8/5 parcels still show no real update.",
   "groups": [
+    {
+      "title": "Sunwin — Parcel on 10/28 (Alexa only): SW0085 PP",
+      "packages": [
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": true,
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "etaType": "eta",
+          "recipient": "alexa",
+          "vendor": "SW",
+          "trackingNumber": "879337887093",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "routeText": "Shanghai → Denver, CO · Shipped 10/28/26 · #sunwin-general",
+          "etaText": "Thu, Oct 29",
+          "items": [
+            {
+              "text": "SW0085 DAYDREAM FLOW A-LINE SKORT, PP samples, size XS & S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "COTTON INTERLOCK LEGGING (fabric SWF26061207), development sample, size XS & S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "DEV"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "DGJ — DGJ0118 Cloud Spring + proto samples (Oct 28/29)",
+      "packages": [
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": true,
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "etaType": "eta",
+          "recipient": "alexa",
+          "vendor": "DGJ",
+          "trackingNumber": "879335188455",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Alexa",
+          "routeText": "Dongguan City → Denver, CO · Shipped 10/29/26 · #dgj-0118-cloud-spring",
+          "etaText": "Mon, Nov 2",
+          "items": [
+            {
+              "text": "DGJ0118 Cloud Spring samples (sent with Kayla's proto samples; contents/stage not specified)",
+              "tags": []
+            }
+          ]
+        },
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": true,
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "etaType": "eta",
+          "recipient": "esther",
+          "vendor": "DGJ",
+          "trackingNumber": "879335585928",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Esther",
+          "routeText": "Dongguan City → El Cerrito, CA · Shipped 10/29/26 · #dgj-0118-cloud-spring",
+          "etaText": "Mon, Nov 2",
+          "items": [
+            {
+              "text": "DGJ0118 Cloud Spring samples (sent with Kayla's proto samples; contents/stage not specified)",
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
     {
       "title": "Sunwin — Parcels on 10/27 (Alexa only)",
       "packages": [
         {
           "recipient": "alexa",
           "vendor": "SW",
-          "status": "label",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "879271113901",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Alexa",
-          "statusLabel": "Label Created",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → Denver, CO · Shipped 10/27/26 · #sunwin-general",
-          "etaType": "tba",
-          "etaText": "TBA",
+          "etaType": "delivered",
+          "etaText": "Delivered Wed, Oct 28",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -93,7 +186,7 @@
             }
           ],
           "note": "Only an Alexa (Denver) copy listed in Slack so far — no Esther/Taylor copies seen (possible start of Nov 4 ship-to shift).",
-          "isNew": true
+          "isNew": false
         }
       ]
     },
@@ -225,16 +318,16 @@
         {
           "recipient": "alexa",
           "vendor": "DGJ",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "879152886941",
           "vendorLabel": "DGJ",
           "recipientLabel": "Alexa",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Dongguan → Denver, CO · Shipped 10/24/26 · Gmail (Rechain)",
-          "etaType": "eta",
-          "etaText": "Tue, Oct 27 (out for delivery)",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue, Oct 27",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -253,16 +346,16 @@
         {
           "recipient": "esther",
           "vendor": "DGJ",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "879152757666",
           "vendorLabel": "DGJ",
           "recipientLabel": "Esther",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Dongguan → El Cerrito, CA · Shipped 10/24/26 · Gmail (Rechain)",
-          "etaType": "eta",
-          "etaText": "Tue, Oct 27 (out for delivery)",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue, Oct 27",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -281,16 +374,16 @@
         {
           "recipient": "taylor",
           "vendor": "DGJ",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "879152480460",
           "vendorLabel": "DGJ",
           "recipientLabel": "Taylor",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Dongguan → Castle Rock, CO · Shipped 10/24/26 · Gmail (Rechain)",
-          "etaType": "eta",
-          "etaText": "Tue, Oct 27 (out for delivery)",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue, Oct 27",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -877,48 +970,6 @@
       ]
     },
     {
-      "title": "Sunwin — Parcel on 10/19: SW0077 Float Jersey 2nd bulk lot & Academy Homebody bulk",
-      "packages": [
-        {
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "contentsLabel": "Contents:",
-          "note": "",
-          "isNew": false,
-          "recipient": "alexa",
-          "vendor": "SW",
-          "status": "delivered",
-          "trackingNumber": "878847350399",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Alexa",
-          "statusLabel": "Delivered",
-          "routeText": "Shanghai → Denver, CO · Shipped 10/19/26 · #sunwin-general",
-          "etaType": "delivered",
-          "etaText": "Delivered Tue, Oct 20",
-          "items": [
-            {
-              "text": "SW0077 Float Jersey, 2nd bulk lot",
-              "tags": [
-                {
-                  "type": "bulk",
-                  "label": "BULK"
-                }
-              ]
-            },
-            {
-              "text": "Academy Homebody bulk lot",
-              "tags": [
-                {
-                  "type": "bulk",
-                  "label": "BULK"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "title": "DGJ — DGJ0114 PL2 bulk shipment (2nd partial), 361 cartons (Oct 17)",
       "packages": [
         {
@@ -1158,16 +1209,16 @@
         {
           "recipient": "esther",
           "vendor": "SW",
-          "status": "onway",
+          "status": "delivered",
           "isDupCompanion": false,
           "carrier": "FedEx",
           "trackingNumber": "878700759308",
           "vendorLabel": "Sunwin",
           "recipientLabel": "Esther",
-          "statusLabel": "In Transit",
+          "statusLabel": "Delivered",
           "routeText": "Shanghai → El Cerrito, CA · Shipped 10/15/26 · #sunwin-general",
-          "etaType": "eta",
-          "etaText": "Tue, Oct 27 (out for delivery · cleared customs)",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue, Oct 27",
           "contentsLabel": "Contents:",
           "items": [
             {
@@ -1979,6 +2030,48 @@
     }
   ],
   "archivedGroups": [
+    {
+      "title": "Archived — rolled 10/28/26",
+      "packages": [
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": false,
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "delivered",
+          "trackingNumber": "878847350399",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → Denver, CO · Shipped 10/19/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Tue, Oct 20",
+          "items": [
+            {
+              "text": "SW0077 Float Jersey, 2nd bulk lot",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            },
+            {
+              "text": "Academy Homebody bulk lot",
+              "tags": [
+                {
+                  "type": "bulk",
+                  "label": "BULK"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "title": "SS — Cozy Mock Neck Sweatshirt P2, Spotlite/Thong LDs, print strike off (ss-0006) (archived 10/27/26)",
       "packages": [
