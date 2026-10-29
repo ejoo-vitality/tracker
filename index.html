@@ -240,7 +240,7 @@ function buildFilters(groups) {
       btn.dataset.filter = type;
       btn.dataset.value = v;
       // friendly labels
-      const labels = {esther:'Esther',alexa:'Alexa',taylor:'Taylor',grace:'Grace',other:'Other/Vendor'};
+      const labels = {esther:'Esther',alexa:'Design Office',taylor:'Taylor',grace:'Grace',other:'Other/Vendor'};
       const statusLabels = {onway:'In Transit',delivered:'Delivered',label:'Label Created',customs:'Customs'};
       btn.textContent = labels[v] || statusLabels[v] || v.toUpperCase();
       container.appendChild(btn);
