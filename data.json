@@ -1,6 +1,100 @@
 {
-  "lastUpdated": "Updated Thu, Oct 29 · 9:50 AM PT · FedEx refreshed (3 batches); Slack (Sunwin + Vitality, fedex/tracking/awb/sent) scanned; Gmail (404 cleared on 1st retry) scanned. 2 new packages: SS0008 baby tee sample to Esther (879397456055) + Taylor (879191691357) — no Alexa copy seen yet (expected pre-Nov 4). Delivered: Sunwin 879337887093 (Alexa, 10/29). Nov 4 shift still in effect per Alexa 10/26 (fit samples to Denver only); no new recipient name/address seen. 871460853886 skipped; UPS/DHL not re-checked. HG/Ascend strike offs/lab dips via SF Express to Baogang (SF5145422399649, SF5149582326563), FedEx # pending. Older 6/2, 7/24 & 8/5 parcels still show no real update.",
+  "lastUpdated": "Updated Fri, Oct 30 · 10:30 AM PT · FedEx refreshed (2 batches); Slack (Sunwin + Vitality, fedex/tracking/awb/sent) scanned; Gmail (404 cleared on 1st retry) scanned. 3 new packages: DGJ0118 jersey hand feel + gingham to Alexa/Denver (879461712343, ships 10/31), DGJ0120 marketing samples to Julia (879461309975) + Alexandra/Toronto (879461433858). Delivered: SS0008 baby tee XS to Taylor (879191691357, 10/29). No Alexa/Denver-only sample parcel beyond expected; Nov 4 shift per Alexa continuing, no new recipient/address mappable. 871460853886 skipped; UPS/DHL not re-checked. Older 6/2, 7/24 & 8/5 parcels still no real update. SF Express strike offs pending FedEx #.",
   "groups": [
+    {
+      "title": "DGJ — DGJ0118 jersey hand feel + gingham round 2 (Alexa/Denver)",
+      "packages": [
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": true,
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "etaType": "eta",
+          "recipient": "alexa",
+          "vendor": "DGJ",
+          "trackingNumber": "879461712343",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Alexa",
+          "routeText": "Dongguan → Denver, CO · Ships 10/31/26 · #dgj-0118-cloud-spring",
+          "etaText": "Tue, Nov 3",
+          "items": [
+            {
+              "text": "DGJ0118 jersey hand feel cutting + gingham round 2",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "DGJ — DGJ0120 Cloud II Nurse & Pump Bra marketing samples",
+      "packages": [
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": true,
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "etaType": "eta",
+          "recipient": "other",
+          "vendor": "DGJ",
+          "trackingNumber": "879461309975",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Julia",
+          "routeText": "Dongguan · Ships 10/31/26 · #dgj-marketing-samples · Gmail/Slack",
+          "etaText": "Mon, Nov 2",
+          "items": [
+            {
+              "text": "DGJ0120 CLOUD II NURSE & PUMP BRA marketing samples (to Julia)",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "MARKETING"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": true,
+          "status": "onway",
+          "statusLabel": "In Transit",
+          "etaType": "eta",
+          "recipient": "other",
+          "vendor": "DGJ",
+          "trackingNumber": "879461433858",
+          "vendorLabel": "DGJ",
+          "recipientLabel": "Alexandra",
+          "routeText": "Dongguan → Toronto, ON · Ships 10/31/26 · #dgj-marketing-samples",
+          "etaText": "Wed, Nov 4",
+          "items": [
+            {
+              "text": "DGJ0120 CLOUD II NURSE & PUMP BRA marketing samples (to Alexandra)",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "MARKETING"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "title": "SS — New baby tee sample (SS0008): Esther + Taylor",
       "packages": [
@@ -9,7 +103,7 @@
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
           "note": "",
-          "isNew": true,
+          "isNew": false,
           "status": "onway",
           "statusLabel": "In Transit",
           "etaType": "eta",
@@ -37,17 +131,17 @@
           "carrier": "FedEx",
           "contentsLabel": "Contents:",
           "note": "",
-          "isNew": true,
-          "status": "onway",
-          "statusLabel": "Out for Delivery",
-          "etaType": "eta",
+          "isNew": false,
+          "status": "delivered",
+          "statusLabel": "Delivered",
+          "etaType": "delivered",
           "recipient": "taylor",
           "vendor": "SS",
           "trackingNumber": "879191691357",
           "vendorLabel": "SS",
           "recipientLabel": "Taylor",
           "routeText": "Dongguan → Castle Rock, CO · Shipped 10/27/26 · #ss-0008-sportlite-midi-tee-labor-day",
-          "etaText": "Thu, Oct 29",
+          "etaText": "Delivered Thu, Oct 29",
           "items": [
             {
               "text": "SS0008 SPORTLITE MIDI TEE (new baby tee sample), size XS",
@@ -616,136 +710,6 @@
       ]
     },
     {
-      "title": "Vitality warehouse FRI-268 (Chino, CA) → Esther",
-      "packages": [
-        {
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "contentsLabel": "Contents:",
-          "note": "2 pieces, 63 lb, FedEx Ground. Contents not stated (ref TH0126100230704).",
-          "isNew": false,
-          "status": "delivered",
-          "statusLabel": "Delivered",
-          "etaType": "delivered",
-          "recipient": "esther",
-          "vendor": "VT",
-          "trackingNumber": "878693107504",
-          "vendorLabel": "Vitality FRI-268",
-          "recipientLabel": "Esther",
-          "routeText": "Chino, CA → El Cerrito, CA · Shipped 10/20/26 · Gmail",
-          "etaText": "Delivered Thu, Oct 22",
-          "items": [
-            {
-              "text": "Contents unknown — shipped from FRI-268, 2 pieces",
-              "tags": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Sunwin — Parcels on 10/21: SW0083 PP samples",
-      "packages": [
-        {
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "contentsLabel": "Contents:",
-          "note": "",
-          "isNew": false,
-          "recipient": "alexa",
-          "vendor": "SW",
-          "status": "delivered",
-          "trackingNumber": "878979423503",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Alexa",
-          "statusLabel": "Delivered",
-          "routeText": "Shanghai → Denver, CO · Shipped 10/21/26 · #sunwin-general",
-          "etaType": "delivered",
-          "etaText": "Delivered Thu, Oct 22",
-          "items": [
-            {
-              "text": "SW0083 FLOAT RIB U TANK & OVERSIZED TEE & SCOOP LONG SLEEVE, PP samples, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "contentsLabel": "Contents:",
-          "note": "",
-          "isNew": false,
-          "recipient": "esther",
-          "vendor": "SW",
-          "status": "delivered",
-          "trackingNumber": "878979526870",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Esther",
-          "statusLabel": "Delivered",
-          "routeText": "Shanghai → El Cerrito, CA · Shipped 10/21/26 · #sunwin-general",
-          "etaType": "delivered",
-          "etaText": "Delivered Thu, Oct 22",
-          "items": [
-            {
-              "text": "SW0083 FLOAT RIB U TANK & OVERSIZED TEE & SCOOP LONG SLEEVE, PP samples, size S",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "Triangle Cups for DAYDREAM TWISTED BRA",
-              "tags": []
-            }
-          ]
-        },
-        {
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "contentsLabel": "Contents:",
-          "note": "",
-          "isNew": false,
-          "recipient": "taylor",
-          "vendor": "SW",
-          "status": "delivered",
-          "trackingNumber": "878979603584",
-          "vendorLabel": "Sunwin",
-          "recipientLabel": "Taylor",
-          "statusLabel": "Delivered",
-          "routeText": "Shanghai → Castle Rock, CO · Shipped 10/21/26 · #sunwin-general",
-          "etaType": "delivered",
-          "etaText": "Delivered Thu, Oct 22",
-          "items": [
-            {
-              "text": "SW0083 FLOAT RIB U TANK & OVERSIZED TEE & SCOOP LONG SLEEVE, PP samples, size XS",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "PP"
-                }
-              ]
-            },
-            {
-              "text": "SW0079 BASIS SCOOP LONG SLEEVE, marketing samples, XS, two colors",
-              "tags": [
-                {
-                  "type": "sample",
-                  "label": "MKT"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "title": "DGJ — Samples, lab dips & strike offs (Oct 21)",
       "packages": [
         {
@@ -1194,67 +1158,6 @@
                 {
                   "type": "bulk",
                   "label": "BULK"
-                }
-              ]
-            }
-          ],
-          "note": "",
-          "isNew": false
-        }
-      ]
-    },
-    {
-      "title": "Jinlin Knitting — JLCH100-410 Stripes (Oct 20)",
-      "packages": [
-        {
-          "recipient": "alexa",
-          "vendor": "JL",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "878845766812",
-          "vendorLabel": "Jinlin Knitting",
-          "recipientLabel": "Alexa",
-          "statusLabel": "Delivered",
-          "routeText": "Cixi → Denver, CO · Shipped 10/21/26 · Gmail",
-          "etaType": "delivered",
-          "etaText": "Delivered Thu, Oct 22",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "JLCH100-410 STRIPES",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
-                }
-              ]
-            }
-          ],
-          "note": "",
-          "isNew": false
-        },
-        {
-          "recipient": "esther",
-          "vendor": "JL",
-          "status": "delivered",
-          "isDupCompanion": false,
-          "carrier": "FedEx",
-          "trackingNumber": "878845919709",
-          "vendorLabel": "Jinlin Knitting",
-          "recipientLabel": "Esther",
-          "statusLabel": "Delivered",
-          "routeText": "Cixi → El Cerrito, CA · Shipped 10/21/26 · Gmail",
-          "etaType": "delivered",
-          "etaText": "Delivered Thu, Oct 22",
-          "contentsLabel": "Contents:",
-          "items": [
-            {
-              "text": "JLCH100-410 STRIPES",
-              "tags": [
-                {
-                  "type": "submit",
-                  "label": "SUBMIT"
                 }
               ]
             }
@@ -2035,6 +1938,187 @@
     }
   ],
   "archivedGroups": [
+    {
+      "title": "Archived — rolled 10/30/26",
+      "packages": [
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "2 pieces, 63 lb, FedEx Ground. Contents not stated (ref TH0126100230704).",
+          "isNew": false,
+          "status": "delivered",
+          "statusLabel": "Delivered",
+          "etaType": "delivered",
+          "recipient": "esther",
+          "vendor": "VT",
+          "trackingNumber": "878693107504",
+          "vendorLabel": "Vitality FRI-268",
+          "recipientLabel": "Esther",
+          "routeText": "Chino, CA → El Cerrito, CA · Shipped 10/20/26 · Gmail",
+          "etaText": "Delivered Thu, Oct 22",
+          "items": [
+            {
+              "text": "Contents unknown — shipped from FRI-268, 2 pieces",
+              "tags": []
+            }
+          ]
+        },
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": false,
+          "recipient": "alexa",
+          "vendor": "SW",
+          "status": "delivered",
+          "trackingNumber": "878979423503",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Alexa",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → Denver, CO · Shipped 10/21/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu, Oct 22",
+          "items": [
+            {
+              "text": "SW0083 FLOAT RIB U TANK & OVERSIZED TEE & SCOOP LONG SLEEVE, PP samples, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": false,
+          "recipient": "esther",
+          "vendor": "SW",
+          "status": "delivered",
+          "trackingNumber": "878979526870",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Esther",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → El Cerrito, CA · Shipped 10/21/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu, Oct 22",
+          "items": [
+            {
+              "text": "SW0083 FLOAT RIB U TANK & OVERSIZED TEE & SCOOP LONG SLEEVE, PP samples, size S",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "Triangle Cups for DAYDREAM TWISTED BRA",
+              "tags": []
+            }
+          ]
+        },
+        {
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "contentsLabel": "Contents:",
+          "note": "",
+          "isNew": false,
+          "recipient": "taylor",
+          "vendor": "SW",
+          "status": "delivered",
+          "trackingNumber": "878979603584",
+          "vendorLabel": "Sunwin",
+          "recipientLabel": "Taylor",
+          "statusLabel": "Delivered",
+          "routeText": "Shanghai → Castle Rock, CO · Shipped 10/21/26 · #sunwin-general",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu, Oct 22",
+          "items": [
+            {
+              "text": "SW0083 FLOAT RIB U TANK & OVERSIZED TEE & SCOOP LONG SLEEVE, PP samples, size XS",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "PP"
+                }
+              ]
+            },
+            {
+              "text": "SW0079 BASIS SCOOP LONG SLEEVE, marketing samples, XS, two colors",
+              "tags": [
+                {
+                  "type": "sample",
+                  "label": "MKT"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recipient": "alexa",
+          "vendor": "JL",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "878845766812",
+          "vendorLabel": "Jinlin Knitting",
+          "recipientLabel": "Alexa",
+          "statusLabel": "Delivered",
+          "routeText": "Cixi → Denver, CO · Shipped 10/21/26 · Gmail",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu, Oct 22",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "JLCH100-410 STRIPES",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false
+        },
+        {
+          "recipient": "esther",
+          "vendor": "JL",
+          "status": "delivered",
+          "isDupCompanion": false,
+          "carrier": "FedEx",
+          "trackingNumber": "878845919709",
+          "vendorLabel": "Jinlin Knitting",
+          "recipientLabel": "Esther",
+          "statusLabel": "Delivered",
+          "routeText": "Cixi → El Cerrito, CA · Shipped 10/21/26 · Gmail",
+          "etaType": "delivered",
+          "etaText": "Delivered Thu, Oct 22",
+          "contentsLabel": "Contents:",
+          "items": [
+            {
+              "text": "JLCH100-410 STRIPES",
+              "tags": [
+                {
+                  "type": "submit",
+                  "label": "SUBMIT"
+                }
+              ]
+            }
+          ],
+          "note": "",
+          "isNew": false
+        }
+      ]
+    },
     {
       "title": "Archived — rolled 10/29/26",
       "packages": [
